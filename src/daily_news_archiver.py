@@ -13,7 +13,7 @@ CONFIG = {
     "REQUEST_TIMEOUT": 20,
     "REQUEST_DELAY": 1.5,
     "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-    "ARCHIVE_ROOT": os.path.abspath("archive")
+    "ARCHIVE_ROOT": "archive"
 }
 # ======================================================
 
