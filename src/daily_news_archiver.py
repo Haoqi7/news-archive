@@ -31,16 +31,29 @@ class NewsArchiver:
         self.session.verify = False
 
     def fetch_platform_news(self, platform: str) -> Optional[List[dict]]:
-        """获取平台数据"""
         url = f"{CONFIG['BASE_API_URL']}{platform}"
+        print(f"开始请求 {platform} 新闻数据，URL: {url}")
         try:
-            with warnings.catch_warnings():
-                warnings.simplefilter("ignore")
-                response = self.session.get(url, timeout=CONFIG["REQUEST_TIMEOUT"])
-                response.raise_for_status()
-                return response.json()[:CONFIG["MAX_ITEMS"]]
+            response = self.session.get(
+                url,
+                timeout=CONFIG["REQUEST_TIMEOUT"],
+                headers={'User-Agent': CONFIG['USER_AGENT']}  # 移除切片
+            )
+            print(f"{platform} 响应内容: {response.text[:200]}")  # 增强日志
+            response.raise_for_status()
+            data = response.json()
+        
+        # 处理可能的切片类型
+            if isinstance(data, slice):
+                news_data = list(data)
+            elif isinstance(data, dict):
+                news_data = data.get("data", [])
+            else:
+                news_data = data[:CONFIG["MAX_ITEMS"]] if isinstance(data, list) else []
+        
+            return news_data[:CONFIG["MAX_ITEMS"]]
         except Exception as e:
-            print(f"[{platform}] 请求失败: {str(e)[:100]}")
+            print(f"[{platform}] 请求失败: {str(e)[:120]}")
             return None
 
     def save_news(self, platform: str, news_list: List[dict]) -> bool:
