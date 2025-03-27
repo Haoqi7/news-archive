@@ -1,0 +1,12 @@
+# 基础忽略
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+venv/
+
+# 自动生成目录
+archive/
+
+# 日志文件
+*.log
