@@ -11,28 +11,30 @@ jobs:
     timeout-minutes: 15
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.10"
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
 
-    - name: Install dependencies
-      run: pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
-    - name: Run Archiver
-      run: |
-        python src/daily_news_archiver.py
-        echo "=== 今日归档统计 ==="
-        find archive/ -name "*.json" -exec sh -c 'echo "$(basename {}): $(jq length $(echo {} | sed "s/.json/.news/")) 条"' \;
+      - name: Run Archiver
+        run: |
+          python src/daily_news_archiver.py
+          echo "=== 生成文件列表 ==="
+          find archive/ -type f
+          echo "=== Git状态 ==="
+          git status
 
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
-        force: false
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
