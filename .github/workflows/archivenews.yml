@@ -1,4 +1,4 @@
-name: Daily New Archive
+name: Daily News Archive
 
 on:
   schedule:
@@ -28,10 +28,8 @@ jobs:
       - name: Run Archiver
         run: |
           python src/daily_news_archiver.py
-          echo "=== 生成文件列表 ==="
-          find archive/ -type f
-          echo "=== Git状态 ==="
-          git status
+          echo "=== 文件生成验证 ==="
+          ls -R archive/
 
       - name: Push changes
         uses: ad-m/github-push-action@master
