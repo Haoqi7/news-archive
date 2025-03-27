@@ -12,7 +12,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 # 配置项
 CONFIG = {
-    "BASE_API_URL": "https://api-hot.imsyy.top/",
+    "BASE_API_URL": "https://api-hot.imy.top/",
     "FALLBACK_API_URL": "https://dailyhotapi-theta.vercel.app/",
     "PLATFORMS": ["weibo", "zhihu", "bilibili", "baidu", "toutiao", "zhihu-daily", "douyin", "kuaishou", "sspai", "ithome", "jianshu", "thepaper", "toutiao", "52pojie", "sina", "hellogithub"],
     "MAX_ITEMS": 20,
