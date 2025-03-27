@@ -5,8 +5,7 @@ __pycache__/
 .env
 venv/
 
-# 自动生成目录
-archive/
+
 
 # 日志文件
 *.log
