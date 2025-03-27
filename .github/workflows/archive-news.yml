@@ -1,4 +1,4 @@
-name: Daily NewsArchive
+name: Daily NewArchive
 
 on:
   schedule:
@@ -25,8 +25,14 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Create archive directory
+        run: |
+          mkdir -p archive
+          chmod -R 777 archive
+
       - name: Run Archiver
         run: |
+          set -e  # 遇到错误立即退出
           python src/daily_news_archiver.py
           echo "=== 文件生成验证 ==="
           ls -R archive/
