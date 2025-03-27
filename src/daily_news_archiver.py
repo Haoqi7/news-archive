@@ -12,7 +12,9 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 # 配置项
 CONFIG = {
+
     "BASE_API_URL": "https://api-hot.imsyy.top/",
+    "FALLBACK_API_URL": "https://dailyhotapi-theta.vercel.app/",
     "PLATFORMS": ["weibo", "zhihu", "bilibili", "baidu", "toutiao", "zhihu-daily", "douyin", "kuaishou", "sspai", "ithome", "jianshu", "thepaper", "toutiao", "52pojie", "sina", "hellogithub"],
     "MAX_ITEMS": 20,
     "REQUEST_TIMEOUT": 20,
@@ -31,30 +33,35 @@ class NewsArchiver:
         self.session.verify = False
 
     def fetch_platform_news(self, platform: str) -> Optional[List[dict]]:
-        url = f"{CONFIG['BASE_API_URL']}{platform}"
-        print(f"开始请求 {platform} 新闻数据，URL: {url}")
-        try:
-            response = self.session.get(
-                url,
-                timeout=CONFIG["REQUEST_TIMEOUT"],
-                headers={'User-Agent': CONFIG['USER_AGENT']}  # 移除切片
-            )
-            print(f"{platform} 响应内容: {response.text[:200]}")  # 增强日志
-            response.raise_for_status()
-            data = response.json()
+        for url_base in [CONFIG["BASE_API_URL"], CONFIG["FALLBACK_API_URL"]]:
+            url = f"{url_base}{platform}"
+             print(f"开始请求 {platform} 新闻数据，URL: {url}")
+             try:
+                 response = self.session.get(
+                     url,
+                     timeout=CONFIG["REQUEST_TIMEOUT"],
+                     headers={'User-Agent': CONFIG['USER_AGENT']}  # 移除切片
+                 )
+                 print(f"{platform} 响应内容: {response.text[:200]}")  # 增强日志
+                 response.raise_for_status()
+                 data = response.json()
         
-        # 处理可能的切片类型
-            if isinstance(data, slice):
-                news_data = list(data)
-            elif isinstance(data, dict):
-                news_data = data.get("data", [])
-            else:
-                news_data = data[:CONFIG["MAX_ITEMS"]] if isinstance(data, list) else []
+                 # 处理可能的切片类型
+                 if isinstance(data, slice):
+                     news_data = list(data)
+                 elif isinstance(data, dict):
+                     news_data = data.get("data", [])
+                 else:
+                     news_data = data[:CONFIG["MAX_ITEMS"]] if isinstance(data, list) else []
         
-            return news_data[:CONFIG["MAX_ITEMS"]]
-        except Exception as e:
-            print(f"[{platform}] 请求失败: {str(e)[:120]}")
-            return None
+                 return news_data[:CONFIG["MAX_ITEMS"]]
+            except Exception as e:
+                if url_base == CONFIG["BASE_API_URL"]:
+                    print(f"[{platform}] 请求主地址 {url} 失败，尝试备用地址: {str(e)[:120]}")
+                else:
+                    print(f"[{platform}] 请求备用地址 {url} 失败: {str(e)[:120]}")
+        return None
+
 
     def save_news(self, platform: str, news_list: List[dict]) -> bool:
         """保存数据"""
