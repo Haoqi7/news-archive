@@ -1,4 +1,4 @@
-name: Daily NewArchive
+name: Daily News Archive
 
 on:
   schedule:
@@ -25,20 +25,16 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Create archive directory
-        run: |
-          mkdir -p archive
-          chmod -R 777 archive
-
       - name: Run Archiver
         run: |
-          set -e  # 遇到错误立即退出
           python src/daily_news_archiver.py
-          echo "=== 文件生成验证 ==="
-          ls -R archive/
+          echo "=== 文件验证 ==="
+          find archive/ -type f -ls
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+      - name: Direct Push
+        run: |
+          git config --global user.name "Haoqi7"
+          git config --global user.email "w00989988@gmail.com"
+          git add -A
+          git commit -m "Auto-archive: $(date +'%Y-%m-%d %H:%M')" || echo "无新内容"
+          git push origin main
