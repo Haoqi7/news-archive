@@ -13,7 +13,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 # 配置项
 CONFIG = {
     "BASE_API_URL": "https://api-hot.imsyy.top/",
-    "PLATFORMS": ["weibo", "zhihu", "bilibili", "baidu", "toutiao"],
+    "PLATFORMS": ["weibo", "zhihu", "bilibili", "baidu", "toutiao", "zhihu-daily", "douyin", "kuaishou", "sspai", "ithome", "jianshu", "thepaper", "toutiao", "52pojie", "sina", "hellogithub"],
     "MAX_ITEMS": 20,
     "REQUEST_TIMEOUT": 20,
     "REQUEST_DELAY": 1.5,
