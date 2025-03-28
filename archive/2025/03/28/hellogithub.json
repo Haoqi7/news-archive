@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-03-28T01:22:41.975736",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "087ea4b3b8684b4e8641ec1a0308084c",
+      "title": "蚂蚁开源的隐私计算框架",
+      "desc": "隐私计算即通过技术的手段实现数据在参与方可用不可见，让数据在安全和不泄露隐私的情况下流通、开放。该项目采用 Python 语言编写，支持包括 MPC、FL、TE",
+      "author": "secretflow",
+      "timestamp": 1679962182000,
+      "hot": 2621,
+      "url": "https://hellogithub.com/repository/087ea4b3b8684b4e8641ec1a0308084c",
+      "mobileUrl": "https://hellogithub.com/repository/087ea4b3b8684b4e8641ec1a0308084c"
+    },
+    {
+      "id": "d0a519cb3ac04d4087e33a9694b69104",
+      "title": "更懂你的手写笔记应用",
+      "desc": "这是一款开源的手写笔记应用，支持 Android、iOS、Windows、macOS、Linux 等平台。它提供夜间模式、多行公式高亮、密码保护等功能，适用于记",
+      "author": "saber-notes",
+      "timestamp": 1743119573000,
+      "hot": 34,
+      "url": "https://hellogithub.com/repository/d0a519cb3ac04d4087e33a9694b69104",
+      "mobileUrl": "https://hellogithub.com/repository/d0a519cb3ac04d4087e33a9694b69104"
+    },
+    {
+      "id": "a4c28d10b1a54c4991c5a54e1d5c8ccd",
+      "title": "快速找到占用大量缓存的罪魁祸首",
+      "desc": "这是一个快速查找系统中占用空间最大的缓存文件和进程的命令行工具，简单易用方便快捷，支持 JSON、表格和直方图的输出格式。",
+      "author": "silenceshell",
+      "timestamp": 1743119573000,
+      "hot": 25,
+      "url": "https://hellogithub.com/repository/a4c28d10b1a54c4991c5a54e1d5c8ccd",
+      "mobileUrl": "https://hellogithub.com/repository/a4c28d10b1a54c4991c5a54e1d5c8ccd"
+    },
+    {
+      "id": "d13663fb959345e7923ecaccc3387571",
+      "title": "开箱即用的网盘资源转存平台",
+      "desc": "该项目是基于 Vue 3 和 Express 构建的网盘资源搜索与转存平台，支持多资源搜索、豆瓣热门榜单、网盘资源一键转存、多用户等功能，完美适配移动端和 PC",
+      "author": "jiangrui1994",
+      "timestamp": 1743119573000,
+      "hot": 23,
+      "url": "https://hellogithub.com/repository/d13663fb959345e7923ecaccc3387571",
+      "mobileUrl": "https://hellogithub.com/repository/d13663fb959345e7923ecaccc3387571"
+    },
+    {
+      "id": "08148ab7f1c94c90b42db6f926dfde1e",
+      "title": "极简的 Markdown 协作平台",
+      "desc": "这是一款基于 Markdown 的实时协作平台，界面清爽、功能实用，支持多人同时编辑同一份文档，实时同步内容，非常适合小型团队共享和管理文档。",
+      "author": "hedgedoc",
+      "timestamp": 1743119573000,
+      "hot": 21,
+      "url": "https://hellogithub.com/repository/08148ab7f1c94c90b42db6f926dfde1e",
+      "mobileUrl": "https://hellogithub.com/repository/08148ab7f1c94c90b42db6f926dfde1e"
+    },
+    {
+      "id": "38762c4f912a42b98af35863a25c5c3a",
+      "title": "出海网站经验总结",
+      "desc": "该项目是作者在开发海外网站过程中积累的经验，涵盖海外公司注册、银行开户、支付系统对接及网站开发等方面。",
+      "author": "princehuang",
+      "timestamp": 1743119573000,
+      "hot": 16,
+      "url": "https://hellogithub.com/repository/38762c4f912a42b98af35863a25c5c3a",
+      "mobileUrl": "https://hellogithub.com/repository/38762c4f912a42b98af35863a25c5c3a"
+    },
+    {
+      "id": "ff5c5d6d26924e94a9c10fc532ef801f",
+      "title": "交互式 ASCII 图表生成器",
+      "desc": "这是一个交互式的 ASCII 风格图表生成器，可以将类似 Markdown 的表达式转换为 ASCII 艺术形式。它支持生成数学表达式、序列图、树形图、表格、流",
+      "author": "ArthurSonzogni",
+      "timestamp": 1743119573000,
+      "hot": 16,
+      "url": "https://hellogithub.com/repository/ff5c5d6d26924e94a9c10fc532ef801f",
+      "mobileUrl": "https://hellogithub.com/repository/ff5c5d6d26924e94a9c10fc532ef801f"
+    },
+    {
+      "id": "6d6371771ac2452f98370cf45890fb57",
+      "title": "让人惊艳的 React 动画库",
+      "desc": "该项是集动画与交互于一体的 React 组件库，包含文本动画和背景效果等多种类型。每个组件均提供了 JavaScript 和 TypeScript 版本，并全面",
+      "author": "DavidHDev",
+      "timestamp": 1743119573000,
+      "hot": 16,
+      "url": "https://hellogithub.com/repository/6d6371771ac2452f98370cf45890fb57",
+      "mobileUrl": "https://hellogithub.com/repository/6d6371771ac2452f98370cf45890fb57"
+    },
+    {
+      "id": "5c815628bd064456b6cc60708e427932",
+      "title": "一键检测网络质量的开源脚本",
+      "desc": "这是一个方便的网络质量测试脚本，能够快速评估网络质量和性能，支持中英双语、三网 TCP 大包延迟、回程路由、网速测试、国际互联等功能。",
+      "author": "xykt",
+      "timestamp": 1743119573000,
+      "hot": 14,
+      "url": "https://hellogithub.com/repository/5c815628bd064456b6cc60708e427932",
+      "mobileUrl": "https://hellogithub.com/repository/5c815628bd064456b6cc60708e427932"
+    },
+    {
+      "id": "8ffffa0c27044e42bae1cb482fd1c09e",
+      "title": "好看的北极蓝配色方案",
+      "desc": "这是一个开源的北极蓝主题配色方案，包含 16 种柔和的色调，适用于代码编辑器、终端和网页设计等应用场景。无法亲临北极，也能用这抹宁静的蓝，给视觉一次沉浸式旅行。",
+      "author": "nordtheme",
+      "timestamp": 1743119573000,
+      "hot": 13,
+      "url": "https://hellogithub.com/repository/8ffffa0c27044e42bae1cb482fd1c09e",
+      "mobileUrl": "https://hellogithub.com/repository/8ffffa0c27044e42bae1cb482fd1c09e"
+    },
+    {
+      "id": "085e194666af42a49556294a72417ca9",
+      "title": "提升 JupyterLab 视觉体验的主题",
+      "desc": "该项目为 JupyterLab 提供了一个舒适、统一且富有色彩的界面，易于安装和切换，内置多种配色方案，支持 JupyterLab v3 和 v4 版本。",
+      "author": "catppuccin",
+      "timestamp": 1743119573000,
+      "hot": 12,
+      "url": "https://hellogithub.com/repository/085e194666af42a49556294a72417ca9",
+      "mobileUrl": "https://hellogithub.com/repository/085e194666af42a49556294a72417ca9"
+    },
+    {
+      "id": "7beac51e96474d75981ac65055446669",
+      "title": "开源的 AI 会议助手",
+      "desc": "这是一款 AI 驱动的实时会议记录和摘要生成工具，可离线使用。它完全免费且开源，支持自托管、语义搜索、内容导出等功能，适用于 Windows 和 macOS 平",
+      "author": "Zackriya-Solutions",
+      "timestamp": 1743119573000,
+      "hot": 11,
+      "url": "https://hellogithub.com/repository/7beac51e96474d75981ac65055446669",
+      "mobileUrl": "https://hellogithub.com/repository/7beac51e96474d75981ac65055446669"
+    },
+    {
+      "id": "1b8fd072561e4674ba35a59ca83da1e5",
+      "title": "Rust 数据结构与算法的开源书籍",
+      "desc": "这是一本讲解 Rust 数据结构和算法的开源书籍，支持简/繁体中文和英文三种语言版本。全书共 10 章，内容涵盖 Rust 基础、计算机科学概念、算法分析、基本",
+      "author": "QMHTMY",
+      "timestamp": 1743119573000,
+      "hot": 9,
+      "url": "https://hellogithub.com/repository/1b8fd072561e4674ba35a59ca83da1e5",
+      "mobileUrl": "https://hellogithub.com/repository/1b8fd072561e4674ba35a59ca83da1e5"
+    },
+    {
+      "id": "a22507f7c2a44886958d6146df08cd3f",
+      "title": "一站式应用内购买解决方案",
+      "desc": "该项目是用于简化应用内购买和订阅实现的 Swift 库，支持 iOS、watchOS、tvOS、macOS 和 visionOS 平台。",
+      "author": "RevenueCat",
+      "timestamp": 1743119573000,
+      "hot": 9,
+      "url": "https://hellogithub.com/repository/a22507f7c2a44886958d6146df08cd3f",
+      "mobileUrl": "https://hellogithub.com/repository/a22507f7c2a44886958d6146df08cd3f"
+    },
+    {
+      "id": "e62bdf002000457dae774ae421e17495",
+      "title": "轻松打造原生桌面应用的 Python 框架",
+      "desc": "这是一个简单易用的 Python GUI 框架，专为构建跨平台原生桌面应用而设计。它结合了 Python 的简洁易懂和操作系统的原生体验，支持丰富的组件库和展示",
+      "author": "beeware",
+      "timestamp": 1743119573000,
+      "hot": 9,
+      "url": "https://hellogithub.com/repository/e62bdf002000457dae774ae421e17495",
+      "mobileUrl": "https://hellogithub.com/repository/e62bdf002000457dae774ae421e17495"
+    },
+    {
+      "id": "5ea5163eb47f456cb9536473f6d79bde",
+      "title": "开源的歌声合成工具",
+      "desc": "这是一款用于创作和编辑歌声合成作品的工具，兼容 UTAU 的音色库和重采样器。它拥有简洁直观的界面，支持鼠标与键盘协同操作，并提供 MIDI 编辑、歌词调整、音",
+      "author": "stakira",
+      "timestamp": 1743119573000,
+      "hot": 8,
+      "url": "https://hellogithub.com/repository/5ea5163eb47f456cb9536473f6d79bde",
+      "mobileUrl": "https://hellogithub.com/repository/5ea5163eb47f456cb9536473f6d79bde"
+    },
+    {
+      "id": "7ce5ba39f3b64563920915ec37b6109d",
+      "title": "让基准测试变得轻松又高效",
+      "desc": "这是一款即插即用的基准测试（benchmark）工具，帮助开发者快速、精准地评估代码性能。它提供高精度的测量结果和直观的可视化报告，支持 JavaScript ",
+      "author": "evanwashere",
+      "timestamp": 1743119573000,
+      "hot": 7,
+      "url": "https://hellogithub.com/repository/7ce5ba39f3b64563920915ec37b6109d",
+      "mobileUrl": "https://hellogithub.com/repository/7ce5ba39f3b64563920915ec37b6109d"
+    },
+    {
+      "id": "2cb97e38de624f56bd5484df3c9bbd89",
+      "title": "带你重温《半条命》的游戏引擎",
+      "desc": "这是一款开源的游戏引擎，主要用于运行和修改 GoldSrc 引擎的游戏。GoldSrc 是 Valve 公司用于开发《半条命》等经典游戏的引擎。Xash3D F",
+      "author": "FWGS",
+      "timestamp": 1743119573000,
+      "hot": 7,
+      "url": "https://hellogithub.com/repository/2cb97e38de624f56bd5484df3c9bbd89",
+      "mobileUrl": "https://hellogithub.com/repository/2cb97e38de624f56bd5484df3c9bbd89"
+    },
+    {
+      "id": "4c61a9a3297f40cf904b517c7fa8d1f0",
+      "title": "Go 语言的 GraphQL 服务器生成库",
+      "desc": "该项目是用于快速构建 GraphQL 服务的 Go 语言库，可解析 GraphQL 模式文件（.graphql）并生成对应的 Go 代码。它强调类型安全，并支持",
+      "author": "99designs",
+      "timestamp": 1743119573000,
+      "hot": 6,
+      "url": "https://hellogithub.com/repository/4c61a9a3297f40cf904b517c7fa8d1f0",
+      "mobileUrl": "https://hellogithub.com/repository/4c61a9a3297f40cf904b517c7fa8d1f0"
+    },
+    {
+      "id": "53239f9b7b664f1e982a5e251ee33bb6",
+      "title": "机器学习代码跨框架转换利器",
+      "desc": "该项目可以将机器学习模型、工具和库从一个框架转换到另一个框架。开发者通过简单的函数即可完成代码的转换，支持 TensorFlow、PyTorch、JAX 等主流",
+      "author": "ivy-llc",
+      "timestamp": 1743119573000,
+      "hot": 6,
+      "url": "https://hellogithub.com/repository/53239f9b7b664f1e982a5e251ee33bb6",
+      "mobileUrl": "https://hellogithub.com/repository/53239f9b7b664f1e982a5e251ee33bb6"
+    }
+  ]
+}

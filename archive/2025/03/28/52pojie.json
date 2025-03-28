@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "platform": "52pojie",
+    "date": "2025-03-28T01:22:38.578510",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 0,
+      "title": "IDA 9.1 & IDA 8.5 算法分析",
+      "desc": "看到分享了 8.5 安装包，之前的 kg 失效了，才发现替换成了 9.x 的注册模式。\r\n\r\n做了简单分析，整理如下：\r\n\r\n调试版本为 9.0（240905），新注册机制都一样，ida.dll 中导出表搜索 license，“get_license_manager” 看 ...",
+      "author": "Nisy",
+      "timestamp": 1742576915000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017438",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017438"
+    },
+    {
+      "id": 1,
+      "title": "某某猫投诉signature逆向-----------小白讲解08",
+      "desc": "本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关.本文章未经许可禁止转载， ...",
+      "author": "Aircraftcomman5",
+      "timestamp": 1742566569000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017218",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017218"
+    },
+    {
+      "id": 2,
+      "title": "記一次對某韓遊的反反調試",
+      "desc": "[md]&gt; 樣本：Y29tLndlbWFkZS5uaWdodGNyb3dz\r\n&gt; \r\n\r\n## 前言\r\n\r\n聊點題外話，最近在找工作，一家公司說要搞NP，我果斷拒絕，還有一家公司給了一道面試題，內容是分析一款外掛( 針對他們家遊戲的 )和實現一個有效的外掛功能 ...",
+      "author": "ngiokweng",
+      "timestamp": 1742305137000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2016248",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2016248"
+    },
+    {
+      "id": 3,
+      "title": "【JS逆向】某加速乐分析解混淆",
+      "desc": "[md]网址：aHR0cHM6Ly95cC4xMjBhc2suY29tL3NlYXJjaC81LTI4My5odG1s\r\n视频: 视频教程\r\n\r\n# 1. 分析请求\r\n\r\n打开F12抓包观察\r\n\r\n\r\n\r\n\r\n加速乐经典两次521，由于页面已经加载成功，两次521的请求响应看不到，清除cookie再下 ...",
+      "author": "ShriyGo",
+      "timestamp": 1742303826000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2016235",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2016235"
+    },
+    {
+      "id": 4,
+      "title": "【web逆向】优某愿 字体反混淆",
+      "desc": "[md]\r\n\r\n地址：`aHR0cHM6Ly93d3cueW91enkuY24vY29sbGVnZXMvc2NvcmVsaW5lP2NvbGxlZ2VDb2RlPTEwMDAzJm5hbWU9JUU2JUI4JTg1JUU1JThEJThFJUU1JUE0JUE3JUU1JUFEJUE2`&amp;#8203;\r\n\r\n# 接口分析\r\n\r\n接口：`eW91enkuZG1zLmRhdGFsaWIuYXBpLmVucm9sbGRhdGEuZW50ZXIuY29sbGVnZS5lbmNy ...",
+      "author": "就往丶",
+      "timestamp": 1742109020000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2015241",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2015241"
+    },
+    {
+      "id": 5,
+      "title": "有道词典笔x7pro获取adb权限",
+      "desc": "",
+      "author": "AsBrings",
+      "timestamp": 1742060202000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2015103",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2015103"
+    },
+    {
+      "id": 6,
+      "title": "【JS逆向】某审批局加解密逆向分析",
+      "desc": "[md]**文章主要分享的内容是本人在逆向过程中遇到标准加解密算法时使用各种库来模拟还原的一些经验，因本人并不擅长密码学，请路过的各位大佬多多指教。**\r\n\r\n# 逆向目标\r\n\r\n- 网址：`aHR0cHM6Ly9jcmVkaXQuaGQuZ292LmNuL ...",
+      "author": "littlewhite11",
+      "timestamp": 1742035460000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014994",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014994"
+    },
+    {
+      "id": 7,
+      "title": "分析某库登录逻辑以及协议复现",
+      "desc": "工具准备：Pixel XL       // 该软件不支持模拟器",
+      "author": "yyyyyyzh",
+      "timestamp": 1742028993000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014961",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014961"
+    },
+    {
+      "id": 8,
+      "title": "某音滑块captchaBody分析",
+      "desc": "[md]\r\n\r\n## 代码插装\r\n\r\n在堆栈中查看，其中有一处很明显的captcha.js,应该是captchabody生成的关键js，我们进入查看，整体预览js代码，发现webpack+switch控制流+vmp。接着查桩，先在switch处插桩，看看大概都做了什么。\r\n\r\n### switch插装点\r\n\r\n!()\r\n\r\n### apply插装 ...",
+      "author": "li083m",
+      "timestamp": 1742009005000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014831",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014831"
+    },
+    {
+      "id": 9,
+      "title": "【入门】webpack 补环境",
+      "desc": "[md]\r\n\r\n网址： `aHR0cHM6Ly95LnFxLmNvbS9uL3J5cXEvcGxheWVy`&amp;#8203;\r\n\r\n---\r\n\r\n# 1.接口分析\r\n\r\n接口：`cgi-bin/musics.fcg`&amp;#8203;  \r\n\r\n参数：sign是加密的\r\n\r\n!()\r\n\r\n# 2.代码分析\r\n\r\n进入调用栈\r\n\r\n!()\r\n\r\n先在send位置打上断点，页面刷新\r\n\r\n!()\r\n\r\n往上一个栈找\r ...",
+      "author": "就往丶",
+      "timestamp": 1741971746000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014743",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014743"
+    },
+    {
+      "id": 10,
+      "title": "lldb 调试某数据库客户端 + license 逆向 + python3 keygen(win/mac 通杀)",
+      "desc": "[md]# lldb 调试某数据库客户端 + license 逆向 + python3 keygen(win/mac 通杀)\r\n\r\n\r\n# 1. 关于\r\n\r\n\r\n之前做过该软件的分析, 不过似乎作者与我心有灵犀, 之前的 patch 已经过期了;  \r\n今天试一下新的方案, 逆向 license ...",
+      "author": "Vvvvvoid",
+      "timestamp": 1741933294000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014469",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014469"
+    },
+    {
+      "id": 11,
+      "title": "药某局 webpack js逆向扣代码",
+      "desc": "[md]# 什么是webpack\r\nWebpack 是一个现代 JavaScript 应用程序的模块打包器。它的主要作用是将你项目中的各种资源（JavaScript、CSS、图片等）打包成少数几个文件（通常是一个或几个 JavaScript 文件），使得前端页面加载更快，并且优化开发过程。\r\n\r\n\r\n\r\n在webpack里 ...",
+      "author": "就往丶",
+      "timestamp": 1741364890000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2012536",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2012536"
+    },
+    {
+      "id": 12,
+      "title": "某某矿集团param逆向-------小白讲解07",
+      "desc": "",
+      "author": "Aircraftcomman5",
+      "timestamp": 1740982151000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2010991",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2010991"
+    },
+    {
+      "id": 13,
+      "title": "某手游il2cpp逆向分析----libtprt保护",
+      "desc": "最近在玩个游戏，发现是由il2cpp进行打包的，就打算用il2cppdumper来dump看看游戏内容\r\n\r\n开干\r\n说干就干，提取游戏安装包，在lib/arm64-v8a路径提取出libil2cpp.so，在assets/bin/Data/Managed/Metadata路径提取出global ...",
+      "author": "无问且问",
+      "timestamp": 1740907940000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2010789",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2010789"
+    },
+    {
+      "id": 14,
+      "title": "Android  SO文件加载过程探究",
+      "desc": "[md]# Android  SO文件加载过程探究\r\n\r\n在安卓中的app进行so加载过程中，分析一下so的动态静态的so加载过程\r\n\r\n在 Android 中，`.so` 文件是 **共享库**文件，`.so` 文件可以分为 **动态链接库**（动态 `.so` 文件）和 * ...",
+      "author": "chenchenchen777",
+      "timestamp": 1740732722000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2010329",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2010329"
+    },
+    {
+      "id": 15,
+      "title": "Modbus模拟工具破解",
+      "desc": "[md]# 简介\r\nModbus是一种通信协议，常用于工业自动化领域，研究工控协议的人应该对此很熟悉。Modbus Poll和Modbus slave分别是Modbus主站模拟器和从站模拟器，提供30天免费试用，然后需注册使用，本教程对其进行注册码 ...",
+      "author": "iwolf",
+      "timestamp": 1740559694000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2009694",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2009694"
+    },
+    {
+      "id": 16,
+      "title": "2024 CISCN x 长城杯初赛Reverse赛题vt Writeup——攻城攻心的混淆大师",
+      "desc": "前言\r\n在初赛结束近两月之际，笔者在复盘过程中意外发现了这道当时无人能解的难题。经过两日深入的探索与钻研，笔者终于成功地对这道赛题进行了全面的解构。在品味破译flag所带来的喜悦之余，笔者亦深感此题蕴含了诸多精 ...",
+      "author": "VirusCollector",
+      "timestamp": 1740121070000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2008309",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2008309"
+    },
+    {
+      "id": 17,
+      "title": "2024 CISCN x 长城杯 初赛逆向0解题-VT 解题全流程",
+      "desc": "[md]# CISCN2024-Reverse-VT\r\n## 前言\r\n这题不想吐槽什么，利用开源的混淆项目将代码混淆就是一道题。由于逆向功底不够且花指令样式随机多变，只能手动去除花指令，这部分就花了一个小时左右。当时比赛时看到一坨混淆直接 ...",
+      "author": "Tkazer",
+      "timestamp": 1740106503000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2008228",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2008228"
+    },
+    {
+      "id": 18,
+      "title": "EazFuscator.NET IL 虚拟化还原",
+      "desc": "",
+      "author": "BeneficialWeb",
+      "timestamp": 1740058583000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2008109",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2008109"
+    },
+    {
+      "id": 19,
+      "title": "记录一次加固逆向分析以及加固步骤详解",
+      "desc": "[md]## 前言\r\n最近想要重点学习一下类抽取这种类型的加固是如何实现的，故在网上搜寻。最终看到了luoyesiqiu大佬的dpt-shell这个项目。对这个项目研究后发现这一款开源加固已经可以说很成熟了。故先对其逆向分析后再从代码层面研究如何实现的。\r\n项目地址：https://gith ...",
+      "author": "Shangwendada",
+      "timestamp": 1740045950000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2008061",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2008061"
+    }
+  ]
+}

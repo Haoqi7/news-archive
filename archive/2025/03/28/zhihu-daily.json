@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-03-28T01:22:23.663317",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9779997,
+      "title": "地球的内部是什么样的？是泥土吗？",
+      "cover": "https://pic1.zhimg.com/v2-a84057f556f5ae3290592691205fd2c1.jpg?source=8673f162",
+      "author": "中科院物理所 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9779997",
+      "mobileUrl": "https://daily.zhihu.com/story/9779997"
+    },
+    {
+      "id": 9780041,
+      "title": "为什么会发生物种大灭绝？",
+      "cover": "https://pica.zhimg.com/v2-3d918e7a657027c346e304b812868868.jpg?source=8673f162",
+      "author": "江泓 · 7 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780041",
+      "mobileUrl": "https://daily.zhihu.com/story/9780041"
+    },
+    {
+      "id": 9780045,
+      "title": "我国为什么没有地中海气候、温带海洋性气候等气候类型？",
+      "cover": "https://picx.zhimg.com/v2-d22b2c5a02c57553fd1315585ec14fb1.jpg?source=8673f162",
+      "author": "床单军团菲利克斯 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780045",
+      "mobileUrl": "https://daily.zhihu.com/story/9780045"
+    },
+    {
+      "id": 9779971,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-cc41832e560a928db786ae3cb2531507.jpg?source=8673f162",
+      "author": "VOL.3555",
+      "url": "https://daily.zhihu.com/story/9779971",
+      "mobileUrl": "https://daily.zhihu.com/story/9779971"
+    }
+  ]
+}
