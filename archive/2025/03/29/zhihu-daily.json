@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-03-29T01:21:28.137338",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780004,
+      "title": "晚上盖着被子睡觉，为什么被窝里的温度不会越来越热，而是最终维持适宜的温度？",
+      "cover": "https://picx.zhimg.com/v2-9ad7f59f7de1fe5149968f9900a45cf3.jpg?source=8673f162",
+      "author": "中科院物理所 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780004",
+      "mobileUrl": "https://daily.zhihu.com/story/9780004"
+    },
+    {
+      "id": 9780050,
+      "title": "河流的源头是什么样子的呢？",
+      "cover": "https://picx.zhimg.com/v2-dfbe2ad8a37694efafa4b2983523eeaf.jpg?source=8673f162",
+      "author": "阿来 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780050",
+      "mobileUrl": "https://daily.zhihu.com/story/9780050"
+    },
+    {
+      "id": 9780051,
+      "title": "有人说蕨菜吃多了会增加癌症风险，是真的吗？那么吃蕨菜应该注意些什么呢？",
+      "cover": "https://picx.zhimg.com/v2-387f8cade08f9d713f04a760c9222ee6.jpg?source=8673f162",
+      "author": "艾比斯 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780051",
+      "mobileUrl": "https://daily.zhihu.com/story/9780051"
+    },
+    {
+      "id": 9780060,
+      "title": "我们在录制一段声音时通常会采用 44.1KHZ，为什么呢？",
+      "cover": "https://pic1.zhimg.com/v2-a884563ece032ae028f4d5e2bbbc3166.jpg?source=8673f162",
+      "author": "delight · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780060",
+      "mobileUrl": "https://daily.zhihu.com/story/9780060"
+    }
+  ]
+}
