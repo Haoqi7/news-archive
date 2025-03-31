@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-03-31T01:26:35.461582",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780018,
+      "title": "为什么澳大利亚四面环海，还是缺水呢？",
+      "cover": "https://pic1.zhimg.com/v2-d8897f7f4a7137f53818ddaf8b771732.jpg?source=8673f162",
+      "author": "黄风妖 · 7 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780018",
+      "mobileUrl": "https://daily.zhihu.com/story/9780018"
+    },
+    {
+      "id": 9780083,
+      "title": "古代没有修正带和涂改液，那他们写错字怎么办？",
+      "cover": "https://picx.zhimg.com/v2-2958edb075dbb7c52921fe1d46d3cef7.jpg?source=8673f162",
+      "author": "晴耕雨读的浣熊君 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780083",
+      "mobileUrl": "https://daily.zhihu.com/story/9780083"
+    },
+    {
+      "id": 9780088,
+      "title": "蛙泳是四种泳姿里最慢的泳姿，那它存在的意义在哪里？",
+      "cover": "https://picx.zhimg.com/v2-a1e73270c7285039819ffb128b1eb084.jpg?source=8673f162",
+      "author": "像素模糊 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780088",
+      "mobileUrl": "https://daily.zhihu.com/story/9780088"
+    },
+    {
+      "id": 9779977,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-cc41832e560a928db786ae3cb2531507.jpg?source=8673f162",
+      "author": "VOL.888",
+      "url": "https://daily.zhihu.com/story/9779977",
+      "mobileUrl": "https://daily.zhihu.com/story/9779977"
+    }
+  ]
+}
