@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-04-01T01:40:45.608866",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "00a7a32b7bc647e1a62747530bc16115",
+      "title": "简洁小巧的 Windows 计时器",
+      "desc": "这是一款轻巧易用的 Windows 计时器，集显示时间、倒计时和番茄时钟功能于一体。它采用 C 语言编写，体积小、占用少，支持透明界面。用户可以调整界面大小和位",
+      "author": "vladelaina",
+      "timestamp": 1741142930000,
+      "hot": 3237,
+      "url": "https://hellogithub.com/repository/00a7a32b7bc647e1a62747530bc16115",
+      "mobileUrl": "https://hellogithub.com/repository/00a7a32b7bc647e1a62747530bc16115"
+    },
+    {
+      "id": "087ea4b3b8684b4e8641ec1a0308084c",
+      "title": "蚂蚁开源的隐私计算框架",
+      "desc": "隐私计算即通过技术的手段实现数据在参与方可用不可见，让数据在安全和不泄露隐私的情况下流通、开放。该项目采用 Python 语言编写，支持包括 MPC、FL、TE",
+      "author": "secretflow",
+      "timestamp": 1679962182000,
+      "hot": 2856,
+      "url": "https://hellogithub.com/repository/087ea4b3b8684b4e8641ec1a0308084c",
+      "mobileUrl": "https://hellogithub.com/repository/087ea4b3b8684b4e8641ec1a0308084c"
+    },
+    {
+      "id": "d13663fb959345e7923ecaccc3387571",
+      "title": "开箱即用的网盘资源转存平台",
+      "desc": "该项目是基于 Vue 3 和 Express 构建的网盘资源搜索与转存平台，支持多资源搜索、豆瓣热门榜单、网盘资源一键转存、多用户等功能，完美适配移动端和 PC",
+      "author": "jiangrui1994",
+      "timestamp": 1743119573000,
+      "hot": 647,
+      "url": "https://hellogithub.com/repository/d13663fb959345e7923ecaccc3387571",
+      "mobileUrl": "https://hellogithub.com/repository/d13663fb959345e7923ecaccc3387571"
+    },
+    {
+      "id": "1ccc919bb4c4456386cf40cb88c534e5",
+      "title": "一键备份微信聊天记录的工具",
+      "desc": "该项目是用 Go 语言开发的工具，可一键导出 PC 端微信聊天记录的工具，帮助用户轻松备份、导出、查找重要对话，适用于 Windows 平台。",
+      "author": "git-jiadong",
+      "timestamp": 1743119573000,
+      "hot": 259,
+      "url": "https://hellogithub.com/repository/1ccc919bb4c4456386cf40cb88c534e5",
+      "mobileUrl": "https://hellogithub.com/repository/1ccc919bb4c4456386cf40cb88c534e5"
+    },
+    {
+      "id": "d0a519cb3ac04d4087e33a9694b69104",
+      "title": "更懂你的手写笔记应用",
+      "desc": "这是一款开源的手写笔记应用，支持 Android、iOS、Windows、macOS、Linux 等平台。它提供夜间模式、多行公式高亮、密码保护等功能，适用于记",
+      "author": "saber-notes",
+      "timestamp": 1743119573000,
+      "hot": 507,
+      "url": "https://hellogithub.com/repository/d0a519cb3ac04d4087e33a9694b69104",
+      "mobileUrl": "https://hellogithub.com/repository/d0a519cb3ac04d4087e33a9694b69104"
+    },
+    {
+      "id": "4c349a6ccf7a45cfa143616f20750d8a",
+      "title": "《软件工程中的问题解决艺术：如何让 MySQL 更好》",
+      "desc": "这是一本通过实际案例分析和解决 MySQL 问题的书籍，结合深入讨论，帮助读者更好地理解逻辑推理、数据结构、算法等计算机基础知识。",
+      "author": "enhancedformysql",
+      "timestamp": 1743119573000,
+      "hot": 96,
+      "url": "https://hellogithub.com/repository/4c349a6ccf7a45cfa143616f20750d8a",
+      "mobileUrl": "https://hellogithub.com/repository/4c349a6ccf7a45cfa143616f20750d8a"
+    },
+    {
+      "id": "5c815628bd064456b6cc60708e427932",
+      "title": "一键检测网络质量的开源脚本",
+      "desc": "这是一个方便的网络质量测试脚本，能够快速评估网络质量和性能，支持中英双语、三网 TCP 大包延迟、回程路由、网速测试、国际互联等功能。",
+      "author": "xykt",
+      "timestamp": 1743119573000,
+      "hot": 382,
+      "url": "https://hellogithub.com/repository/5c815628bd064456b6cc60708e427932",
+      "mobileUrl": "https://hellogithub.com/repository/5c815628bd064456b6cc60708e427932"
+    },
+    {
+      "id": "38762c4f912a42b98af35863a25c5c3a",
+      "title": "出海网站经验总结",
+      "desc": "该项目是作者在开发海外网站过程中积累的经验，涵盖海外公司注册、银行开户、支付系统对接及网站开发等方面。",
+      "author": "princehuang",
+      "timestamp": 1743119573000,
+      "hot": 292,
+      "url": "https://hellogithub.com/repository/38762c4f912a42b98af35863a25c5c3a",
+      "mobileUrl": "https://hellogithub.com/repository/38762c4f912a42b98af35863a25c5c3a"
+    },
+    {
+      "id": "a4c28d10b1a54c4991c5a54e1d5c8ccd",
+      "title": "快速找到占用大量缓存的罪魁祸首",
+      "desc": "这是一个快速查找系统中占用空间最大的缓存文件和进程的命令行工具，简单易用方便快捷，支持 JSON、表格和直方图的输出格式。",
+      "author": "silenceshell",
+      "timestamp": 1743119573000,
+      "hot": 321,
+      "url": "https://hellogithub.com/repository/a4c28d10b1a54c4991c5a54e1d5c8ccd",
+      "mobileUrl": "https://hellogithub.com/repository/a4c28d10b1a54c4991c5a54e1d5c8ccd"
+    },
+    {
+      "id": "5ea5163eb47f456cb9536473f6d79bde",
+      "title": "开源的歌声合成工具",
+      "desc": "这是一款用于创作和编辑歌声合成作品的工具，兼容 UTAU 的音色库和重采样器。它拥有简洁直观的界面，支持鼠标与键盘协同操作，并提供 MIDI 编辑、歌词调整、音",
+      "author": "stakira",
+      "timestamp": 1743119573000,
+      "hot": 188,
+      "url": "https://hellogithub.com/repository/5ea5163eb47f456cb9536473f6d79bde",
+      "mobileUrl": "https://hellogithub.com/repository/5ea5163eb47f456cb9536473f6d79bde"
+    },
+    {
+      "id": "cd0737b549ce47d2b189f2fe51350202",
+      "title": "让 NGINX 配置更安全",
+      "desc": "这是一个活跃的 NGINX 配置静态分析工具，专注于发现配置中的安全问题。它能够检测多种常见的 NGINX 配置漏洞，如服务器端请求伪造、主机伪造、路径遍历等，",
+      "author": "dvershinin",
+      "timestamp": 1743119573000,
+      "hot": 140,
+      "url": "https://hellogithub.com/repository/cd0737b549ce47d2b189f2fe51350202",
+      "mobileUrl": "https://hellogithub.com/repository/cd0737b549ce47d2b189f2fe51350202"
+    },
+    {
+      "id": "7beac51e96474d75981ac65055446669",
+      "title": "开源的 AI 会议助手",
+      "desc": "这是一款 AI 驱动的实时会议记录和摘要生成工具，可离线使用。它完全免费且开源，支持自托管、语义搜索、内容导出等功能，适用于 Windows 和 macOS 平",
+      "author": "Zackriya-Solutions",
+      "timestamp": 1743119573000,
+      "hot": 304,
+      "url": "https://hellogithub.com/repository/7beac51e96474d75981ac65055446669",
+      "mobileUrl": "https://hellogithub.com/repository/7beac51e96474d75981ac65055446669"
+    },
+    {
+      "id": "e8b912b03856494985aa0129117c8283",
+      "title": "微软开源的 AI Agent 初学者教程",
+      "desc": "该项目是微软专为初学者打造的 AI 智能代理（AI Agents）教程，内容分为 10 个课程，包含详细的教程、视频和示例代码。",
+      "author": "microsoft",
+      "timestamp": 1743119573000,
+      "hot": 225,
+      "url": "https://hellogithub.com/repository/e8b912b03856494985aa0129117c8283",
+      "mobileUrl": "https://hellogithub.com/repository/e8b912b03856494985aa0129117c8283"
+    },
+    {
+      "id": "b6b081e42e704a26993e42d01b6001fa",
+      "title": "将安卓手机变成行车记录仪",
+      "desc": "这是一款开源的手机行车记录仪应用，可将手机变成行车记录仪。它会在后台持续录制音视频，并可在需要时保存最近 30 分钟的内容。所有操作均在本地处理，无需联网保护用",
+      "author": "Myzel394",
+      "timestamp": 1743119573000,
+      "hot": 217,
+      "url": "https://hellogithub.com/repository/b6b081e42e704a26993e42d01b6001fa",
+      "mobileUrl": "https://hellogithub.com/repository/b6b081e42e704a26993e42d01b6001fa"
+    },
+    {
+      "id": "2ca7b92997604b2aab4deb8e500993c9",
+      "title": "从零开始训练视觉多模态模型",
+      "desc": "该项目是手把手教你从零开始训练一个 26M 参数的视觉多模态模型，包括完整的训练流程和全套的工具集，成本 1.3 元、耗时仅 1 小时。",
+      "author": "jingyaogong",
+      "timestamp": 1743119573000,
+      "hot": 198,
+      "url": "https://hellogithub.com/repository/2ca7b92997604b2aab4deb8e500993c9",
+      "mobileUrl": "https://hellogithub.com/repository/2ca7b92997604b2aab4deb8e500993c9"
+    },
+    {
+      "id": "fce138586be2412b9facd44605af6e8d",
+      "title": "一键将电子书转换为有声书",
+      "desc": "这是一款能够将 EPUB 格式的电子书转换为 M4B 格式有声书的桌面工具。它采用 Kokoro-82M 语音合成模型，生成效果流畅自然，支持 CUDA 加速和",
+      "author": "santinic",
+      "timestamp": 1743119573000,
+      "hot": 190,
+      "url": "https://hellogithub.com/repository/fce138586be2412b9facd44605af6e8d",
+      "mobileUrl": "https://hellogithub.com/repository/fce138586be2412b9facd44605af6e8d"
+    },
+    {
+      "id": "dd14ae3556054e329e5153600eb3a55a",
+      "title": "Unix 命令行任务队列工具",
+      "desc": "这是一个轻量级命令行队列工具，用户可以将任务添加到队列中，并在后台按顺序执行。它支持在 Linux、FreeBSD 和 macOS 等系统上运行，适用于需要依次",
+      "author": "leahneukirchen",
+      "timestamp": 1743119573000,
+      "hot": 119,
+      "url": "https://hellogithub.com/repository/dd14ae3556054e329e5153600eb3a55a",
+      "mobileUrl": "https://hellogithub.com/repository/dd14ae3556054e329e5153600eb3a55a"
+    },
+    {
+      "id": "65ff1166e0c3457e9d956bdecbd84a35",
+      "title": "用 Excel 手搓各种 AI 算法和模型",
+      "desc": "该项目是通过 Excel 的形式实现并演示人工智能与深度学习的核心算法和概念，让初学者可以动手操作并理解 AI 的运行原理，包括矩阵乘法、MLP、RNN、Tra",
+      "author": "ImagineAILab",
+      "timestamp": 1740700824000,
+      "hot": 5669,
+      "url": "https://hellogithub.com/repository/65ff1166e0c3457e9d956bdecbd84a35",
+      "mobileUrl": "https://hellogithub.com/repository/65ff1166e0c3457e9d956bdecbd84a35"
+    },
+    {
+      "id": "e62bdf002000457dae774ae421e17495",
+      "title": "轻松打造原生桌面应用的 Python 框架",
+      "desc": "这是一个简单易用的 Python GUI 框架，专为构建跨平台原生桌面应用而设计。它结合了 Python 的简洁易懂和操作系统的原生体验，支持丰富的组件库和展示",
+      "author": "beeware",
+      "timestamp": 1743119573000,
+      "hot": 372,
+      "url": "https://hellogithub.com/repository/e62bdf002000457dae774ae421e17495",
+      "mobileUrl": "https://hellogithub.com/repository/e62bdf002000457dae774ae421e17495"
+    },
+    {
+      "id": "8ffffa0c27044e42bae1cb482fd1c09e",
+      "title": "好看的北极蓝配色方案",
+      "desc": "这是一个开源的北极蓝主题配色方案，包含 16 种柔和的色调，适用于代码编辑器、终端和网页设计等应用场景。无法亲临北极，也能用这抹宁静的蓝，给视觉一次沉浸式旅行。",
+      "author": "nordtheme",
+      "timestamp": 1743119573000,
+      "hot": 318,
+      "url": "https://hellogithub.com/repository/8ffffa0c27044e42bae1cb482fd1c09e",
+      "mobileUrl": "https://hellogithub.com/repository/8ffffa0c27044e42bae1cb482fd1c09e"
+    }
+  ]
+}
