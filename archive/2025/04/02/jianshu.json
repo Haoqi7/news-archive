@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-04-02T01:24:19.306007",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "5c052f891472",
+      "title": "Android不要通过Application来保存数据或其他其他变量",
+      "cover": "https://upload-images.jianshu.io/upload_images/4471798-e48538c2992376dd.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "在我们的应用程序中，很多地方可能用到同一个数据。很多时候我们可能不想通过Intent在Activity之间传递数据或者持久化的存放这些数据。 我...",
+      "author": "在岁月中远行",
+      "url": "https://www.jianshu.com/p/5c052f891472",
+      "mobileUrl": "https://www.jianshu.com/p/5c052f891472"
+    },
+    {
+      "id": "3657d03c3734",
+      "title": "从epoll机制看MessageQueue",
+      "desc": "epoll机制 一句话解释：epoll机制可以监听特定的fd，当fd收到内容时，发送事件回调。相比select和poll机制，效率更高。 epo...",
+      "author": "尹学姐",
+      "url": "https://www.jianshu.com/p/3657d03c3734",
+      "mobileUrl": "https://www.jianshu.com/p/3657d03c3734"
+    },
+    {
+      "id": "b2e4a699e434",
+      "title": "注册chatGPT的流程",
+      "cover": "https://upload-images.jianshu.io/upload_images/16093057-15cbd06c13fe17b2.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "应简友的要求，今天给简友们讲一下如何注册chatGPT 1 网上搜索chatGPT 就会出现上面这个图片，然后点进去。 2 出现上面的页面，这时...",
+      "author": "沉葉",
+      "url": "https://www.jianshu.com/p/b2e4a699e434",
+      "mobileUrl": "https://www.jianshu.com/p/b2e4a699e434"
+    }
+  ]
+}
