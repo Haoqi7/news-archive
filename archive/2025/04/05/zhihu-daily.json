@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-04-05T01:21:38.679850",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780207,
+      "title": "马、驴、鹿等动物的背部为何会演化出一个「座位」？",
+      "cover": "https://picx.zhimg.com/v2-2e3af077815749fcc5d5babd25ce313c.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780207",
+      "mobileUrl": "https://daily.zhihu.com/story/9780207"
+    },
+    {
+      "id": 9780247,
+      "title": "鱼可以进化成人，为什么一堆铁矿石不能被自然变成一艘航母？",
+      "cover": "https://pic1.zhimg.com/v2-b66ac4db1b45255bc49ef9f2f7c8c653.jpg?source=8673f162",
+      "author": "瞻云 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780247",
+      "mobileUrl": "https://daily.zhihu.com/story/9780247"
+    },
+    {
+      "id": 9780251,
+      "title": "入侵生物为什么在老家是良民一个, 而到了异国他乡却横行霸道?",
+      "cover": "https://pic1.zhimg.com/v2-189bebfb7d20237b656759d381115283.jpg?source=8673f162",
+      "author": "犬君拌汪酱 · 11 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780251",
+      "mobileUrl": "https://daily.zhihu.com/story/9780251"
+    },
+    {
+      "id": 9780259,
+      "title": "有限长度的两根通电导线之间作用力怎么算？",
+      "cover": "https://pic1.zhimg.com/v2-08f451320f322a7467237f596de89613.jpg?source=8673f162",
+      "author": "Patrick Zhang · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780259",
+      "mobileUrl": "https://daily.zhihu.com/story/9780259"
+    }
+  ]
+}
