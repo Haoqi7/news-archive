@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-04-06T01:27:52.009985",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780269,
+      "title": "为什么中国大陆被印度板块撞得遍布褶皱，而印度板块本身却保持了基本平坦？",
+      "cover": "https://pic1.zhimg.com/v2-5763a3d54d3c65e1a0ac95da0a2781d0.jpg?source=8673f162",
+      "author": "云舞空城 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780269",
+      "mobileUrl": "https://daily.zhihu.com/story/9780269"
+    },
+    {
+      "id": 9780216,
+      "title": "人的肩部为何会演化出一个「座位」？",
+      "cover": "https://picx.zhimg.com/v2-9cdfbf7c1c89e04597dbf90dec588ea3.jpg?source=8673f162",
+      "author": "剁椒鹿 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780216",
+      "mobileUrl": "https://daily.zhihu.com/story/9780216"
+    },
+    {
+      "id": 9780276,
+      "title": "陆谦推不开山神庙的庙门，那山神庙位于草料场附近，他难道没想过林冲可能就躲在庙里吗？",
+      "cover": "https://pica.zhimg.com/v2-b567b5a946a6a854462ea6a17a1a904a.jpg?source=8673f162",
+      "author": "娃娃鱼 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780276",
+      "mobileUrl": "https://daily.zhihu.com/story/9780276"
+    },
+    {
+      "id": 9780282,
+      "title": "怎么让不懂数学的人体会到抽象代数的魅力？",
+      "cover": "https://pic1.zhimg.com/v2-2a57641c2d111ad3610f4c4741159432.jpg?source=8673f162",
+      "author": "大老李 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780282",
+      "mobileUrl": "https://daily.zhihu.com/story/9780282"
+    }
+  ]
+}
