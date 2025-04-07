@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-04-07T01:25:21.255367",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780222,
+      "title": "24 是否是 24 点类游戏的最优解？",
+      "cover": "https://picx.zhimg.com/v2-a239005d5350a80a4b7b6ba1137ab327.jpg?source=8673f162",
+      "author": "Archimon · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780222",
+      "mobileUrl": "https://daily.zhihu.com/story/9780222"
+    },
+    {
+      "id": 9780283,
+      "title": "古代宰杀牛是犯法的，为什么梁山好汉去酒馆吃饭张口就点牛肉？",
+      "cover": "https://picx.zhimg.com/v2-c83ca16fd56e672b8db222305d2bd9d3.jpg?source=8673f162",
+      "author": "杨沐梓 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780283",
+      "mobileUrl": "https://daily.zhihu.com/story/9780283"
+    },
+    {
+      "id": 9780292,
+      "title": "为什么银行存款、河流长度等集合的首位数字更容易出现 1 而不是 9？",
+      "cover": "https://picx.zhimg.com/v2-f3ea33aeedc43a7128c816b241261c4c.jpg?source=8673f162",
+      "author": "稳重 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780292",
+      "mobileUrl": "https://daily.zhihu.com/story/9780292"
+    },
+    {
+      "id": 9780240,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-cc41832e560a928db786ae3cb2531507.jpg?source=8673f162",
+      "author": "VOL.892",
+      "url": "https://daily.zhihu.com/story/9780240",
+      "mobileUrl": "https://daily.zhihu.com/story/9780240"
+    }
+  ]
+}
