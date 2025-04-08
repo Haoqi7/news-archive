@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-04-08T01:23:22.356213",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780226,
+      "title": "如果语文老师给你讲明白这些生物问题，这些课文你就能读懂了吗？",
+      "cover": "https://pic1.zhimg.com/v2-c8a503565ebfa084291f02dcfdd8ab45.jpg?source=8673f162",
+      "author": "博物 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780226",
+      "mobileUrl": "https://daily.zhihu.com/story/9780226"
+    },
+    {
+      "id": 9780301,
+      "title": "有哪些题目看着简单，但实际上做起来非常「折磨人」？",
+      "cover": "https://picx.zhimg.com/v2-6a68aa14c505156106069d6820575ab9.jpg?source=8673f162",
+      "author": "万军取首高数线代 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780301",
+      "mobileUrl": "https://daily.zhihu.com/story/9780301"
+    },
+    {
+      "id": 9780308,
+      "title": "江户时代，在江户城的苦力都是吃些什么？能吃到白米饭，荞麦面，天妇罗，寿司吗？",
+      "cover": "https://picx.zhimg.com/v2-1c71e6e2df23e715d36daa2773e184b0.jpg?source=8673f162",
+      "author": "knighticerose · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780308",
+      "mobileUrl": "https://daily.zhihu.com/story/9780308"
+    },
+    {
+      "id": 9780331,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-cc41832e560a928db786ae3cb2531507.jpg?source=8673f162",
+      "author": "VOL.893",
+      "url": "https://daily.zhihu.com/story/9780331",
+      "mobileUrl": "https://daily.zhihu.com/story/9780331"
+    }
+  ]
+}
