@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-04-09T01:23:58.484884",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "dc3c82668ce04b81a815f1d2cf491645",
+      "title": "可爱又实用的倒计时软件",
+      "desc": "这是一款基于 WPF 技术开发的倒计时工具，适用于 Windows 平台。它开箱即用、操作简便，融入了可爱的猫咪元素。其最大的特点是提示音柔和舒适，不刺耳，提供",
+      "author": "xujiangjiang",
+      "timestamp": 1743472168000,
+      "hot": 1492,
+      "url": "https://hellogithub.com/repository/dc3c82668ce04b81a815f1d2cf491645",
+      "mobileUrl": "https://hellogithub.com/repository/dc3c82668ce04b81a815f1d2cf491645"
+    },
+    {
+      "id": "087ea4b3b8684b4e8641ec1a0308084c",
+      "title": "蚂蚁开源的隐私计算框架",
+      "desc": "隐私计算即通过技术的手段实现数据在参与方可用不可见，让数据在安全和不泄露隐私的情况下流通、开放。该项目采用 Python 语言编写，支持包括 MPC、FL、TE",
+      "author": "secretflow",
+      "timestamp": 1679962182000,
+      "hot": 3278,
+      "url": "https://hellogithub.com/repository/087ea4b3b8684b4e8641ec1a0308084c",
+      "mobileUrl": "https://hellogithub.com/repository/087ea4b3b8684b4e8641ec1a0308084c"
+    },
+    {
+      "id": "aa6c612ca3de42a082b15053be4ce3c3",
+      "title": "优雅好用的 Typora/Markdown 主题和增强插件",
+      "desc": "这是一款专为 Typora（跨平台 Markdown 编辑器）设计的开源主题和增强插件。它通过扩展 Markdown 的功能和样式，为用户提供更优雅、实用的文档",
+      "author": "MadMaxChow",
+      "timestamp": 1743640582000,
+      "hot": 722,
+      "url": "https://hellogithub.com/repository/aa6c612ca3de42a082b15053be4ce3c3",
+      "mobileUrl": "https://hellogithub.com/repository/aa6c612ca3de42a082b15053be4ce3c3"
+    },
+    {
+      "id": "d13663fb959345e7923ecaccc3387571",
+      "title": "开箱即用的网盘资源转存平台",
+      "desc": "该项目是基于 Vue 3 和 Express 构建的网盘资源搜索与转存平台，支持多资源搜索、豆瓣热门榜单、网盘资源一键转存、多用户等功能，完美适配移动端和 PC",
+      "author": "jiangrui1994",
+      "timestamp": 1743119573000,
+      "hot": 1598,
+      "url": "https://hellogithub.com/repository/d13663fb959345e7923ecaccc3387571",
+      "mobileUrl": "https://hellogithub.com/repository/d13663fb959345e7923ecaccc3387571"
+    },
+    {
+      "id": "1ccc919bb4c4456386cf40cb88c534e5",
+      "title": "一键备份微信聊天记录的工具",
+      "desc": "该项目是用 Go 语言开发的工具，可一键导出 PC 端微信聊天记录的工具，帮助用户轻松备份、导出、查找重要对话，适用于 Windows 平台。",
+      "author": "git-jiadong",
+      "timestamp": 1743119573000,
+      "hot": 786,
+      "url": "https://hellogithub.com/repository/1ccc919bb4c4456386cf40cb88c534e5",
+      "mobileUrl": "https://hellogithub.com/repository/1ccc919bb4c4456386cf40cb88c534e5"
+    },
+    {
+      "id": "5c815628bd064456b6cc60708e427932",
+      "title": "一键检测网络质量的开源脚本",
+      "desc": "这是一个方便的网络质量测试脚本，能够快速评估网络质量和性能，支持中英双语、三网 TCP 大包延迟、回程路由、网速测试、国际互联等功能。",
+      "author": "xykt",
+      "timestamp": 1743119573000,
+      "hot": 968,
+      "url": "https://hellogithub.com/repository/5c815628bd064456b6cc60708e427932",
+      "mobileUrl": "https://hellogithub.com/repository/5c815628bd064456b6cc60708e427932"
+    },
+    {
+      "id": "65ff1166e0c3457e9d956bdecbd84a35",
+      "title": "用 Excel 手搓各种 AI 算法和模型",
+      "desc": "该项目是通过 Excel 的形式实现并演示人工智能与深度学习的核心算法和概念，让初学者可以动手操作并理解 AI 的运行原理，包括矩阵乘法、MLP、RNN、Tra",
+      "author": "ImagineAILab",
+      "timestamp": 1740700824000,
+      "hot": 6064,
+      "url": "https://hellogithub.com/repository/65ff1166e0c3457e9d956bdecbd84a35",
+      "mobileUrl": "https://hellogithub.com/repository/65ff1166e0c3457e9d956bdecbd84a35"
+    },
+    {
+      "id": "d0a519cb3ac04d4087e33a9694b69104",
+      "title": "更懂你的手写笔记应用",
+      "desc": "这是一款开源的手写笔记应用，支持 Android、iOS、Windows、macOS、Linux 等平台。它提供夜间模式、多行公式高亮、密码保护等功能，适用于记",
+      "author": "saber-notes",
+      "timestamp": 1743119573000,
+      "hot": 1098,
+      "url": "https://hellogithub.com/repository/d0a519cb3ac04d4087e33a9694b69104",
+      "mobileUrl": "https://hellogithub.com/repository/d0a519cb3ac04d4087e33a9694b69104"
+    },
+    {
+      "id": "00a7a32b7bc647e1a62747530bc16115",
+      "title": "简洁小巧的 Windows 计时器",
+      "desc": "这是一款轻巧易用的 Windows 计时器，集显示时间、倒计时和番茄时钟功能于一体。它采用 C 语言编写，体积小、占用少，支持透明界面。用户可以调整界面大小和位",
+      "author": "vladelaina",
+      "timestamp": 1741142930000,
+      "hot": 3831,
+      "url": "https://hellogithub.com/repository/00a7a32b7bc647e1a62747530bc16115",
+      "mobileUrl": "https://hellogithub.com/repository/00a7a32b7bc647e1a62747530bc16115"
+    },
+    {
+      "id": "c2978695e74a423189e9ca2543ab3b36",
+      "title": "全开源的实时资讯平台",
+      "desc": "这是一款高颜值的实时新闻与热榜网站，相比传统热榜产品更加注重实时新闻。它前后端完全开源、部署简单，可轻松托管到 Cloudflare Pages 或 Verce",
+      "author": "ourongxing",
+      "timestamp": 1740700824000,
+      "hot": 4964,
+      "url": "https://hellogithub.com/repository/c2978695e74a423189e9ca2543ab3b36",
+      "mobileUrl": "https://hellogithub.com/repository/c2978695e74a423189e9ca2543ab3b36"
+    },
+    {
+      "id": "1c10fc1c52e2435e9cdeed88ef532657",
+      "title": "轻量级的多模态智能代理 Python 库",
+      "desc": "这是一个高性能、开源的 Python 库，用于构建多模态智能代理。通过统一大语言模型的 API，并赋予它们记忆、知识、工具和推理等强大功能。该项目速度快、内存占",
+      "author": "agno-agi",
+      "timestamp": 1743650721000,
+      "hot": 390,
+      "url": "https://hellogithub.com/repository/1c10fc1c52e2435e9cdeed88ef532657",
+      "mobileUrl": "https://hellogithub.com/repository/1c10fc1c52e2435e9cdeed88ef532657"
+    },
+    {
+      "id": "db1ec258916549e3ba6429f04bd3f5ee",
+      "title": "快速可视化 GitHub 项目结构",
+      "desc": "该项目基于 LLMs 服务 API，将 GitHub 项目转化为可视化图表，帮助开发者快速掌握项目结构。它采用 NextJS、Tailwind CSS、Fast",
+      "author": "ahmedkhaleel2004",
+      "timestamp": 1743645420000,
+      "hot": 375,
+      "url": "https://hellogithub.com/repository/db1ec258916549e3ba6429f04bd3f5ee",
+      "mobileUrl": "https://hellogithub.com/repository/db1ec258916549e3ba6429f04bd3f5ee"
+    },
+    {
+      "id": "c6b419d4b60f46b78ed58a5185f7e927",
+      "title": "全新开源的视频生成模型",
+      "desc": "这是一款开源的 SOTA（State-of-the-Art）视频生成模型，仅用 20 万美元（224 张 GPU）就能训练出商业级 11B 参数的视频生成大模型",
+      "author": "hpcaitech",
+      "timestamp": 1741917125000,
+      "hot": 2634,
+      "url": "https://hellogithub.com/repository/c6b419d4b60f46b78ed58a5185f7e927",
+      "mobileUrl": "https://hellogithub.com/repository/c6b419d4b60f46b78ed58a5185f7e927"
+    },
+    {
+      "id": "38762c4f912a42b98af35863a25c5c3a",
+      "title": "出海网站经验总结",
+      "desc": "该项目是作者在开发海外网站过程中积累的经验，涵盖海外公司注册、银行开户、支付系统对接及网站开发等方面。",
+      "author": "princehuang",
+      "timestamp": 1743119573000,
+      "hot": 736,
+      "url": "https://hellogithub.com/repository/38762c4f912a42b98af35863a25c5c3a",
+      "mobileUrl": "https://hellogithub.com/repository/38762c4f912a42b98af35863a25c5c3a"
+    },
+    {
+      "id": "4c349a6ccf7a45cfa143616f20750d8a",
+      "title": "《软件工程中的问题解决艺术：如何让 MySQL 更好》",
+      "desc": "这是一本通过实际案例分析和解决 MySQL 问题的书籍，结合深入讨论，帮助读者更好地理解逻辑推理、数据结构、算法等计算机基础知识。",
+      "author": "enhancedformysql",
+      "timestamp": 1743119573000,
+      "hot": 293,
+      "url": "https://hellogithub.com/repository/4c349a6ccf7a45cfa143616f20750d8a",
+      "mobileUrl": "https://hellogithub.com/repository/4c349a6ccf7a45cfa143616f20750d8a"
+    },
+    {
+      "id": "b442a9fa270e4ccb8847c9ee3445e41b",
+      "title": "AI 训练跟踪与可视化平台",
+      "desc": "这是一款开源、轻量的 AI 模型训练跟踪与可视化工具，旨在帮助研究者优化训练过程并提升团队协作效率。它通过简洁的 Python API 和直观的 UI 界面，提",
+      "author": "SwanHubX",
+      "timestamp": 1739758371000,
+      "hot": 3672,
+      "url": "https://hellogithub.com/repository/b442a9fa270e4ccb8847c9ee3445e41b",
+      "mobileUrl": "https://hellogithub.com/repository/b442a9fa270e4ccb8847c9ee3445e41b"
+    },
+    {
+      "id": "fce138586be2412b9facd44605af6e8d",
+      "title": "一键将电子书转换为有声书",
+      "desc": "这是一款能够将 EPUB 格式的电子书转换为 M4B 格式有声书的桌面工具。它采用 Kokoro-82M 语音合成模型，生成效果流畅自然，支持 CUDA 加速和",
+      "author": "santinic",
+      "timestamp": 1743119573000,
+      "hot": 499,
+      "url": "https://hellogithub.com/repository/fce138586be2412b9facd44605af6e8d",
+      "mobileUrl": "https://hellogithub.com/repository/fce138586be2412b9facd44605af6e8d"
+    },
+    {
+      "id": "8a5b6ade2aee461a8bd94e59200682a7",
+      "title": "沉浸式的电子书阅读器",
+      "desc": "这是一款为热爱阅读的用户量身打造的阅读软件，将极简设计与强大功能融合，为你带来专注、沉浸的阅读体验。它基于 Next.js 和 Tauri 开发，支持跨平台运行",
+      "author": "readest",
+      "timestamp": 1737936460000,
+      "hot": 6481,
+      "url": "https://hellogithub.com/repository/8a5b6ade2aee461a8bd94e59200682a7",
+      "mobileUrl": "https://hellogithub.com/repository/8a5b6ade2aee461a8bd94e59200682a7"
+    },
+    {
+      "id": "59a43c10c1cd40d99f6a10d7db9a9cfb",
+      "title": "低成本的开源无人机",
+      "desc": "这是一个基于 ESP32 的开源无人机项目，帮你制作一款低成本、可手机控制的小型无人机。",
+      "author": "Circuit-Digest",
+      "timestamp": 1740700824000,
+      "hot": 2276,
+      "url": "https://hellogithub.com/repository/59a43c10c1cd40d99f6a10d7db9a9cfb",
+      "mobileUrl": "https://hellogithub.com/repository/59a43c10c1cd40d99f6a10d7db9a9cfb"
+    },
+    {
+      "id": "a4c28d10b1a54c4991c5a54e1d5c8ccd",
+      "title": "快速找到占用大量缓存的罪魁祸首",
+      "desc": "这是一个快速查找系统中占用空间最大的缓存文件和进程的命令行工具，简单易用方便快捷，支持 JSON、表格和直方图的输出格式。",
+      "author": "silenceshell",
+      "timestamp": 1743119573000,
+      "hot": 640,
+      "url": "https://hellogithub.com/repository/a4c28d10b1a54c4991c5a54e1d5c8ccd",
+      "mobileUrl": "https://hellogithub.com/repository/a4c28d10b1a54c4991c5a54e1d5c8ccd"
+    }
+  ]
+}
