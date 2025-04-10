@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-04-10T01:23:12.385998",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780356,
+      "title": "如何科学地吹牛，让人找不到漏洞？",
+      "cover": "https://picx.zhimg.com/v2-1d0c3c259a95e0885ff7a212afec3bae.jpg?source=8673f162",
+      "author": "苏澄宇 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780356",
+      "mobileUrl": "https://daily.zhihu.com/story/9780356"
+    },
+    {
+      "id": 9780320,
+      "title": "猪的战斗力在野外属于什么水平？",
+      "cover": "https://picx.zhimg.com/v2-70b783f42648d2398ceb99f84a53dd8d.jpg?source=8673f162",
+      "author": "犬君拌汪酱 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780320",
+      "mobileUrl": "https://daily.zhihu.com/story/9780320"
+    },
+    {
+      "id": 9780327,
+      "title": "河流为什么能劈开山脉？",
+      "cover": "https://picx.zhimg.com/v2-d94098a7ba00fe3e644d19f158f18fb2.jpg?source=8673f162",
+      "author": "青铜马弓手 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780327",
+      "mobileUrl": "https://daily.zhihu.com/story/9780327"
+    },
+    {
+      "id": 9780345,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-cc41832e560a928db786ae3cb2531507.jpg?source=8673f162",
+      "author": "VOL.895",
+      "url": "https://daily.zhihu.com/story/9780345",
+      "mobileUrl": "https://daily.zhihu.com/story/9780345"
+    }
+  ]
+}
