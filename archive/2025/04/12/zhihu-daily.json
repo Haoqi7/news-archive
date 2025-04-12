@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-04-12T01:21:56.762373",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780394,
+      "title": "糖几乎不挥发，蚂蚁、蚊子和苍蝇是如何定位到糖和糖水的？",
+      "cover": "https://picx.zhimg.com/v2-6af38f13ba440105c452e77225f75552.jpg?source=8673f162",
+      "author": "斜绿天蛾 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780394",
+      "mobileUrl": "https://daily.zhihu.com/story/9780394"
+    },
+    {
+      "id": 9780232,
+      "title": "古代后宫是否真像宫斗剧里演的那么血淋淋？",
+      "cover": "https://pic1.zhimg.com/v2-8164bf5f58df755f97872ce10f291c6e.jpg?source=8673f162",
+      "author": "司马懿 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780232",
+      "mobileUrl": "https://daily.zhihu.com/story/9780232"
+    },
+    {
+      "id": 9780334,
+      "title": "根据人眼成像原理，人类所看到的物体应该是倒立的，那么，我们所见到的世界是不是上下颠倒的呢？",
+      "cover": "https://pic1.zhimg.com/v2-c15b28fd3e7ea78104f7ea4b928fd140.jpg?source=8673f162",
+      "author": "吃虾要吃带籽虾 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780334",
+      "mobileUrl": "https://daily.zhihu.com/story/9780334"
+    },
+    {
+      "id": 9780392,
+      "title": "为什么中国的石油储量这么少？",
+      "cover": "https://picx.zhimg.com/v2-564781965ec1fd1687fd489c601e8c4b.jpg?source=8673f162",
+      "author": "云舞空城 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780392",
+      "mobileUrl": "https://daily.zhihu.com/story/9780392"
+    }
+  ]
+}
