@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "platform": "52pojie",
+    "date": "2025-04-15T01:26:18.569705",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 0,
+      "title": "利用frida 探究对于模拟器下arm so加载",
+      "desc": "[md]# 利用frida 探究对于模拟器下arm so加载\r\n\r\n这里是对于模拟器下的arm下的so文件进行的分析探究，实际上对于这些的知识上，相关的文章是很少的，这次也算是对于模拟器的研究和分析了\r\n\r\n## 环境搭建：\r\n\r\n这里使用 ...",
+      "author": "chenchenchen777",
+      "timestamp": 1744002070000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022064",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022064"
+    },
+    {
+      "id": 1,
+      "title": "2025腾讯游戏安全竞赛 PC客户端安全 初赛WP",
+      "desc": "[md]# 2025 腾讯游戏安全技术竞赛 PC客户端安全 初赛WP\r\n\r\n## 前言\r\n这也是本菜鸡第一次参加该比赛，之前是有看过前几年比赛的WP，感觉难度不小，这次来尝试一下，由于是纯CTF类型，做起来还算顺手，不过也是遇到不少问题 ...",
+      "author": "Tkazer",
+      "timestamp": 1743416682000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020363",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020363"
+    },
+    {
+      "id": 2,
+      "title": "腾讯游戏安全大赛2025初赛题解",
+      "desc": "[md]记录一下今年 2025 初赛过程\r\n\r\n\r\n\r\n## 题目描述\r\n\r\n&gt;小Q是一位热衷于PC客户端安全的技术爱好者，为了不断提升自己的技能，他经常参与各类CTF竞赛。某天，他收到了一封来自神秘人的邮件，内容如下：\r\n&gt;\r\n&gt;“我可以引 ...",
+      "author": "xia0ji233",
+      "timestamp": 1743388349000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020188",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020188"
+    },
+    {
+      "id": 3,
+      "title": "2025腾讯游戏安全技术竞赛初赛-题解(有源码)",
+      "desc": "[md]## 源码\r\n\r\n开源地址: [GITHUB](https://github.com/DejavuSecure/2025-tencent-game-security-race-pre)\r\n\r\n## 第一部分：阅读题目要求\r\n\r\n根据题目要求 :\r\n选择 Windows 11 22H2 系统，关闭 Windows Defender, VBS, ...",
+      "author": "dejavusecure",
+      "timestamp": 1743379868000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020132",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020132"
+    },
+    {
+      "id": 4,
+      "title": "某三字游戏公司启动器的简单分析+过程",
+      "desc": "[md]# 某三字游戏公司启动器的简单分析+过程\r\n\r\n&gt;简单分析HYP启动器，以方便后续的逆向分析。 20250401：添加简单前端分析。HYP的前端实现的具体代码我不会给出，这里只进行技术讨论。前端实际上也没什么好说的，主要是 ...",
+      "author": "VisionTravel",
+      "timestamp": 1743086943000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2019310",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2019310"
+    },
+    {
+      "id": 5,
+      "title": "【分析】一次Telegram 钓鱼事件分析：鱼叉式攻击链路解析",
+      "desc": "",
+      "author": "imperc3ptibIe",
+      "timestamp": 1743076431000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2019265",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2019265"
+    },
+    {
+      "id": 6,
+      "title": "原创】通过软件无线电嗅探破解MIFA**系列NFC通信协议的方法研究",
+      "desc": "",
+      "author": "gmg2719",
+      "timestamp": 1742792608000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2018075",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2018075"
+    },
+    {
+      "id": 7,
+      "title": "SandboxiePlus 高级功能无限试用破解",
+      "desc": "[md]## 前言\r\n前几天偶然发现SandboxiePlus的一些有意思的高级功能，比如：数据保护、安全强化和应用程隔离。但这些功能都要收费，免费的证书有效期也只有10天，每个PC只能申请三次。[/md]\r\n\r\n\r\n[md]虽然它已经开源了，鼓 ...",
+      "author": "暴龙兽",
+      "timestamp": 1742652063000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017673",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017673"
+    },
+    {
+      "id": 8,
+      "title": "记一次SAI2的逆向",
+      "desc": "[md]##### 程序介绍\r\n画画程序\r\n##### 演示版保护机制\r\n程序启动后弹窗提示“The program is started in the restricted mode because a valid license certificate is not installed.”\r\n\r\n单击确定后提示窗口消失转而 ...",
+      "author": "ApollosLegends",
+      "timestamp": 1742641793000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017631",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017631"
+    },
+    {
+      "id": 9,
+      "title": "去除QQ聊天窗口的平滑滚动动画",
+      "desc": "[md]## 去除QQ聊天窗口的平滑滚动\r\n\r\nQQ版本: PC经典版 9.7.23 (29394)  \r\n工具: Cheat Engine (扫内存工具), IDA (逆向工具)\r\n\r\nQQ在大概四五年前加入的聊天窗口的平滑滚动, 即滚动鼠标滚轮时, 有一个滚动的过渡动画,  ...",
+      "author": "浩劫者12345",
+      "timestamp": 1742579712000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017443",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017443"
+    },
+    {
+      "id": 10,
+      "title": "IDA 9.1 & IDA 8.5 算法分析",
+      "desc": "看到分享了 8.5 安装包，之前的 kg 失效了，才发现替换成了 9.x 的注册模式。\r\n\r\n做了简单分析，整理如下：\r\n\r\n调试版本为 9.0（240905），新注册机制都一样，ida.dll 中导出表搜索 license，“get_license_manager” 看 ...",
+      "author": "Nisy",
+      "timestamp": 1742576915000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017438",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017438"
+    },
+    {
+      "id": 11,
+      "title": "某某猫投诉signature逆向-----------小白讲解08",
+      "desc": "本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关.本文章未经许可禁止转载， ...",
+      "author": "Aircraftcomman5",
+      "timestamp": 1742566569000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017218",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017218"
+    },
+    {
+      "id": 12,
+      "title": "【JS逆向】某验三代点选逆向分析",
+      "desc": "[md]# 某验3代点选逆向分析\r\n\r\n本文中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无 ...",
+      "author": "ShriyGo",
+      "timestamp": 1742564803000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017394",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017394"
+    },
+    {
+      "id": 13,
+      "title": "記一次對某韓遊的反反調試",
+      "desc": "[md]&gt; 樣本：Y29tLndlbWFkZS5uaWdodGNyb3dz\r\n&gt; \r\n\r\n## 前言\r\n\r\n聊點題外話，最近在找工作，一家公司說要搞NP，我果斷拒絕，還有一家公司給了一道面試題，內容是分析一款外掛( 針對他們家遊戲的 )和實現一個有效的外掛功能 ...",
+      "author": "ngiokweng",
+      "timestamp": 1742305137000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2016248",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2016248"
+    },
+    {
+      "id": 14,
+      "title": "【JS逆向】某加速乐分析解混淆",
+      "desc": "[md]网址：aHR0cHM6Ly95cC4xMjBhc2suY29tL3NlYXJjaC81LTI4My5odG1s\r\n视频: 视频\r\n\r\n# 1. 分析请求\r\n\r\n打开F12抓包观察\r\n\r\n\r\n\r\n\r\n加速乐经典两次521，由于页面已经加载成功，两次521的请求响应看不到，清除cookie再下个sc ...",
+      "author": "ShriyGo",
+      "timestamp": 1742303826000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2016235",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2016235"
+    },
+    {
+      "id": 15,
+      "title": "【web逆向】优某愿 字体反混淆",
+      "desc": "[md]\r\n\r\n地址：`aHR0cHM6Ly93d3cueW91enkuY24vY29sbGVnZXMvc2NvcmVsaW5lP2NvbGxlZ2VDb2RlPTEwMDAzJm5hbWU9JUU2JUI4JTg1JUU1JThEJThFJUU1JUE0JUE3JUU1JUFEJUE2`&amp;#8203;\r\n\r\n# 接口分析\r\n\r\n接口：`eW91enkuZG1zLmRhdGFsaWIuYXBpLmVucm9sbGRhdGEuZW50ZXIuY29sbGVnZS5lbmNy ...",
+      "author": "就往丶",
+      "timestamp": 1742109020000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2015241",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2015241"
+    },
+    {
+      "id": 16,
+      "title": "【原创】采用软件无线电伪造和模拟卫星电视收发实验和性能研究",
+      "desc": "",
+      "author": "gmg2719",
+      "timestamp": 1742103361000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2015217",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2015217"
+    },
+    {
+      "id": 17,
+      "title": "有道词典笔x7pro获取adb权限",
+      "desc": "",
+      "author": "AsBrings",
+      "timestamp": 1742060202000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2015103",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2015103"
+    },
+    {
+      "id": 18,
+      "title": "【JS逆向】某审批局加解密逆向分析",
+      "desc": "[md]**文章主要分享的内容是本人在逆向过程中遇到标准加解密算法时使用各种库来模拟还原的一些经验，因本人并不擅长密码学，请路过的各位大佬多多指教。**\r\n\r\n# 逆向目标\r\n\r\n- 网址：`aHR0cHM6Ly9jcmVkaXQuaGQuZ292LmNuL ...",
+      "author": "littlewhite11",
+      "timestamp": 1742035460000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014994",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014994"
+    },
+    {
+      "id": 19,
+      "title": "【入门】webpack 补环境",
+      "desc": "[md]\r\n\r\n网址： `aHR0cHM6Ly95LnFxLmNvbS9uL3J5cXEvcGxheWVy`&amp;#8203;\r\n\r\n---\r\n\r\n# 1.接口分析\r\n\r\n接口：`cgi-bin/musics.fcg`&amp;#8203;  \r\n\r\n参数：sign是加密的\r\n\r\n!()\r\n\r\n# 2.代码分析\r\n\r\n进入调用栈\r\n\r\n!()\r\n\r\n先在send位置打上断点，页面刷新\r\n\r\n!()\r\n\r\n往上一个栈找\r ...",
+      "author": "就往丶",
+      "timestamp": 1741971746000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014743",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2014743"
+    }
+  ]
+}
