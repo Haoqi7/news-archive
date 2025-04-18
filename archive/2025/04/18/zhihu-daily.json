@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-04-18T01:23:45.978837",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780505,
+      "title": "如何直观地体验一亿年的时间尺度？",
+      "cover": "https://pic1.zhimg.com/v2-377a09ccaa67744e402415a78d3e80bd.jpg?source=8673f162",
+      "author": "One Two · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780505",
+      "mobileUrl": "https://daily.zhihu.com/story/9780505"
+    },
+    {
+      "id": 9780525,
+      "title": "为什么打哈欠的时候会有短暂的失聪现象？",
+      "cover": "https://picx.zhimg.com/v2-d6bff9390d7582f536b83e12c9e24afb.jpg?source=8673f162",
+      "author": "中科院物理所 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780525",
+      "mobileUrl": "https://daily.zhihu.com/story/9780525"
+    },
+    {
+      "id": 9780533,
+      "title": "读古籍有必要读直排（竖排）繁体影印本吗？",
+      "cover": "https://picx.zhimg.com/v2-1d1b41e31df08d6bbbbd76b644aba532.jpg?source=8673f162",
+      "author": "星辰格格 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780533",
+      "mobileUrl": "https://daily.zhihu.com/story/9780533"
+    },
+    {
+      "id": 9780442,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-cc41832e560a928db786ae3cb2531507.jpg?source=8673f162",
+      "author": "VOL.3640",
+      "url": "https://daily.zhihu.com/story/9780442",
+      "mobileUrl": "https://daily.zhihu.com/story/9780442"
+    }
+  ]
+}
