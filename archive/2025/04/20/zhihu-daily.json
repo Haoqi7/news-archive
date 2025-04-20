@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-04-20T01:37:32.513858",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780557,
+      "title": "游戏中的毒元素为何通常以绿色作视觉表达？",
+      "cover": "https://picx.zhimg.com/v2-66b880d5e44b324bcf0a1591dc0da743.jpg?source=8673f162",
+      "author": "otomin · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780557",
+      "mobileUrl": "https://daily.zhihu.com/story/9780557"
+    },
+    {
+      "id": 9780561,
+      "title": "在古代时，谣言是如何传播的？",
+      "cover": "https://pica.zhimg.com/v2-e6b1a7b444448c91f77977ed5d4d3efb.jpg?source=8673f162",
+      "author": "HAKU · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780561",
+      "mobileUrl": "https://daily.zhihu.com/story/9780561"
+    },
+    {
+      "id": 9780565,
+      "title": "既然水里面含有氧气，为什么人类不能长出腮来像鱼儿一样在水里呼吸？",
+      "cover": "https://picx.zhimg.com/v2-eea6129ed3e5ca6dfee87def55b2f9d3.jpg?source=8673f162",
+      "author": "瞻云 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780565",
+      "mobileUrl": "https://daily.zhihu.com/story/9780565"
+    },
+    {
+      "id": 9780572,
+      "title": "为什么很多动物进化出装死假死吓死技能?",
+      "cover": "https://pica.zhimg.com/v2-beac4da6ef1cce9fd06c8e415bb47e1b.jpg?source=8673f162",
+      "author": "剁椒鹿 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780572",
+      "mobileUrl": "https://daily.zhihu.com/story/9780572"
+    }
+  ]
+}
