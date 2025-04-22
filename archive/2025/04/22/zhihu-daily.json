@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-04-22T01:24:53.018770",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780601,
+      "title": "为什么电子快门拍高速移动物体会失真机械快门就不会？",
+      "cover": "https://picx.zhimg.com/v2-42121fdec21a15198fbb4c13a16fda8f.jpg?source=8673f162",
+      "author": "lulinimages · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780601",
+      "mobileUrl": "https://daily.zhihu.com/story/9780601"
+    },
+    {
+      "id": 9780596,
+      "title": "守城士兵为何不推倒梯子，反而往下扔石头？",
+      "cover": "https://picx.zhimg.com/v2-97b1ee358d2077023623665e32269f8f.jpg?source=8673f162",
+      "author": "剪春风的刀 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780596",
+      "mobileUrl": "https://daily.zhihu.com/story/9780596"
+    },
+    {
+      "id": 9780615,
+      "title": "西辽为什么似乎没有收复故地的想法呢？",
+      "cover": "https://picx.zhimg.com/v2-cc41832e560a928db786ae3cb2531507.jpg?source=8673f162",
+      "author": "水鹭居士 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780615",
+      "mobileUrl": "https://daily.zhihu.com/story/9780615"
+    },
+    {
+      "id": 9780609,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-cc41832e560a928db786ae3cb2531507.jpg?source=8673f162",
+      "author": "VOL.3642",
+      "url": "https://daily.zhihu.com/story/9780609",
+      "mobileUrl": "https://daily.zhihu.com/story/9780609"
+    }
+  ]
+}
