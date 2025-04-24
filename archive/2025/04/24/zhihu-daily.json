@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-04-24T01:25:22.919447",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780677,
+      "title": "为什么中国南宋就有了活字印刷，明清还要抄书呢？",
+      "cover": "https://pic1.zhimg.com/v2-fdab0826e6aeeee355b3574bb1bf945a.jpg?source=8673f162",
+      "author": "冯.若衣卖 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780677",
+      "mobileUrl": "https://daily.zhihu.com/story/9780677"
+    },
+    {
+      "id": 9780659,
+      "title": "为什么不挖开明孝陵看看朱元璋长啥样？",
+      "cover": "https://pic1.zhimg.com/v2-8573ec84568783ebf952953bc82adf6e.jpg?source=8673f162",
+      "author": "呆蛙 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780659",
+      "mobileUrl": "https://daily.zhihu.com/story/9780659"
+    },
+    {
+      "id": 9780667,
+      "title": "为什么滴眼药水时，嘴巴会不自觉张开?",
+      "cover": "https://pic1.zhimg.com/v2-3546601c95a4c243ddcda80a5bb660ad.jpg?source=8673f162",
+      "author": "亡魂星号舰 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780667",
+      "mobileUrl": "https://daily.zhihu.com/story/9780667"
+    },
+    {
+      "id": 9780658,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3644",
+      "url": "https://daily.zhihu.com/story/9780658",
+      "mobileUrl": "https://daily.zhihu.com/story/9780658"
+    }
+  ]
+}
