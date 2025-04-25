@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "platform": "52pojie",
+    "date": "2025-04-25T01:26:20.339469",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 0,
+      "title": "Quick_Any2Ico 3.5  AES 分析解密加注册机编写 图片转ICO、EXE图标提取、窗口图标提取",
+      "desc": "[md]# 1、简介\r\nAES加密中，密钥(KEY)、初始化向量(IV)、加密模式(MODE)、填充模式(PADDING)是核心参数，\r\n逆向分析AES就是要找到这几个参数。\r\n此次以分析 Quick_Any2Ico（图标提取与格式转换软件） 这个小软件为例，\r\n ...",
+      "author": "qqycra",
+      "timestamp": 1744860129000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024898",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024898"
+    },
+    {
+      "id": 1,
+      "title": "jy无感取巧思路",
+      "desc": "[md]# jy无感取巧思路\r\n\r\n&gt; 目标网站：aHR0cHM6Ly9ndDQuZ2VldGVzdC5jb20v\r\n\r\n本文纯粹取巧！！！对小萌新很不友好\r\n\r\n***本文仅供学习交流，因使用本文内容而产生的任何风险及后果，作者不承担任何责任，一起学习吧***\r\n\r ...",
+      "author": "utf8",
+      "timestamp": 1744801118000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024800",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024800"
+    },
+    {
+      "id": 2,
+      "title": "某某省过验证码逆向---------小白讲解09",
+      "desc": "本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关.本文章未经许可禁止转载，禁 ...",
+      "author": "Aircraftcomman5",
+      "timestamp": 1744702064000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024396",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024396"
+    },
+    {
+      "id": 3,
+      "title": "【致初学修改器的你】如何优雅的杀敌以做到英雄无敌?记一次血战上海滩修改器制作过程",
+      "desc": "[md]\r\n第一次写逆向调试的文章，不足之处，敬请关照！  能力有限，大佬勿喷！\r\n\r\n\r\n新人学做修改器拿什么游戏练手？可能大部分人会想到《植物大战僵尸》和《血战上海滩》，是的，的确是这样，这两款游戏不仅家喻户晓，而 ...",
+      "author": "烟99",
+      "timestamp": 1744692275000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024353",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024353"
+    },
+    {
+      "id": 4,
+      "title": "2025腾讯游戏安全技术竞赛 安卓初赛",
+      "desc": "[md]第一次参加，写得不怎么好，还请多多指教&amp;#128583;&amp;#8205;♂&amp;#65039;\r\n\r\n## 题目\r\n\r\n\r\n\r\n\r\n\r\n启动游戏后可以明显发现游戏存在加速、自瞄、透视等问题。\r\n\r\n\r\n首先判断虚幻引擎版本，我们可以直接在`AndroidManifest. ...",
+      "author": "lrhtony",
+      "timestamp": 1744645438000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024227",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024227"
+    },
+    {
+      "id": 5,
+      "title": "2025騰訊遊戲安全大賽(安卓決賽)",
+      "desc": "[md]\r\n## 前言\r\n\r\n上一年雖然止步於初賽，但之後找了時間復現了一下決賽，大概花了2、3周才復現完( 還是在有文章參考的情況下 )，內容很多，大致包括保護分析、vm分析、透視、自瞄實現。\r\n\r\n今年的決賽比較不同，他給了2 ...",
+      "author": "ngiokweng",
+      "timestamp": 1744599663000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023994",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023994"
+    },
+    {
+      "id": 6,
+      "title": "2025腾讯游戏安全技术竞赛决赛题解",
+      "desc": "[md]## 题目描述\r\n\r\n&gt;（1）**在intel CPU/64位Windows10系统**上运行sys，成功加载驱动（0.5分）\r\n&gt;\r\n&gt;（2）能在双机环境运行驱动并调试（1分）\r\n&gt;\r\n&gt;（3）优化驱动中的耗时算法，并给出demo能快速计算得出正确的key（1分）\r\n&gt;\r\n&gt;（4）分析并给出flag的计算执行流程（1. ...",
+      "author": "xia0ji233",
+      "timestamp": 1744597870000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023981",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023981"
+    },
+    {
+      "id": 7,
+      "title": "2025騰訊遊戲安全大賽(安卓初賽)",
+      "desc": "[md]\r\n## 前言\r\n\r\n第一次聽說這比賽是上年偶然和舍友聊天時他告訴我的，沒想到還有以遊戲安全為主的比賽，當時看到有安卓的賽道就報名了，然後比賽時就被那門卡了2天，然後就沒有然後了。\r\n\r\n今年沒意外的話是我大學生涯 ...",
+      "author": "ngiokweng",
+      "timestamp": 1744595821000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023964",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023964"
+    },
+    {
+      "id": 8,
+      "title": "某q-深入浅出 JSVMP",
+      "desc": "[md]# 深入浅出 JSVMP\r\n**本文仅供学习交流，因使用本文内容而产生的任何风险及后果，作者不承担任何责任，一起学习吧**\r\n\r\n## 写在前面\r\n我其实用这种方法很少，如果有错误，还请大佬们指正，谢谢！！！\r\n\r\n都是个人理解 ...",
+      "author": "utf8",
+      "timestamp": 1744283852000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023103",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023103"
+    },
+    {
+      "id": 9,
+      "title": "SI ObjectBrowser 注册逻辑逆向",
+      "desc": "SI ObjectBrowser是一款使用delphi编写的oracle操作工具，首次接触这个工具是2007年，从日本客户手中拿到的，不得不说，性能是真的强，就连后面oracle官方出的工具都不行。\r\n这款软件是日本一家公司开发的，曾经也有过中 ...",
+      "author": "geesehoward",
+      "timestamp": 1744191266000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022797",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022797"
+    },
+    {
+      "id": 10,
+      "title": "某q音乐sign逆向-多角度",
+      "desc": "[md]# 某q音乐sign逆向-多角度\r\n\r\n&gt; 目标网站：aHR0cHM6Ly95LnFxLmNvbS9uL3J5cXEvc29uZ0RldGFpbC8wMDJxVTVhWTNRdTI0eQ==\r\n\r\n***本文仅供学习交流，因使用本文内容而产生的任何风险及后果，作者不承担任何责任，一起学习吧***\r\n\r\n## 逆向分析\r\n\r\n### 定位加密点\r\n查看带 ...",
+      "author": "utf8",
+      "timestamp": 1744101587000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022463",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022463"
+    },
+    {
+      "id": 11,
+      "title": "利用frida 探究对于模拟器下arm so加载",
+      "desc": "[md]# 利用frida 探究对于模拟器下arm so加载\r\n\r\n这里是对于模拟器下的arm下的so文件进行的分析探究，实际上对于这些的知识上，相关的文章是很少的，这次也算是对于模拟器的研究和分析了\r\n\r\n## 环境搭建：\r\n\r\n这里使用 ...",
+      "author": "chenchenchen777",
+      "timestamp": 1744002070000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022064",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022064"
+    },
+    {
+      "id": 12,
+      "title": "解开Windows微信备份文件",
+      "desc": "[md]解开Windows微信备份文件\r\n\r\n使用电脑微信上的“菜单-迁移与备份-备份与恢复”功能可以将手机微信上的聊天记录存储到电脑，以后也可以恢复到手机。如果可以将这些备份的聊天记录直接提取出来就可以随心所欲地整理、 ...",
+      "author": "xuxinhang",
+      "timestamp": 1743855469000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2021739",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2021739"
+    },
+    {
+      "id": 13,
+      "title": "【原创】一款适用于菜鸟的GPS位置模拟器进行位置模拟的方法和工具",
+      "desc": "",
+      "author": "gmg2719",
+      "timestamp": 1743574659000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020933",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020933"
+    },
+    {
+      "id": 14,
+      "title": "2025腾讯游戏安全竞赛 PC客户端安全 初赛WP",
+      "desc": "[md]# 2025 腾讯游戏安全技术竞赛 PC客户端安全 初赛WP\r\n\r\n## 前言\r\n这也是本菜鸡第一次参加该比赛，之前是有看过前几年比赛的WP，感觉难度不小，这次来尝试一下，由于是纯CTF类型，做起来还算顺手，不过也是遇到不少问题 ...",
+      "author": "Tkazer",
+      "timestamp": 1743416682000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020363",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020363"
+    },
+    {
+      "id": 15,
+      "title": "腾讯游戏安全大赛2025初赛题解",
+      "desc": "[md]记录一下今年 2025 初赛过程\r\n\r\n\r\n\r\n## 题目描述\r\n\r\n&gt;小Q是一位热衷于PC客户端安全的技术爱好者，为了不断提升自己的技能，他经常参与各类CTF竞赛。某天，他收到了一封来自神秘人的邮件，内容如下：\r\n&gt;\r\n&gt;“我可以引 ...",
+      "author": "xia0ji233",
+      "timestamp": 1743388349000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020188",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020188"
+    },
+    {
+      "id": 16,
+      "title": "2025腾讯游戏安全技术竞赛初赛-题解(有源码)",
+      "desc": "[md]## 源码\r\n\r\n开源地址: [GITHUB](https://github.com/DejavuSecure/2025-tencent-game-security-race-pre)\r\n\r\n## 第一部分：阅读题目要求\r\n\r\n根据题目要求 :\r\n选择 Windows 11 22H2 系统，关闭 Windows Defender, VBS, ...",
+      "author": "dejavusecure",
+      "timestamp": 1743379868000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020132",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2020132"
+    },
+    {
+      "id": 17,
+      "title": "某三字游戏公司启动器的简单分析+过程",
+      "desc": "[md]# 某三字游戏公司启动器的简单分析+过程\r\n\r\n&gt;简单分析HYP启动器，以方便后续的逆向分析。 20250401：添加简单前端分析。HYP的前端实现的具体代码我不会给出，这里只进行技术讨论。前端实际上也没什么好说的，主要是 ...",
+      "author": "VisionTravel",
+      "timestamp": 1743086943000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2019310",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2019310"
+    },
+    {
+      "id": 18,
+      "title": "【分析】一次Telegram 钓鱼事件分析：鱼叉式攻击链路解析",
+      "desc": "",
+      "author": "imperc3ptibIe",
+      "timestamp": 1743076431000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2019265",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2019265"
+    },
+    {
+      "id": 19,
+      "title": "原创】通过软件无线电嗅探破解MIFA**系列NFC通信协议的方法研究",
+      "desc": "",
+      "author": "gmg2719",
+      "timestamp": 1742792608000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2018075",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2018075"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-04-25T01:26:05.050612",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780684,
+      "title": "训练一个由骨架输出动物外貌的大模型，是不是就能完美还原恐龙了?",
+      "cover": "https://pic1.zhimg.com/v2-d2b48c9599626e76ca39513ee3b93a96.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780684",
+      "mobileUrl": "https://daily.zhihu.com/story/9780684"
+    },
+    {
+      "id": 9780686,
+      "title": "有哪些东西是为了军事用途发明的后来和军事没有关系了？",
+      "cover": "https://pica.zhimg.com/v2-58c443fcf75aa12d0469efb3784bb71c.jpg?source=8673f162",
+      "author": "古特曼 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780686",
+      "mobileUrl": "https://daily.zhihu.com/story/9780686"
+    },
+    {
+      "id": 9780695,
+      "title": "小时候小霸王游戏机里玩哪些游戏是无法通关的？",
+      "cover": "https://picx.zhimg.com/v2-0f71b6d830413211402e014129fdd818.jpg?source=8673f162",
+      "author": "老男孩蕾玲 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780695",
+      "mobileUrl": "https://daily.zhihu.com/story/9780695"
+    },
+    {
+      "id": 9780704,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3645",
+      "url": "https://daily.zhihu.com/story/9780704",
+      "mobileUrl": "https://daily.zhihu.com/story/9780704"
+    }
+  ]
+}
