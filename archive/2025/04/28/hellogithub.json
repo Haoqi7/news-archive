@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-04-28T01:28:12.972431",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "d01de86117b5438ea711eecd11a74651",
+      "title": "让 GitHub Actions 执行远程 SSH 命令",
+      "desc": "该项目可以在 GitHub 工作流中通过 SSH 远程执行命令、脚本或部署应用程序，支持多种身份验证方式（密码、SSH 密钥）和主机连接方式（直连或通过代理）。",
+      "author": "appleboy",
+      "timestamp": 1745798416000,
+      "hot": 9,
+      "url": "https://hellogithub.com/repository/d01de86117b5438ea711eecd11a74651",
+      "mobileUrl": "https://hellogithub.com/repository/d01de86117b5438ea711eecd11a74651"
+    },
+    {
+      "id": "b29031dd3dd54859a435293008f4dd1e",
+      "title": "完全免费开源的看板应用",
+      "desc": "这是一款基于 Meteor 框架和 MongoDB 构建的开源看板（Kanban），支持实时多用户协作、任务拖拽、标签分组、成员分配等功能。通过卡片和列表的方式",
+      "author": "wekan",
+      "timestamp": 1745798416000,
+      "hot": 16,
+      "url": "https://hellogithub.com/repository/b29031dd3dd54859a435293008f4dd1e",
+      "mobileUrl": "https://hellogithub.com/repository/b29031dd3dd54859a435293008f4dd1e"
+    },
+    {
+      "id": "a352cab9f74f4cafb667752e00366dab",
+      "title": "保护你的网站免受 AI 爬虫攻击",
+      "desc": "这是一个用于保护网站免受 AI 爬虫和恶意抓取的工具。它通过 SHA256 工作量证明（Proof-of-Work, PoW）挑战来验证每个连接的合法性，从而阻",
+      "author": "TecharoHQ",
+      "timestamp": 1745798416000,
+      "hot": 13,
+      "url": "https://hellogithub.com/repository/a352cab9f74f4cafb667752e00366dab",
+      "mobileUrl": "https://hellogithub.com/repository/a352cab9f74f4cafb667752e00366dab"
+    },
+    {
+      "id": "40d9e68c3b72494bb2fe59467af5eb7d",
+      "title": "《从零开始学习英语语法》",
+      "desc": "这是一本面向英语基础薄弱同学的英语语法入门书籍，内容言简意赅、插图幽默风趣。",
+      "author": "hzpt-inet-club",
+      "timestamp": 1745798416000,
+      "hot": 11,
+      "url": "https://hellogithub.com/repository/40d9e68c3b72494bb2fe59467af5eb7d",
+      "mobileUrl": "https://hellogithub.com/repository/40d9e68c3b72494bb2fe59467af5eb7d"
+    },
+    {
+      "id": "2201308a776640b3ad1958bbbf81177d",
+      "title": "快速生成假数据的 Java 库",
+      "desc": "这是一个专为 JVM 生态（Java、Kotlin、Groovy）设计的假数据生成库，是 java-faker 的开源分支。它内置近 50 种语言和地区支持，能",
+      "author": "datafaker-net",
+      "timestamp": 1745798416000,
+      "hot": 11,
+      "url": "https://hellogithub.com/repository/2201308a776640b3ad1958bbbf81177d",
+      "mobileUrl": "https://hellogithub.com/repository/2201308a776640b3ad1958bbbf81177d"
+    },
+    {
+      "id": "52b739a710334b29a4ce2927b894006c",
+      "title": "开源的油管 Android 客户端",
+      "desc": "这是一款开源的第三方 YouTube 安卓客户端，提供纯净的视频观看体验。它无需登录 Google 账号、无广告干扰，支持订阅、播放列表、观看历史、搜索历史等功",
+      "author": "libre-tube",
+      "timestamp": 1745798416000,
+      "hot": 10,
+      "url": "https://hellogithub.com/repository/52b739a710334b29a4ce2927b894006c",
+      "mobileUrl": "https://hellogithub.com/repository/52b739a710334b29a4ce2927b894006c"
+    },
+    {
+      "id": "315ec196c9a34a7b863eb39d9808f674",
+      "title": "简单易用的轻量级绘画工具",
+      "desc": "这是一款基于 C# 和 GTK 框架开发的免费绘图软件，兼容 Windows、Linux 和 macOS 系统。它不仅提供类似 Microsoft Paint ",
+      "author": "PintaProject",
+      "timestamp": 1745798416000,
+      "hot": 10,
+      "url": "https://hellogithub.com/repository/315ec196c9a34a7b863eb39d9808f674",
+      "mobileUrl": "https://hellogithub.com/repository/315ec196c9a34a7b863eb39d9808f674"
+    },
+    {
+      "id": "e263c8d8d06d4b34b4dcaf4e71e134d3",
+      "title": "为 AI 智能体提供高性能虚拟环境",
+      "desc": "这是一个专为 AI 智能体设计的高性能操作系统虚拟化与控制框架。它通过轻量级、近乎原生速度的虚拟容器，让 AI Agent 能够在完全隔离的 macOS 或 L",
+      "author": "trycua",
+      "timestamp": 1745798416000,
+      "hot": 10,
+      "url": "https://hellogithub.com/repository/e263c8d8d06d4b34b4dcaf4e71e134d3",
+      "mobileUrl": "https://hellogithub.com/repository/e263c8d8d06d4b34b4dcaf4e71e134d3"
+    },
+    {
+      "id": "7ee5e5e3b2c24355b51bb9ed749f15d3",
+      "title": "桌面级开源双轮腿机器人",
+      "desc": "这是一款超小型的桌面级双轮腿机器人，集成了两轮自平衡与腿部运动能力。它提供了完整的机器人实现方案，包含硬件设计文件、软件代码和组装指南，方便机器人爱好者自制和学",
+      "author": "MuShibo",
+      "timestamp": 1745798416000,
+      "hot": 9,
+      "url": "https://hellogithub.com/repository/7ee5e5e3b2c24355b51bb9ed749f15d3",
+      "mobileUrl": "https://hellogithub.com/repository/7ee5e5e3b2c24355b51bb9ed749f15d3"
+    },
+    {
+      "id": "02f3446a5dac4d7ab4d6bdebb384acf8",
+      "title": "用笔记本轻松玩转 AI 生成长视频",
+      "desc": "这是一款用于视频生成的预测神经网络结构，可以在资源有限的设备上生成高质量的视频。它通过将上下文压缩成固定长度，使得生成任务的工作量与视频长度无关，从而实现高效且",
+      "author": "lllyasviel",
+      "timestamp": 1745798416000,
+      "hot": 9,
+      "url": "https://hellogithub.com/repository/02f3446a5dac4d7ab4d6bdebb384acf8",
+      "mobileUrl": "https://hellogithub.com/repository/02f3446a5dac4d7ab4d6bdebb384acf8"
+    },
+    {
+      "id": "9e365b3525124eb4824cb50ca887f0c2",
+      "title": "在线播放视频资源的 Web 应用",
+      "desc": "该项目是用 Go 语言开发的在线视频流媒体应用，让用户能够直接在线播放视频资源。它支持通过磁力链接或 .torrent 文件流式传输高清视频，以及实时字幕转换和",
+      "author": "aculix",
+      "timestamp": 1745798416000,
+      "hot": 8,
+      "url": "https://hellogithub.com/repository/9e365b3525124eb4824cb50ca887f0c2",
+      "mobileUrl": "https://hellogithub.com/repository/9e365b3525124eb4824cb50ca887f0c2"
+    },
+    {
+      "id": "65321aad929345af8af2baa21443bfab",
+      "title": "让 AI 训练推理自动选择经济型 GPU 方案",
+      "desc": "这是一个开源的跨云 AI 和批量任务调度平台，用户可以通过统一接口在 K8s、本地集群和主流云服务商（AWS、GCP、Azure 等）上运行深度学习、分布式训练",
+      "author": "skypilot-org",
+      "timestamp": 1745798416000,
+      "hot": 8,
+      "url": "https://hellogithub.com/repository/65321aad929345af8af2baa21443bfab",
+      "mobileUrl": "https://hellogithub.com/repository/65321aad929345af8af2baa21443bfab"
+    },
+    {
+      "id": "170ab73b96274d87a9c8396352f598f2",
+      "title": "零侵入 SQLite 数据库灾备工具",
+      "desc": "该项目是专为 SQLite 数据库设计的实时增量同步和备份工具。它作为后台进程运行，通过监控数据库变更，自动将数据同步至本地文件或云端存储。只需简单部署，即可为",
+      "author": "benbjohnson",
+      "timestamp": 1745798416000,
+      "hot": 7,
+      "url": "https://hellogithub.com/repository/170ab73b96274d87a9c8396352f598f2",
+      "mobileUrl": "https://hellogithub.com/repository/170ab73b96274d87a9c8396352f598f2"
+    },
+    {
+      "id": "0601f355bd824d88b58f1af3066c486a",
+      "title": "开源圆角等宽字体",
+      "desc": "这是一款高质量的等宽字体，具备可变字体、圆角设计、智能连字、图标等特性，支持简体中文、繁体中文和日语字符集，以及通过脚本自定义构建字体，满足不同平台和个性化需求",
+      "author": "subframe7536",
+      "timestamp": 1745798416000,
+      "hot": 7,
+      "url": "https://hellogithub.com/repository/0601f355bd824d88b58f1af3066c486a",
+      "mobileUrl": "https://hellogithub.com/repository/0601f355bd824d88b58f1af3066c486a"
+    },
+    {
+      "id": "5d2a004b4b06439a9e82390ff1ea2d9e",
+      "title": "跨平台的多云安全备份工具",
+      "desc": "这是一款跨平台的备份客户端，支持多种主流云存储服务（如 S3、Dropbox、Google Drive 等）。它可将加密、增量、压缩的备份文件安全地存储到云端或",
+      "author": "duplicati",
+      "timestamp": 1745798416000,
+      "hot": 6,
+      "url": "https://hellogithub.com/repository/5d2a004b4b06439a9e82390ff1ea2d9e",
+      "mobileUrl": "https://hellogithub.com/repository/5d2a004b4b06439a9e82390ff1ea2d9e"
+    },
+    {
+      "id": "1816ed8f076f4c04b663e8a4c8071da1",
+      "title": "Google 开源的性能分析工具",
+      "desc": "该项目是谷歌开源的面向生产环境的性能分析与追踪工具，适用于 Android、Linux 和 Chrome。它提供可视化追踪数据的 Web 界面，支持系统与应用级",
+      "author": "google",
+      "timestamp": 1745798416000,
+      "hot": 6,
+      "url": "https://hellogithub.com/repository/1816ed8f076f4c04b663e8a4c8071da1",
+      "mobileUrl": "https://hellogithub.com/repository/1816ed8f076f4c04b663e8a4c8071da1"
+    },
+    {
+      "id": "9728de0a226047099a02d8def01a9dd8",
+      "title": "《怪物猎人》游戏内数据展示工具",
+      "desc": "这是一款专为《怪物猎人》系列打造的游戏叠加层工具，适用于《怪物猎人：世界》和《怪物猎人：崛起》。它界面简洁，完全免费且开源，可为玩家实时展示怪物信息、异常状态、",
+      "author": "HunterPie",
+      "timestamp": 1745798416000,
+      "hot": 6,
+      "url": "https://hellogithub.com/repository/9728de0a226047099a02d8def01a9dd8",
+      "mobileUrl": "https://hellogithub.com/repository/9728de0a226047099a02d8def01a9dd8"
+    },
+    {
+      "id": "775d5b3d0aa04e90be9162104e757f2e",
+      "title": "一键更换 Linux 软件源的脚本",
+      "desc": "该项目实现了一条命令即可将 Linux 默认软件源替换为国内镜像源，支持 Debian、Ubuntu、Kali Linux、Linux Mint 和 Deepi",
+      "author": "SuperManito",
+      "timestamp": 1745798416000,
+      "hot": 5,
+      "url": "https://hellogithub.com/repository/775d5b3d0aa04e90be9162104e757f2e",
+      "mobileUrl": "https://hellogithub.com/repository/775d5b3d0aa04e90be9162104e757f2e"
+    },
+    {
+      "id": "5a1f61e0544549f7861e5af7918bab7d",
+      "title": "本地优先的图片压缩工具",
+      "desc": "这是一款注重隐私保护的浏览器端图片优化工具，无需联网可离线使用。它部署简单、功能丰富，提供图片压缩、格式转换和批量上传等功能，兼容 JPG、PNG、WebP、H",
+      "author": "civilblur",
+      "timestamp": 1745798416000,
+      "hot": 5,
+      "url": "https://hellogithub.com/repository/5a1f61e0544549f7861e5af7918bab7d",
+      "mobileUrl": "https://hellogithub.com/repository/5a1f61e0544549f7861e5af7918bab7d"
+    },
+    {
+      "id": "607b849c598d48e08fe38789d156ebdc",
+      "title": "简约美观的音乐播放器",
+      "desc": "这是一款基于 Electron 开发的第三方音乐播放器，拥有高颜值的界面和丰富的功能，支持本地化服务、桌面歌词显示、音乐下载等，适用于多平台使用。",
+      "author": "algerkong",
+      "timestamp": 1745798416000,
+      "hot": 5,
+      "url": "https://hellogithub.com/repository/607b849c598d48e08fe38789d156ebdc",
+      "mobileUrl": "https://hellogithub.com/repository/607b849c598d48e08fe38789d156ebdc"
+    }
+  ]
+}
