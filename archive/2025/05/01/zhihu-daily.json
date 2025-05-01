@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-05-01T01:42:06.122993",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780841,
+      "title": "地球上还有原始人吗？",
+      "cover": "https://picx.zhimg.com/v2-e7b86644b81584d231a1b5a02a159fca.jpg?source=8673f162",
+      "author": "大地 · 8 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780841",
+      "mobileUrl": "https://daily.zhihu.com/story/9780841"
+    },
+    {
+      "id": 9780831,
+      "title": "蚂蚁为什么要搬家？",
+      "cover": "https://picx.zhimg.com/v2-40188e93aa714607bba7b9ea299453f0.jpg?source=8673f162",
+      "author": "广町七深Official · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780831",
+      "mobileUrl": "https://daily.zhihu.com/story/9780831"
+    },
+    {
+      "id": 9780836,
+      "title": "鸟类为什么天生会筑巢？",
+      "cover": "https://picx.zhimg.com/v2-8427afa34bb7b45cf6a1781d961fbe65.jpg?source=8673f162",
+      "author": "赵泠 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780836",
+      "mobileUrl": "https://daily.zhihu.com/story/9780836"
+    },
+    {
+      "id": 9780849,
+      "title": "为什么章鱼会有将寿命限制仅几年的基因锁，为何限制如此之短，若无此锁，章鱼是否真会代替人类成地球霸主？",
+      "cover": "https://picx.zhimg.com/v2-4103e51e8ad9dda7a6f8970744013e87.jpg?source=8673f162",
+      "author": "五莲花开 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780849",
+      "mobileUrl": "https://daily.zhihu.com/story/9780849"
+    }
+  ]
+}
