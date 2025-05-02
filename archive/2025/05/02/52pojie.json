@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "platform": "52pojie",
+    "date": "2025-05-02T01:26:47.654706",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 0,
+      "title": "AI与JSVMP的初次结合-深入浅出的逆向JSVMP",
+      "desc": "[md]# AI与JSVMP的初次结合-深入浅出的逆向JSVMP\r\n\r\n关键词：jr头条vmp逆向,a_bogus,jsvmp,插桩,ai\r\n\r\n&gt; 目标接口：aHR0cHM6Ly93d3cudG91dGlhby5jb20vYXBpL3BjL2xpc3QvZmVlZA==\r\n\r\n***本文仅供学习交流，因使用本文内容而产生的任何风险及后果，作者不承担任何责任，一 ...",
+      "author": "utf8",
+      "timestamp": 1745739363000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2027657",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2027657"
+    },
+    {
+      "id": 1,
+      "title": "[五一礼物]Hopper Disassembler for macOS 5.18.1 CracKed [SIP ON][2025.4.28]",
+      "desc": "[md]# &amp;#128736; Hopper Disassembler for macOS 5.18.1  [SIP ON]\r\n\r\n## &amp;#127381; 更新记录\r\n\r\n**2025年4月28日**  \r\n\r\n- 支持 **SIP 开启 (SIP ON)**\r\n- 不再依赖 `HopperStarter` 启动  \r\n\r\n@Hmily 爱盘可以更新了\r ...",
+      "author": "Vvvvvoid",
+      "timestamp": 1745630437000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2027339",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2027339"
+    },
+    {
+      "id": 2,
+      "title": "【Chrome插件开发】某视频网站的m4s视频/音频下载方案，及其Chrome插件实现-v250415",
+      "desc": "[md]## 引言\r\n\r\nSample URL：aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXBwNDIxZDc1cQ==\r\n\r\n我去年写了这篇文章：[【前端甜点】某视频网站的m4s视频/音频下载方案（20240420）](https://www.52pojie.cn/thread-19 ...",
+      "author": "hans7",
+      "timestamp": 1745321085000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2026417",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2026417"
+    },
+    {
+      "id": 3,
+      "title": "某当网登录滑块逆向",
+      "desc": "",
+      "author": "zzyzy",
+      "timestamp": 1745043883000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2025578",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2025578"
+    },
+    {
+      "id": 4,
+      "title": "Pyinstaller Repack 指南",
+      "desc": "[md]# **Pyinstaller Repack 指南**\r\n大一牲，想要Patch一个抢学校图书馆座位的软件，却困于Pyinstaller程序的重打包，以此为契机研究了一下Repack的完整流程，避免接触难懂难修改的字节码，并使用了一个几乎无人知晓的 ...",
+      "author": "hitachimako",
+      "timestamp": 1745004456000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2025482",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2025482"
+    },
+    {
+      "id": 5,
+      "title": "Quick_Any2Ico 3.5  AES 分析解密加注册机编写 图片转ICO、EXE图标提取、窗口图标提取",
+      "desc": "[md]# 1、简介\r\nAES加密中，密钥(KEY)、初始化向量(IV)、加密模式(MODE)、填充模式(PADDING)是核心参数，\r\n逆向分析AES就是要找到这几个参数。\r\n此次以分析 Quick_Any2Ico（图标提取与格式转换软件） 这个小软件为例，\r\n ...",
+      "author": "qqycra",
+      "timestamp": 1744860129000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024898",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024898"
+    },
+    {
+      "id": 6,
+      "title": "frida-analykit + wireshark 流量抓包（上）-初探libssl体验无视证书的实时https抓包",
+      "desc": "[md]# frida-analykit + wireshark 流量抓包（上）- 初探libssl体验wireshark无视证书校验的实时https抓包\r\n\r\n## 工具\r\n\r\n- [frida-analykit](https://github.com/ZSA233/frida-analykit.git)\r\n- [wireshark](https://ww ...",
+      "author": "ZSAIm",
+      "timestamp": 1744818439000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024874",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024874"
+    },
+    {
+      "id": 7,
+      "title": "jy无感取巧思路",
+      "desc": "[md]# jy无感取巧思路\r\n\r\n&gt; 目标网站：aHR0cHM6Ly9ndDQuZ2VldGVzdC5jb20v\r\n\r\n本文纯粹取巧！！！对小萌新很不友好\r\n\r\n***本文仅供学习交流，因使用本文内容而产生的任何风险及后果，作者不承担任何责任，一起学习吧***\r\n\r ...",
+      "author": "utf8",
+      "timestamp": 1744801118000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024800",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024800"
+    },
+    {
+      "id": 8,
+      "title": "2025游戏安全技术竞赛-Android-初赛WriteUp",
+      "desc": "[md]## 附件说明\r\n\r\n| 文件名称      | 功能               |\r\n| --------- | ---------------- |\r\n| decode.py | 处理字符串解密          |\r\n| hack.js   | 实现修复功能的Frida脚本   |\r\n| SDK.txt   | Dump得到的游戏SDK     |\r\n| Actor.txt | Dump得到的Actorlist  ...",
+      "author": "Je2em1ah",
+      "timestamp": 1744797895000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024788",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024788"
+    },
+    {
+      "id": 9,
+      "title": "某某省过验证码逆向---------小白讲解09",
+      "desc": "本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关.本文章未经许可禁止转载，禁 ...",
+      "author": "Aircraftcomman5",
+      "timestamp": 1744702064000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024396",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024396"
+    },
+    {
+      "id": 10,
+      "title": "【致初学修改器的你】如何优雅的杀敌以做到英雄无敌?记一次血战上海滩修改器制作过程",
+      "desc": "[md]\r\n第一次写逆向调试的文章，不足之处，敬请关照！  能力有限，大佬勿喷！\r\n\r\n\r\n新人学做修改器拿什么游戏练手？可能大部分人会想到《植物大战僵尸》和《血战上海滩》，是的，的确是这样，这两款游戏不仅家喻户晓，而 ...",
+      "author": "烟99",
+      "timestamp": 1744692275000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024353",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024353"
+    },
+    {
+      "id": 11,
+      "title": "2025腾讯游戏安全技术竞赛 安卓初赛",
+      "desc": "[md]第一次参加，写得不怎么好，还请多多指教&amp;#128583;&amp;#8205;♂&amp;#65039;\r\n\r\n## 题目\r\n\r\n\r\n\r\n\r\n\r\n启动游戏后可以明显发现游戏存在加速、自瞄、透视等问题。\r\n\r\n\r\n首先判断虚幻引擎版本，我们可以直接在`AndroidManifest. ...",
+      "author": "lrhtony",
+      "timestamp": 1744645438000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024227",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024227"
+    },
+    {
+      "id": 12,
+      "title": "2025騰訊遊戲安全大賽(安卓決賽)",
+      "desc": "[md]\r\n## 前言\r\n\r\n上一年雖然止步於初賽，但之後找了時間復現了一下決賽，大概花了2、3周才復現完( 還是在有文章參考的情況下 )，內容很多，大致包括保護分析、vm分析、透視、自瞄實現。\r\n\r\n今年的決賽比較不同，他給了2 ...",
+      "author": "ngiokweng",
+      "timestamp": 1744599663000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023994",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023994"
+    },
+    {
+      "id": 13,
+      "title": "2025腾讯游戏安全技术竞赛决赛题解",
+      "desc": "[md]## 题目描述\r\n\r\n&gt;（1）**在intel CPU/64位Windows10系统**上运行sys，成功加载驱动（0.5分）\r\n&gt;\r\n&gt;（2）能在双机环境运行驱动并调试（1分）\r\n&gt;\r\n&gt;（3）优化驱动中的耗时算法，并给出demo能快速计算得出正确的key（1分）\r\n&gt;\r\n&gt;（4）分析并给出flag的计算执行流程（1. ...",
+      "author": "xia0ji233",
+      "timestamp": 1744597870000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023981",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023981"
+    },
+    {
+      "id": 14,
+      "title": "2025騰訊遊戲安全大賽(安卓初賽)",
+      "desc": "[md]\r\n## 前言\r\n\r\n第一次聽說這比賽是上年偶然和舍友聊天時他告訴我的，沒想到還有以遊戲安全為主的比賽，當時看到有安卓的賽道就報名了，然後比賽時就被那門卡了2天，然後就沒有然後了。\r\n\r\n今年沒意外的話是我大學生涯 ...",
+      "author": "ngiokweng",
+      "timestamp": 1744595821000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023964",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023964"
+    },
+    {
+      "id": 15,
+      "title": "某q-深入浅出 JSVMP",
+      "desc": "[md]# 深入浅出 JSVMP\r\n**本文仅供学习交流，因使用本文内容而产生的任何风险及后果，作者不承担任何责任，一起学习吧**\r\n\r\n## 写在前面\r\n我其实用这种方法很少，如果有错误，还请大佬们指正，谢谢！！！\r\n\r\n都是个人理解 ...",
+      "author": "utf8",
+      "timestamp": 1744283852000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023103",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2023103"
+    },
+    {
+      "id": 16,
+      "title": "SI ObjectBrowser 注册逻辑逆向",
+      "desc": "SI ObjectBrowser是一款使用delphi编写的oracle操作工具，首次接触这个工具是2007年，从日本客户手中拿到的，不得不说，性能是真的强，就连后面oracle官方出的工具都不行。\r\n这款软件是日本一家公司开发的，曾经也有过中 ...",
+      "author": "geesehoward",
+      "timestamp": 1744191266000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022797",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022797"
+    },
+    {
+      "id": 17,
+      "title": "某q音乐sign逆向-多角度",
+      "desc": "[md]# 某q音乐sign逆向-多角度\r\n\r\n&gt; 目标网站：aHR0cHM6Ly95LnFxLmNvbS9uL3J5cXEvc29uZ0RldGFpbC8wMDJxVTVhWTNRdTI0eQ==\r\n\r\n***本文仅供学习交流，因使用本文内容而产生的任何风险及后果，作者不承担任何责任，一起学习吧***\r\n\r\n## 逆向分析\r\n\r\n### 定位加密点\r\n查看带 ...",
+      "author": "utf8",
+      "timestamp": 1744101587000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022463",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022463"
+    },
+    {
+      "id": 18,
+      "title": "勒索软件解锁(Ransomware Unchained)题解",
+      "desc": "[md]&gt; Ransomware Unchained (勒索软件脱缰)\r\n&gt;\r\n&gt; 一种神秘的勒索软件正在肆虐！它锁定文件，执行秘密命令，并与隐藏的 C2 服务器私语。你能分析这些痕迹，找到解密密钥，并在为时已晚之前拯救 flag 吗？\r\n\r\n题目给了  ...",
+      "author": "Dahl",
+      "timestamp": 1744079145000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022313",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022313"
+    },
+    {
+      "id": 19,
+      "title": "利用frida 探究对于模拟器下arm so加载",
+      "desc": "[md]# 利用frida 探究对于模拟器下arm so加载\r\n\r\n这里是对于模拟器下的arm下的so文件进行的分析探究，实际上对于这些的知识上，相关的文章是很少的，这次也算是对于模拟器的研究和分析了\r\n\r\n## 环境搭建：\r\n\r\n这里使用 ...",
+      "author": "chenchenchen777",
+      "timestamp": 1744002070000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022064",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2022064"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-05-02T01:26:32.526965",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780866,
+      "title": "一直有个疑惑：古人为什么不从左往右写字？",
+      "cover": "https://pic1.zhimg.com/v2-1c261e50d540f589830c74f854d05393.jpg?source=8673f162",
+      "author": "非凡 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780866",
+      "mobileUrl": "https://daily.zhihu.com/story/9780866"
+    },
+    {
+      "id": 9780854,
+      "title": "古代科举有哪些独特的防作弊手段？",
+      "cover": "https://pica.zhimg.com/v2-80ad676ab5c81f090d16f3a2873d03d0.jpg?source=8673f162",
+      "author": "青澜 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780854",
+      "mobileUrl": "https://daily.zhihu.com/story/9780854"
+    },
+    {
+      "id": 9780860,
+      "title": "是否该让孩子接触带有悲剧色彩的名著？",
+      "cover": "https://pica.zhimg.com/v2-812b2ad83df4bffe467fcdae3515ceba.jpg?source=8673f162",
+      "author": "心存星光 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780860",
+      "mobileUrl": "https://daily.zhihu.com/story/9780860"
+    },
+    {
+      "id": 9780861,
+      "title": "为什么在鸡鸭鹅蛋里只有鹅蛋很少有人吃？",
+      "cover": "https://pic1.zhimg.com/v2-832ceaef636c85576ad5cd5a19d43547.jpg?source=8673f162",
+      "author": "奔奔马 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780861",
+      "mobileUrl": "https://daily.zhihu.com/story/9780861"
+    }
+  ]
+}
