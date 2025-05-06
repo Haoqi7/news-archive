@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-05-06T01:27:04.584073",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9780983,
+      "title": "有哪些你以为是常识，其实是常识性错误的知识？",
+      "cover": "https://picx.zhimg.com/v2-9f86183c2249c3da4c5c687bd9aebc3f.jpg?source=8673f162",
+      "author": "KingDraw · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780983",
+      "mobileUrl": "https://daily.zhihu.com/story/9780983"
+    },
+    {
+      "id": 9780950,
+      "title": "为什么野草比花园植物更早感知春天？",
+      "cover": "https://pic1.zhimg.com/v2-6e688c30ab4abf0d9a8b211cd8e5a5e6.jpg?source=8673f162",
+      "author": "不想实名 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780950",
+      "mobileUrl": "https://daily.zhihu.com/story/9780950"
+    },
+    {
+      "id": 9780960,
+      "title": "古装剧里有哪些被认为是古代就有的东西其实是近现代才出现的?",
+      "cover": "https://picx.zhimg.com/v2-29214715d1dae0ab12764d8c44785c3a.jpg?source=8673f162",
+      "author": "秀外慧中贾南风 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9780960",
+      "mobileUrl": "https://daily.zhihu.com/story/9780960"
+    },
+    {
+      "id": 9780974,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3650",
+      "url": "https://daily.zhihu.com/story/9780974",
+      "mobileUrl": "https://daily.zhihu.com/story/9780974"
+    }
+  ]
+}
