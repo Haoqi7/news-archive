@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-05-12T01:39:40.477646",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781108,
+      "title": "为什么豌豆，玉米与胡萝卜丁经常混合在一起袋装冷冻售卖？",
+      "cover": "https://picx.zhimg.com/v2-77922257a9e94806054d86035a515f04.jpg?source=8673f162",
+      "author": "知乎用户 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781108",
+      "mobileUrl": "https://daily.zhihu.com/story/9781108"
+    },
+    {
+      "id": 9781094,
+      "title": "如果在山上挖一个池塘不放鱼，里面会慢慢有鱼吗？",
+      "cover": "https://pic1.zhimg.com/v2-b1c2c00ebb044f391db20e05a46d4ae7.jpg?source=8673f162",
+      "author": "瞻云 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781094",
+      "mobileUrl": "https://daily.zhihu.com/story/9781094"
+    },
+    {
+      "id": 9781099,
+      "title": "为什么中国茶叶不能像咖啡豆一样磨成粉，直接喝了？",
+      "cover": "https://picx.zhimg.com/v2-bdfcd64caaac0cbe3c9cc0378e14708e.jpg?source=8673f162",
+      "author": "黑桃乌龙 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781099",
+      "mobileUrl": "https://daily.zhihu.com/story/9781099"
+    },
+    {
+      "id": 9781113,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3654",
+      "url": "https://daily.zhihu.com/story/9781113",
+      "mobileUrl": "https://daily.zhihu.com/story/9781113"
+    }
+  ]
+}
