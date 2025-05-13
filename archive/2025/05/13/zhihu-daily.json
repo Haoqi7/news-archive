@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-05-13T01:37:02.568453",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781136,
+      "title": "麦哲伦怎么证明自己环绕了地球一圈？",
+      "cover": "https://picx.zhimg.com/v2-ace4375922eb158ea7d243b100ec2040.jpg?source=8673f162",
+      "author": "也说 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781136",
+      "mobileUrl": "https://daily.zhihu.com/story/9781136"
+    },
+    {
+      "id": 9781118,
+      "title": "下雨的时候是跑的越快淋雨越多嘛？",
+      "cover": "https://pic1.zhimg.com/v2-acc45a4234d0c3ff885886edafeb80cd.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781118",
+      "mobileUrl": "https://daily.zhihu.com/story/9781118"
+    },
+    {
+      "id": 9781128,
+      "title": "在人类进化的过程中保留了头发，是否说明生命演进不仅是功能性的，同时也兼顾了观赏性？",
+      "cover": "https://picx.zhimg.com/v2-a43bc909ebb5be132c3b4619076f0cb8.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781128",
+      "mobileUrl": "https://daily.zhihu.com/story/9781128"
+    },
+    {
+      "id": 9781141,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3655",
+      "url": "https://daily.zhihu.com/story/9781141",
+      "mobileUrl": "https://daily.zhihu.com/story/9781141"
+    }
+  ]
+}
