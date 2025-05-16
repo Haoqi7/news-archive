@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-05-16T01:36:59.310200",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781189,
+      "title": "南水北调工程从历史观来看，对中国的影响能达到什么程度？",
+      "cover": "https://pica.zhimg.com/v2-c081bacb722368fa364b1450df6e2ffb.jpg?source=8673f162",
+      "author": "人间一场烟火 · 7 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781189",
+      "mobileUrl": "https://daily.zhihu.com/story/9781189"
+    },
+    {
+      "id": 9781172,
+      "title": "洞庭湖为什么越来越小, 会消失吗?",
+      "cover": "https://picx.zhimg.com/v2-b35bb6be61102db47efd78f480a64109.jpg?source=8673f162",
+      "author": "免渡河 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781172",
+      "mobileUrl": "https://daily.zhihu.com/story/9781172"
+    },
+    {
+      "id": 9781177,
+      "title": "为何中国这么缺铜？",
+      "cover": "https://pic1.zhimg.com/v2-d16089955ec5a3d15b2e14ec688f90a4.jpg?source=8673f162",
+      "author": "蝉说 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781177",
+      "mobileUrl": "https://daily.zhihu.com/story/9781177"
+    },
+    {
+      "id": 9781184,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3658",
+      "url": "https://daily.zhihu.com/story/9781184",
+      "mobileUrl": "https://daily.zhihu.com/story/9781184"
+    }
+  ]
+}

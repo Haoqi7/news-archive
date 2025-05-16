@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-05-16T01:37:17.020005",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "743b101346c54f6cb5c20eed2edbaa40",
+      "title": "易用的跨平台开源聊天应用",
+      "desc": "这是一款专为多端打造的现代化即时通讯系统，实现了从桌面到移动平台的无缝通讯体验。它基于 Tauri、Vite 6、Vue 3 和 TypeScript 构建，支",
+      "author": "HuLaSpark",
+      "timestamp": 1747279995000,
+      "hot": 440,
+      "url": "https://hellogithub.com/repository/743b101346c54f6cb5c20eed2edbaa40",
+      "mobileUrl": "https://hellogithub.com/repository/743b101346c54f6cb5c20eed2edbaa40"
+    },
+    {
+      "id": "d148f8fac78b45fe9b94c82757c3f86b",
+      "title": "将网页秒变桌面应用的打包工具",
+      "desc": "这是一款基于 Rust 和 Tauri 构建的开源工具，能够将任意网页或前端项目（如 Vue、React 等）快速转换为轻量级的桌面应用和移动应用。它体积仅 5",
+      "author": "Sjj1024",
+      "timestamp": 1747293524000,
+      "hot": 303,
+      "url": "https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b",
+      "mobileUrl": "https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b"
+    },
+    {
+      "id": "6d7916d851c2481f87568ffd9f1c21d9",
+      "title": "一站式 Go 语言流媒体服务器开发框架",
+      "desc": "这是一款完全用 Go 语言编写的高性能、低延迟、模块化且易扩展的流媒体服务器框架。它采用模块化设计，可按需加载模块，支持录制与回放、分布式部署、Promethe",
+      "author": "langhuihui",
+      "timestamp": 1747064551000,
+      "hot": 440,
+      "url": "https://hellogithub.com/repository/6d7916d851c2481f87568ffd9f1c21d9",
+      "mobileUrl": "https://hellogithub.com/repository/6d7916d851c2481f87568ffd9f1c21d9"
+    },
+    {
+      "id": "0601f355bd824d88b58f1af3066c486a",
+      "title": "开源圆角等宽字体",
+      "desc": "这是一款高质量的等宽字体，具备可变字体、圆角设计、智能连字、图标等特性，支持简体中文、繁体中文和日语字符集，以及通过脚本自定义构建字体，满足不同平台和个性化需求",
+      "author": "subframe7536",
+      "timestamp": 1745798416000,
+      "hot": 2655,
+      "url": "https://hellogithub.com/repository/0601f355bd824d88b58f1af3066c486a",
+      "mobileUrl": "https://hellogithub.com/repository/0601f355bd824d88b58f1af3066c486a"
+    },
+    {
+      "id": "ecd0e85d331c482499a1850cb48b17d0",
+      "title": "开源的本地文件转换工具",
+      "desc": "该项目是基于 Svelte 和 TypeScript 构建的文件转换工具，完全本地化且免费。它利用 WebAssembly 技术，实现所有文件转换过程均在本地完",
+      "author": "VERT-sh",
+      "timestamp": 1746491820000,
+      "hot": 1489,
+      "url": "https://hellogithub.com/repository/ecd0e85d331c482499a1850cb48b17d0",
+      "mobileUrl": "https://hellogithub.com/repository/ecd0e85d331c482499a1850cb48b17d0"
+    },
+    {
+      "id": "e39217322cc2461697fae2b76e0f48eb",
+      "title": "操作计算机的智能代理框架",
+      "desc": "这是一个让 AI 像人一样操作电脑（如 macOS、Windows、Linux、Android），可自动完成复杂的 GUI 操作任务的 AI Agent 框架。",
+      "author": "simular-ai",
+      "timestamp": 1746491685000,
+      "hot": 1840,
+      "url": "https://hellogithub.com/repository/e39217322cc2461697fae2b76e0f48eb",
+      "mobileUrl": "https://hellogithub.com/repository/e39217322cc2461697fae2b76e0f48eb"
+    },
+    {
+      "id": "52b739a710334b29a4ce2927b894006c",
+      "title": "开源的油管 Android 客户端",
+      "desc": "这是一款开源的第三方 YouTube 安卓客户端，提供纯净的视频观看体验。它无需登录 Google 账号、无广告干扰，支持订阅、播放列表、观看历史、搜索历史等功",
+      "author": "libre-tube",
+      "timestamp": 1745798416000,
+      "hot": 1881,
+      "url": "https://hellogithub.com/repository/52b739a710334b29a4ce2927b894006c",
+      "mobileUrl": "https://hellogithub.com/repository/52b739a710334b29a4ce2927b894006c"
+    },
+    {
+      "id": "12ab209b56cb4cfd885c8cfd4cfdd53e",
+      "title": "用微信聊天记录微调大语言模型",
+      "desc": "该项目是通过个人微信聊天记录对大语言模型（LLM）进行微调，打造专属的数字分身。它提供从聊天数据到模型微调、从文本生成到语音克隆、从训练到部署的全链路解决方案。",
+      "author": "xming521",
+      "timestamp": 1745798416000,
+      "hot": 2440,
+      "url": "https://hellogithub.com/repository/12ab209b56cb4cfd885c8cfd4cfdd53e",
+      "mobileUrl": "https://hellogithub.com/repository/12ab209b56cb4cfd885c8cfd4cfdd53e"
+    },
+    {
+      "id": "40d9e68c3b72494bb2fe59467af5eb7d",
+      "title": "《从零开始学习英语语法》",
+      "desc": "这是一本面向英语基础薄弱同学的英语语法入门书籍，内容言简意赅、插图幽默风趣。",
+      "author": "hzpt-inet-club",
+      "timestamp": 1745798416000,
+      "hot": 2059,
+      "url": "https://hellogithub.com/repository/40d9e68c3b72494bb2fe59467af5eb7d",
+      "mobileUrl": "https://hellogithub.com/repository/40d9e68c3b72494bb2fe59467af5eb7d"
+    },
+    {
+      "id": "775d5b3d0aa04e90be9162104e757f2e",
+      "title": "一键搞定 Linux 换源问题的脚本",
+      "desc": "该项目提供了一键切换 Linux 默认软件源为国内镜像源的脚本，以及 Docker 安装脚本，支持 Debian、Ubuntu、CentOS、Raspberry",
+      "author": "SuperManito",
+      "timestamp": 1745798416000,
+      "hot": 999,
+      "url": "https://hellogithub.com/repository/775d5b3d0aa04e90be9162104e757f2e",
+      "mobileUrl": "https://hellogithub.com/repository/775d5b3d0aa04e90be9162104e757f2e"
+    },
+    {
+      "id": "607b849c598d48e08fe38789d156ebdc",
+      "title": "简约美观的音乐播放器",
+      "desc": "这是一款基于 Electron 开发的第三方音乐播放器，拥有高颜值的界面和丰富的功能，支持本地化服务、桌面歌词显示、音乐下载等，适用于多平台使用。",
+      "author": "algerkong",
+      "timestamp": 1745798416000,
+      "hot": 1006,
+      "url": "https://hellogithub.com/repository/607b849c598d48e08fe38789d156ebdc",
+      "mobileUrl": "https://hellogithub.com/repository/607b849c598d48e08fe38789d156ebdc"
+    },
+    {
+      "id": "5d2a004b4b06439a9e82390ff1ea2d9e",
+      "title": "跨平台的多云安全备份工具",
+      "desc": "这是一款跨平台的备份客户端，支持多种主流云存储服务（如 S3、Dropbox、Google Drive 等）。它可将加密、增量、压缩的备份文件安全地存储到云端或",
+      "author": "duplicati",
+      "timestamp": 1745798416000,
+      "hot": 774,
+      "url": "https://hellogithub.com/repository/5d2a004b4b06439a9e82390ff1ea2d9e",
+      "mobileUrl": "https://hellogithub.com/repository/5d2a004b4b06439a9e82390ff1ea2d9e"
+    },
+    {
+      "id": "d13663fb959345e7923ecaccc3387571",
+      "title": "开箱即用的网盘资源转存平台",
+      "desc": "该项目是基于 Vue 3 和 Express 构建的网盘资源搜索与转存平台，支持多资源搜索、豆瓣热门榜单、网盘资源一键转存、多用户等功能，完美适配移动端和 PC",
+      "author": "jiangrui1994",
+      "timestamp": 1743119573000,
+      "hot": 4804,
+      "url": "https://hellogithub.com/repository/d13663fb959345e7923ecaccc3387571",
+      "mobileUrl": "https://hellogithub.com/repository/d13663fb959345e7923ecaccc3387571"
+    },
+    {
+      "id": "52f788da7521494aa3ae007ea3b01975",
+      "title": "解锁微信聊天记录新价值的工具",
+      "desc": "这是一款专为微信聊天记录管理而设计的开源工具。它采用 Go 语言开发，提供了 TUI 界面、命令行工具和 HTTP API 服务，支持从本地数据库查询聊天记录、",
+      "author": "sjzar",
+      "timestamp": 1744332722000,
+      "hot": 5073,
+      "url": "https://hellogithub.com/repository/52f788da7521494aa3ae007ea3b01975",
+      "mobileUrl": "https://hellogithub.com/repository/52f788da7521494aa3ae007ea3b01975"
+    },
+    {
+      "id": "cd960dfe858a4589980a1690c3b321af",
+      "title": "用 Next.js 打造现代化的文档网站",
+      "desc": "该项目是基于 Next.js 构建的文档网站框架，专为快速创建现代化、高颜值、功能丰富的文档网站而设计。它完全采用 ESM 格式，紧跟前端技术潮流，支持内容集合",
+      "author": "fuma-nama",
+      "timestamp": 1745282475000,
+      "hot": 2044,
+      "url": "https://hellogithub.com/repository/cd960dfe858a4589980a1690c3b321af",
+      "mobileUrl": "https://hellogithub.com/repository/cd960dfe858a4589980a1690c3b321af"
+    },
+    {
+      "id": "aa6c612ca3de42a082b15053be4ce3c3",
+      "title": "优雅好用的 Typora/Markdown 主题和增强插件",
+      "desc": "这是一款专为 Typora（跨平台 Markdown 编辑器）设计的开源主题和增强插件。它通过扩展 Markdown 的功能和样式，为用户提供更优雅、实用的文档",
+      "author": "MadMaxChow",
+      "timestamp": 1743640582000,
+      "hot": 3070,
+      "url": "https://hellogithub.com/repository/aa6c612ca3de42a082b15053be4ce3c3",
+      "mobileUrl": "https://hellogithub.com/repository/aa6c612ca3de42a082b15053be4ce3c3"
+    },
+    {
+      "id": "c2978695e74a423189e9ca2543ab3b36",
+      "title": "全开源的实时资讯平台",
+      "desc": "这是一款高颜值的实时新闻与热榜网站，相比传统热榜产品更加注重实时新闻。它前后端完全开源、部署简单，可轻松托管到 Cloudflare Pages 或 Verce",
+      "author": "ourongxing",
+      "timestamp": 1740700824000,
+      "hot": 7520,
+      "url": "https://hellogithub.com/repository/c2978695e74a423189e9ca2543ab3b36",
+      "mobileUrl": "https://hellogithub.com/repository/c2978695e74a423189e9ca2543ab3b36"
+    },
+    {
+      "id": "65ff1166e0c3457e9d956bdecbd84a35",
+      "title": "用 Excel 手搓各种 AI 算法和模型",
+      "desc": "该项目是通过 Excel 的形式实现并演示人工智能与深度学习的核心算法和概念，让初学者可以动手操作并理解 AI 的运行原理，包括矩阵乘法、MLP、RNN、Tra",
+      "author": "ImagineAILab",
+      "timestamp": 1740700824000,
+      "hot": 7701,
+      "url": "https://hellogithub.com/repository/65ff1166e0c3457e9d956bdecbd84a35",
+      "mobileUrl": "https://hellogithub.com/repository/65ff1166e0c3457e9d956bdecbd84a35"
+    },
+    {
+      "id": "6ab759eded16484b85e618c9e044c955",
+      "title": "基于 AI 的视频翻译配音工具",
+      "desc": "这是一个基于 Go 语言开发的开源视频翻译与配音工具，利用大型语言模型（LLMs）与 TTS 技术，实现了高质量的视频本地化处理。它集音视频翻译、配音、语音克隆",
+      "author": "krillinai",
+      "timestamp": 1744676611000,
+      "hot": 1821,
+      "url": "https://hellogithub.com/repository/6ab759eded16484b85e618c9e044c955",
+      "mobileUrl": "https://hellogithub.com/repository/6ab759eded16484b85e618c9e044c955"
+    },
+    {
+      "id": "b7bee758b7284886971340c27e075f22",
+      "title": "AI 工具的系统提示词集合",
+      "desc": "该项目汇集了作者自行提取的多种主流 AI 工具的系统提示词（System Prompts）和内部工具配置，包括 FULL v0、Cursor、Manus、Sam",
+      "author": "x1xhlol",
+      "timestamp": 1746491294000,
+      "hot": 697,
+      "url": "https://hellogithub.com/repository/b7bee758b7284886971340c27e075f22",
+      "mobileUrl": "https://hellogithub.com/repository/b7bee758b7284886971340c27e075f22"
+    }
+  ]
+}
