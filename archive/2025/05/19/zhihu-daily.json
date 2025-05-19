@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-05-19T01:41:06.330334",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781241,
+      "title": "大量刷短视频，会让大脑变笨拙吗?",
+      "cover": "https://picx.zhimg.com/v2-75ccfd45e8ba201f6dfb726c54ca4352.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781241",
+      "mobileUrl": "https://daily.zhihu.com/story/9781241"
+    },
+    {
+      "id": 9781248,
+      "title": "宇宙探测器的寿命一般多长?",
+      "cover": "https://picx.zhimg.com/v2-75d3643deb69955c1b10746057056f71.jpg?source=8673f162",
+      "author": "One Two · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781248",
+      "mobileUrl": "https://daily.zhihu.com/story/9781248"
+    },
+    {
+      "id": 9781254,
+      "title": "请问鲁智深是失手打死了郑屠还是从一开始就想打死他？",
+      "cover": "https://picx.zhimg.com/v2-8a9e17539aab8fb215307d9bc085e613.jpg?source=8673f162",
+      "author": "柔王丸 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781254",
+      "mobileUrl": "https://daily.zhihu.com/story/9781254"
+    },
+    {
+      "id": 9781258,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3659",
+      "url": "https://daily.zhihu.com/story/9781258",
+      "mobileUrl": "https://daily.zhihu.com/story/9781258"
+    }
+  ]
+}
