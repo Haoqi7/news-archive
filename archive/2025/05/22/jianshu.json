@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-05-22T01:36:48.912836",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "adec24e0284c",
+      "title": "GPT-4 何以巅覆人类社会",
+      "cover": "https://upload-images.jianshu.io/upload_images/16093057-3e8d7e132cffbb72.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "这是一个对GPT讲解的非常透彻的视频，我把它变成文字，并且花时间整理了出来，没有全盘照搬，挑了一些重点，想了解GPT的，不妨读此文，我想对你一定...",
+      "author": "沉葉",
+      "url": "https://www.jianshu.com/p/adec24e0284c",
+      "mobileUrl": "https://www.jianshu.com/p/adec24e0284c"
+    },
+    {
+      "id": "4b4725a1e6c9",
+      "title": "一文学会k8s多master集群+keepalived高可用实战",
+      "desc": "一、概述 Apiserver是 kubernetes 集群交互的入口，封装了核心对象的增删改查操作，提供了 RESTFul 风格的 API 接口...",
+      "author": "sknfie",
+      "url": "https://www.jianshu.com/p/4b4725a1e6c9",
+      "mobileUrl": "https://www.jianshu.com/p/4b4725a1e6c9"
+    },
+    {
+      "id": "5a62c8b003d5",
+      "title": "骷髅皴技法解析与临摹画册",
+      "cover": "https://upload-images.jianshu.io/upload_images/10518470-429ce0084dce5e68.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "在中国山水画的传统技法中，有一种听起来有些骇人却充满艺术智慧的技法——\"骷髅皴\"。这个名称乍听让人联想到死亡，实则蕴含着古人观察自然的独特智慧。...",
+      "author": "书画联盟",
+      "url": "https://www.jianshu.com/p/5a62c8b003d5",
+      "mobileUrl": "https://www.jianshu.com/p/5a62c8b003d5"
+    }
+  ]
+}

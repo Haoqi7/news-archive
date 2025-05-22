@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-05-22T01:36:40.071552",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781310,
+      "title": "爱吃辣是爱受虐吗？",
+      "cover": "https://picx.zhimg.com/v2-50b01aaa8ea854184b0648fd3dee9ca6.jpg?source=8673f162",
+      "author": "赵泠 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781310",
+      "mobileUrl": "https://daily.zhihu.com/story/9781310"
+    },
+    {
+      "id": 9781303,
+      "title": "马桶为什么叫马桶，不叫驴桶？",
+      "cover": "https://pic1.zhimg.com/v2-26a24c2c62d6c3dd9ffb2454dfacf38d.jpg?source=8673f162",
+      "author": "万物杂志 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781303",
+      "mobileUrl": "https://daily.zhihu.com/story/9781303"
+    },
+    {
+      "id": 9781307,
+      "title": "蚊子如果叮人不会使人感到瘙痒，不是更易生存吗？",
+      "cover": "https://picx.zhimg.com/v2-58750408f2215ff167783e155b1ad8f6.jpg?source=8673f162",
+      "author": "瞻云 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781307",
+      "mobileUrl": "https://daily.zhihu.com/story/9781307"
+    },
+    {
+      "id": 9781313,
+      "title": "瞎扯· 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "知乎日报 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781313",
+      "mobileUrl": "https://daily.zhihu.com/story/9781313"
+    }
+  ]
+}
