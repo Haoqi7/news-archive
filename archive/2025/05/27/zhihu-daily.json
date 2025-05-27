@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-05-27T01:27:48.194598",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781405,
+      "title": "为什么人的大脑总喜欢开小差？",
+      "cover": "https://pica.zhimg.com/v2-1ef87d580bfa5742c49dc03d801dfa4d.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781405",
+      "mobileUrl": "https://daily.zhihu.com/story/9781405"
+    },
+    {
+      "id": 9781395,
+      "title": "人死后是否有意识？如果有，意识去了哪里？",
+      "cover": "https://pic1.zhimg.com/v2-f966ca3b0dd545361d40debdc1843f59.jpg?source=8673f162",
+      "author": "飞奔的马达 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781395",
+      "mobileUrl": "https://daily.zhihu.com/story/9781395"
+    },
+    {
+      "id": 9781396,
+      "title": "为什么基因有显性和隐性之分？",
+      "cover": "https://pic1.zhimg.com/v2-4f509124874b6921abe6c466269c3ca8.jpg?source=8673f162",
+      "author": "中科院物理所 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781396",
+      "mobileUrl": "https://daily.zhihu.com/story/9781396"
+    },
+    {
+      "id": 9781413,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3663",
+      "url": "https://daily.zhihu.com/story/9781413",
+      "mobileUrl": "https://daily.zhihu.com/story/9781413"
+    }
+  ]
+}
