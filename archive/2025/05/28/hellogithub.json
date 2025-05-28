@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-05-28T01:37:57.330780",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "7d23863fd4be47b39e816193ded385c9",
+      "title": "跨平台可爱的互动桌宠应用",
+      "desc": "这是一款开源的跨平台桌面宠物应用，以可爱的猫咪形象陪伴你的每一次键盘与鼠标操作。它基于 Tauri 构建，支持 macOS、Windows 和 Linux，无论",
+      "author": "ayangweb",
+      "timestamp": 1747887385000,
+      "hot": 2267,
+      "url": "https://hellogithub.com/repository/7d23863fd4be47b39e816193ded385c9",
+      "mobileUrl": "https://hellogithub.com/repository/7d23863fd4be47b39e816193ded385c9"
+    },
+    {
+      "id": "743b101346c54f6cb5c20eed2edbaa40",
+      "title": "易用的跨平台开源聊天应用",
+      "desc": "这是一款专为多端打造的现代化即时通讯系统，实现了从桌面到移动平台的无缝通讯体验。它基于 Tauri、Vite 6、Vue 3 和 TypeScript 构建，支",
+      "author": "HuLaSpark",
+      "timestamp": 1747279995000,
+      "hot": 2996,
+      "url": "https://hellogithub.com/repository/743b101346c54f6cb5c20eed2edbaa40",
+      "mobileUrl": "https://hellogithub.com/repository/743b101346c54f6cb5c20eed2edbaa40"
+    },
+    {
+      "id": "d148f8fac78b45fe9b94c82757c3f86b",
+      "title": "将网页秒变桌面应用的打包工具",
+      "desc": "这是一款基于 Rust 和 Tauri 构建的开源工具，能够将任意网页或前端项目（如 Vue、React 等）快速转换为轻量级的桌面应用和移动应用。它体积仅 5",
+      "author": "Sjj1024",
+      "timestamp": 1747293524000,
+      "hot": 2377,
+      "url": "https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b",
+      "mobileUrl": "https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b"
+    },
+    {
+      "id": "cab162771f504680994fc876151b5ea5",
+      "title": "炫酷的个人主页模板",
+      "desc": "这是一个美观易用的个人主页模板，拥有流体动画背景、响应式设计和丝滑的页面过渡效果，支持通过简单的配置文件自定义页面内容与样式，轻松打造自己的个性化主页。",
+      "author": "SimonAKing",
+      "timestamp": 1748390712000,
+      "hot": 24,
+      "url": "https://hellogithub.com/repository/cab162771f504680994fc876151b5ea5",
+      "mobileUrl": "https://hellogithub.com/repository/cab162771f504680994fc876151b5ea5"
+    },
+    {
+      "id": "2b523afadd1744a0a98f1b70babd204f",
+      "title": "Windows 窗口菜单增强工具",
+      "desc": "这是一款用于扩展 Windows 系统窗口菜单功能的工具。它可以为所有窗口的系统菜单（即右键标题栏弹出的菜单）添加丰富且实用的自定义选项，如窗口置顶、调整透明度",
+      "author": "AlexanderPro",
+      "timestamp": 1748390712000,
+      "hot": 19,
+      "url": "https://hellogithub.com/repository/2b523afadd1744a0a98f1b70babd204f",
+      "mobileUrl": "https://hellogithub.com/repository/2b523afadd1744a0a98f1b70babd204f"
+    },
+    {
+      "id": "413c4ca9d4a64bf4b3dee2c52a6ae3b5",
+      "title": "高级 Python 编程教程",
+      "desc": "该项目是由 Python 社区知名专家 David Beazley （《Python Cookbook》作者）编写的高级 Python 编程课程，内容完全开源，",
+      "author": "dabeaz-course",
+      "timestamp": 1748390712000,
+      "hot": 13,
+      "url": "https://hellogithub.com/repository/413c4ca9d4a64bf4b3dee2c52a6ae3b5",
+      "mobileUrl": "https://hellogithub.com/repository/413c4ca9d4a64bf4b3dee2c52a6ae3b5"
+    },
+    {
+      "id": "26c967c214c54220bd5f45fd44f280f2",
+      "title": "开源的虚拟打印机工具",
+      "desc": "这是一款专为 Windows 系统设计的虚拟（网络）打印机工具，支持将任意文档导出为 PDF、PDF/A、图片、SVG、TXT 等多种格式。它不仅具备网络打印、",
+      "author": "clawsoftware",
+      "timestamp": 1748390712000,
+      "hot": 13,
+      "url": "https://hellogithub.com/repository/26c967c214c54220bd5f45fd44f280f2",
+      "mobileUrl": "https://hellogithub.com/repository/26c967c214c54220bd5f45fd44f280f2"
+    },
+    {
+      "id": "cbab528208574339aab814aa9692c08a",
+      "title": "命令行笔记和书签管理工具",
+      "desc": "这是一款极简的命令行笔记、书签和知识库管理工具，支持多种文件格式（Markdown、Org、LaTeX、AsciiDoc），并集成加密、版本控制（同步）、搜索、",
+      "author": "xwmx",
+      "timestamp": 1748390712000,
+      "hot": 12,
+      "url": "https://hellogithub.com/repository/cbab528208574339aab814aa9692c08a",
+      "mobileUrl": "https://hellogithub.com/repository/cbab528208574339aab814aa9692c08a"
+    },
+    {
+      "id": "0079708e7e4148c1bd5dd57dd9c3a93f",
+      "title": "键盘控制鼠标的工具",
+      "desc": "这是一个 Java 编写的键盘控制鼠标工具，支持多种导航模式和多屏环境，让用户能够完全用键盘控制鼠标，实现无鼠标的高效操作。",
+      "author": "petoncle",
+      "timestamp": 1748390712000,
+      "hot": 11,
+      "url": "https://hellogithub.com/repository/0079708e7e4148c1bd5dd57dd9c3a93f",
+      "mobileUrl": "https://hellogithub.com/repository/0079708e7e4148c1bd5dd57dd9c3a93f"
+    },
+    {
+      "id": "43d2ef94ee44482da5a7dfdf4a62824f",
+      "title": "开箱即用的 Android 设备管理工具",
+      "desc": "这一款开源的 Android ADB 桌面客户端，提供图形化界面（GUI）以便用户更方便地管理和控制 Android 设备，支持屏幕镜像、文件管理、应用管理、进",
+      "author": "liriliri",
+      "timestamp": 1748390712000,
+      "hot": 11,
+      "url": "https://hellogithub.com/repository/43d2ef94ee44482da5a7dfdf4a62824f",
+      "mobileUrl": "https://hellogithub.com/repository/43d2ef94ee44482da5a7dfdf4a62824f"
+    },
+    {
+      "id": "261b653defa743f1a055ee8367027886",
+      "title": "零基础友好的 CTF 教程",
+      "desc": "这是一份面向零基础新手的免费 CTF（夺旗赛）入门教程，内容涵盖 Web 安全、二进制安全、密码学、逆向工程等 CTF 知识，并提供配套题目，帮助初学者入门 C",
+      "author": "ProbiusOfficial",
+      "timestamp": 1748390712000,
+      "hot": 10,
+      "url": "https://hellogithub.com/repository/261b653defa743f1a055ee8367027886",
+      "mobileUrl": "https://hellogithub.com/repository/261b653defa743f1a055ee8367027886"
+    },
+    {
+      "id": "3468d5c2b24c4b97b0e825bb6bf23b7f",
+      "title": "绕过 CF 保护的代理服务器",
+      "desc": "该项目能够帮助开发者绕过 Cloudflare 和 DDoS-GUARD 防护。它通过在请求间设置代理服务，模拟 Chrome 无头浏览器完成挑战，可将真实页面",
+      "author": "FlareSolverr",
+      "timestamp": 1748390712000,
+      "hot": 9,
+      "url": "https://hellogithub.com/repository/3468d5c2b24c4b97b0e825bb6bf23b7f",
+      "mobileUrl": "https://hellogithub.com/repository/3468d5c2b24c4b97b0e825bb6bf23b7f"
+    },
+    {
+      "id": "3fa179adb3fa4b9398604e4f55d2a853",
+      "title": "多人协作式星舰模拟游戏",
+      "desc": "这是一款开源的多人星舰模拟游戏。玩家可通过 Windows、Linux 或 macOS 等不同终端联网合作，各自扮演舰长、驾驶员、工程师等不同岗位，实时协作共同",
+      "author": "daid",
+      "timestamp": 1748390712000,
+      "hot": 8,
+      "url": "https://hellogithub.com/repository/3fa179adb3fa4b9398604e4f55d2a853",
+      "mobileUrl": "https://hellogithub.com/repository/3fa179adb3fa4b9398604e4f55d2a853"
+    },
+    {
+      "id": "7d6e6c25af7d4bf082eb074b6f8e2368",
+      "title": "开源的 AI 代码编辑器",
+      "desc": "这是一款基于 VSCode 的开源 AI 代码编辑器，可作为 Cursor 开源替代品。它直接将数据发送给模型提供商，注重保护用户隐私，支持接入本地模型或主流大",
+      "author": "voideditor",
+      "timestamp": 1748390712000,
+      "hot": 8,
+      "url": "https://hellogithub.com/repository/7d6e6c25af7d4bf082eb074b6f8e2368",
+      "mobileUrl": "https://hellogithub.com/repository/7d6e6c25af7d4bf082eb074b6f8e2368"
+    },
+    {
+      "id": "9767e4adc65c4b57adcf2f4a21933d40",
+      "title": "计算机科学论文的检查清单",
+      "desc": "这是一份专为计算机科学（CS）论文写作和投稿设计的检查清单，帮助作者系统性地排查论文在质量、结构、格式、引用等方面的问题，提升论文被会议或期刊接收的概率。",
+      "author": "yzhao062",
+      "timestamp": 1748390712000,
+      "hot": 8,
+      "url": "https://hellogithub.com/repository/9767e4adc65c4b57adcf2f4a21933d40",
+      "mobileUrl": "https://hellogithub.com/repository/9767e4adc65c4b57adcf2f4a21933d40"
+    },
+    {
+      "id": "bed652ef02154dd7a434e0720125639e",
+      "title": "让静态照片“活”起来",
+      "desc": "该项目能够通过一张照片快速生成高质量、生动的视频，尤其擅长捕捉和还原面部表情，支持人类和动物肖像的动画生成。",
+      "author": "KwaiVGI",
+      "timestamp": 1748390712000,
+      "hot": 8,
+      "url": "https://hellogithub.com/repository/bed652ef02154dd7a434e0720125639e",
+      "mobileUrl": "https://hellogithub.com/repository/bed652ef02154dd7a434e0720125639e"
+    },
+    {
+      "id": "842eef9f177f405eb702a45e1e957f2f",
+      "title": "纯净无广告的 YouTube Music 桌面应用",
+      "desc": "这是一款基于 Electron 的 YouTube Music 桌面客户端，开箱即用无需登录。它保留了 YouTube Music 的原生界面，并支持插件扩展，",
+      "author": "th-ch",
+      "timestamp": 1748390712000,
+      "hot": 7,
+      "url": "https://hellogithub.com/repository/842eef9f177f405eb702a45e1e957f2f",
+      "mobileUrl": "https://hellogithub.com/repository/842eef9f177f405eb702a45e1e957f2f"
+    },
+    {
+      "id": "5b36209205484a92b6db35e19c73d31c",
+      "title": "基于 Unity 的大型多人游戏示例",
+      "desc": "该项目是 Unity 官方开源的大型多人射击类游戏示例，旨在展示如何利用 Unity 的 DOTS 技术和 Unity Gaming Services（UGS）",
+      "author": "Unity-Technologies",
+      "timestamp": 1748390712000,
+      "hot": 6,
+      "url": "https://hellogithub.com/repository/5b36209205484a92b6db35e19c73d31c",
+      "mobileUrl": "https://hellogithub.com/repository/5b36209205484a92b6db35e19c73d31c"
+    },
+    {
+      "id": "47508db6c5194b7399090ac8965f1421",
+      "title": "专业级时间序列数据可视化工具",
+      "desc": "这是一款开源的时间序列数据可视化工具，支持 CSV、ROS、ULog、MQTT 等多种数据格式及实时数据流。它拥有简单易用的界面，能够快速处理大量数据，适用于机",
+      "author": "facontidavide",
+      "timestamp": 1748390712000,
+      "hot": 6,
+      "url": "https://hellogithub.com/repository/47508db6c5194b7399090ac8965f1421",
+      "mobileUrl": "https://hellogithub.com/repository/47508db6c5194b7399090ac8965f1421"
+    },
+    {
+      "id": "edb8c525a6ed4e208cd845e3410bf10a",
+      "title": "微软开源的终端文本编辑器",
+      "desc": "该项目是采用 Rust 开发的终端（TUI）文本编辑器，致敬经典的 MS-DOS Editor。它体积小、启动快、跨平台，并提供了类似 VSCode 的快捷键和",
+      "author": "microsoft",
+      "timestamp": 1748390712000,
+      "hot": 6,
+      "url": "https://hellogithub.com/repository/edb8c525a6ed4e208cd845e3410bf10a",
+      "mobileUrl": "https://hellogithub.com/repository/edb8c525a6ed4e208cd845e3410bf10a"
+    }
+  ]
+}
