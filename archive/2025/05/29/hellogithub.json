@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-05-29T01:37:46.643637",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "314bf8e426314dde86a8c62ea5869cb7",
+      "title": "简单易用的多端 AI 推理部署框架",
+      "desc": "这是一款简单易用、高性能、支持多端的 AI 推理部署框架。它基于有向无环图设计，将前处理、推理和后处理抽象为图的节点，支持流水线并行、任务并行等优化方式。兼容 ",
+      "author": "nndeploy",
+      "timestamp": 1748390712000,
+      "hot": 396,
+      "url": "https://hellogithub.com/repository/314bf8e426314dde86a8c62ea5869cb7",
+      "mobileUrl": "https://hellogithub.com/repository/314bf8e426314dde86a8c62ea5869cb7"
+    },
+    {
+      "id": "6d7916d851c2481f87568ffd9f1c21d9",
+      "title": "一站式 Go 语言流媒体服务器开发框架",
+      "desc": "这是一款完全用 Go 语言编写的高性能、低延迟、模块化且易扩展的流媒体服务器框架。它采用模块化设计，可按需加载模块，支持录制与回放、分布式部署、Promethe",
+      "author": "langhuihui",
+      "timestamp": 1747064551000,
+      "hot": 1186,
+      "url": "https://hellogithub.com/repository/6d7916d851c2481f87568ffd9f1c21d9",
+      "mobileUrl": "https://hellogithub.com/repository/6d7916d851c2481f87568ffd9f1c21d9"
+    },
+    {
+      "id": "d869461d98d245d388b50e25b6a80dae",
+      "title": "视频一键转图文的 AI 工具",
+      "desc": "这是一款基于 AI 大模型的 Web 工具，能够一键将视频和音频转化为多种风格的文档，如小红书、公众号、知识笔记、思维导图、内容总结以及视频字幕等。",
+      "author": "hanshuaikang",
+      "timestamp": 1748337270000,
+      "hot": 260,
+      "url": "https://hellogithub.com/repository/d869461d98d245d388b50e25b6a80dae",
+      "mobileUrl": "https://hellogithub.com/repository/d869461d98d245d388b50e25b6a80dae"
+    },
+    {
+      "id": "7d23863fd4be47b39e816193ded385c9",
+      "title": "跨平台可爱的互动桌宠应用",
+      "desc": "这是一款开源的跨平台桌面宠物应用，以可爱的猫咪形象陪伴你的每一次键盘与鼠标操作。它基于 Tauri 构建，支持 macOS、Windows 和 Linux，无论",
+      "author": "ayangweb",
+      "timestamp": 1747887385000,
+      "hot": 2506,
+      "url": "https://hellogithub.com/repository/7d23863fd4be47b39e816193ded385c9",
+      "mobileUrl": "https://hellogithub.com/repository/7d23863fd4be47b39e816193ded385c9"
+    },
+    {
+      "id": "2aee41459a1d44ea8d2b391af80352db",
+      "title": "免费开源的教材资源集合",
+      "desc": "该项目整理了国内小初高、大学等各学科 PDF 教材，全部资源均免费、无水印，支持一键下载，并持续更新。",
+      "author": "TapXWorld",
+      "timestamp": 1748390712000,
+      "hot": 254,
+      "url": "https://hellogithub.com/repository/2aee41459a1d44ea8d2b391af80352db",
+      "mobileUrl": "https://hellogithub.com/repository/2aee41459a1d44ea8d2b391af80352db"
+    },
+    {
+      "id": "fb094234bf744e108f4ce7d3326a5cb1",
+      "title": "开箱即用的 Python 限流库",
+      "desc": "这是一款轻量且灵活的 Python 限流库，同步/异步皆可用。它支持多种限流算法，包括固定窗口、滑动窗口、令牌桶、漏桶和 GCRA，适配 Redis 存储后端，",
+      "author": "ZhuoZhuoCrayon",
+      "timestamp": 1748390712000,
+      "hot": 98,
+      "url": "https://hellogithub.com/repository/fb094234bf744e108f4ce7d3326a5cb1",
+      "mobileUrl": "https://hellogithub.com/repository/fb094234bf744e108f4ce7d3326a5cb1"
+    },
+    {
+      "id": "743b101346c54f6cb5c20eed2edbaa40",
+      "title": "易用的跨平台开源聊天应用",
+      "desc": "这是一款专为多端打造的现代化即时通讯系统，实现了从桌面到移动平台的无缝通讯体验。它基于 Tauri、Vite 6、Vue 3 和 TypeScript 构建，支",
+      "author": "HuLaSpark",
+      "timestamp": 1747279995000,
+      "hot": 3126,
+      "url": "https://hellogithub.com/repository/743b101346c54f6cb5c20eed2edbaa40",
+      "mobileUrl": "https://hellogithub.com/repository/743b101346c54f6cb5c20eed2edbaa40"
+    },
+    {
+      "id": "d148f8fac78b45fe9b94c82757c3f86b",
+      "title": "将网页秒变桌面应用的打包工具",
+      "desc": "这是一款基于 Rust 和 Tauri 构建的开源工具，能够将任意网页或前端项目（如 Vue、React 等）快速转换为轻量级的桌面应用和移动应用。它体积仅 5",
+      "author": "Sjj1024",
+      "timestamp": 1747293524000,
+      "hot": 2524,
+      "url": "https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b",
+      "mobileUrl": "https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b"
+    },
+    {
+      "id": "7c0dcf18501b4e868503a0b5dd100313",
+      "title": "一站式 B 站直播录制与切片工具",
+      "desc": "这是一款 B 站直播录制工具，支持自动录制、切片、弹幕渲染与投稿。它速度快、占用少、硬件要求低，通过集成语音识别、视频理解、图像生成等模型，实现从录制、切片到上",
+      "author": "timerring",
+      "timestamp": 1748390712000,
+      "hot": 77,
+      "url": "https://hellogithub.com/repository/7c0dcf18501b4e868503a0b5dd100313",
+      "mobileUrl": "https://hellogithub.com/repository/7c0dcf18501b4e868503a0b5dd100313"
+    },
+    {
+      "id": "dfb7082c16a24cef92ac12e96e0af87a",
+      "title": "软著申请教程和模板文件",
+      "desc": "该项目提供了中国软件著作权申请的教程和模板文件，包括用户操作手册、源码文档、申请表等，降低软著申请门槛、提高申请成功率。",
+      "author": "AlexanderZhou01",
+      "timestamp": 1748390712000,
+      "hot": 68,
+      "url": "https://hellogithub.com/repository/dfb7082c16a24cef92ac12e96e0af87a",
+      "mobileUrl": "https://hellogithub.com/repository/dfb7082c16a24cef92ac12e96e0af87a"
+    },
+    {
+      "id": "541239378f5d45b6b23aed9292d0c299",
+      "title": "更好用的 df 命令替代工具",
+      "desc": "该项目是基于 Rust 开发的查看 Linux 系统磁盘使用情况的工具，提供比 df 命令更直观的数据展示，支持自定义列显示、过滤、排序等功能。",
+      "author": "Canop",
+      "timestamp": 1748390712000,
+      "hot": 57,
+      "url": "https://hellogithub.com/repository/541239378f5d45b6b23aed9292d0c299",
+      "mobileUrl": "https://hellogithub.com/repository/541239378f5d45b6b23aed9292d0c299"
+    },
+    {
+      "id": "4cf7d7c66be44b3588a13cac52c16d1d",
+      "title": "面向游戏开发的色盲检测工具",
+      "desc": "该项目是育碧官方开源的色盲检测工具，支持实时在游戏画面上叠加三种色盲滤镜，帮助开发者直观地看到色盲用户可能遇到的视觉障碍，从而及时调整游戏设计，提升游戏的可访问",
+      "author": "ubisoft",
+      "timestamp": 1748390712000,
+      "hot": 49,
+      "url": "https://hellogithub.com/repository/4cf7d7c66be44b3588a13cac52c16d1d",
+      "mobileUrl": "https://hellogithub.com/repository/4cf7d7c66be44b3588a13cac52c16d1d"
+    },
+    {
+      "id": "cab162771f504680994fc876151b5ea5",
+      "title": "炫酷的个人主页模板",
+      "desc": "这是一个美观易用的个人主页模板，拥有流体动画背景、响应式设计和丝滑的页面过渡效果，支持通过简单的配置文件自定义页面内容与样式，轻松打造自己的个性化主页。",
+      "author": "SimonAKing",
+      "timestamp": 1748390712000,
+      "hot": 234,
+      "url": "https://hellogithub.com/repository/cab162771f504680994fc876151b5ea5",
+      "mobileUrl": "https://hellogithub.com/repository/cab162771f504680994fc876151b5ea5"
+    },
+    {
+      "id": "413c4ca9d4a64bf4b3dee2c52a6ae3b5",
+      "title": "高级 Python 编程教程",
+      "desc": "该项目是由 Python 社区知名专家 David Beazley （《Python Cookbook》作者）编写的高级 Python 编程课程，内容完全开源，",
+      "author": "dabeaz-course",
+      "timestamp": 1748390712000,
+      "hot": 159,
+      "url": "https://hellogithub.com/repository/413c4ca9d4a64bf4b3dee2c52a6ae3b5",
+      "mobileUrl": "https://hellogithub.com/repository/413c4ca9d4a64bf4b3dee2c52a6ae3b5"
+    },
+    {
+      "id": "2b523afadd1744a0a98f1b70babd204f",
+      "title": "Windows 窗口菜单增强工具",
+      "desc": "这是一款用于扩展 Windows 系统窗口菜单功能的工具。它可以为所有窗口的系统菜单（即右键标题栏弹出的菜单）添加丰富且实用的自定义选项，如窗口置顶、调整透明度",
+      "author": "AlexanderPro",
+      "timestamp": 1748390712000,
+      "hot": 153,
+      "url": "https://hellogithub.com/repository/2b523afadd1744a0a98f1b70babd204f",
+      "mobileUrl": "https://hellogithub.com/repository/2b523afadd1744a0a98f1b70babd204f"
+    },
+    {
+      "id": "bed652ef02154dd7a434e0720125639e",
+      "title": "让静态照片“活”起来",
+      "desc": "该项目能够通过一张照片快速生成高质量、生动的视频，尤其擅长捕捉和还原面部表情，支持人类和动物肖像的动画生成。",
+      "author": "KwaiVGI",
+      "timestamp": 1748390712000,
+      "hot": 148,
+      "url": "https://hellogithub.com/repository/bed652ef02154dd7a434e0720125639e",
+      "mobileUrl": "https://hellogithub.com/repository/bed652ef02154dd7a434e0720125639e"
+    },
+    {
+      "id": "26c967c214c54220bd5f45fd44f280f2",
+      "title": "开源的虚拟打印机工具",
+      "desc": "这是一款专为 Windows 系统设计的虚拟（网络）打印机工具，支持将任意文档导出为 PDF、PDF/A、图片、SVG、TXT 等多种格式。它不仅具备网络打印、",
+      "author": "clawsoftware",
+      "timestamp": 1748390712000,
+      "hot": 138,
+      "url": "https://hellogithub.com/repository/26c967c214c54220bd5f45fd44f280f2",
+      "mobileUrl": "https://hellogithub.com/repository/26c967c214c54220bd5f45fd44f280f2"
+    },
+    {
+      "id": "f65bb46a90c74c548fc21fb42445e161",
+      "title": "低功耗复古便携电脑",
+      "desc": "这是一款便携式电子墨水屏电脑，具有超长续航（可达 500 小时）。它搭载 ESP32 和 E-ink 屏幕，复刻经典 IBM XT 计算机，兼容 DOS、Min",
+      "author": "ericjenott",
+      "timestamp": 1748390712000,
+      "hot": 125,
+      "url": "https://hellogithub.com/repository/f65bb46a90c74c548fc21fb42445e161",
+      "mobileUrl": "https://hellogithub.com/repository/f65bb46a90c74c548fc21fb42445e161"
+    },
+    {
+      "id": "56619dd12ba64e739384799b78b218f5",
+      "title": "轻松定制你的本地 AI 数字分身",
+      "desc": "该项目是专注于用个人数据训练 AI 的平台，致力于帮助每个人构建、训练并拥有属于自己的本地 AI 数字分身。它采用分层记忆建模（HMM）和 Me-Alignme",
+      "author": "mindverse",
+      "timestamp": 1748390712000,
+      "hot": 121,
+      "url": "https://hellogithub.com/repository/56619dd12ba64e739384799b78b218f5",
+      "mobileUrl": "https://hellogithub.com/repository/56619dd12ba64e739384799b78b218f5"
+    },
+    {
+      "id": "0079708e7e4148c1bd5dd57dd9c3a93f",
+      "title": "键盘控制鼠标的工具",
+      "desc": "这是一个 Java 编写的键盘控制鼠标工具，支持多种导航模式和多屏环境，让用户能够完全用键盘控制鼠标，实现无鼠标的高效操作。",
+      "author": "petoncle",
+      "timestamp": 1748390712000,
+      "hot": 116,
+      "url": "https://hellogithub.com/repository/0079708e7e4148c1bd5dd57dd9c3a93f",
+      "mobileUrl": "https://hellogithub.com/repository/0079708e7e4148c1bd5dd57dd9c3a93f"
+    }
+  ]
+}
