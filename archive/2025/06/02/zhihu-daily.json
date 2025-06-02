@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-06-02T01:42:10.363997",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781549,
+      "title": "以前割麦时，看到有蛇在上面飞奔，那是什么蛇？",
+      "cover": "https://pica.zhimg.com/v2-3c306e9545d8c7b3d61b13157e54bf31.jpg?source=8673f162",
+      "author": "蝉说 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781549",
+      "mobileUrl": "https://daily.zhihu.com/story/9781549"
+    },
+    {
+      "id": 9781531,
+      "title": "如果黄河不再人为干预治理而是任由自然发展，最终会发展成什么样的水文环境？",
+      "cover": "https://pic1.zhimg.com/v2-fa049184883fdfdd6869aa088eb0568f.jpg?source=8673f162",
+      "author": "免渡河 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781531",
+      "mobileUrl": "https://daily.zhihu.com/story/9781531"
+    },
+    {
+      "id": 9781540,
+      "title": "如果亲生孩子跟父亲的基因相似度高达 99.9% ，和母亲的也 99.9% ，那岂不是父亲和母亲的也高达 99.9% ?",
+      "cover": "https://pica.zhimg.com/v2-be1d9ceb6d5f849027d3d59890d97e34.jpg?source=8673f162",
+      "author": "赵泠 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781540",
+      "mobileUrl": "https://daily.zhihu.com/story/9781540"
+    },
+    {
+      "id": 9781548,
+      "title": "动物也会有自己的爱恨情仇吗？",
+      "cover": "https://picx.zhimg.com/v2-ffbbafcdddd1044bdf8212d23eda1c64.jpg?source=8673f162",
+      "author": "猫盟CFCA · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781548",
+      "mobileUrl": "https://daily.zhihu.com/story/9781548"
+    }
+  ]
+}

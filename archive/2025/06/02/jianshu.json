@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-06-02T01:42:19.226157",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "3f43de6705c5",
+      "title": "【kafka】为什么kafka中的分区数只能增加不能减少？",
+      "cover": "https://upload-images.jianshu.io/upload_images/12979420-9687ac61b851de45.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "当一个主题被创建之后，依然允许我们对其做一定的修改，比如修改分区个数、修改配置等，这个修改的功能就是由kafka[https://so.csdn...",
+      "author": "Bogon",
+      "url": "https://www.jianshu.com/p/3f43de6705c5",
+      "mobileUrl": "https://www.jianshu.com/p/3f43de6705c5"
+    },
+    {
+      "id": "36e8da737a88",
+      "title": "Apache Hive - 通用调优",
+      "cover": "https://upload-images.jianshu.io/upload_images/27732789-41127544950463a6.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "Apache Hive-通用优化-featch抓取机制  mr本地模式 Fetch抓取机制 功能：在执行sql的时候，能不走MapReduce程...",
+      "author": "Eqo",
+      "url": "https://www.jianshu.com/p/36e8da737a88",
+      "mobileUrl": "https://www.jianshu.com/p/36e8da737a88"
+    },
+    {
+      "id": "ddc817312bc4",
+      "title": "shardindjdbc-complex策略",
+      "cover": "https://upload-images.jianshu.io/upload_images/22920501-c882dabd6c389d53.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "支持多分片键的复杂分片策略。配置参数：complex.sharding-columns 分片键(多个);complex.algorithm-cl...",
+      "author": "念䋛",
+      "url": "https://www.jianshu.com/p/ddc817312bc4",
+      "mobileUrl": "https://www.jianshu.com/p/ddc817312bc4"
+    }
+  ]
+}
