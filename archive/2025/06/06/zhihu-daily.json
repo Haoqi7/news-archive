@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-06-06T01:37:45.121403",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781645,
+      "title": "兔子是哺乳动物，为什么兔子可以近亲繁殖？",
+      "cover": "https://picx.zhimg.com/v2-eb438012ee75de699b752ea1779cbcf1.jpg?source=8673f162",
+      "author": "极萨学院冷哲 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781645",
+      "mobileUrl": "https://daily.zhihu.com/story/9781645"
+    },
+    {
+      "id": 9781628,
+      "title": "大脑的功能为什么会分区，这样分区与大脑的工作有什么关系吗？",
+      "cover": "https://picx.zhimg.com/v2-5a1052e5d96e68a1dd110df9e290b2d9.jpg?source=8673f162",
+      "author": "吃虾要吃带籽虾 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781628",
+      "mobileUrl": "https://daily.zhihu.com/story/9781628"
+    },
+    {
+      "id": 9781638,
+      "title": "为什么中国没有形成超大型的内陆湖？",
+      "cover": "https://picx.zhimg.com/v2-00c376fcd553ed54f33b75424ce39d75.jpg?source=8673f162",
+      "author": "北落师门 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781638",
+      "mobileUrl": "https://daily.zhihu.com/story/9781638"
+    },
+    {
+      "id": 9781648,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3670",
+      "url": "https://daily.zhihu.com/story/9781648",
+      "mobileUrl": "https://daily.zhihu.com/story/9781648"
+    }
+  ]
+}
