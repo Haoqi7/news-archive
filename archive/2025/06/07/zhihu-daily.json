@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-06-07T01:37:00.583944",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781669,
+      "title": "为什么哺乳动物没有进化出蛇?",
+      "cover": "https://picx.zhimg.com/v2-84844c4f635bda5fe119516aa80e114f.jpg?source=8673f162",
+      "author": "怪罗先生 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781669",
+      "mobileUrl": "https://daily.zhihu.com/story/9781669"
+    },
+    {
+      "id": 9781658,
+      "title": "思考时间久了会感觉疲劳是什么原因造成的？",
+      "cover": "https://picx.zhimg.com/v2-7ec5279c9e01bc7bb59cf083a648a4cb.jpg?source=8673f162",
+      "author": "呸PER无一郎 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781658",
+      "mobileUrl": "https://daily.zhihu.com/story/9781658"
+    },
+    {
+      "id": 9781660,
+      "title": "把面粉变成面团本质上发生了什么变化？",
+      "cover": "https://pica.zhimg.com/v2-56c9a643b41b37f324ba7f37b3535346.jpg?source=8673f162",
+      "author": "章沪川 · 7 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781660",
+      "mobileUrl": "https://daily.zhihu.com/story/9781660"
+    },
+    {
+      "id": 9781667,
+      "title": "人类为什么要进化出这么长的睡眠时间？",
+      "cover": "https://pic1.zhimg.com/v2-b00b2d131a359b57b3f53872b4d0c376.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781667",
+      "mobileUrl": "https://daily.zhihu.com/story/9781667"
+    }
+  ]
+}
