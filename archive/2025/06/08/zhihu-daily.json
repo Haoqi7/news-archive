@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-06-08T01:46:03.152349",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781687,
+      "title": "人脑的巅峰期在什么年龄段?",
+      "cover": "https://picx.zhimg.com/v2-266cc3309376e66fdeb5f146c43879e1.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781687",
+      "mobileUrl": "https://daily.zhihu.com/story/9781687"
+    },
+    {
+      "id": 9781677,
+      "title": "为什么出版古书一定要印成繁体字并排成竖版？",
+      "cover": "https://pic1.zhimg.com/v2-aeefc590d4e87a8ef0f6e336a0ca7440.jpg?source=8673f162",
+      "author": "宁南左侯 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781677",
+      "mobileUrl": "https://daily.zhihu.com/story/9781677"
+    },
+    {
+      "id": 9781685,
+      "title": "近代骑兵和古代骑兵的真正区别在什么地方？",
+      "cover": "https://picx.zhimg.com/v2-18cd9e010a414ea215e6c928c7115b08.jpg?source=8673f162",
+      "author": "知乎用户 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781685",
+      "mobileUrl": "https://daily.zhihu.com/story/9781685"
+    },
+    {
+      "id": 9781695,
+      "title": "黑洞为什么会扭曲时间？",
+      "cover": "https://pic1.zhimg.com/v2-989bfc219c83f59fcd7c299e014f3e00.jpg?source=8673f162",
+      "author": "遥远地方剑星 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781695",
+      "mobileUrl": "https://daily.zhihu.com/story/9781695"
+    }
+  ]
+}

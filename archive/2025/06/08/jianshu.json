@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-06-08T01:46:12.126225",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "2e1f1efa2c76",
+      "title": "复现NC文章华夫图(方块图)-华丽展示实验样本构成",
+      "cover": "https://upload-images.jianshu.io/upload_images/26169980-8ac774fb3a138cb6.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "样本构成是实验的开端，也是后续分析的基础，所以样本信息在论文中需要详细展示，涉及到你实验的真实性和可重复性。一般样本构成可以使用AI做示例图，有...",
+      "author": "KS科研分享与服务",
+      "url": "https://www.jianshu.com/p/2e1f1efa2c76",
+      "mobileUrl": "https://www.jianshu.com/p/2e1f1efa2c76"
+    },
+    {
+      "id": "9f35d6b0d34c",
+      "title": "苏超联赛",
+      "desc": "据说这是继英超、意甲、德甲、西甲、法甲后，号称的第六大联赛。之所以定义为大联赛，直接原因是上座率。 为什么突然江苏会火出圈呢？年初的灵魂拷问还记...",
+      "author": "康德_326",
+      "url": "https://www.jianshu.com/p/9f35d6b0d34c",
+      "mobileUrl": "https://www.jianshu.com/p/9f35d6b0d34c"
+    },
+    {
+      "id": "afc9882e95bf",
+      "title": "一文看懂 JavaScript 异步相关知识",
+      "desc": "异步 是我们在阅读技术文章时经常看到的字眼，那 异步 是什么意思？他重要吗？要怎么实现异步呢？本文将试着说明清楚这些事情。 异步 JavaScr...",
+      "author": "you的日常",
+      "url": "https://www.jianshu.com/p/afc9882e95bf",
+      "mobileUrl": "https://www.jianshu.com/p/afc9882e95bf"
+    }
+  ]
+}
