@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "platform": "52pojie",
+    "date": "2025-06-10T01:40:29.910978",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 0,
+      "title": "保姆式解析某高质量听书网站音频地址全过程(适合小白练手)",
+      "desc": "[md]# 免责声明：\r\n本贴中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关。\r\n## 一、前言\r\n要获取网络上免费站的音视频真实地址的方 ...",
+      "author": "lenvy1",
+      "timestamp": 1748523387000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2035137",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2035137"
+    },
+    {
+      "id": 1,
+      "title": "某程token  jsvmp算法分析",
+      "desc": "接口:  batchSearch?\r\n目标参数：token\r\n\r\n1.插桩apply函数\r\n一路调试 ， 定位到加密参数生成的位置\r\n\r\n\r\n\r\n进去后调试跟个几步发现是个VMP\r\n既然是个VMP  第一步直接无脑插桩apply函数即可，目的是分析大致流程\r\n\r\n排除 ...",
+      "author": "q8917749",
+      "timestamp": 1748445518000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2034891",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2034891"
+    },
+    {
+      "id": 2,
+      "title": "某大厂waf逆向-- 用AST还原加强ob混淆壳",
+      "desc": "前言：\r\n对于非标准OB的强混淆，有些时候硬着头皮去调试，往往把自己搞晕。 说起AST呢，以前我也不太爱用这个东西，因为觉得用起来还不如我直接调试。\r\n但是没办法，现在的混淆绕的弯越来越大，硬着头皮调试其实还不如用 ...",
+      "author": "q8917749",
+      "timestamp": 1748355451000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2034613",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2034613"
+    },
+    {
+      "id": 3,
+      "title": "基于air780eg做的定位器",
+      "desc": "源码：\r\n\r\n\r\nhttps://github.com/sunhanaix/GPS_Tracker\r\n\r\n[md]# 一、简述\r\n\r\n本项目基于合宙Air780EG开发。Air780EG实时获得轨迹数据，并通过MQTT协议上传至服务器。  \r\n服务器通过mqtt协议订阅air780eg的几个主题，并 ...",
+      "author": "sunbeat",
+      "timestamp": 1747979038000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2033592",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2033592"
+    },
+    {
+      "id": 4,
+      "title": "关于vmp3.2的一点研究心得",
+      "desc": "最近在学代码虚拟化，看了章立春老师的代码虚拟与自动化分析这本书前几章，第三章自己实现了一个简单的虚拟机，明白了虚拟化的基本原理。遂开始研究了一下vmp3.2，谈论一下我的一点理解和心得，如有错误请指正。刚开始接 ...",
+      "author": "yoyoRev",
+      "timestamp": 1747575944000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2032343",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2032343"
+    },
+    {
+      "id": 5,
+      "title": "VMP 3.8.4 替换Hwid 思路",
+      "desc": "VMP 3.8.4 替换Hwid 思路\r\n\r\n思路\r\nVMProtectGetCurrentHWID\r\n通过分析vmp泄露源码得知Hwid的组成部分图下所示\r\n使用sha1计算每组结果取前4个字节组合后使用RC5加密算法随机密钥进行存储，调用此函数组合后使用Base64呈现 ...",
+      "author": "lsffcl",
+      "timestamp": 1747559912000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2032305",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2032305"
+    },
+    {
+      "id": 6,
+      "title": "WEB前端逆向在nodejs环境中复用webpack代码",
+      "desc": "[md]```\r\n创建: 2025-05-13 09:33\r\n更新: 2025-05-14 08:32\r\n\r\n目录:\r\n\r\n    ☆ 背景介绍\r\n    ☆ nodejs环境完整实验用例\r\n    ☆ 安装webpack开发环境\r\n    ☆ 用webpack打包成browser可用代码\r\n        1) hello.js\r\n        2) webpack配置文件\r\n        3) webpack ...",
+      "author": "scz",
+      "timestamp": 1747200533000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2031316",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2031316"
+    },
+    {
+      "id": 7,
+      "title": "解包《雅致 Flash打包器 (AGE Flash Packer)》生成的可执行文件",
+      "desc": "[md]## 前因\r\n\r\n起因是在论坛收到一则求助：\r\n\r\n&gt; 求助关于雅致Flash播放器(AGE FlashPacker)的数据解密问题  \r\n&gt; https://www.52pojie.cn/thread-2030470-1-1.html\r\n\r\n文中给出了一个样本文件：\r\n\r\n- [蓝奏网盘](https:/ ...",
+      "author": "爱飞的猫",
+      "timestamp": 1746970590000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2030676",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2030676"
+    },
+    {
+      "id": 8,
+      "title": "vmp套vmp之探讨某d的_fingerprint参数生成",
+      "desc": "",
+      "author": "utf8",
+      "timestamp": 1746780161000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2030247",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2030247"
+    },
+    {
+      "id": 9,
+      "title": "某日遊mmap模塊化保護簡單分析",
+      "desc": "[md]\r\n## 前言\r\n\r\n前前後後大概分析了這樣本4次左右，前3次都以失敗告終，或許對於普通人來說，失敗才是人生的主旋律，接觸逆向後對這句話越來越有感觸。\r\n\r\n本文主要分析的目標是frida/hook檢測。\r\n\r\n## 閃退情況描述\r ...",
+      "author": "ngiokweng",
+      "timestamp": 1746543388000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2029498",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2029498"
+    },
+    {
+      "id": 10,
+      "title": "使用AST技术自动扣代码的一些尝试",
+      "desc": "[md]大家好，今天来分享一种借助 AST 自动扣代码的方案。\r\n\r\n\r\n## 扣代码\r\n\r\n扣代码这种方法比较繁琐，而且像那种强混淆的代码，函数超级多，一个一个的复制要花费很多时间，属实是有点坐不住。\r\n\r\n突然想到是不是可以使 ...",
+      "author": "1462326016",
+      "timestamp": 1746240348000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2028814",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2028814"
+    },
+    {
+      "id": 11,
+      "title": "信息公示平台搜索滑块逆向",
+      "desc": "本文章中所有内容仅供学习交流，抓包内容、敏感网址、数据接口均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关，若有侵权，请联系我立即删除！\r\n\r\n\r\n目标：实现搜索后，滑块验证，得到 ...",
+      "author": "zzyzy",
+      "timestamp": 1746074909000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2028581",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2028581"
+    },
+    {
+      "id": 12,
+      "title": "【CVE-2024-0582】Linux kernel [io_uring子系统]UAF in PBUF mmap 漏洞分析与利用",
+      "desc": "[md]# 0x00. 一切开始之前\r\n\r\n[CVE-2024-0582](https://nvd.nist.gov/vuln/detail/cve-2024-0582) 是一个发生在 Linux kernel 的 (https://man7.org/linux/man-pages/man7/io_uring.7.html) 这一高性能异步 IO API 中的漏洞，得益于对使用 `IORING_REGISTER_PBUF_RING ...",
+      "author": "arttnba3",
+      "timestamp": 1746001091000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2028439",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2028439"
+    },
+    {
+      "id": 13,
+      "title": "驱动挂钩所有内核导出函数来进行驱动逻辑分析",
+      "desc": "[md]# 驱动挂钩所有内核导出函数来进行驱动逻辑分析\r\n\r\n## 太长不看\r\n\r\n+ 内核hook框架  [https://github.com/smallzhong/kernelhook](https://github.com/smallzhong/kernelhook) \r\n+ 使用上面框架进行对驱动所有导出函 ...",
+      "author": "smallzhong",
+      "timestamp": 1745757262000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2027739",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2027739"
+    },
+    {
+      "id": 14,
+      "title": "[五一礼物]Hopper Disassembler for macOS 5.18.1 CracKed [SIP ON][2025.4.28]",
+      "desc": "仓库被 DMCA 了，大家去爱盘下载吧。\r\n\r\n[md]# &amp;#128736; Hopper Disassembler for macOS 5.18.1  [SIP ON]\r\n\r\n## &amp;#127381; 更新记录\r\n\r\n**2025年4月28日**  \r\n\r\n- 支持 **SIP 开启 (SIP ON)**\r\n- 不再依赖 `HopperSta ...",
+      "author": "Vvvvvoid",
+      "timestamp": 1745630437000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2027339",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2027339"
+    },
+    {
+      "id": 15,
+      "title": "【Chrome插件开发】某视频网站的m4s视频/音频下载方案，及其Chrome插件实现-v250415",
+      "desc": "[md]## 引言\r\n\r\nSample URL：aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXBwNDIxZDc1cQ==\r\n\r\n我去年写了这篇文章：[【前端甜点】某视频网站的m4s视频/音频下载方案（20240420）](https://www.52pojie.cn/thread-1915 ...",
+      "author": "hans7",
+      "timestamp": 1745321085000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2026417",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2026417"
+    },
+    {
+      "id": 16,
+      "title": "Pyinstaller Repack 指南",
+      "desc": "[md]# **Pyinstaller Repack 指南**\r\n大一牲，想要Patch一个抢学校图书馆座位的软件，却困于Pyinstaller程序的重打包，以此为契机研究了一下Repack的完整流程，避免接触难懂难修改的字节码，并使用了一个几乎无人知晓的 ...",
+      "author": "hitachimako",
+      "timestamp": 1745004456000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2025482",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2025482"
+    },
+    {
+      "id": 17,
+      "title": "Quick_Any2Ico 3.5  AES 分析解密加注册机编写 图片转ICO、EXE图标提取、窗口图标提取",
+      "desc": "[md]# 1、简介\r\nAES加密中，密钥(KEY)、初始化向量(IV)、加密模式(MODE)、填充模式(PADDING)是核心参数，\r\n逆向分析AES就是要找到这几个参数。\r\n此次以分析 Quick_Any2Ico（图标提取与格式转换软件） 这个小软件为例，\r\n ...",
+      "author": "qqycra",
+      "timestamp": 1744860129000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024898",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024898"
+    },
+    {
+      "id": 18,
+      "title": "jy无感取巧思路",
+      "desc": "[md]# jy无感取巧思路\r\n\r\n&gt; 目标网站：aHR0cHM6Ly9ndDQuZ2VldGVzdC5jb20v\r\n\r\n本文纯粹取巧！！！对小萌新很不友好\r\n\r\n***本文仅供学习交流，因使用本文内容而产生的任何风险及后果，作者不承担任何责任，一起学习吧***\r\n\r ...",
+      "author": "utf8",
+      "timestamp": 1744801118000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024800",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024800"
+    },
+    {
+      "id": 19,
+      "title": "某某省过验证码逆向---------小白讲解09",
+      "desc": "本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关.本文章未经许可禁止转载，禁 ...",
+      "author": "Aircraftcomman5",
+      "timestamp": 1744702064000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024396",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2024396"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-06-10T01:40:15.778761",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781732,
+      "title": "黑洞是不是另外一个宇宙的入口呢？",
+      "cover": "https://pic1.zhimg.com/v2-d24c50fc36e2b0e53dbb3679c7dc8c53.jpg?source=8673f162",
+      "author": "朝宗 · 13 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781732",
+      "mobileUrl": "https://daily.zhihu.com/story/9781732"
+    },
+    {
+      "id": 9781719,
+      "title": "很多 JRPG 游戏中的 Boss 都对异常状态免疫(中毒，魅惑，眩晕等)，那么设计这些机制的意义是什么？",
+      "cover": "https://picx.zhimg.com/v2-d8b279da0cf635d80604af13baf9b1b9.jpg?source=8673f162",
+      "author": "知乎用户 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781719",
+      "mobileUrl": "https://daily.zhihu.com/story/9781719"
+    },
+    {
+      "id": 9781728,
+      "title": "中国历史上，有谁的父亲是皇帝，儿子也是皇帝，但自己不是皇帝的？",
+      "cover": "https://picx.zhimg.com/v2-ba9a0e2f4db963d5d0e113115d8a1797.jpg?source=8673f162",
+      "author": "宁南左侯 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781728",
+      "mobileUrl": "https://daily.zhihu.com/story/9781728"
+    },
+    {
+      "id": 9781736,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3672",
+      "url": "https://daily.zhihu.com/story/9781736",
+      "mobileUrl": "https://daily.zhihu.com/story/9781736"
+    }
+  ]
+}

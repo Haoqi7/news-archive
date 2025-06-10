@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-06-10T01:40:33.411781",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "3f2f6cbd622649e1acccd9e2bffe045e",
+      "title": "让 MP4 成为你的 AI 记忆库",
+      "desc": "这是一个基于视频文件的 AI 记忆库，能够将数百万条文本片段存储在 MP4 文件中。它将大规模文本（知识内容、上下文信息等）压缩嵌入到 MP4 文件中，并支持毫",
+      "author": "Olow304",
+      "timestamp": 1749515538000,
+      "hot": 21,
+      "url": "https://hellogithub.com/repository/3f2f6cbd622649e1acccd9e2bffe045e",
+      "mobileUrl": "https://hellogithub.com/repository/3f2f6cbd622649e1acccd9e2bffe045e"
+    },
+    {
+      "id": "67ff8f69e6004b559d801b9c210f3dab",
+      "title": "极简的项目管理工具",
+      "desc": "这是一款看板（Kanban）风格的项目管理工具，可作为 Trello 的开源替代品。它通过直观界面和高效协作设计，简化项目管理流程，支持创建项目、看板、列表、卡",
+      "author": "plankanban",
+      "timestamp": 1749515873000,
+      "hot": 21,
+      "url": "https://hellogithub.com/repository/67ff8f69e6004b559d801b9c210f3dab",
+      "mobileUrl": "https://hellogithub.com/repository/67ff8f69e6004b559d801b9c210f3dab"
+    },
+    {
+      "id": "a48e66ffbfa2449c8f41b9f5e2b9fab3",
+      "title": "一键生成软件物料清单的工具",
+      "desc": "该项目是用于从容器镜像和文件系统中生成软件物料清单（SBOM）的命令行工具，能够详细展示软件中的包和依赖关系，支持 SPDX、CycloneDX 等主流标准格式",
+      "author": "anchore",
+      "timestamp": 1749516236000,
+      "hot": 11,
+      "url": "https://hellogithub.com/repository/a48e66ffbfa2449c8f41b9f5e2b9fab3",
+      "mobileUrl": "https://hellogithub.com/repository/a48e66ffbfa2449c8f41b9f5e2b9fab3"
+    },
+    {
+      "id": "372a23df7bed4e79a08d8ff1720b79e6",
+      "title": "开箱即用的智能体记忆引擎",
+      "desc": "这是一个专为 AI 智能体（Agents）提供记忆功能的 Python 项目，集成了图数据库、知识图谱及向量数据库等技术。它仅需 5 行代码，即可轻松为 AI ",
+      "author": "topoteretes",
+      "timestamp": 1749516580000,
+      "hot": 7,
+      "url": "https://hellogithub.com/repository/372a23df7bed4e79a08d8ff1720b79e6",
+      "mobileUrl": "https://hellogithub.com/repository/372a23df7bed4e79a08d8ff1720b79e6"
+    },
+    {
+      "id": "68949d9f825648cfa3dd8c54d2394156",
+      "title": "手机上离线体验 AI 模型",
+      "desc": "该项目由 Google AI Edge 团队开源，旨在让用户能够在手机设备上轻松运行和测试 Edge AI 模型。它开箱即用、轻松切换模型，模型加载后可离线体验",
+      "author": "google-ai-edge",
+      "timestamp": 1749516104000,
+      "hot": 6,
+      "url": "https://hellogithub.com/repository/68949d9f825648cfa3dd8c54d2394156",
+      "mobileUrl": "https://hellogithub.com/repository/68949d9f825648cfa3dd8c54d2394156"
+    },
+    {
+      "id": "743b101346c54f6cb5c20eed2edbaa40",
+      "title": "易用的跨平台开源聊天应用",
+      "desc": "这是一款专为多端打造的现代化即时通讯系统，实现了从桌面到移动平台的无缝通讯体验。它基于 Tauri、Vite 6、Vue 3 和 TypeScript 构建，支",
+      "author": "HuLaSpark",
+      "timestamp": 1747279995000,
+      "hot": 4152,
+      "url": "https://hellogithub.com/repository/743b101346c54f6cb5c20eed2edbaa40",
+      "mobileUrl": "https://hellogithub.com/repository/743b101346c54f6cb5c20eed2edbaa40"
+    },
+    {
+      "id": "314bf8e426314dde86a8c62ea5869cb7",
+      "title": "简单易用的多端 AI 推理部署框架",
+      "desc": "这是一款简单易用、高性能、支持多端的 AI 推理部署框架。它基于有向无环图设计，将前处理、推理和后处理抽象为图的节点，支持流水线并行、任务并行等优化方式。兼容 ",
+      "author": "nndeploy",
+      "timestamp": 1748390712000,
+      "hot": 2159,
+      "url": "https://hellogithub.com/repository/314bf8e426314dde86a8c62ea5869cb7",
+      "mobileUrl": "https://hellogithub.com/repository/314bf8e426314dde86a8c62ea5869cb7"
+    },
+    {
+      "id": "7d23863fd4be47b39e816193ded385c9",
+      "title": "跨平台可爱的互动桌宠应用",
+      "desc": "这是一款开源的跨平台桌面宠物应用，以可爱的猫咪形象陪伴你的每一次键盘与鼠标操作。它基于 Tauri 构建，支持 macOS、Windows 和 Linux，无论",
+      "author": "ayangweb",
+      "timestamp": 1747887385000,
+      "hot": 4259,
+      "url": "https://hellogithub.com/repository/7d23863fd4be47b39e816193ded385c9",
+      "mobileUrl": "https://hellogithub.com/repository/7d23863fd4be47b39e816193ded385c9"
+    },
+    {
+      "id": "d148f8fac78b45fe9b94c82757c3f86b",
+      "title": "将网页秒变桌面应用的打包工具",
+      "desc": "这是一款基于 Rust 和 Tauri 构建的开源工具，能够将任意网页或前端项目（如 Vue、React 等）快速转换为轻量级的桌面应用和移动应用。它体积仅 5",
+      "author": "Sjj1024",
+      "timestamp": 1747293524000,
+      "hot": 3478,
+      "url": "https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b",
+      "mobileUrl": "https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b"
+    },
+    {
+      "id": "d869461d98d245d388b50e25b6a80dae",
+      "title": "视频一键转图文的 AI 工具",
+      "desc": "这是一款基于 AI 大模型的 Web 工具，能够一键将视频和音频转化为多种风格的文档，如小红书、公众号、知识笔记、思维导图、内容总结以及视频字幕等。",
+      "author": "hanshuaikang",
+      "timestamp": 1748337270000,
+      "hot": 1537,
+      "url": "https://hellogithub.com/repository/d869461d98d245d388b50e25b6a80dae",
+      "mobileUrl": "https://hellogithub.com/repository/d869461d98d245d388b50e25b6a80dae"
+    },
+    {
+      "id": "bed652ef02154dd7a434e0720125639e",
+      "title": "让静态照片“活”起来",
+      "desc": "该项目能够通过一张照片快速生成高质量、生动的视频，尤其擅长捕捉和还原面部表情，支持人类和动物肖像的动画生成。",
+      "author": "KwaiVGI",
+      "timestamp": 1748390712000,
+      "hot": 1898,
+      "url": "https://hellogithub.com/repository/bed652ef02154dd7a434e0720125639e",
+      "mobileUrl": "https://hellogithub.com/repository/bed652ef02154dd7a434e0720125639e"
+    },
+    {
+      "id": "fb094234bf744e108f4ce7d3326a5cb1",
+      "title": "开箱即用的 Python 限流库",
+      "desc": "这是一款轻量且灵活的 Python 限流库，同步/异步皆可用。它支持多种限流算法，包括固定窗口、滑动窗口、令牌桶、漏桶和 GCRA，适配 Redis 存储后端，",
+      "author": "ZhuoZhuoCrayon",
+      "timestamp": 1748390712000,
+      "hot": 764,
+      "url": "https://hellogithub.com/repository/fb094234bf744e108f4ce7d3326a5cb1",
+      "mobileUrl": "https://hellogithub.com/repository/fb094234bf744e108f4ce7d3326a5cb1"
+    },
+    {
+      "id": "2aee41459a1d44ea8d2b391af80352db",
+      "title": "免费开源的教材资源集合",
+      "desc": "该项目整理了国内小初高、大学等各学科 PDF 教材，全部资源均免费、无水印，支持一键下载，并持续更新。",
+      "author": "TapXWorld",
+      "timestamp": 1748390712000,
+      "hot": 2255,
+      "url": "https://hellogithub.com/repository/2aee41459a1d44ea8d2b391af80352db",
+      "mobileUrl": "https://hellogithub.com/repository/2aee41459a1d44ea8d2b391af80352db"
+    },
+    {
+      "id": "0601f355bd824d88b58f1af3066c486a",
+      "title": "开源圆角等宽字体",
+      "desc": "这是一款高质量的等宽字体，具备可变字体、圆角设计、智能连字、图标等特性，支持简体中文、繁体中文和日语字符集，以及通过脚本自定义构建字体，满足不同平台和个性化需求",
+      "author": "subframe7536",
+      "timestamp": 1745798416000,
+      "hot": 4280,
+      "url": "https://hellogithub.com/repository/0601f355bd824d88b58f1af3066c486a",
+      "mobileUrl": "https://hellogithub.com/repository/0601f355bd824d88b58f1af3066c486a"
+    },
+    {
+      "id": "cab162771f504680994fc876151b5ea5",
+      "title": "炫酷的个人主页模板",
+      "desc": "这是一个美观易用的个人主页模板，拥有流体动画背景、响应式设计和丝滑的页面过渡效果，支持通过简单的配置文件自定义页面内容与样式，轻松打造自己的个性化主页。",
+      "author": "SimonAKing",
+      "timestamp": 1748390712000,
+      "hot": 1395,
+      "url": "https://hellogithub.com/repository/cab162771f504680994fc876151b5ea5",
+      "mobileUrl": "https://hellogithub.com/repository/cab162771f504680994fc876151b5ea5"
+    },
+    {
+      "id": "12ab209b56cb4cfd885c8cfd4cfdd53e",
+      "title": "用微信聊天记录微调大语言模型",
+      "desc": "该项目是通过个人微信聊天记录对大语言模型（LLM）进行微调，打造专属的数字分身。它提供从聊天数据到模型微调、从文本生成到语音克隆、从训练到部署的全链路解决方案。",
+      "author": "xming521",
+      "timestamp": 1745798416000,
+      "hot": 5271,
+      "url": "https://hellogithub.com/repository/12ab209b56cb4cfd885c8cfd4cfdd53e",
+      "mobileUrl": "https://hellogithub.com/repository/12ab209b56cb4cfd885c8cfd4cfdd53e"
+    },
+    {
+      "id": "6d67b7be3ccc43419924dbe40b31e937",
+      "title": "古文风文本加密工具",
+      "desc": "这是一款兼具趣味性与安全性的文本加密工具，支持将任意明文加密为仿真古文或安全密文。它采用 AES-256 加密算法和三重转轮混淆技术，古文仿真加密功能参考《古文",
+      "author": "SheepChef",
+      "timestamp": 1748390712000,
+      "hot": 612,
+      "url": "https://hellogithub.com/repository/6d67b7be3ccc43419924dbe40b31e937",
+      "mobileUrl": "https://hellogithub.com/repository/6d67b7be3ccc43419924dbe40b31e937"
+    },
+    {
+      "id": "dfb7082c16a24cef92ac12e96e0af87a",
+      "title": "软著申请教程和模板文件",
+      "desc": "该项目提供了中国软件著作权申请的教程和模板文件，包括用户操作手册、源码文档、申请表等，降低软著申请门槛、提高申请成功率。",
+      "author": "AlexanderZhou01",
+      "timestamp": 1748390712000,
+      "hot": 651,
+      "url": "https://hellogithub.com/repository/dfb7082c16a24cef92ac12e96e0af87a",
+      "mobileUrl": "https://hellogithub.com/repository/dfb7082c16a24cef92ac12e96e0af87a"
+    },
+    {
+      "id": "775d5b3d0aa04e90be9162104e757f2e",
+      "title": "一键搞定 Linux 换源问题的脚本",
+      "desc": "该项目提供了一键切换 Linux 默认软件源为国内镜像源的脚本，以及 Docker 安装脚本，支持 Debian、Ubuntu、CentOS、Raspberry",
+      "author": "SuperManito",
+      "timestamp": 1745798416000,
+      "hot": 1753,
+      "url": "https://hellogithub.com/repository/775d5b3d0aa04e90be9162104e757f2e",
+      "mobileUrl": "https://hellogithub.com/repository/775d5b3d0aa04e90be9162104e757f2e"
+    },
+    {
+      "id": "ecd0e85d331c482499a1850cb48b17d0",
+      "title": "开源的本地文件转换工具",
+      "desc": "该项目是基于 Svelte 和 TypeScript 构建的文件转换工具，完全本地化且免费。它利用 WebAssembly 技术，实现所有文件转换过程均在本地完",
+      "author": "VERT-sh",
+      "timestamp": 1746491820000,
+      "hot": 2657,
+      "url": "https://hellogithub.com/repository/ecd0e85d331c482499a1850cb48b17d0",
+      "mobileUrl": "https://hellogithub.com/repository/ecd0e85d331c482499a1850cb48b17d0"
+    }
+  ]
+}
