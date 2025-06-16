@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-06-16T01:42:53.844052",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781888,
+      "title": "赤道的引力是不是比其他地方的小?",
+      "cover": "https://picx.zhimg.com/v2-47bef327cd2ed0eca47f29348de577a3.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781888",
+      "mobileUrl": "https://daily.zhihu.com/story/9781888"
+    },
+    {
+      "id": 9781877,
+      "title": "如果朱元璋的儿子朱标不死，其他王爷会造反吗？",
+      "cover": "https://picx.zhimg.com/v2-64265c1cf4aee66f4118d62702b35cac.jpg?source=8673f162",
+      "author": "袁浩 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781877",
+      "mobileUrl": "https://daily.zhihu.com/story/9781877"
+    },
+    {
+      "id": 9781883,
+      "title": "如何看待任何碳基生物在火器面前不堪一击？",
+      "cover": "https://picx.zhimg.com/v2-b40950e5a44ba5dd0feac60157010ee5.jpg?source=8673f162",
+      "author": "snowtree · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781883",
+      "mobileUrl": "https://daily.zhihu.com/story/9781883"
+    },
+    {
+      "id": 9781894,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3676",
+      "url": "https://daily.zhihu.com/story/9781894",
+      "mobileUrl": "https://daily.zhihu.com/story/9781894"
+    }
+  ]
+}
