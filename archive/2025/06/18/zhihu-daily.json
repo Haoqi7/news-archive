@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-06-18T01:39:02.521921",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781937,
+      "title": "蚂蚁为什么会被充电接口吸引不断电麻？",
+      "cover": "https://pic1.zhimg.com/v2-42cb65ac7edba92103396f8f95952f6a.jpg?source=8673f162",
+      "author": "云杉 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781937",
+      "mobileUrl": "https://daily.zhihu.com/story/9781937"
+    },
+    {
+      "id": 9781926,
+      "title": "为什么爬珠穆朗玛峰登顶要半夜十二点出发？",
+      "cover": "https://picx.zhimg.com/v2-76a18285393c0389b0402f8e43ebc63d.jpg?source=8673f162",
+      "author": "南山北 · 6 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781926",
+      "mobileUrl": "https://daily.zhihu.com/story/9781926"
+    },
+    {
+      "id": 9781932,
+      "title": "历史上曾存在过哪些有趣的「边疆地带」？",
+      "cover": "https://picx.zhimg.com/v2-b4b62d248571892ea5fe4fe839600624.jpg?source=8673f162",
+      "author": "首阳大君 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781932",
+      "mobileUrl": "https://daily.zhihu.com/story/9781932"
+    },
+    {
+      "id": 9781938,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3678",
+      "url": "https://daily.zhihu.com/story/9781938",
+      "mobileUrl": "https://daily.zhihu.com/story/9781938"
+    }
+  ]
+}
