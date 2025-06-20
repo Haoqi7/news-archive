@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-06-20T01:39:31.653059",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": "31b32a295c26",
+      "title": "如何使用SpringBoot的缓存 @Cacheable",
+      "cover": "https://upload-images.jianshu.io/upload_images/7153774-c06f1a51e4f9f105.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "一、简介 1、缓存介绍 Spring 从 3.1 开始就引入了对 Cache 的支持。定义了 org.springframework.cache...",
+      "author": "小石读史",
+      "url": "https://www.jianshu.com/p/31b32a295c26",
+      "mobileUrl": "https://www.jianshu.com/p/31b32a295c26"
+    },
+    {
+      "id": "3d7caf1fe15b",
+      "title": "一年一度的双十一又开始了",
+      "desc": "每年都有双十一，每年都有不一样的双十一，大约到了十月底，作为剁手党一族的本人就开始忙活开了。当然了，主题思想差不多，大概的意思，都是差不多，以...",
+      "author": "若云流霏",
+      "url": "https://www.jianshu.com/p/3d7caf1fe15b",
+      "mobileUrl": "https://www.jianshu.com/p/3d7caf1fe15b"
+    },
+    {
+      "id": "bc963b99c671",
+      "title": "刺毛狗",
+      "desc": "郑重声明：本文系原创首发，文责自负。 为了找寻一个合适的字，我曾踌躇数月，从去年年底拖到现在才动笔；为了找寻一个合适的字，我曾翻遍字典，仍不敢肯...",
+      "author": "曹木",
+      "url": "https://www.jianshu.com/p/bc963b99c671",
+      "mobileUrl": "https://www.jianshu.com/p/bc963b99c671"
+    },
+    {
+      "id": "eb3b6c009a18",
+      "title": "8h 13mins 桂林 back 岳阳 🚞",
+      "cover": "https://upload-images.jianshu.io/upload_images/26187570-6f38412f60c2b06d.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "8h 41mins 桂林 back 岳阳 [https://www.jianshu.com/p/a62c3332d2ed] 5.7———8h 4...",
+      "author": "格菲Catherine",
+      "url": "https://www.jianshu.com/p/eb3b6c009a18",
+      "mobileUrl": "https://www.jianshu.com/p/eb3b6c009a18"
+    }
+  ]
+}

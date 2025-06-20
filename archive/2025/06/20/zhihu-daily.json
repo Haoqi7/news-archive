@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-06-20T01:39:22.786326",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781977,
+      "title": "在月面引爆一颗手榴弹，它的破片会变成月球的卫星吗？",
+      "cover": "https://pic1.zhimg.com/v2-66190ebe91343c3fdaba4ceb4f6714dd.jpg?source=8673f162",
+      "author": "太空僧 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781977",
+      "mobileUrl": "https://daily.zhihu.com/story/9781977"
+    },
+    {
+      "id": 9781964,
+      "title": "闪电劈到大海上，会电到鱼吗？",
+      "cover": "https://picx.zhimg.com/v2-4d1207f803283f79dda2b523c95bf25d.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781964",
+      "mobileUrl": "https://daily.zhihu.com/story/9781964"
+    },
+    {
+      "id": 9781967,
+      "title": "蚊子是怎么产生的？他一共有几类?",
+      "cover": "https://picx.zhimg.com/v2-70291a728c9bf47fee4553661e420412.jpg?source=8673f162",
+      "author": "斜绿天蛾 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781967",
+      "mobileUrl": "https://daily.zhihu.com/story/9781967"
+    },
+    {
+      "id": 9781985,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3680",
+      "url": "https://daily.zhihu.com/story/9781985",
+      "mobileUrl": "https://daily.zhihu.com/story/9781985"
+    }
+  ]
+}
