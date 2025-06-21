@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-06-21T01:37:32.597957",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9781998,
+      "title": "在山上挖一座不放鱼的池塘，再过 100 年时间，里面会慢慢有鱼吗？",
+      "cover": "https://picx.zhimg.com/v2-e5ed123ef6f7a245b7a32c286964e757.jpg?source=8673f162",
+      "author": "瞻云 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781998",
+      "mobileUrl": "https://daily.zhihu.com/story/9781998"
+    },
+    {
+      "id": 9781986,
+      "title": "为什么淡水鱼都是银灰色的，而海水鱼却是五颜六色，有许多不同的颜色？",
+      "cover": "https://pic1.zhimg.com/v2-b1bf09ee03c3efc25dec5bf6895c3bd2.jpg?source=8673f162",
+      "author": "艾比斯 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781986",
+      "mobileUrl": "https://daily.zhihu.com/story/9781986"
+    },
+    {
+      "id": 9781987,
+      "title": "猫猫识数吗？如果我拿走她生的一个小喵喵，她能意识到孩子少了一个吗？",
+      "cover": "https://pica.zhimg.com/v2-77cf5db49ed727adb60ed30c52ad7d18.jpg?source=8673f162",
+      "author": "猫研所 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781987",
+      "mobileUrl": "https://daily.zhihu.com/story/9781987"
+    },
+    {
+      "id": 9781988,
+      "title": "理论上一个行星上最大的陨石坑能达到行星的什么比例？",
+      "cover": "https://pic1.zhimg.com/v2-f22dcee0346afaecc40c6b4610567498.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9781988",
+      "mobileUrl": "https://daily.zhihu.com/story/9781988"
+    }
+  ]
+}
