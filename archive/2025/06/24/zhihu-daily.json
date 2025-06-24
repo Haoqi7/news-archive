@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-06-24T01:40:32.538817",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9782070,
+      "title": "人类驯服大鹅这种家禽的意义在哪？",
+      "cover": "https://pic1.zhimg.com/v2-d332c097f921aafbbbf53c2c9029b72a.jpg?source=8673f162",
+      "author": "奔奔马 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782070",
+      "mobileUrl": "https://daily.zhihu.com/story/9782070"
+    },
+    {
+      "id": 9782051,
+      "title": "螳螂虾这么厉害，为什么没有称霸海洋？",
+      "cover": "https://picx.zhimg.com/v2-0758f0fe7957e3ec5be6d046e9945edc.jpg?source=8673f162",
+      "author": "瞻云 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782051",
+      "mobileUrl": "https://daily.zhihu.com/story/9782051"
+    },
+    {
+      "id": 9782061,
+      "title": "北极熊的毛发具有什么特点？",
+      "cover": "https://picx.zhimg.com/v2-67fc18558a558350d3bc5b6cd277f21e.jpg?source=8673f162",
+      "author": "苏澄宇 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782061",
+      "mobileUrl": "https://daily.zhihu.com/story/9782061"
+    },
+    {
+      "id": 9782076,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3682",
+      "url": "https://daily.zhihu.com/story/9782076",
+      "mobileUrl": "https://daily.zhihu.com/story/9782076"
+    }
+  ]
+}
