@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-06-25T01:40:54.878020",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9782085,
+      "title": "如何做一份好吃的蛋炒饭?",
+      "cover": "https://pica.zhimg.com/v2-84e0117f0f152b22ffc13ce09afeb355.jpg?source=8673f162",
+      "author": "俞洋 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782085",
+      "mobileUrl": "https://daily.zhihu.com/story/9782085"
+    },
+    {
+      "id": 9782077,
+      "title": "世界上飞得最高的鸟是什么鸟?",
+      "cover": "https://picx.zhimg.com/v2-12ccd25ae3c94ae315cb282af4080376.jpg?source=8673f162",
+      "author": "平老虎 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782077",
+      "mobileUrl": "https://daily.zhihu.com/story/9782077"
+    },
+    {
+      "id": 9782083,
+      "title": "是不是郑和时期宝船体积庞大，而后期明朝军舰再无如此规模的战船？为什么？",
+      "cover": "https://picx.zhimg.com/v2-7d4758d95b7ff26e161659fce78f1d22.jpg?source=8673f162",
+      "author": "月塔 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782083",
+      "mobileUrl": "https://daily.zhihu.com/story/9782083"
+    },
+    {
+      "id": 9782091,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3683",
+      "url": "https://daily.zhihu.com/story/9782091",
+      "mobileUrl": "https://daily.zhihu.com/story/9782091"
+    }
+  ]
+}
