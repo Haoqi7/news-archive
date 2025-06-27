@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-06-27T01:41:12.415680",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "178b14658dc84a998d86822ad0af5d09",
+      "title": "Windows 文件管理多标签扩展工具",
+      "desc": "这是一款专为 Windows 11 打造的文件资源管理器增强工具，能够自动将多个窗口合并为单窗口多标签页模式。支持路径去重、标签搜索、批量打开/关闭/还原等功能",
+      "author": "w4po",
+      "timestamp": 1750982180000,
+      "hot": 21,
+      "url": "https://hellogithub.com/repository/178b14658dc84a998d86822ad0af5d09",
+      "mobileUrl": "https://hellogithub.com/repository/178b14658dc84a998d86822ad0af5d09"
+    },
+    {
+      "id": "3a1bb0aab0fd487f864d8be5a27ca503",
+      "title": "优化 AI 提示词的工具",
+      "desc": "这是一款纯前端实现的提示词优化器，帮助用户快速编写更高质量的提示词。支持多种主流 AI 模型与自定义 API 地址，并可实时对比优化前后的效果。",
+      "author": "linshenkx",
+      "timestamp": 1750982180000,
+      "hot": 23,
+      "url": "https://hellogithub.com/repository/3a1bb0aab0fd487f864d8be5a27ca503",
+      "mobileUrl": "https://hellogithub.com/repository/3a1bb0aab0fd487f864d8be5a27ca503"
+    },
+    {
+      "id": "edb9facfc870497db8ae185479b7d4e5",
+      "title": "终端里的 Claude 编码助手",
+      "desc": "该项目是 Claude 官方开源的 AI 编码助手，集成于终端内，能够理解整个代码库，并通过简单的自然语言命令，帮助开发者更高效地完成各类编码任务。",
+      "author": "anthropics",
+      "timestamp": 1750982180000,
+      "hot": 9,
+      "url": "https://hellogithub.com/repository/edb9facfc870497db8ae185479b7d4e5",
+      "mobileUrl": "https://hellogithub.com/repository/edb9facfc870497db8ae185479b7d4e5"
+    },
+    {
+      "id": "fc6b71306d5640c387fe38f4762a20b2",
+      "title": "从零开始的 LLM 原理与实践教程",
+      "desc": "该项目是帮助初学习者系统地学习大语言模型（LLM）原理与实践的教程。通过详细的教程和实战案例，循序渐进地带领读者深入了解自然语言处理（NLP）基础、Transf",
+      "author": "datawhalechina",
+      "timestamp": 1750982180000,
+      "hot": 12,
+      "url": "https://hellogithub.com/repository/fc6b71306d5640c387fe38f4762a20b2",
+      "mobileUrl": "https://hellogithub.com/repository/fc6b71306d5640c387fe38f4762a20b2"
+    },
+    {
+      "id": "77a4d4bdc9eb467e8d82f943a5c6d9d1",
+      "title": "Java 开发的个人数字图书馆",
+      "desc": "这是一款开源、自托管的电子书管理 Web 应用，支持 PDF 和 ePub 电子书格式。它采用 Java（Spring Boot）+ Angular 开发，支持",
+      "author": "adityachandelgit",
+      "timestamp": 1750982180000,
+      "hot": 30,
+      "url": "https://hellogithub.com/repository/77a4d4bdc9eb467e8d82f943a5c6d9d1",
+      "mobileUrl": "https://hellogithub.com/repository/77a4d4bdc9eb467e8d82f943a5c6d9d1"
+    },
+    {
+      "id": "18c93bc156694549a02423edd24c8f56",
+      "title": "一站式多语言开发环境管理工具",
+      "desc": "这是一款用 Rust 编写的开发环境管理工具，集多语言工具链切换、环境变量管理和任务自动化于一体，轻松解决多版本编程语言、环境隔离和自动化构建等问题，可替代 a",
+      "author": "jdx",
+      "timestamp": 1750982180000,
+      "hot": 26,
+      "url": "https://hellogithub.com/repository/18c93bc156694549a02423edd24c8f56",
+      "mobileUrl": "https://hellogithub.com/repository/18c93bc156694549a02423edd24c8f56"
+    },
+    {
+      "id": "6b3c9a2bded845f9951957bada8499e9",
+      "title": "野外生存必备 Android 应用",
+      "desc": "这是一款专为徒步、露营、野外生存等场景设计的开源 Android 应用。它利用手机的传感器，提供离线导航、日落提醒、照片地图、路径追踪等实用功能，所有功能均可在",
+      "author": "kylecorry31",
+      "timestamp": 1750982180000,
+      "hot": 22,
+      "url": "https://hellogithub.com/repository/6b3c9a2bded845f9951957bada8499e9",
+      "mobileUrl": "https://hellogithub.com/repository/6b3c9a2bded845f9951957bada8499e9"
+    },
+    {
+      "id": "79b274c58218410fa6d77f509927df3f",
+      "title": "谷歌 Gemini 命令行工具",
+      "desc": "该项目是 Gemini 官方开源的命令行工具，将 Google Gemini 的强大能力集成到终端环境。它基于百万级上下文，能够理解大型代码库的架构和逻辑，支持",
+      "author": "google-gemini",
+      "timestamp": 1750982180000,
+      "hot": 20,
+      "url": "https://hellogithub.com/repository/79b274c58218410fa6d77f509927df3f",
+      "mobileUrl": "https://hellogithub.com/repository/79b274c58218410fa6d77f509927df3f"
+    },
+    {
+      "id": "9b1aaa84ce8541ffaadde0e5f3823c64",
+      "title": "开源的策略类卡牌游戏",
+      "desc": "这是一款为《万智牌》玩家打造的开源规则引擎和模拟器，玩法类似炉石的卡牌游戏。它提供单人冒险、任务、多种 AI 对战模式，支持在线对战、自定义卡牌和扩展功能，兼容",
+      "author": "Card-Forge",
+      "timestamp": 1750982180000,
+      "hot": 17,
+      "url": "https://hellogithub.com/repository/9b1aaa84ce8541ffaadde0e5f3823c64",
+      "mobileUrl": "https://hellogithub.com/repository/9b1aaa84ce8541ffaadde0e5f3823c64"
+    },
+    {
+      "id": "fe38ff28c2274e3ca67f47f98a45f5f8",
+      "title": "从零开始构建的轻量级 vLLM",
+      "desc": "该项目是用 Python 实现的轻量级 vLLM（大语言模型推理引擎）项目，核心代码仅 1000 多行。它结构清晰、易于阅读，推理速度媲美 vLLM 原版，并集",
+      "author": "GeeeekExplorer",
+      "timestamp": 1750982180000,
+      "hot": 17,
+      "url": "https://hellogithub.com/repository/fe38ff28c2274e3ca67f47f98a45f5f8",
+      "mobileUrl": "https://hellogithub.com/repository/fe38ff28c2274e3ca67f47f98a45f5f8"
+    },
+    {
+      "id": "4e486e1d4ce6457ca730ac31636ccbe4",
+      "title": "模拟器游戏玩家必备的 ROM 管理器",
+      "desc": "这是一个基于 Python 开发的 ROM 管理和模拟器平台，支持在浏览器中直接运行游戏。用户可通过简洁的 Web 界面，轻松扫描本地游戏、自动抓取游戏封面、统",
+      "author": "rommapp",
+      "timestamp": 1750982180000,
+      "hot": 16,
+      "url": "https://hellogithub.com/repository/4e486e1d4ce6457ca730ac31636ccbe4",
+      "mobileUrl": "https://hellogithub.com/repository/4e486e1d4ce6457ca730ac31636ccbe4"
+    },
+    {
+      "id": "24f0688ba3254b85b1b370958596e3c0",
+      "title": "让 macOS 的工作区切换变得瞬间完成",
+      "desc": "这是一款专为 macOS 设计的虚拟工作区管理器，可实现多任务间的极速无动画切换。它通过消除 macOS 切换应用的等待动画，提供即时的工作区切换体验，支持多显",
+      "author": "wojciech-kulik",
+      "timestamp": 1750982180000,
+      "hot": 15,
+      "url": "https://hellogithub.com/repository/24f0688ba3254b85b1b370958596e3c0",
+      "mobileUrl": "https://hellogithub.com/repository/24f0688ba3254b85b1b370958596e3c0"
+    },
+    {
+      "id": "45b283b65f3c429ba6b2aa118e62538a",
+      "title": "支持多种存储的文件列表程序",
+      "desc": "这是一个基于 Gin 和 SolidJS 的文件列表程序，支持本地存储、阿里云盘、OneDrive、Google Drive 等多种存储方式。它完全开源（for",
+      "author": "OpenListTeam",
+      "timestamp": 1750982180000,
+      "hot": 15,
+      "url": "https://hellogithub.com/repository/45b283b65f3c429ba6b2aa118e62538a",
+      "mobileUrl": "https://hellogithub.com/repository/45b283b65f3c429ba6b2aa118e62538a"
+    },
+    {
+      "id": "73013e89ac1747adbd336ef5323949de",
+      "title": "笨方法搭建 Kubernetes 集群的教程",
+      "desc": "该项目旨在通过手动从零搭建 Kubernetes 集群的方式，帮助初学者深入理解 K8s 的核心组件和工作原理。它提供一份不用自动化工具，纯手动安装、配置并运行",
+      "author": "kelseyhightower",
+      "timestamp": 1750982180000,
+      "hot": 14,
+      "url": "https://hellogithub.com/repository/73013e89ac1747adbd336ef5323949de",
+      "mobileUrl": "https://hellogithub.com/repository/73013e89ac1747adbd336ef5323949de"
+    },
+    {
+      "id": "13ffb5d6752f4144bc460c978e62e27f",
+      "title": "自带 Web 界面的实时日志查看工具",
+      "desc": "这是一款轻量级的实时日志查看工具，无需安装、开箱即用。它内置 Web 界面，可通过浏览器像 tail -f 一样实时查看与过滤日志，支持多种输入模式和自定义解析",
+      "author": "logdyhq",
+      "timestamp": 1750982180000,
+      "hot": 14,
+      "url": "https://hellogithub.com/repository/13ffb5d6752f4144bc460c978e62e27f",
+      "mobileUrl": "https://hellogithub.com/repository/13ffb5d6752f4144bc460c978e62e27f"
+    },
+    {
+      "id": "98348655a96640ca8ddcbc298edc901d",
+      "title": "面向高性能计算初学者的 CUDA 教程",
+      "desc": "这是一份专为高性能计算（HPC）初学者准备的 CUDA 教程与题库，包含 200 个 CUDA 实现的算子、学习笔记以及手搓性能对标官方的 HGEMM、Flas",
+      "author": "xlite-dev",
+      "timestamp": 1750982180000,
+      "hot": 13,
+      "url": "https://hellogithub.com/repository/98348655a96640ca8ddcbc298edc901d",
+      "mobileUrl": "https://hellogithub.com/repository/98348655a96640ca8ddcbc298edc901d"
+    },
+    {
+      "id": "d2eabcb0128e4ce3beda0d3c5aa1f292",
+      "title": "一键关闭 Windows Defender 的工具",
+      "desc": "这是一款用于禁用 Windows Defender 的工具，支持一键安装和持久生效。它通过直接调用 Windows 安全中心（WSC）接口，注册虚拟杀毒软件，实",
+      "author": "es3n1n",
+      "timestamp": 1750982180000,
+      "hot": 13,
+      "url": "https://hellogithub.com/repository/d2eabcb0128e4ce3beda0d3c5aa1f292",
+      "mobileUrl": "https://hellogithub.com/repository/d2eabcb0128e4ce3beda0d3c5aa1f292"
+    },
+    {
+      "id": "eb70616d65604458908fc1736e7d41fc",
+      "title": "极简的打字背单词网站",
+      "desc": "这是一款基于网页的背单词软件，帮助用户通过键盘输入来记忆单词。它界面简洁、交互流畅，支持单词发音、错误统计和生词本等功能。",
+      "author": "zyronon",
+      "timestamp": 1750982180000,
+      "hot": 13,
+      "url": "https://hellogithub.com/repository/eb70616d65604458908fc1736e7d41fc",
+      "mobileUrl": "https://hellogithub.com/repository/eb70616d65604458908fc1736e7d41fc"
+    },
+    {
+      "id": "6ef70e6ffe894a64a68257b373f1703a",
+      "title": "开源的健身指导平台",
+      "desc": "这是一款免费、开源的健身指导平台，提供丰富的健身动作和视频演示。它采用 Next.js+TailwindCSS 构建，支持创建健身计划、进度跟踪和多语言功能。",
+      "author": "Snouzy",
+      "timestamp": 1750982180000,
+      "hot": 12,
+      "url": "https://hellogithub.com/repository/6ef70e6ffe894a64a68257b373f1703a",
+      "mobileUrl": "https://hellogithub.com/repository/6ef70e6ffe894a64a68257b373f1703a"
+    },
+    {
+      "id": "430bd37da0424e8596af6654c47b6959",
+      "title": "macOS 鼠标增强工具",
+      "desc": "这是一款专为 macOS 打造的鼠标增强工具，弥补系统对非苹果鼠标支持的不足。用户可自定义第三方鼠标在 Mac 上的各种行为，支持平滑滚动、方向反转、鼠标手势和",
+      "author": "noah-nuebling",
+      "timestamp": 1750982180000,
+      "hot": 10,
+      "url": "https://hellogithub.com/repository/430bd37da0424e8596af6654c47b6959",
+      "mobileUrl": "https://hellogithub.com/repository/430bd37da0424e8596af6654c47b6959"
+    }
+  ]
+}
