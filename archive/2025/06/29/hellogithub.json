@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-06-29T01:49:42.801176",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "975f473c56ad4369a1c30ac9aa5819e0",
+      "title": "开箱即用的游戏变速器",
+      "desc": "这是一款完全免费、开源的 Windows 游戏加速工具。它通过 Hook 系统时间函数，实现对游戏速度的灵活调节，并提供简单易用的界面，兼容多种单机游戏。请勿用",
+      "author": "game1024",
+      "timestamp": 1750982180000,
+      "hot": 619,
+      "url": "https://hellogithub.com/repository/975f473c56ad4369a1c30ac9aa5819e0",
+      "mobileUrl": "https://hellogithub.com/repository/975f473c56ad4369a1c30ac9aa5819e0"
+    },
+    {
+      "id": "743b101346c54f6cb5c20eed2edbaa40",
+      "title": "易用的跨平台开源聊天应用",
+      "desc": "这是一款专为多端打造的现代化即时通讯系统，实现了从桌面到移动平台的无缝通讯体验。它基于 Tauri、Vite 6、Vue 3 和 TypeScript 构建，支",
+      "author": "HuLaSpark",
+      "timestamp": 1747279995000,
+      "hot": 6830,
+      "url": "https://hellogithub.com/repository/743b101346c54f6cb5c20eed2edbaa40",
+      "mobileUrl": "https://hellogithub.com/repository/743b101346c54f6cb5c20eed2edbaa40"
+    },
+    {
+      "id": "7d23863fd4be47b39e816193ded385c9",
+      "title": "跨平台可爱的互动桌宠应用",
+      "desc": "这是一款开源的跨平台桌面宠物应用，以可爱的猫咪形象陪伴你的每一次键盘与鼠标操作。它基于 Tauri 构建，支持 macOS、Windows 和 Linux，无论",
+      "author": "ayangweb",
+      "timestamp": 1747887385000,
+      "hot": 7070,
+      "url": "https://hellogithub.com/repository/7d23863fd4be47b39e816193ded385c9",
+      "mobileUrl": "https://hellogithub.com/repository/7d23863fd4be47b39e816193ded385c9"
+    },
+    {
+      "id": "d148f8fac78b45fe9b94c82757c3f86b",
+      "title": "将网页秒变桌面应用的打包工具",
+      "desc": "这是一款基于 Rust 和 Tauri 构建的开源工具，能够将任意网页或前端项目（如 Vue、React 等）快速转换为轻量级的桌面应用和移动应用。它体积仅 5",
+      "author": "Sjj1024",
+      "timestamp": 1747293524000,
+      "hot": 4894,
+      "url": "https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b",
+      "mobileUrl": "https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b"
+    },
+    {
+      "id": "d869461d98d245d388b50e25b6a80dae",
+      "title": "视频一键转图文的 AI 工具",
+      "desc": "这是一款基于 AI 大模型的 Web 工具，能够一键将视频和音频转化为多种风格的文档，如小红书、公众号、知识笔记、思维导图、内容总结以及视频字幕等。",
+      "author": "hanshuaikang",
+      "timestamp": 1748337270000,
+      "hot": 2749,
+      "url": "https://hellogithub.com/repository/d869461d98d245d388b50e25b6a80dae",
+      "mobileUrl": "https://hellogithub.com/repository/d869461d98d245d388b50e25b6a80dae"
+    },
+    {
+      "id": "314bf8e426314dde86a8c62ea5869cb7",
+      "title": "简单易用的多端 AI 推理部署框架",
+      "desc": "这是一款简单易用、高性能、支持多端的 AI 推理部署框架。它基于有向无环图设计，将前处理、推理和后处理抽象为图的节点，支持流水线并行、任务并行等优化方式。兼容 ",
+      "author": "nndeploy",
+      "timestamp": 1748390712000,
+      "hot": 3299,
+      "url": "https://hellogithub.com/repository/314bf8e426314dde86a8c62ea5869cb7",
+      "mobileUrl": "https://hellogithub.com/repository/314bf8e426314dde86a8c62ea5869cb7"
+    },
+    {
+      "id": "bed652ef02154dd7a434e0720125639e",
+      "title": "让静态照片“活”起来",
+      "desc": "该项目能够通过一张照片快速生成高质量、生动的视频，尤其擅长捕捉和还原面部表情，支持人类和动物肖像的动画生成。",
+      "author": "KwaiVGI",
+      "timestamp": 1748390712000,
+      "hot": 3647,
+      "url": "https://hellogithub.com/repository/bed652ef02154dd7a434e0720125639e",
+      "mobileUrl": "https://hellogithub.com/repository/bed652ef02154dd7a434e0720125639e"
+    },
+    {
+      "id": "2aee41459a1d44ea8d2b391af80352db",
+      "title": "免费开源的教材资源集合",
+      "desc": "该项目整理了国内小初高、大学等各学科 PDF 教材，全部资源均免费、无水印，支持一键下载，并持续更新。",
+      "author": "TapXWorld",
+      "timestamp": 1748390712000,
+      "hot": 5391,
+      "url": "https://hellogithub.com/repository/2aee41459a1d44ea8d2b391af80352db",
+      "mobileUrl": "https://hellogithub.com/repository/2aee41459a1d44ea8d2b391af80352db"
+    },
+    {
+      "id": "fb094234bf744e108f4ce7d3326a5cb1",
+      "title": "开箱即用的 Python 限流库",
+      "desc": "这是一款轻量且灵活的 Python 限流库，同步/异步皆可用。它支持多种限流算法，包括固定窗口、滑动窗口、令牌桶、漏桶和 GCRA，适配 Redis 存储后端，",
+      "author": "ZhuoZhuoCrayon",
+      "timestamp": 1748390712000,
+      "hot": 1382,
+      "url": "https://hellogithub.com/repository/fb094234bf744e108f4ce7d3326a5cb1",
+      "mobileUrl": "https://hellogithub.com/repository/fb094234bf744e108f4ce7d3326a5cb1"
+    },
+    {
+      "id": "6d67b7be3ccc43419924dbe40b31e937",
+      "title": "古文风文本加密工具",
+      "desc": "这是一款兼具趣味性与安全性的文本加密工具，支持将任意明文加密为仿真古文或安全密文。它采用 AES-256 加密算法和三重转轮混淆技术，古文仿真加密功能参考《古文",
+      "author": "SheepChef",
+      "timestamp": 1748390712000,
+      "hot": 1650,
+      "url": "https://hellogithub.com/repository/6d67b7be3ccc43419924dbe40b31e937",
+      "mobileUrl": "https://hellogithub.com/repository/6d67b7be3ccc43419924dbe40b31e937"
+    },
+    {
+      "id": "edb9facfc870497db8ae185479b7d4e5",
+      "title": "终端里的 Claude 编码助手",
+      "desc": "该项目是 Claude 官方开源的 AI 编码助手，集成于终端内，能够理解整个代码库，并通过简单的自然语言命令，帮助开发者更高效地完成各类编码任务。",
+      "author": "anthropics",
+      "timestamp": 1750982180000,
+      "hot": 335,
+      "url": "https://hellogithub.com/repository/edb9facfc870497db8ae185479b7d4e5",
+      "mobileUrl": "https://hellogithub.com/repository/edb9facfc870497db8ae185479b7d4e5"
+    },
+    {
+      "id": "0601f355bd824d88b58f1af3066c486a",
+      "title": "开源圆角等宽字体",
+      "desc": "这是一款高质量的等宽字体，具备可变字体、圆角设计、智能连字、图标等特性，支持简体中文、繁体中文和日语字符集，以及通过脚本自定义构建字体，满足不同平台和个性化需求",
+      "author": "subframe7536",
+      "timestamp": 1745798416000,
+      "hot": 5006,
+      "url": "https://hellogithub.com/repository/0601f355bd824d88b58f1af3066c486a",
+      "mobileUrl": "https://hellogithub.com/repository/0601f355bd824d88b58f1af3066c486a"
+    },
+    {
+      "id": "cab162771f504680994fc876151b5ea5",
+      "title": "炫酷的个人主页模板",
+      "desc": "这是一个美观易用的个人主页模板，拥有流体动画背景、响应式设计和丝滑的页面过渡效果，支持通过简单的配置文件自定义页面内容与样式，轻松打造自己的个性化主页。",
+      "author": "SimonAKing",
+      "timestamp": 1748390712000,
+      "hot": 2821,
+      "url": "https://hellogithub.com/repository/cab162771f504680994fc876151b5ea5",
+      "mobileUrl": "https://hellogithub.com/repository/cab162771f504680994fc876151b5ea5"
+    },
+    {
+      "id": "fc6b71306d5640c387fe38f4762a20b2",
+      "title": "从零开始的 LLM 原理与实践教程",
+      "desc": "该项目是帮助初学习者系统地学习大语言模型（LLM）原理与实践的教程。通过详细的教程和实战案例，循序渐进地带领读者深入了解自然语言处理（NLP）基础、Transf",
+      "author": "datawhalechina",
+      "timestamp": 1750982180000,
+      "hot": 239,
+      "url": "https://hellogithub.com/repository/fc6b71306d5640c387fe38f4762a20b2",
+      "mobileUrl": "https://hellogithub.com/repository/fc6b71306d5640c387fe38f4762a20b2"
+    },
+    {
+      "id": "178b14658dc84a998d86822ad0af5d09",
+      "title": "Windows 文件管理多标签扩展工具",
+      "desc": "这是一款专为 Windows 11 打造的文件资源管理器增强工具，能够自动将多个窗口合并为单窗口多标签页模式。支持路径去重、标签搜索、批量打开/关闭/还原等功能",
+      "author": "w4po",
+      "timestamp": 1750982180000,
+      "hot": 295,
+      "url": "https://hellogithub.com/repository/178b14658dc84a998d86822ad0af5d09",
+      "mobileUrl": "https://hellogithub.com/repository/178b14658dc84a998d86822ad0af5d09"
+    },
+    {
+      "id": "12ab209b56cb4cfd885c8cfd4cfdd53e",
+      "title": "用微信聊天记录微调大语言模型",
+      "desc": "该项目是通过个人微信聊天记录对大语言模型（LLM）进行微调，打造专属的数字分身。它提供从聊天数据到模型微调、从文本生成到语音克隆、从训练到部署的全链路解决方案。",
+      "author": "xming521",
+      "timestamp": 1745798416000,
+      "hot": 6362,
+      "url": "https://hellogithub.com/repository/12ab209b56cb4cfd885c8cfd4cfdd53e",
+      "mobileUrl": "https://hellogithub.com/repository/12ab209b56cb4cfd885c8cfd4cfdd53e"
+    },
+    {
+      "id": "3a1bb0aab0fd487f864d8be5a27ca503",
+      "title": "优化 AI 提示词的工具",
+      "desc": "这是一款纯前端实现的提示词优化器，帮助用户快速编写更高质量的提示词。支持多种主流 AI 模型与自定义 API 地址，并可实时对比优化前后的效果。",
+      "author": "linshenkx",
+      "timestamp": 1750982180000,
+      "hot": 298,
+      "url": "https://hellogithub.com/repository/3a1bb0aab0fd487f864d8be5a27ca503",
+      "mobileUrl": "https://hellogithub.com/repository/3a1bb0aab0fd487f864d8be5a27ca503"
+    },
+    {
+      "id": "40d9e68c3b72494bb2fe59467af5eb7d",
+      "title": "《从零开始学习英语语法》",
+      "desc": "这是一本面向英语基础薄弱同学的英语语法入门书籍，内容言简意赅、插图幽默风趣。",
+      "author": "hzpt-inet-club",
+      "timestamp": 1745798416000,
+      "hot": 4238,
+      "url": "https://hellogithub.com/repository/40d9e68c3b72494bb2fe59467af5eb7d",
+      "mobileUrl": "https://hellogithub.com/repository/40d9e68c3b72494bb2fe59467af5eb7d"
+    },
+    {
+      "id": "7d6e6c25af7d4bf082eb074b6f8e2368",
+      "title": "开源的 AI 代码编辑器",
+      "desc": "这是一款基于 VSCode 的开源 AI 代码编辑器，可作为 Cursor 开源替代品。它直接将数据发送给模型提供商，注重保护用户隐私，支持接入本地模型或主流大",
+      "author": "voideditor",
+      "timestamp": 1748390712000,
+      "hot": 1351,
+      "url": "https://hellogithub.com/repository/7d6e6c25af7d4bf082eb074b6f8e2368",
+      "mobileUrl": "https://hellogithub.com/repository/7d6e6c25af7d4bf082eb074b6f8e2368"
+    },
+    {
+      "id": "6b3c9a2bded845f9951957bada8499e9",
+      "title": "野外生存必备 Android 应用",
+      "desc": "这是一款专为徒步、露营、野外生存等场景设计的开源 Android 应用。它利用手机的传感器，提供离线导航、日落提醒、照片地图、路径追踪等实用功能，所有功能均可在",
+      "author": "kylecorry31",
+      "timestamp": 1750982180000,
+      "hot": 269,
+      "url": "https://hellogithub.com/repository/6b3c9a2bded845f9951957bada8499e9",
+      "mobileUrl": "https://hellogithub.com/repository/6b3c9a2bded845f9951957bada8499e9"
+    }
+  ]
+}
