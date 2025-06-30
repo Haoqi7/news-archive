@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-06-30T01:45:16.112553",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9782210,
+      "title": "为什么人类不把垃圾倾倒在活火山里？",
+      "cover": "https://picx.zhimg.com/v2-2a86fd74b179122c422ed8f450dffe51.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782210",
+      "mobileUrl": "https://daily.zhihu.com/story/9782210"
+    },
+    {
+      "id": 9782195,
+      "title": "北极狐和红狐狸哪个更厉害？",
+      "cover": "https://pica.zhimg.com/v2-4be0257f1019d919a8969496435a6f70.jpg?source=8673f162",
+      "author": "小星有鬼 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782195",
+      "mobileUrl": "https://daily.zhihu.com/story/9782195"
+    },
+    {
+      "id": 9782203,
+      "title": "兵马俑在地下分布面积那么大，埋得又那么浅，为什么两千多年都没人发现？",
+      "cover": "https://picx.zhimg.com/v2-868785f05fedcfddbbd89447bc7b3d9d.jpg?source=8673f162",
+      "author": "枯木沟 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782203",
+      "mobileUrl": "https://daily.zhihu.com/story/9782203"
+    },
+    {
+      "id": 9782220,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3686",
+      "url": "https://daily.zhihu.com/story/9782220",
+      "mobileUrl": "https://daily.zhihu.com/story/9782220"
+    }
+  ]
+}
