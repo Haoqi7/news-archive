@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-07-01T01:50:30.979998",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9782240,
+      "title": "以现在的科学，能造出「鸡蛋」吗？",
+      "cover": "https://pica.zhimg.com/v2-eb8f23d7029205fbdd8e7c5bf617e26b.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782240",
+      "mobileUrl": "https://daily.zhihu.com/story/9782240"
+    },
+    {
+      "id": 9782226,
+      "title": "有人骑公路车戴小帽吗，戴这个东西有什么好处？",
+      "cover": "https://picx.zhimg.com/v2-b82a9e4f42c45568f5f65b55a95e2297.jpg?source=8673f162",
+      "author": "洒家大宽 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782226",
+      "mobileUrl": "https://daily.zhihu.com/story/9782226"
+    },
+    {
+      "id": 9782233,
+      "title": "新加坡水獭大规模「黑帮火并」持续爆发十多年，这么可爱的动物，战斗力为什么如此爆表？",
+      "cover": "https://pica.zhimg.com/v2-7559986a3473f330a3f3279ab0acbc6f.jpg?source=8673f162",
+      "author": "瞻云 · 9 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782233",
+      "mobileUrl": "https://daily.zhihu.com/story/9782233"
+    },
+    {
+      "id": 9782243,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3687",
+      "url": "https://daily.zhihu.com/story/9782243",
+      "mobileUrl": "https://daily.zhihu.com/story/9782243"
+    }
+  ]
+}
