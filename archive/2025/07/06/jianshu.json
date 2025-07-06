@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-07-06T01:47:57.348193",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": "470122f8b92a",
+      "title": "文件目录管理工具 EF File Catalog v25.06 便携版",
+      "cover": "https://upload-images.jianshu.io/upload_images/28799676-64cbcf518db08d51.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "介绍 EF File Catalog 是一款文件目录管理工具，可以帮助用户快速浏览、检索和管理计算机硬盘上的文件。 软件截图 软件特点 界面简洁...",
+      "author": "小虾米软件分享站",
+      "url": "https://www.jianshu.com/p/470122f8b92a",
+      "mobileUrl": "https://www.jianshu.com/p/470122f8b92a"
+    },
+    {
+      "id": "d9f16e80e3a8",
+      "title": "iOS开发 触觉体验(UIFeedbackGenerator)的使用",
+      "desc": "1. 触感反馈的使用（UIFeedbackGenerator） 提示：UIFeedbackGenerator在 iOS 10.0 及更新版本可用...",
+      "author": "BrianWang",
+      "url": "https://www.jianshu.com/p/d9f16e80e3a8",
+      "mobileUrl": "https://www.jianshu.com/p/d9f16e80e3a8"
+    },
+    {
+      "id": "4e9f07e3e55e",
+      "title": "【产品业务】一些知名的B端产品的特点和优势",
+      "desc": "以下是一些全球知名的B端产品及其特点和优势分析，覆盖企业核心业务、行业解决方案及前沿技术领域： ### 一、企业核心业务管理类 #### 1. ...",
+      "author": "茜茜的产品笔记",
+      "url": "https://www.jianshu.com/p/4e9f07e3e55e",
+      "mobileUrl": "https://www.jianshu.com/p/4e9f07e3e55e"
+    },
+    {
+      "id": "e43af70f2da9",
+      "title": "ElasticSearchTemplate实现给定经纬度的“离我最近”排序/按距离排序",
+      "desc": "按步骤来吧。 第一步，准备要使用此排序方式的、要存入ES的Bean，添加位置信息属性，并加 @GeoPointField 。位置属性的类型为Ge...",
+      "author": "王跃琅",
+      "url": "https://www.jianshu.com/p/e43af70f2da9",
+      "mobileUrl": "https://www.jianshu.com/p/e43af70f2da9"
+    }
+  ]
+}
