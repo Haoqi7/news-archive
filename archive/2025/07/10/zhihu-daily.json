@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-07-10T01:42:28.894959",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9782455,
+      "title": "航天飞机为什么被淘汰？",
+      "cover": "https://pic1.zhimg.com/v2-769f999646c7e035d22acb33ca45b513.jpg?source=8673f162",
+      "author": "赵泠 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782455",
+      "mobileUrl": "https://daily.zhihu.com/story/9782455"
+    },
+    {
+      "id": 9782449,
+      "title": "光子在水中减速的本质是什么？",
+      "cover": "https://pica.zhimg.com/v2-d9edb0087366fc97d4621804ea5d17db.jpg?source=8673f162",
+      "author": "太空僧 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782449",
+      "mobileUrl": "https://daily.zhihu.com/story/9782449"
+    },
+    {
+      "id": 9782450,
+      "title": "玉米粒为什么靠近根部排列比较乱，而越靠近尖端排列越整齐？",
+      "cover": "https://picx.zhimg.com/v2-74505a8f12efb6d11304a098a5bfd7d6.jpg?source=8673f162",
+      "author": "莫轩 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782450",
+      "mobileUrl": "https://daily.zhihu.com/story/9782450"
+    },
+    {
+      "id": 9782464,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-6f7fc115fc9b281e845a89a66ee960f6.jpg?source=8673f162",
+      "author": "VOL.3694",
+      "url": "https://daily.zhihu.com/story/9782464",
+      "mobileUrl": "https://daily.zhihu.com/story/9782464"
+    }
+  ]
+}
