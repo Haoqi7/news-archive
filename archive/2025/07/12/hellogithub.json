@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-07-12T01:45:19.596861",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "b95bcb72bdc340b68f16fdf6790b7d5b",
+      "title": "基于 Rust 的高性能分布式存储系统",
+      "desc": "该项是用 Rust 构建的高性能分布式对象存储系统，致力于成为 MinIO 的开源替代品。它安装简单、兼容 S3 协议，采用更友好的开源协议，并内置界面清爽的 ",
+      "author": "rustfs",
+      "timestamp": 1751933777000,
+      "hot": 923,
+      "url": "https://hellogithub.com/repository/b95bcb72bdc340b68f16fdf6790b7d5b",
+      "mobileUrl": "https://hellogithub.com/repository/b95bcb72bdc340b68f16fdf6790b7d5b"
+    },
+    {
+      "id": "0163cb946dca44cc8905dbe34c2c987b",
+      "title": "基于 AI 的 Markdown 笔记应用",
+      "desc": "这是一款跨平台的 Markdown 笔记应用，专注于用 AI 搭建“记录-写作”的桥梁。它不仅支持截图、文本、插图等多种记录方式，还能通过 AI 模型将这些碎片",
+      "author": "codexu",
+      "timestamp": 1751593768000,
+      "hot": 1914,
+      "url": "https://hellogithub.com/repository/0163cb946dca44cc8905dbe34c2c987b",
+      "mobileUrl": "https://hellogithub.com/repository/0163cb946dca44cc8905dbe34c2c987b"
+    },
+    {
+      "id": "286c84fcdd9945569ce9b9cbde402adc",
+      "title": "挥手即控实现免接触操作电脑",
+      "desc": "这是一款免接触手势控制电脑的工具，适用于吃饭时不方便操作电脑的场景。它基于 MediaPipe 手势识别和 Vosk 语音识别模型，可通过摄像头捕捉手势，支持视",
+      "author": "lanxiuyun",
+      "timestamp": 1751967391000,
+      "hot": 683,
+      "url": "https://hellogithub.com/repository/286c84fcdd9945569ce9b9cbde402adc",
+      "mobileUrl": "https://hellogithub.com/repository/286c84fcdd9945569ce9b9cbde402adc"
+    },
+    {
+      "id": "52653c92268d4024878a1a6781df9dd8",
+      "title": "沉浸式学习语言的浏览器插件",
+      "desc": "该项目将语言学习融入日常的网页浏览中，让学习变得更加自然和高效。它基于“可理解输入”理论，通过智能翻译和发音学习功能，帮助用户在阅读过程中潜移默化地提升语言能力",
+      "author": "xiao-zaiyi",
+      "timestamp": 1751328742000,
+      "hot": 1802,
+      "url": "https://hellogithub.com/repository/52653c92268d4024878a1a6781df9dd8",
+      "mobileUrl": "https://hellogithub.com/repository/52653c92268d4024878a1a6781df9dd8"
+    },
+    {
+      "id": "8254b28667024a16ae955909f6543f4d",
+      "title": "基于 Web 的视频剪辑工具",
+      "desc": "这是一款开源、免费的视频编辑器，致力于成为 CapCut（剪映）的开源替代品。作为一个“年轻”的开源项目，它为用户提供了可在浏览器中运行的视频剪辑工具，所有视频",
+      "author": "OpenCut-app",
+      "timestamp": 1751329061000,
+      "hot": 1279,
+      "url": "https://hellogithub.com/repository/8254b28667024a16ae955909f6543f4d",
+      "mobileUrl": "https://hellogithub.com/repository/8254b28667024a16ae955909f6543f4d"
+    },
+    {
+      "id": "e207aa138e0e4085b97d2622f34f8174",
+      "title": "GitHub Copilot Chat 插件",
+      "desc": "该项目是微软官方为 VSCode 打造的 GitHub Copilot Chat 开源插件，提供基于 AI 的对话式编程助手功能。开发者可以在 VSCode 内",
+      "author": "microsoft",
+      "timestamp": 1751328552000,
+      "hot": 779,
+      "url": "https://hellogithub.com/repository/e207aa138e0e4085b97d2622f34f8174",
+      "mobileUrl": "https://hellogithub.com/repository/e207aa138e0e4085b97d2622f34f8174"
+    },
+    {
+      "id": "986f543399b6467e8306c135dc129a0c",
+      "title": "在非苹果设备上模拟运行 iOS 14",
+      "desc": "这是一款基于 QEMU 的 Apple 芯片设备模拟器，目前仅支持运行 iPhone 11（iOS 14.0 beta 5）。它允许用户在非苹果硬件（如任天堂 ",
+      "author": "ChefKissInc",
+      "timestamp": 1751328928000,
+      "hot": 876,
+      "url": "https://hellogithub.com/repository/986f543399b6467e8306c135dc129a0c",
+      "mobileUrl": "https://hellogithub.com/repository/986f543399b6467e8306c135dc129a0c"
+    },
+    {
+      "id": "36d551c34766422aac4fc2102d44533d",
+      "title": "节点式 2D 图形编辑工具",
+      "desc": "这是一款开源免费的 2D 矢量与位图（raster）编辑器，融入了现代节点式、非破坏性的流程创作工作流。它不仅保留了传统图层编辑功能，让用户可以在熟悉的界面中轻",
+      "author": "GraphiteEditor",
+      "timestamp": 1751329579000,
+      "hot": 808,
+      "url": "https://hellogithub.com/repository/36d551c34766422aac4fc2102d44533d",
+      "mobileUrl": "https://hellogithub.com/repository/36d551c34766422aac4fc2102d44533d"
+    },
+    {
+      "id": "eb70616d65604458908fc1736e7d41fc",
+      "title": "极简的打字背单词网站",
+      "desc": "这是一款基于网页的背单词软件，帮助用户通过键盘输入来记忆单词。它界面简洁、交互流畅，支持单词发音、错误统计和生词本等功能。",
+      "author": "zyronon",
+      "timestamp": 1750982180000,
+      "hot": 1691,
+      "url": "https://hellogithub.com/repository/eb70616d65604458908fc1736e7d41fc",
+      "mobileUrl": "https://hellogithub.com/repository/eb70616d65604458908fc1736e7d41fc"
+    },
+    {
+      "id": "975f473c56ad4369a1c30ac9aa5819e0",
+      "title": "开箱即用的游戏变速器",
+      "desc": "这是一款完全免费、开源的 Windows 游戏加速工具。它通过 Hook 系统时间函数，实现对游戏速度的灵活调节，并提供简单易用的界面，兼容多种单机游戏。请勿用",
+      "author": "game1024",
+      "timestamp": 1750982180000,
+      "hot": 3241,
+      "url": "https://hellogithub.com/repository/975f473c56ad4369a1c30ac9aa5819e0",
+      "mobileUrl": "https://hellogithub.com/repository/975f473c56ad4369a1c30ac9aa5819e0"
+    },
+    {
+      "id": "3a1bb0aab0fd487f864d8be5a27ca503",
+      "title": "优化 AI 提示词的工具",
+      "desc": "这是一款纯前端实现的提示词优化器，帮助用户快速编写更高质量的提示词。支持多种主流 AI 模型与自定义 API 地址，并可实时对比优化前后的效果。",
+      "author": "linshenkx",
+      "timestamp": 1750982180000,
+      "hot": 1603,
+      "url": "https://hellogithub.com/repository/3a1bb0aab0fd487f864d8be5a27ca503",
+      "mobileUrl": "https://hellogithub.com/repository/3a1bb0aab0fd487f864d8be5a27ca503"
+    },
+    {
+      "id": "7d23863fd4be47b39e816193ded385c9",
+      "title": "跨平台可爱的互动桌宠应用",
+      "desc": "这是一款开源的跨平台桌面宠物应用，以可爱的猫咪形象陪伴你的每一次键盘与鼠标操作。它基于 Tauri 构建，支持 macOS、Windows 和 Linux，无论",
+      "author": "ayangweb",
+      "timestamp": 1747887385000,
+      "hot": 7767,
+      "url": "https://hellogithub.com/repository/7d23863fd4be47b39e816193ded385c9",
+      "mobileUrl": "https://hellogithub.com/repository/7d23863fd4be47b39e816193ded385c9"
+    },
+    {
+      "id": "743b101346c54f6cb5c20eed2edbaa40",
+      "title": "易用的跨平台开源聊天应用",
+      "desc": "这是一款专为多端打造的现代化即时通讯系统，实现了从桌面到移动平台的无缝通讯体验。它基于 Tauri、Vite 6、Vue 3 和 TypeScript 构建，支",
+      "author": "HuLaSpark",
+      "timestamp": 1747279995000,
+      "hot": 7200,
+      "url": "https://hellogithub.com/repository/743b101346c54f6cb5c20eed2edbaa40",
+      "mobileUrl": "https://hellogithub.com/repository/743b101346c54f6cb5c20eed2edbaa40"
+    },
+    {
+      "id": "d869461d98d245d388b50e25b6a80dae",
+      "title": "视频一键转图文的 AI 工具",
+      "desc": "这是一款基于 AI 大模型的 Web 工具，能够一键将视频和音频转化为多种风格的文档，如小红书、公众号、知识笔记、思维导图、内容总结以及视频字幕等。",
+      "author": "hanshuaikang",
+      "timestamp": 1748337270000,
+      "hot": 3063,
+      "url": "https://hellogithub.com/repository/d869461d98d245d388b50e25b6a80dae",
+      "mobileUrl": "https://hellogithub.com/repository/d869461d98d245d388b50e25b6a80dae"
+    },
+    {
+      "id": "98348655a96640ca8ddcbc298edc901d",
+      "title": "面向高性能计算初学者的 CUDA 教程",
+      "desc": "这是一份专为高性能计算（HPC）初学者准备的 CUDA 教程与题库，包含 200 个 CUDA 实现的算子、学习笔记以及手搓性能对标官方的 HGEMM、Flas",
+      "author": "xlite-dev",
+      "timestamp": 1750982180000,
+      "hot": 717,
+      "url": "https://hellogithub.com/repository/98348655a96640ca8ddcbc298edc901d",
+      "mobileUrl": "https://hellogithub.com/repository/98348655a96640ca8ddcbc298edc901d"
+    },
+    {
+      "id": "d148f8fac78b45fe9b94c82757c3f86b",
+      "title": "将网页秒变桌面应用的打包工具",
+      "desc": "这是一款基于 Rust 和 Tauri 构建的开源工具，能够将任意网页或前端项目（如 Vue、React 等）快速转换为轻量级的桌面应用和移动应用。它体积仅 5",
+      "author": "Sjj1024",
+      "timestamp": 1747293524000,
+      "hot": 5212,
+      "url": "https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b",
+      "mobileUrl": "https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b"
+    },
+    {
+      "id": "13ffb5d6752f4144bc460c978e62e27f",
+      "title": "自带 Web 界面的实时日志查看工具",
+      "desc": "这是一款轻量级的实时日志查看工具，无需安装、开箱即用。它内置 Web 界面，可通过浏览器像 tail -f 一样实时查看与过滤日志，支持多种输入模式和自定义解析",
+      "author": "logdyhq",
+      "timestamp": 1750982180000,
+      "hot": 905,
+      "url": "https://hellogithub.com/repository/13ffb5d6752f4144bc460c978e62e27f",
+      "mobileUrl": "https://hellogithub.com/repository/13ffb5d6752f4144bc460c978e62e27f"
+    },
+    {
+      "id": "fc6b71306d5640c387fe38f4762a20b2",
+      "title": "从零开始的 LLM 原理与实践教程",
+      "desc": "该项目是帮助初学习者系统地学习大语言模型（LLM）原理与实践的教程。通过详细的教程和实战案例，循序渐进地带领读者深入了解自然语言处理（NLP）基础、Transf",
+      "author": "datawhalechina",
+      "timestamp": 1750982180000,
+      "hot": 1255,
+      "url": "https://hellogithub.com/repository/fc6b71306d5640c387fe38f4762a20b2",
+      "mobileUrl": "https://hellogithub.com/repository/fc6b71306d5640c387fe38f4762a20b2"
+    },
+    {
+      "id": "bed652ef02154dd7a434e0720125639e",
+      "title": "让静态照片“活”起来",
+      "desc": "该项目能够通过一张照片快速生成高质量、生动的视频，尤其擅长捕捉和还原面部表情，支持人类和动物肖像的动画生成。",
+      "author": "KwaiVGI",
+      "timestamp": 1748390712000,
+      "hot": 4079,
+      "url": "https://hellogithub.com/repository/bed652ef02154dd7a434e0720125639e",
+      "mobileUrl": "https://hellogithub.com/repository/bed652ef02154dd7a434e0720125639e"
+    },
+    {
+      "id": "178b14658dc84a998d86822ad0af5d09",
+      "title": "Windows 文件管理多标签扩展工具",
+      "desc": "这是一款专为 Windows 11 打造的文件资源管理器增强工具，能够自动将多个窗口合并为单窗口多标签页模式。支持路径去重、标签搜索、批量打开/关闭/还原等功能",
+      "author": "w4po",
+      "timestamp": 1750982180000,
+      "hot": 931,
+      "url": "https://hellogithub.com/repository/178b14658dc84a998d86822ad0af5d09",
+      "mobileUrl": "https://hellogithub.com/repository/178b14658dc84a998d86822ad0af5d09"
+    }
+  ]
+}

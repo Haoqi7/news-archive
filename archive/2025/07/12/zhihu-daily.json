@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-07-12T01:45:02.268931",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9782515,
+      "title": "为什么除了人类，哺乳动物拉屎的时间都是 12 秒？",
+      "cover": "https://pic1.zhimg.com/v2-9216df30fa9e20c073fc354d015705ca.jpg?source=8673f162",
+      "author": "高sir · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782515",
+      "mobileUrl": "https://daily.zhihu.com/story/9782515"
+    },
+    {
+      "id": 9782493,
+      "title": "「祛魅」的本质是什么？不断暗示自己应该对理想化的感情「祛魅」、接受现实的不完美，这是正确的吗？",
+      "cover": "https://picx.zhimg.com/v2-07a5d77cb59b8a7cb5cf906c85c1bbf6.jpg?source=8673f162",
+      "author": "解磊 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782493",
+      "mobileUrl": "https://daily.zhihu.com/story/9782493"
+    },
+    {
+      "id": 9782503,
+      "title": "「卷又卷不动，躺又躺不平」？总是因为「放松」而感到自责，这是种怎样的心理？如何调节？",
+      "cover": "https://picx.zhimg.com/v2-cba20a14faf435830f87cf3882d25256.jpg?source=8673f162",
+      "author": "Thoughts Memo · 11 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782503",
+      "mobileUrl": "https://daily.zhihu.com/story/9782503"
+    },
+    {
+      "id": 9782509,
+      "title": "从进化的角度看，人和动物为何会产生抑郁？",
+      "cover": "https://picx.zhimg.com/v2-a2d7b23f7613bb2a1380f92ebbc0d096.jpg?source=8673f162",
+      "author": "解磊 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782509",
+      "mobileUrl": "https://daily.zhihu.com/story/9782509"
+    }
+  ]
+}
