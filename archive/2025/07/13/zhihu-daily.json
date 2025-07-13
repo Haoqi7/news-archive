@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-07-13T01:52:25.304244",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9782531,
+      "title": "为什么有时候无法控制自己的情绪？",
+      "cover": "https://pic1.zhimg.com/v2-0b83eed1ab79145222c2dc673124aa99.jpg?source=8673f162",
+      "author": "沙漏 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782531",
+      "mobileUrl": "https://daily.zhihu.com/story/9782531"
+    },
+    {
+      "id": 9782524,
+      "title": "当回避型依恋开始回避你时她（他）的内心活动是怎样的？",
+      "cover": "https://pica.zhimg.com/v2-ce5952083a1e121c9bfe0d42f29fc4a1.jpg?source=8673f162",
+      "author": "远叔 · 7 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782524",
+      "mobileUrl": "https://daily.zhihu.com/story/9782524"
+    },
+    {
+      "id": 9782525,
+      "title": "为什么没熟透的香蕉总是皮厚肉少，而熟透的香蕉总是薄皮肉多？",
+      "cover": "https://pica.zhimg.com/v2-ebd15d852b4c4f601a3f03b2b17a5ad8.jpg?source=8673f162",
+      "author": "祥昊 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782525",
+      "mobileUrl": "https://daily.zhihu.com/story/9782525"
+    },
+    {
+      "id": 9782530,
+      "title": "为什么热带鱼的颜色五彩缤纷，其它地带的就没有那么鲜艳呢",
+      "cover": "https://pic1.zhimg.com/v2-740097594556e5669f7c806d45c5ec0a.jpg?source=8673f162",
+      "author": "猫盟CFCA · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782530",
+      "mobileUrl": "https://daily.zhihu.com/story/9782530"
+    }
+  ]
+}
