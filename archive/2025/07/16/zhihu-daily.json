@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-07-16T01:45:12.189472",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9782601,
+      "title": "斑马的斑到底有什么用？",
+      "cover": "https://pica.zhimg.com/v2-4af91297db9835b04f85cc5a6f7fc3b5.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782601",
+      "mobileUrl": "https://daily.zhihu.com/story/9782601"
+    },
+    {
+      "id": 9782587,
+      "title": "非洲有 15 万只鸵鸟，为什么狮子不去吃鸵鸟？",
+      "cover": "https://picx.zhimg.com/v2-dca5c9173abc6645ec47140150446ded.jpg?source=8673f162",
+      "author": "蝉说 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782587",
+      "mobileUrl": "https://daily.zhihu.com/story/9782587"
+    },
+    {
+      "id": 9782594,
+      "title": "世界上大多数人似乎普遍存在一种偏见，认为只有哺乳动物才算是真正的「动物」，造成这一现象的原因是什么？",
+      "cover": "https://pic1.zhimg.com/v2-b62a1e6d65a62543701cf61de287561b.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782594",
+      "mobileUrl": "https://daily.zhihu.com/story/9782594"
+    },
+    {
+      "id": 9782605,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3698",
+      "url": "https://daily.zhihu.com/story/9782605",
+      "mobileUrl": "https://daily.zhihu.com/story/9782605"
+    }
+  ]
+}
