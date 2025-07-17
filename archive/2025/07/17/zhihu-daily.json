@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-07-17T01:45:59.777308",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9782626,
+      "title": "哪个瞬间你突然觉得读书真有用？",
+      "cover": "https://pica.zhimg.com/v2-e9ffece7dd6a88eb8e2b64b8c6ba7bb9.jpg?source=8673f162",
+      "author": "执白 · 19 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782626",
+      "mobileUrl": "https://daily.zhihu.com/story/9782626"
+    },
+    {
+      "id": 9782611,
+      "title": "如何看待费米悖论认为的最可怕的事实是宇宙根本没有外星人？",
+      "cover": "https://picx.zhimg.com/v2-0419e94cf71253979ad08b679c8cc47f.jpg?source=8673f162",
+      "author": "snowtree · 30 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782611",
+      "mobileUrl": "https://daily.zhihu.com/story/9782611"
+    },
+    {
+      "id": 9782621,
+      "title": "联合国文件真的是中文版本的最薄吗？",
+      "cover": "https://picx.zhimg.com/v2-0ce3bbba480601c972a475b47b44e99f.jpg?source=8673f162",
+      "author": "pvfcd · 6 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782621",
+      "mobileUrl": "https://daily.zhihu.com/story/9782621"
+    },
+    {
+      "id": 9782633,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3699",
+      "url": "https://daily.zhihu.com/story/9782633",
+      "mobileUrl": "https://daily.zhihu.com/story/9782633"
+    }
+  ]
+}
