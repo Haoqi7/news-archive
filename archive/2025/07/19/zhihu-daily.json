@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-07-19T01:42:26.703635",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9782685,
+      "title": "同样都是海岛，为什么台湾缺水，海南岛淡水多到用不完？",
+      "cover": "https://picx.zhimg.com/v2-9cf09de2ad29bc7284aa9a33698864a0.jpg?source=8673f162",
+      "author": "知乎用户 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782685",
+      "mobileUrl": "https://daily.zhihu.com/story/9782685"
+    },
+    {
+      "id": 9782665,
+      "title": "自然界的动物是如何应对夏季高温的？",
+      "cover": "https://picx.zhimg.com/v2-373f66a4f23ff7a3cd2b94d79bfc0b71.jpg?source=8673f162",
+      "author": "艾比斯 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782665",
+      "mobileUrl": "https://daily.zhihu.com/story/9782665"
+    },
+    {
+      "id": 9782675,
+      "title": "动物会有心理疾病吗？",
+      "cover": "https://pic1.zhimg.com/v2-69a64cd091cd6ec932186b0b6d205bad.jpg?source=8673f162",
+      "author": "biokiwi · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782675",
+      "mobileUrl": "https://daily.zhihu.com/story/9782675"
+    },
+    {
+      "id": 9782683,
+      "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
+      "cover": "https://picx.zhimg.com/v2-7bcaf75927c70bd0363c0ea40a5d59fb.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782683",
+      "mobileUrl": "https://daily.zhihu.com/story/9782683"
+    }
+  ]
+}
