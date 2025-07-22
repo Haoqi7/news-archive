@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-07-22T01:46:26.035751",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9782745,
+      "title": "是先有人先设计出了第一块 CPU 还是先有人写出了设计 CPU 的理论？",
+      "cover": "https://picx.zhimg.com/v2-1fe3d11d9e64afeb296614bfc2e07f78.jpg?source=8673f162",
+      "author": "invalid s · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782745",
+      "mobileUrl": "https://daily.zhihu.com/story/9782745"
+    },
+    {
+      "id": 9782736,
+      "title": "如何评价小红书上的「悼明热」?",
+      "cover": "https://pic1.zhimg.com/v2-995d18cd02d393304b22d612966f5ca6.jpg?source=8673f162",
+      "author": "周舒畅 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782736",
+      "mobileUrl": "https://daily.zhihu.com/story/9782736"
+    },
+    {
+      "id": 9782742,
+      "title": "平原上建水库，为什么不往下深挖，而是修建一圈高坝，成为地上悬湖？",
+      "cover": "https://pica.zhimg.com/v2-7e9ecbedebc83cba7036d2c257be805d.jpg?source=8673f162",
+      "author": "免渡河 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782742",
+      "mobileUrl": "https://daily.zhihu.com/story/9782742"
+    },
+    {
+      "id": 9782747,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3702",
+      "url": "https://daily.zhihu.com/story/9782747",
+      "mobileUrl": "https://daily.zhihu.com/story/9782747"
+    }
+  ]
+}
