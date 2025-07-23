@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-07-23T01:47:36.673246",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9782753,
+      "title": "为什么会有人摸猫人爽猫也爽这种双赢的事？条件是什么？怎样复制它？",
+      "cover": "https://pic1.zhimg.com/v2-aa69a6909d5b696ee34817ca039d599e.jpg?source=8673f162",
+      "author": "剁椒鹿 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782753",
+      "mobileUrl": "https://daily.zhihu.com/story/9782753"
+    },
+    {
+      "id": 9782748,
+      "title": "非计算机专业，好奇为什么会出现「程序依赖 bug 运行」的情况？",
+      "cover": "https://picx.zhimg.com/v2-b962eca8fcd965a509bdf78189ce6fa2.jpg?source=8673f162",
+      "author": "圆角骑士魔理沙 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782748",
+      "mobileUrl": "https://daily.zhihu.com/story/9782748"
+    },
+    {
+      "id": 9782752,
+      "title": "蚂蚁为什么不吃同类的尸体？",
+      "cover": "https://pic1.zhimg.com/v2-53878d647bf79d0dd04b95c2a4dcef3f.jpg?source=8673f162",
+      "author": "斜绿天蛾 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9782752",
+      "mobileUrl": "https://daily.zhihu.com/story/9782752"
+    },
+    {
+      "id": 9782761,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3703",
+      "url": "https://daily.zhihu.com/story/9782761",
+      "mobileUrl": "https://daily.zhihu.com/story/9782761"
+    }
+  ]
+}
