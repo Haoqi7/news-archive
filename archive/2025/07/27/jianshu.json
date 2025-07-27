@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-07-27T01:54:46.542038",
+    "count": 1
+  },
+  "data": [
+    {
+      "id": "56ed49d6f991",
+      "title": "转录组分析（三）--GO及KEGG富集分析及可视化（包括条形图及气泡图）（对差异基因的可视化）",
+      "desc": "GO分析（上下调基因分开做，可用于BP,CC,MF分开画图） GO分析（上下调一起做，强烈推荐，可以看整体结果，并可选取其中的部分画图） GO ...",
+      "author": "千万别加香菜",
+      "url": "https://www.jianshu.com/p/56ed49d6f991",
+      "mobileUrl": "https://www.jianshu.com/p/56ed49d6f991"
+    }
+  ]
+}
