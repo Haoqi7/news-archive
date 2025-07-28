@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-07-28T01:52:50.442816",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "b95bcb72bdc340b68f16fdf6790b7d5b",
+      "title": "基于 Rust 的高性能分布式存储系统",
+      "desc": "该项是用 Rust 构建的高性能分布式对象存储系统，致力于成为 MinIO 的开源替代品。它安装简单、兼容 S3 协议，采用更友好的开源协议，并内置界面清爽的 ",
+      "author": "rustfs",
+      "timestamp": 1751933777000,
+      "hot": 2553,
+      "url": "https://hellogithub.com/repository/b95bcb72bdc340b68f16fdf6790b7d5b",
+      "mobileUrl": "https://hellogithub.com/repository/b95bcb72bdc340b68f16fdf6790b7d5b"
+    },
+    {
+      "id": "554dc4c46eb14092b9b0c56f1eb9021c",
+      "title": "企业级的多渠道大模型 API 管理平台",
+      "desc": "这是一款用 Go 语言开发的企业级大模型接口管理平台，支持 OpenAI、Gemini、Claude 等多种服务。它开箱即用、内置 Web 管理界面、保留原生 ",
+      "author": "tbphp",
+      "timestamp": 1753661117000,
+      "hot": 45,
+      "url": "https://hellogithub.com/repository/554dc4c46eb14092b9b0c56f1eb9021c",
+      "mobileUrl": "https://hellogithub.com/repository/554dc4c46eb14092b9b0c56f1eb9021c"
+    },
+    {
+      "id": "1ef543993f0942798f418d624beb6bc9",
+      "title": "可视化拖拽的数据流管理平台",
+      "desc": "这是一个基于流程编程理念的数据流管理系统。它提供可视化的 Web 管理界面，支持数据溯源、断点续传、弹性扩展和丰富的处理器。用户可以像画流程图一样设计、控制和监",
+      "author": "apache",
+      "timestamp": 1753661117000,
+      "hot": 32,
+      "url": "https://hellogithub.com/repository/1ef543993f0942798f418d624beb6bc9",
+      "mobileUrl": "https://hellogithub.com/repository/1ef543993f0942798f418d624beb6bc9"
+    },
+    {
+      "id": "86f270c54e1c4caea3a3616fadd3bce3",
+      "title": "像操作 XML 一样轻松读写 JSON",
+      "desc": "该项目为 Java 开发者提供类似路径查询的方式，能够轻松从复杂的 JSON 结构中提取数据，无需手动遍历即可定位目标节点。",
+      "author": "json-path",
+      "timestamp": 1753661117000,
+      "hot": 19,
+      "url": "https://hellogithub.com/repository/86f270c54e1c4caea3a3616fadd3bce3",
+      "mobileUrl": "https://hellogithub.com/repository/86f270c54e1c4caea3a3616fadd3bce3"
+    },
+    {
+      "id": "25bb615bdd394f4bb55468c2719a1999",
+      "title": "免更新切换游戏 DLSS 版本的工具",
+      "desc": "这是一款用于管理和替换游戏的 DLSS、FSR 和 XeSS DLL 文件的工具，支持 Steam、GOG、Epic Games 等主流游戏平台。它可以在不更新",
+      "author": "beeradmoore",
+      "timestamp": 1753661117000,
+      "hot": 15,
+      "url": "https://hellogithub.com/repository/25bb615bdd394f4bb55468c2719a1999",
+      "mobileUrl": "https://hellogithub.com/repository/25bb615bdd394f4bb55468c2719a1999"
+    },
+    {
+      "id": "5e5d6fff8e4245adbe3792106b415a8c",
+      "title": "全能的计算机视觉 Java 库",
+      "desc": "该项目让开发者能够在 Java 虚拟机（JVM）直接调用如 OpenCV、FFmpeg、Tesseract 等常用的计算机视觉库，快速开发出实时图像分析、视频编",
+      "author": "bytedeco",
+      "timestamp": 1753661117000,
+      "hot": 15,
+      "url": "https://hellogithub.com/repository/5e5d6fff8e4245adbe3792106b415a8c",
+      "mobileUrl": "https://hellogithub.com/repository/5e5d6fff8e4245adbe3792106b415a8c"
+    },
+    {
+      "id": "60fd0e0e3fb24d518eacef4b7f4a55fd",
+      "title": "Google 开源的数据库 MCP 工具",
+      "desc": "该项目是 Google 开源的 MCP 服务器，专为 LLM 应用与各类数据库之间提供统一、安全、可扩展的数据访问层。它集成了连接池、身份验证、监控等功能，让 ",
+      "author": "googleapis",
+      "timestamp": 1753661117000,
+      "hot": 12,
+      "url": "https://hellogithub.com/repository/60fd0e0e3fb24d518eacef4b7f4a55fd",
+      "mobileUrl": "https://hellogithub.com/repository/60fd0e0e3fb24d518eacef4b7f4a55fd"
+    },
+    {
+      "id": "8e9af473df2244f59d84b79915298fcc",
+      "title": "每日 60 秒资讯 API 集合",
+      "desc": "该项目集合了包括每日新闻、实时票房、汇率、热搜榜、随机段子等多种数据的 API 服务。",
+      "author": "vikiboss",
+      "timestamp": 1753661117000,
+      "hot": 82,
+      "url": "https://hellogithub.com/repository/8e9af473df2244f59d84b79915298fcc",
+      "mobileUrl": "https://hellogithub.com/repository/8e9af473df2244f59d84b79915298fcc"
+    },
+    {
+      "id": "f2aa303e6064435690a49f5966ceb3f1",
+      "title": "开源的 VRM 桌面虚拟伴侣",
+      "desc": "这是一款开源的桌面虚拟伴侣应用，可作为 Desktop Mate 的开源替代品，支持将自定义的 3D 虚拟角色置于桌面，并内置流畅的闲置动画、点击互动、随音乐舞",
+      "author": "shinyflvre",
+      "timestamp": 1753661117000,
+      "hot": 47,
+      "url": "https://hellogithub.com/repository/f2aa303e6064435690a49f5966ceb3f1",
+      "mobileUrl": "https://hellogithub.com/repository/f2aa303e6064435690a49f5966ceb3f1"
+    },
+    {
+      "id": "376bf0beda944b1f8a1b509c97c40f3a",
+      "title": "为旧桌面应用注入新活力的 SDK",
+      "desc": "该项目是微软官方开源的 Windows 桌面应用开发组件和工具集，旨在帮助传统的 Win32、WPF、WinForms 等应用，轻松集成最新的 Windows ",
+      "author": "microsoft",
+      "timestamp": 1753661117000,
+      "hot": 38,
+      "url": "https://hellogithub.com/repository/376bf0beda944b1f8a1b509c97c40f3a",
+      "mobileUrl": "https://hellogithub.com/repository/376bf0beda944b1f8a1b509c97c40f3a"
+    },
+    {
+      "id": "3b5217782fc641cda5d78fba34ba582e",
+      "title": "深度定制你的 Android 系统界面",
+      "desc": "这是一款功能强大的 Android 系统级美化工具，专为 Android 12 及以上的 Pixel 或 AOSP 类 ROM 设计。它支持对设备用户界面（UI",
+      "author": "Mahmud0808",
+      "timestamp": 1753661117000,
+      "hot": 32,
+      "url": "https://hellogithub.com/repository/3b5217782fc641cda5d78fba34ba582e",
+      "mobileUrl": "https://hellogithub.com/repository/3b5217782fc641cda5d78fba34ba582e"
+    },
+    {
+      "id": "8fd22a91ec554dc3982679cf397382e4",
+      "title": "《Think Stats》统计思维",
+      "desc": "这是一本写给程序员的统计学电子书，所有代码示例和练习均以 Python 实现。全书围绕真实数据集展开，通过探索性数据分析、概率分布、假设检验、相关性与回归分析等",
+      "author": "AllenDowney",
+      "timestamp": 1753661117000,
+      "hot": 27,
+      "url": "https://hellogithub.com/repository/8fd22a91ec554dc3982679cf397382e4",
+      "mobileUrl": "https://hellogithub.com/repository/8fd22a91ec554dc3982679cf397382e4"
+    },
+    {
+      "id": "274127654be04a9cae4b9d58d5b1f98a",
+      "title": "用 Python 动态演示神经网络",
+      "desc": "这是一个基于 Manim 的 Python 库，用于制作机器学习相关概念的动画和可视化效果。只需编写简单的 Python 代码，即可轻松生成神经网络结构、卷积操",
+      "author": "helblazer811",
+      "timestamp": 1753661117000,
+      "hot": 26,
+      "url": "https://hellogithub.com/repository/274127654be04a9cae4b9d58d5b1f98a",
+      "mobileUrl": "https://hellogithub.com/repository/274127654be04a9cae4b9d58d5b1f98a"
+    },
+    {
+      "id": "b7f6d449795340ff80c8e555e8794911",
+      "title": "快速恢复专注的命令行工具",
+      "desc": "这是一个 Go 语言开发的命令行工具，旨在帮助开发者在心烦意乱或注意力不集中时，通过简单的呼吸练习，快速找回专注和内心的平静。",
+      "author": "e6a5",
+      "timestamp": 1753661117000,
+      "hot": 24,
+      "url": "https://hellogithub.com/repository/b7f6d449795340ff80c8e555e8794911",
+      "mobileUrl": "https://hellogithub.com/repository/b7f6d449795340ff80c8e555e8794911"
+    },
+    {
+      "id": "490d00fe46f24304a70ace187beb7e5b",
+      "title": "兼容全球地址格式的解析库",
+      "desc": "该项目是用 C 语言编写的全球地址解析库，支持多种语言、格式和国家的地址字符串，能够将地址信息转换为结构化数据。",
+      "author": "openvenues",
+      "timestamp": 1753661117000,
+      "hot": 23,
+      "url": "https://hellogithub.com/repository/490d00fe46f24304a70ace187beb7e5b",
+      "mobileUrl": "https://hellogithub.com/repository/490d00fe46f24304a70ace187beb7e5b"
+    },
+    {
+      "id": "fcbefff4af9c49b88bb93645b2876c58",
+      "title": "这个“世界”只有 HTML 和 CSS",
+      "desc": "该项仅用 CSS 和 HTML 实现了类似《我的世界》（Minecraft）的界面交互，没用一行 JavaScript 代码，支持方块的放置、移除、切换视角等基",
+      "author": "BenjaminAster",
+      "timestamp": 1753661117000,
+      "hot": 20,
+      "url": "https://hellogithub.com/repository/fcbefff4af9c49b88bb93645b2876c58",
+      "mobileUrl": "https://hellogithub.com/repository/fcbefff4af9c49b88bb93645b2876c58"
+    },
+    {
+      "id": "a1cbe03f594e4ef889aca6b4ab2deea5",
+      "title": "命令行数据文件可视化浏览工具",
+      "desc": "这是一款用于浏览和查询表格数据文件（如 CSV、Parquet、Arrow、Excel 等）的命令行工具。它提供交互式界面体验、支持 SQL 查询、多表操作、模",
+      "author": "shshemi",
+      "timestamp": 1753661117000,
+      "hot": 20,
+      "url": "https://hellogithub.com/repository/a1cbe03f594e4ef889aca6b4ab2deea5",
+      "mobileUrl": "https://hellogithub.com/repository/a1cbe03f594e4ef889aca6b4ab2deea5"
+    },
+    {
+      "id": "4dcea807fab7468a962c153b07ae4e4e",
+      "title": "极简的在线白板工具",
+      "desc": "这是一款免费、开源的在线白板工具。它提供一个无限画布，支持自由绘制、思维导图、流程图、画笔、插入图片、自动保存等功能，以及移动端适配、Docker 部署和插件机",
+      "author": "plait-board",
+      "timestamp": 1753661117000,
+      "hot": 19,
+      "url": "https://hellogithub.com/repository/4dcea807fab7468a962c153b07ae4e4e",
+      "mobileUrl": "https://hellogithub.com/repository/4dcea807fab7468a962c153b07ae4e4e"
+    },
+    {
+      "id": "46256bcaad5a4f43b16093dad9df0c25",
+      "title": "MacBook 触控板秒变电子秤",
+      "desc": "这是一款有趣的 macOS 应用，可以将 MacBook 的触控板变身为数字电子秤。它利用触控板内置的 Force Touch 压力传感器，只需将物体放在触控板",
+      "author": "KrishKrosh",
+      "timestamp": 1753661117000,
+      "hot": 18,
+      "url": "https://hellogithub.com/repository/46256bcaad5a4f43b16093dad9df0c25",
+      "mobileUrl": "https://hellogithub.com/repository/46256bcaad5a4f43b16093dad9df0c25"
+    },
+    {
+      "id": "450cfc4c2f80458aab2f04740ae97796",
+      "title": "MacBook 专属的高性能 AI 推理引擎",
+      "desc": "这是一个专为 Apple M 系列芯片打造的高性能、轻量级 AI 模型推理引擎。它充分利用 Apple 硬件的特性提升推理速度，并提供简单易用的 API，助你一",
+      "author": "trymirai",
+      "timestamp": 1753661117000,
+      "hot": 18,
+      "url": "https://hellogithub.com/repository/450cfc4c2f80458aab2f04740ae97796",
+      "mobileUrl": "https://hellogithub.com/repository/450cfc4c2f80458aab2f04740ae97796"
+    }
+  ]
+}
