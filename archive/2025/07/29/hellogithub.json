@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-07-29T01:58:59.408035",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "b95bcb72bdc340b68f16fdf6790b7d5b",
+      "title": "基于 Rust 的高性能分布式存储系统",
+      "desc": "该项是用 Rust 构建的高性能分布式对象存储系统，致力于成为 MinIO 的开源替代品。它安装简单、兼容 S3 协议，采用更友好的开源协议，并内置界面清爽的 ",
+      "author": "rustfs",
+      "timestamp": 1751933777000,
+      "hot": 2691,
+      "url": "https://hellogithub.com/repository/b95bcb72bdc340b68f16fdf6790b7d5b",
+      "mobileUrl": "https://hellogithub.com/repository/b95bcb72bdc340b68f16fdf6790b7d5b"
+    },
+    {
+      "id": "554dc4c46eb14092b9b0c56f1eb9021c",
+      "title": "企业级的多渠道大模型 API 管理平台",
+      "desc": "这是一款用 Go 语言开发的企业级大模型接口管理平台，支持 OpenAI、Gemini、Claude 等多种服务。它开箱即用、内置 Web 管理界面、保留原生 ",
+      "author": "tbphp",
+      "timestamp": 1753661117000,
+      "hot": 242,
+      "url": "https://hellogithub.com/repository/554dc4c46eb14092b9b0c56f1eb9021c",
+      "mobileUrl": "https://hellogithub.com/repository/554dc4c46eb14092b9b0c56f1eb9021c"
+    },
+    {
+      "id": "8e8103d347e9482b9b757c7e4bdfb2ca",
+      "title": "精准的网页内容截图库",
+      "desc": "这是一个高效的网页截图 JavaScript 库，可将网页上的任意 Dom 元素快速、精确地转化为高质量图片，并支持导出为 PNG、JPG、WebP 或 Can",
+      "author": "zumerlab",
+      "timestamp": 1753661117000,
+      "hot": 145,
+      "url": "https://hellogithub.com/repository/8e8103d347e9482b9b757c7e4bdfb2ca",
+      "mobileUrl": "https://hellogithub.com/repository/8e8103d347e9482b9b757c7e4bdfb2ca"
+    },
+    {
+      "id": "8e9af473df2244f59d84b79915298fcc",
+      "title": "每日 60 秒资讯 API 集合",
+      "desc": "该项目集合了包括每日新闻、实时票房、汇率、热搜榜、随机段子等多种数据的 API 服务。",
+      "author": "vikiboss",
+      "timestamp": 1753661117000,
+      "hot": 476,
+      "url": "https://hellogithub.com/repository/8e9af473df2244f59d84b79915298fcc",
+      "mobileUrl": "https://hellogithub.com/repository/8e9af473df2244f59d84b79915298fcc"
+    },
+    {
+      "id": "bfafef903133433888557c747170237f",
+      "title": "在浏览器中运行的 JupyterLab",
+      "desc": "这是一个完全在浏览器中运行的 JupyterLab，无需安装 Python 或配置服务器。它提供在线交互式 Python 编程环境，可作为静态文件部署到任何静态",
+      "author": "jupyterlite",
+      "timestamp": 1753661117000,
+      "hot": 108,
+      "url": "https://hellogithub.com/repository/bfafef903133433888557c747170237f",
+      "mobileUrl": "https://hellogithub.com/repository/bfafef903133433888557c747170237f"
+    },
+    {
+      "id": "fa06fbe0c95f43b2ae1763570dc45347",
+      "title": "开源的伪 3D 图绘制工具",
+      "desc": "这是一款专为创建专业的等距（isometric）基础架构图而设计的绘图工具，支持离线使用。等距图是以 2D 形式呈现 3D 效果，能够更直观、精准地展现复杂的设",
+      "author": "stan-smith",
+      "timestamp": 1753661117000,
+      "hot": 101,
+      "url": "https://hellogithub.com/repository/fa06fbe0c95f43b2ae1763570dc45347",
+      "mobileUrl": "https://hellogithub.com/repository/fa06fbe0c95f43b2ae1763570dc45347"
+    },
+    {
+      "id": "4dcea807fab7468a962c153b07ae4e4e",
+      "title": "极简的在线白板工具",
+      "desc": "这是一款免费、开源的在线白板工具。它提供一个无限画布，支持自由绘制、思维导图、流程图、画笔、插入图片、自动保存等功能，以及移动端适配、Docker 部署和插件机",
+      "author": "plait-board",
+      "timestamp": 1753661117000,
+      "hot": 184,
+      "url": "https://hellogithub.com/repository/4dcea807fab7468a962c153b07ae4e4e",
+      "mobileUrl": "https://hellogithub.com/repository/4dcea807fab7468a962c153b07ae4e4e"
+    },
+    {
+      "id": "5e5d6fff8e4245adbe3792106b415a8c",
+      "title": "全能的计算机视觉 Java 库",
+      "desc": "该项目让开发者能够在 Java 虚拟机（JVM）直接调用如 OpenCV、FFmpeg、Tesseract 等常用的计算机视觉库，快速开发出实时图像分析、视频编",
+      "author": "bytedeco",
+      "timestamp": 1753661117000,
+      "hot": 114,
+      "url": "https://hellogithub.com/repository/5e5d6fff8e4245adbe3792106b415a8c",
+      "mobileUrl": "https://hellogithub.com/repository/5e5d6fff8e4245adbe3792106b415a8c"
+    },
+    {
+      "id": "3b5217782fc641cda5d78fba34ba582e",
+      "title": "深度定制你的 Android 系统界面",
+      "desc": "这是一款功能强大的 Android 系统级美化工具，专为 Android 12 及以上的 Pixel 或 AOSP 类 ROM 设计。它支持对设备用户界面（UI",
+      "author": "Mahmud0808",
+      "timestamp": 1753661117000,
+      "hot": 127,
+      "url": "https://hellogithub.com/repository/3b5217782fc641cda5d78fba34ba582e",
+      "mobileUrl": "https://hellogithub.com/repository/3b5217782fc641cda5d78fba34ba582e"
+    },
+    {
+      "id": "274127654be04a9cae4b9d58d5b1f98a",
+      "title": "用 Python 动态演示神经网络",
+      "desc": "这是一个基于 Manim 的 Python 库，用于制作机器学习相关概念的动画和可视化效果。只需编写简单的 Python 代码，即可轻松生成神经网络结构、卷积操",
+      "author": "helblazer811",
+      "timestamp": 1753661117000,
+      "hot": 138,
+      "url": "https://hellogithub.com/repository/274127654be04a9cae4b9d58d5b1f98a",
+      "mobileUrl": "https://hellogithub.com/repository/274127654be04a9cae4b9d58d5b1f98a"
+    },
+    {
+      "id": "a5df093f968f4bc48cf0124f6c54612a",
+      "title": "开源的视觉小说翻译工具",
+      "desc": "这是一款专为 Windows 平台设计的视觉小说（Galgame）翻译器，支持 HOOK、OCR、剪贴板等多种文本提取方式，可灵活切换，并提供在线翻译、离线翻译",
+      "author": "HIllya51",
+      "timestamp": 1753661117000,
+      "hot": 146,
+      "url": "https://hellogithub.com/repository/a5df093f968f4bc48cf0124f6c54612a",
+      "mobileUrl": "https://hellogithub.com/repository/a5df093f968f4bc48cf0124f6c54612a"
+    },
+    {
+      "id": "dfc66495645b425eb4066ac0e0b41851",
+      "title": "基于位运算的 2048 游戏",
+      "desc": "这是一个通过位运算实现了经典的 2048 游戏，仅一个文件（.bash）、零依赖、不到 200 行代码。与常见的二维数组模拟棋盘方式不同，该项目巧妙地利用位运算",
+      "author": "izabera",
+      "timestamp": 1753661117000,
+      "hot": 82,
+      "url": "https://hellogithub.com/repository/dfc66495645b425eb4066ac0e0b41851",
+      "mobileUrl": "https://hellogithub.com/repository/dfc66495645b425eb4066ac0e0b41851"
+    },
+    {
+      "id": "b7f6d449795340ff80c8e555e8794911",
+      "title": "快速恢复专注的命令行工具",
+      "desc": "这是一个 Go 语言开发的命令行工具，旨在帮助开发者在心烦意乱或注意力不集中时，通过简单的呼吸练习，快速找回专注和内心的平静。",
+      "author": "e6a5",
+      "timestamp": 1753661117000,
+      "hot": 86,
+      "url": "https://hellogithub.com/repository/b7f6d449795340ff80c8e555e8794911",
+      "mobileUrl": "https://hellogithub.com/repository/b7f6d449795340ff80c8e555e8794911"
+    },
+    {
+      "id": "a1cbe03f594e4ef889aca6b4ab2deea5",
+      "title": "命令行数据文件可视化浏览工具",
+      "desc": "这是一款用于浏览和查询表格数据文件（如 CSV、Parquet、Arrow、Excel 等）的命令行工具。它提供交互式界面体验、支持 SQL 查询、多表操作、模",
+      "author": "shshemi",
+      "timestamp": 1753661117000,
+      "hot": 81,
+      "url": "https://hellogithub.com/repository/a1cbe03f594e4ef889aca6b4ab2deea5",
+      "mobileUrl": "https://hellogithub.com/repository/a1cbe03f594e4ef889aca6b4ab2deea5"
+    },
+    {
+      "id": "f2aa303e6064435690a49f5966ceb3f1",
+      "title": "开源的 VRM 桌面虚拟伴侣",
+      "desc": "这是一款开源的桌面虚拟伴侣应用，可作为 Desktop Mate 的开源替代品，支持将自定义的 3D 虚拟角色置于桌面，并内置流畅的闲置动画、点击互动、随音乐舞",
+      "author": "shinyflvre",
+      "timestamp": 1753661117000,
+      "hot": 166,
+      "url": "https://hellogithub.com/repository/f2aa303e6064435690a49f5966ceb3f1",
+      "mobileUrl": "https://hellogithub.com/repository/f2aa303e6064435690a49f5966ceb3f1"
+    },
+    {
+      "id": "1ef543993f0942798f418d624beb6bc9",
+      "title": "可视化拖拽的数据流管理平台",
+      "desc": "这是一个基于流程编程理念的数据流管理系统。它提供可视化的 Web 管理界面，支持数据溯源、断点续传、弹性扩展和丰富的处理器。用户可以像画流程图一样设计、控制和监",
+      "author": "apache",
+      "timestamp": 1753661117000,
+      "hot": 144,
+      "url": "https://hellogithub.com/repository/1ef543993f0942798f418d624beb6bc9",
+      "mobileUrl": "https://hellogithub.com/repository/1ef543993f0942798f418d624beb6bc9"
+    },
+    {
+      "id": "d65d994de6d44dd987931c90d82165ef",
+      "title": "轻量级的 CAPTCHA 替代方案",
+      "desc": "这是一个轻量级、开源的验证码方案，适用于防止机器人滥用和数据抓取等场景。它基于 SHA-256 工作量证明（Proof-of-Work）技术，易于集成、即插即用",
+      "author": "tiagorangel1",
+      "timestamp": 1753661117000,
+      "hot": 96,
+      "url": "https://hellogithub.com/repository/d65d994de6d44dd987931c90d82165ef",
+      "mobileUrl": "https://hellogithub.com/repository/d65d994de6d44dd987931c90d82165ef"
+    },
+    {
+      "id": "fcbefff4af9c49b88bb93645b2876c58",
+      "title": "这个“世界”只有 HTML 和 CSS",
+      "desc": "该项仅用 CSS 和 HTML 实现了类似《我的世界》（Minecraft）的界面交互，没用一行 JavaScript 代码，支持方块的放置、移除、切换视角等基",
+      "author": "BenjaminAster",
+      "timestamp": 1753661117000,
+      "hot": 95,
+      "url": "https://hellogithub.com/repository/fcbefff4af9c49b88bb93645b2876c58",
+      "mobileUrl": "https://hellogithub.com/repository/fcbefff4af9c49b88bb93645b2876c58"
+    },
+    {
+      "id": "8fd22a91ec554dc3982679cf397382e4",
+      "title": "《Think Stats》统计思维",
+      "desc": "这是一本写给程序员的统计学电子书，所有代码示例和练习均以 Python 实现。全书围绕真实数据集展开，通过探索性数据分析、概率分布、假设检验、相关性与回归分析等",
+      "author": "AllenDowney",
+      "timestamp": 1753661117000,
+      "hot": 93,
+      "url": "https://hellogithub.com/repository/8fd22a91ec554dc3982679cf397382e4",
+      "mobileUrl": "https://hellogithub.com/repository/8fd22a91ec554dc3982679cf397382e4"
+    },
+    {
+      "id": "c583c26b286e4fba8f57201f407ef3c8",
+      "title": "《绝区零》战斗模拟器",
+      "desc": "这是一个专为游戏《绝区零》设计的伤害模拟和战斗仿真工具，支持全自动仿真、可视化报告、自定义 APL 等功能。玩家可自由选择游戏中的角色与装备，并配置属性参数，然",
+      "author": "ZZZSimulator",
+      "timestamp": 1753661117000,
+      "hot": 90,
+      "url": "https://hellogithub.com/repository/c583c26b286e4fba8f57201f407ef3c8",
+      "mobileUrl": "https://hellogithub.com/repository/c583c26b286e4fba8f57201f407ef3c8"
+    }
+  ]
+}
