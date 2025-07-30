@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-07-30T01:48:58.895435",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "28359636ef72",
+      "title": "iOS16屏幕强制横屏",
+      "desc": "适配iOS16横屏操作 2022.09.02更新在调用上面的方法前执行以下方法 其中clientstate这个是一个状态值，用来控制 suppo...",
+      "author": "_菩提本无树_",
+      "url": "https://www.jianshu.com/p/28359636ef72",
+      "mobileUrl": "https://www.jianshu.com/p/28359636ef72"
+    },
+    {
+      "id": "3febe625b9b3",
+      "title": "会员制陷阱：当写作平台变成氪金游戏",
+      "desc": "最初入驻简书，纯粹是为了找个能安静码字的地方。疫情期间，这个平台成了我宣泄情绪的树洞，每天雷打不动地更新，像完成某种虔诚的仪式。渐渐地，我开始相...",
+      "author": "舜真如心",
+      "url": "https://www.jianshu.com/p/3febe625b9b3",
+      "mobileUrl": "https://www.jianshu.com/p/3febe625b9b3"
+    },
+    {
+      "id": "a3f6c266ce72",
+      "title": "如何在有/无备份的情况下进行华为通话记录恢复",
+      "cover": "https://upload-images.jianshu.io/upload_images/30120869-89e95969e5429f51.jpeg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "丢失重要的通话记录可能会让人感到焦虑，尤其是当其中包含诸如商务联系人或未接来电之类的关键信息时。无论您是否有备份，都可以通过一些简单的方法恢复华...",
+      "author": "Coolmuster",
+      "url": "https://www.jianshu.com/p/a3f6c266ce72",
+      "mobileUrl": "https://www.jianshu.com/p/a3f6c266ce72"
+    }
+  ]
+}
