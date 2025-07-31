@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-07-31T01:48:29.575718",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "206923b89d17",
+      "title": "11《Python 办公自动化教程》使用 zmail 模块收发邮件",
+      "cover": "https://upload-images.jianshu.io/upload_images/3359132-85677767e5218271.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "在前面小节中，我们已经可以使用 Python 内置的 smtplib 与 email 模块进行邮件内容的构建和各类型邮件内容的发送。但在使用上邮...",
+      "author": "木子教程",
+      "url": "https://www.jianshu.com/p/206923b89d17",
+      "mobileUrl": "https://www.jianshu.com/p/206923b89d17"
+    },
+    {
+      "id": "2b31d0d4e0a1",
+      "title": "品鉴《红楼梦》中的好吃、好喝与好看",
+      "cover": "https://upload-images.jianshu.io/upload_images/19315742-1a0c53d8bda39052.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "曹雪芹在《红楼梦》中对美食、饮品与一些物品的描写细致入微，展现了贵族生活的奢华。以下部分文字引用原文，目的是在细品文字的过程中，带动眼耳鼻舌身的...",
+      "author": "梅美生活1",
+      "url": "https://www.jianshu.com/p/2b31d0d4e0a1",
+      "mobileUrl": "https://www.jianshu.com/p/2b31d0d4e0a1"
+    },
+    {
+      "id": "09b06dfa81ea",
+      "title": "Python模块·Re正则匹配、切割、替换",
+      "desc": "一、Re模块： 对应正则表达式的Python模块 分类关键字 / 函数 / 方法说明数据匹配--re.match(正则字符串, 目标字符串)开头...",
+      "author": "技术老男孩",
+      "url": "https://www.jianshu.com/p/09b06dfa81ea",
+      "mobileUrl": "https://www.jianshu.com/p/09b06dfa81ea"
+    }
+  ]
+}
