@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-08-01T01:58:38.374526",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "ca4e9df3c18549d7b52a5566ceb62ca4",
+      "title": "智谱开源的旗舰模型系列",
+      "desc": "这是一个专为智能体应用打造的基础模型。GLM-4.5 总参数为 355B 激活参数为 32B，在工具调用、网页浏览、软件工程、前端编程领域进行了优化，可以接入 ",
+      "author": "zai-org",
+      "timestamp": 1753758231000,
+      "hot": 762,
+      "url": "https://hellogithub.com/repository/ca4e9df3c18549d7b52a5566ceb62ca4",
+      "mobileUrl": "https://hellogithub.com/repository/ca4e9df3c18549d7b52a5566ceb62ca4"
+    },
+    {
+      "id": "b95bcb72bdc340b68f16fdf6790b7d5b",
+      "title": "基于 Rust 的高性能分布式存储系统",
+      "desc": "该项是用 Rust 构建的高性能分布式对象存储系统，致力于成为 MinIO 的开源替代品。它安装简单、兼容 S3 协议，采用更友好的开源协议，并内置界面清爽的 ",
+      "author": "rustfs",
+      "timestamp": 1751933777000,
+      "hot": 2978,
+      "url": "https://hellogithub.com/repository/b95bcb72bdc340b68f16fdf6790b7d5b",
+      "mobileUrl": "https://hellogithub.com/repository/b95bcb72bdc340b68f16fdf6790b7d5b"
+    },
+    {
+      "id": "554dc4c46eb14092b9b0c56f1eb9021c",
+      "title": "企业级的多渠道大模型 API 管理平台",
+      "desc": "这是一款用 Go 语言开发的企业级大模型接口管理平台，支持 OpenAI、Gemini、Claude 等多种服务。它开箱即用、内置 Web 管理界面、保留原生 ",
+      "author": "tbphp",
+      "timestamp": 1753661117000,
+      "hot": 575,
+      "url": "https://hellogithub.com/repository/554dc4c46eb14092b9b0c56f1eb9021c",
+      "mobileUrl": "https://hellogithub.com/repository/554dc4c46eb14092b9b0c56f1eb9021c"
+    },
+    {
+      "id": "8e8103d347e9482b9b757c7e4bdfb2ca",
+      "title": "精准的网页内容截图库",
+      "desc": "这是一个高效的网页截图 JavaScript 库，可将网页上的任意 Dom 元素快速、精确地转化为高质量图片，并支持导出为 PNG、JPG、WebP 或 Can",
+      "author": "zumerlab",
+      "timestamp": 1753661117000,
+      "hot": 580,
+      "url": "https://hellogithub.com/repository/8e8103d347e9482b9b757c7e4bdfb2ca",
+      "mobileUrl": "https://hellogithub.com/repository/8e8103d347e9482b9b757c7e4bdfb2ca"
+    },
+    {
+      "id": "8e9af473df2244f59d84b79915298fcc",
+      "title": "每日 60 秒资讯 API 集合",
+      "desc": "该项目集合了包括每日新闻、实时票房、汇率、热搜榜、随机段子等多种数据的 API 服务。",
+      "author": "vikiboss",
+      "timestamp": 1753661117000,
+      "hot": 1317,
+      "url": "https://hellogithub.com/repository/8e9af473df2244f59d84b79915298fcc",
+      "mobileUrl": "https://hellogithub.com/repository/8e9af473df2244f59d84b79915298fcc"
+    },
+    {
+      "id": "4dcea807fab7468a962c153b07ae4e4e",
+      "title": "极简的在线白板工具",
+      "desc": "这是一款免费、开源的在线白板工具。它提供一个无限画布，支持自由绘制、思维导图、流程图、画笔、插入图片、自动保存等功能，以及移动端适配、Docker 部署和插件机",
+      "author": "plait-board",
+      "timestamp": 1753661117000,
+      "hot": 565,
+      "url": "https://hellogithub.com/repository/4dcea807fab7468a962c153b07ae4e4e",
+      "mobileUrl": "https://hellogithub.com/repository/4dcea807fab7468a962c153b07ae4e4e"
+    },
+    {
+      "id": "bfafef903133433888557c747170237f",
+      "title": "在浏览器中运行的 JupyterLab",
+      "desc": "这是一个完全在浏览器中运行的 JupyterLab，无需安装 Python 或配置服务器。它提供在线交互式 Python 编程环境，可作为静态文件部署到任何静态",
+      "author": "jupyterlite",
+      "timestamp": 1753661117000,
+      "hot": 424,
+      "url": "https://hellogithub.com/repository/bfafef903133433888557c747170237f",
+      "mobileUrl": "https://hellogithub.com/repository/bfafef903133433888557c747170237f"
+    },
+    {
+      "id": "a5df093f968f4bc48cf0124f6c54612a",
+      "title": "开源的视觉小说翻译工具",
+      "desc": "这是一款专为 Windows 平台设计的视觉小说（Galgame）翻译器，支持 HOOK、OCR、剪贴板等多种文本提取方式，可灵活切换，并提供在线翻译、离线翻译",
+      "author": "HIllya51",
+      "timestamp": 1753661117000,
+      "hot": 449,
+      "url": "https://hellogithub.com/repository/a5df093f968f4bc48cf0124f6c54612a",
+      "mobileUrl": "https://hellogithub.com/repository/a5df093f968f4bc48cf0124f6c54612a"
+    },
+    {
+      "id": "3b5217782fc641cda5d78fba34ba582e",
+      "title": "深度定制你的 Android 系统界面",
+      "desc": "这是一款功能强大的 Android 系统级美化工具，专为 Android 12 及以上的 Pixel 或 AOSP 类 ROM 设计。它支持对设备用户界面（UI",
+      "author": "Mahmud0808",
+      "timestamp": 1753661117000,
+      "hot": 454,
+      "url": "https://hellogithub.com/repository/3b5217782fc641cda5d78fba34ba582e",
+      "mobileUrl": "https://hellogithub.com/repository/3b5217782fc641cda5d78fba34ba582e"
+    },
+    {
+      "id": "fa06fbe0c95f43b2ae1763570dc45347",
+      "title": "开源的伪 3D 图绘制工具",
+      "desc": "这是一款专为创建专业的等距（isometric）基础架构图而设计的绘图工具，支持离线使用。等距图是以 2D 形式呈现 3D 效果，能够更直观、精准地展现复杂的设",
+      "author": "stan-smith",
+      "timestamp": 1753661117000,
+      "hot": 356,
+      "url": "https://hellogithub.com/repository/fa06fbe0c95f43b2ae1763570dc45347",
+      "mobileUrl": "https://hellogithub.com/repository/fa06fbe0c95f43b2ae1763570dc45347"
+    },
+    {
+      "id": "8fd22a91ec554dc3982679cf397382e4",
+      "title": "《Think Stats》统计思维",
+      "desc": "这是一本写给程序员的统计学电子书，所有代码示例和练习均以 Python 实现。全书围绕真实数据集展开，通过探索性数据分析、概率分布、假设检验、相关性与回归分析等",
+      "author": "AllenDowney",
+      "timestamp": 1753661117000,
+      "hot": 291,
+      "url": "https://hellogithub.com/repository/8fd22a91ec554dc3982679cf397382e4",
+      "mobileUrl": "https://hellogithub.com/repository/8fd22a91ec554dc3982679cf397382e4"
+    },
+    {
+      "id": "5e5d6fff8e4245adbe3792106b415a8c",
+      "title": "全能的计算机视觉 Java 库",
+      "desc": "该项目让开发者能够在 Java 虚拟机（JVM）直接调用如 OpenCV、FFmpeg、Tesseract 等常用的计算机视觉库，快速开发出实时图像分析、视频编",
+      "author": "bytedeco",
+      "timestamp": 1753661117000,
+      "hot": 336,
+      "url": "https://hellogithub.com/repository/5e5d6fff8e4245adbe3792106b415a8c",
+      "mobileUrl": "https://hellogithub.com/repository/5e5d6fff8e4245adbe3792106b415a8c"
+    },
+    {
+      "id": "fcbefff4af9c49b88bb93645b2876c58",
+      "title": "这个“世界”只有 HTML 和 CSS",
+      "desc": "该项仅用 CSS 和 HTML 实现了类似《我的世界》（Minecraft）的界面交互，没用一行 JavaScript 代码，支持方块的放置、移除、切换视角等基",
+      "author": "BenjaminAster",
+      "timestamp": 1753661117000,
+      "hot": 257,
+      "url": "https://hellogithub.com/repository/fcbefff4af9c49b88bb93645b2876c58",
+      "mobileUrl": "https://hellogithub.com/repository/fcbefff4af9c49b88bb93645b2876c58"
+    },
+    {
+      "id": "f62867fa12464fa6a61d91f3932f2ec5",
+      "title": "一键将代码库转换为 AI 友好格式的工具",
+      "desc": "该项目可将任意 GitHub 仓库快速转换为适合大语言模型处理的纯文本摘要。使用起来十分方便，只需将 GitHub 项目地址中的 hub 替换为 ingest ",
+      "author": "coderamp-labs",
+      "timestamp": 1753661117000,
+      "hot": 192,
+      "url": "https://hellogithub.com/repository/f62867fa12464fa6a61d91f3932f2ec5",
+      "mobileUrl": "https://hellogithub.com/repository/f62867fa12464fa6a61d91f3932f2ec5"
+    },
+    {
+      "id": "9aa3cc57a6774f45b4d865f150a64f18",
+      "title": "开箱即用的智能字幕助手",
+      "desc": "这是一款基于大语言模型的智能视频字幕处理工具。它界面简洁、操作便捷，支持语音识别、智能校对和自动生成多语言字幕等功能。",
+      "author": "WEIFENG2333",
+      "timestamp": 1753661117000,
+      "hot": 221,
+      "url": "https://hellogithub.com/repository/9aa3cc57a6774f45b4d865f150a64f18",
+      "mobileUrl": "https://hellogithub.com/repository/9aa3cc57a6774f45b4d865f150a64f18"
+    },
+    {
+      "id": "be1e7e873f3f46daa81dcc8989aa37dd",
+      "title": "可执行用户脚本的浏览器插件",
+      "desc": "这是一款开源的浏览器插件，支持用户安装和运行第三方的 JavaScript 代码片段，可用于屏蔽广告、增强网站功能、自动化网页操作等场景。",
+      "author": "scriptscat",
+      "timestamp": 1753661117000,
+      "hot": 207,
+      "url": "https://hellogithub.com/repository/be1e7e873f3f46daa81dcc8989aa37dd",
+      "mobileUrl": "https://hellogithub.com/repository/be1e7e873f3f46daa81dcc8989aa37dd"
+    },
+    {
+      "id": "25bb615bdd394f4bb55468c2719a1999",
+      "title": "免更新切换游戏 DLSS 版本的工具",
+      "desc": "这是一款用于管理和替换游戏的 DLSS、FSR 和 XeSS DLL 文件的工具，支持 Steam、GOG、Epic Games 等主流游戏平台。它可以在不更新",
+      "author": "beeradmoore",
+      "timestamp": 1753661117000,
+      "hot": 161,
+      "url": "https://hellogithub.com/repository/25bb615bdd394f4bb55468c2719a1999",
+      "mobileUrl": "https://hellogithub.com/repository/25bb615bdd394f4bb55468c2719a1999"
+    },
+    {
+      "id": "450cfc4c2f80458aab2f04740ae97796",
+      "title": "MacBook 专属的高性能 AI 推理引擎",
+      "desc": "这是一个专为 Apple M 系列芯片打造的高性能、轻量级 AI 模型推理引擎。它充分利用 Apple 硬件的特性提升推理速度，并提供简单易用的 API，助你一",
+      "author": "trymirai",
+      "timestamp": 1753661117000,
+      "hot": 158,
+      "url": "https://hellogithub.com/repository/450cfc4c2f80458aab2f04740ae97796",
+      "mobileUrl": "https://hellogithub.com/repository/450cfc4c2f80458aab2f04740ae97796"
+    },
+    {
+      "id": "274127654be04a9cae4b9d58d5b1f98a",
+      "title": "用 Python 动态演示神经网络",
+      "desc": "这是一个基于 Manim 的 Python 库，用于制作机器学习相关概念的动画和可视化效果。只需编写简单的 Python 代码，即可轻松生成神经网络结构、卷积操",
+      "author": "helblazer811",
+      "timestamp": 1753661117000,
+      "hot": 321,
+      "url": "https://hellogithub.com/repository/274127654be04a9cae4b9d58d5b1f98a",
+      "mobileUrl": "https://hellogithub.com/repository/274127654be04a9cae4b9d58d5b1f98a"
+    },
+    {
+      "id": "a52ec174089f4ee0b7f49ae36dc6b8bd",
+      "title": "自制电子墨水屏番茄时钟",
+      "desc": "这是一个基于 ESP32 的实体番茄钟计时器，配备 4.26 英寸黑白 ePaper 屏幕和旋钮式操作。通过旋转旋钮可快速设定工作和休息时长，按下旋钮即可立即开",
+      "author": "Rukenshia",
+      "timestamp": 1753661117000,
+      "hot": 262,
+      "url": "https://hellogithub.com/repository/a52ec174089f4ee0b7f49ae36dc6b8bd",
+      "mobileUrl": "https://hellogithub.com/repository/a52ec174089f4ee0b7f49ae36dc6b8bd"
+    }
+  ]
+}
