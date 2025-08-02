@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-08-02T01:43:33.121888",
+    "count": 5
+  },
+  "data": [
+    {
+      "id": "71867ab4ca19",
+      "title": "谁能凭爱意要富士山私有…",
+      "cover": "https://upload-images.jianshu.io/upload_images/19509106-0caa6ca2987d78fa.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "人间清醒了这么多年，突然有一天遇见了一个人，他很纯粹，当然我没有想过有一天我会如此喜欢一个人，我会想要和他分享我有的一切。 虽然他现在还什么也没...",
+      "author": "曌日月当空",
+      "url": "https://www.jianshu.com/p/71867ab4ca19",
+      "mobileUrl": "https://www.jianshu.com/p/71867ab4ca19"
+    },
+    {
+      "id": "b0e24dadf4e1",
+      "title": "新茶饮下半场：喜茶不拼价格拼“符号”，“毫米级换标”是张什么牌？",
+      "desc": "喜茶，可以说是新茶饮赛道上的“头部选手”，它的一举一动自然引发着外界的诸多关注。无论是以往喜茶与诸多知名品牌的联名跨界，还是以往喜茶打法和模式的...",
+      "author": "产业深观",
+      "url": "https://www.jianshu.com/p/b0e24dadf4e1",
+      "mobileUrl": "https://www.jianshu.com/p/b0e24dadf4e1"
+    },
+    {
+      "id": "107f08c128e8",
+      "title": "【numpy笔记_5】数组的算数运算与广播机制",
+      "cover": "https://upload-images.jianshu.io/upload_images/28793551-5425f0c084063386.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "算数运算 与常规的list对象不同，numpy支持把整个数组带入算数运算。 之前提过，array对象往往要求所有元素保持统一的数据类型，因此nu...",
+      "author": "fakeProgramer",
+      "url": "https://www.jianshu.com/p/107f08c128e8",
+      "mobileUrl": "https://www.jianshu.com/p/107f08c128e8"
+    },
+    {
+      "id": "f05d629e46a5",
+      "title": "第8章·分形",
+      "cover": "https://upload-images.jianshu.io/upload_images/17748967-2640bb77bcb20171.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "书名：代码本色：用编程模拟自然系统作者：Daniel Shiffman译者：周晗彬ISBN：978-7-115-36947-5总目录[https...",
+      "author": "大龙10",
+      "url": "https://www.jianshu.com/p/f05d629e46a5",
+      "mobileUrl": "https://www.jianshu.com/p/f05d629e46a5"
+    },
+    {
+      "id": "ac0a0ec754b1",
+      "title": "山东理工大学“昇韵”社会实践团队参观中国陶瓷琉璃馆",
+      "cover": "https://upload-images.jianshu.io/upload_images/30690484-55765b8f5ddd6d6c.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "2025年7月22日，“昇韵”社会实践团成员走进中国陶瓷琉璃馆，开启了一场穿越千年的艺术之旅，深入领略陶瓷与琉璃文化的独特魅力。  踏入馆内，浓...",
+      "author": "昇韵",
+      "url": "https://www.jianshu.com/p/ac0a0ec754b1",
+      "mobileUrl": "https://www.jianshu.com/p/ac0a0ec754b1"
+    }
+  ]
+}
