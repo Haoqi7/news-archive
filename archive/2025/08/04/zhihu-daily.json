@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-08-04T01:56:24.415347",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783002,
+      "title": "为什么蜜蜂会挂着俩个袋子？",
+      "cover": "https://picx.zhimg.com/v2-d75ee0022634033e0d3ecb434020648c.jpg?source=8673f162",
+      "author": "犬君拌汪酱 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783002",
+      "mobileUrl": "https://daily.zhihu.com/story/9783002"
+    },
+    {
+      "id": 9783012,
+      "title": "古代诗人喝的都是什么酒？",
+      "cover": "https://picx.zhimg.com/v2-02902be6d84008c2a2299f2c83dee8a7.jpg?source=8673f162",
+      "author": "秋食爱吃饭 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783012",
+      "mobileUrl": "https://daily.zhihu.com/story/9783012"
+    },
+    {
+      "id": 9783013,
+      "title": "一张纸对折105次，宇宙就真的放不下了吗？",
+      "cover": "https://picx.zhimg.com/v2-20d47510dab1a0044ab811f7d1f988c4.jpg?source=8673f162",
+      "author": "Patrick Zhang · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783013",
+      "mobileUrl": "https://daily.zhihu.com/story/9783013"
+    },
+    {
+      "id": 9783022,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-8732fd7724c0e08558f70e1438aa798f.jpg?source=8673f162",
+      "author": "VOL.3711",
+      "url": "https://daily.zhihu.com/story/9783022",
+      "mobileUrl": "https://daily.zhihu.com/story/9783022"
+    }
+  ]
+}
