@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "platform": "52pojie",
+    "date": "2025-08-06T01:49:54.154087",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 0,
+      "title": "某米无线键鼠2逆向初探",
+      "desc": "",
+      "author": "eec",
+      "timestamp": 1753690415000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049251",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049251"
+    },
+    {
+      "id": 1,
+      "title": "通过为前端项目接入GeoGebra，初步研究AI时代数学教案的生成方案",
+      "desc": "[md]## 引言\r\n\r\n我偶然刷到了[这个视频](https://www.bilibili.com/video/BV1UeK8zAErv)，它给我一种强烈的感觉，就是下一代的每一个学生，只要会说HTML、Tailwind CSS、JavaScript这少数几个词，就能轻松生成属于自己的 ...",
+      "author": "hans7",
+      "timestamp": 1753354999000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2048343",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2048343"
+    },
+    {
+      "id": 2,
+      "title": "使用Ai8051模拟fx2lafw设备制作简易逻辑分析仪（抛砖引玉）",
+      "desc": "最近在学习USB通信相关的知识，联想到Ai8051有usb，也有40M主频，能不能模拟网上24M那种赛普拉斯单片机的逻辑分析仪呢。\r\n试了一下还真行，虽然性能差了不是一星半点，但是真能跑。\r\n先放张能跑的图，上位机使用的是开源 ...",
+      "author": "苏紫方璇",
+      "timestamp": 1752333910000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2045304",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2045304"
+    },
+    {
+      "id": 3,
+      "title": "[原创] 崔大Scrape十四题, 入门级wasm加密分析",
+      "desc": "本次分析的地址为: aHR0cHM6Ly9zcGExNC5zY3JhcGUuY2VudGVyLw==\r\n\r\n本题如图所示: 为wasm加密, ajax接口且有时间限制(应该涉及到时间戳)\r\n\r\n\r\n开搞!\r\n\r\nF12抓包发现sign值应该就是目标值\r\n\r\n\r\n通过XHR断点后跟栈轻松可以找 ...",
+      "author": "ZenoMiao",
+      "timestamp": 1752161812000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2044904",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2044904"
+    },
+    {
+      "id": 4,
+      "title": "猿人学二十题 js 逆向分析",
+      "desc": "[md]# 猿人学第二十关逆向分析教程\r\n\r\n**[原创] 猿人学学员题34题 js加课例题1 逆向分析**\r\n\r\n\r\n\r\n还原“猿人学 第20关”中加密参数 `sign` 的生成逻辑，最终用 Python 脚本模拟访问接口。\r\n\r\n分析地址：aHR0cHM6Ly9tYXR ...",
+      "author": "chocolate.",
+      "timestamp": 1751873557000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043995",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043995"
+    },
+    {
+      "id": 5,
+      "title": "虚实相生------某网真假双滑块逆向分析",
+      "desc": "在学习路上一直伴我逆向成长的某网（本来是个假滑块，最近更新了），现在变成真假双滑块了，都属于入门级的案例\r\n食用地址（过期的链接都会弹出，不一定是这个，因为链接是动态更新的）： \r\naHR0cHM6Ly9rbnMuY25 ...",
+      "author": "buluo533",
+      "timestamp": 1751705232000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043678",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043678"
+    },
+    {
+      "id": 6,
+      "title": "某美官网案例滑块逆向",
+      "desc": "本文章中所有内容仅供学习交流，抓包内容、敏感网址、数据接口均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关，若有侵权，请联系我立即删除！\r\n\r\n\r\n目标：实现滑块验证。\r\n网站：aHR0c ...",
+      "author": "zzyzy",
+      "timestamp": 1751697859000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043649",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043649"
+    },
+    {
+      "id": 7,
+      "title": "某财富网滑块逆向",
+      "desc": "[md]\r\n\r\n## 声明\r\n本帖仅供学习交流，严禁用于非法用途，如有侵权，请联系本人删除\r\n\r\n## 主题\r\n\r\n\r\n某财富网滑块逆向\r\n\r\nYUhSMGNITTZMeTlwTG1WaGMzUnRiMjVsZVM1amIyMHZkMlZpYzJsMFpXTmhjSFJqYUdFdmMyeHBaR1Z5ZG1Gc2FXUT0 ...",
+      "author": "HaveAnOrange",
+      "timestamp": 1751421763000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042937",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042937"
+    },
+    {
+      "id": 8,
+      "title": "某天御滑块逆向分析",
+      "desc": "本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关.本文章未经许可禁止转载， ...",
+      "author": "buluo533",
+      "timestamp": 1751415302000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042898",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042898"
+    },
+    {
+      "id": 9,
+      "title": "药监局瑞数6补环境生成cookie",
+      "desc": "",
+      "author": "wipb30ybbui",
+      "timestamp": 1751340400000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042722",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042722"
+    },
+    {
+      "id": 10,
+      "title": "某q音乐jsvmp反编译",
+      "desc": "[md]## 一、分析虚拟机架构\r\n\r\n参考这位师傅的文章`https://jixun.uk/posts/2024/qqmusic-zzc-sign/`, 将虚拟机架构代码重新命名了一下\r\n\r\n该虚拟机是基于寄存器的虚拟框架，所有临时变量、结果都保存在一个寄存器列表 ...",
+      "author": "hostname",
+      "timestamp": 1751051449000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042090",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042090"
+    },
+    {
+      "id": 11,
+      "title": "Typora 1.10.8公钥替换",
+      "desc": "[md]# Typora 1.10.8公钥替换\r\n\r\n在最新版本中的Typora中，解包app.asar会发现软件使用了node vm将js编译成了jsc，在之前的版本中，分析atom.js可以得知Typora的激活实际上就是一个简单RSA公钥解密，只要patch了公钥就可 ...",
+      "author": "xqyqx",
+      "timestamp": 1750588586000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040749",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040749"
+    },
+    {
+      "id": 12,
+      "title": "某Guard的SO加固探秘(有趣的GNUHash)",
+      "desc": "[md]\r\n# 1. 前言\r\n\r\n最近瑣事一堆，而且也有點懶惰，分析周期拉得挺長的。\r\n\r\n動調分析了很多次，每次都有新發現，這也使得文章中很多前面的部份是後面補充上去的。\r\n\r\n注：本文只分析該加固的具體流程，以及修復的思路。 ...",
+      "author": "ngiokweng",
+      "timestamp": 1750344181000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040136",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040136"
+    },
+    {
+      "id": 13,
+      "title": "某米路由器漏洞挖掘分享",
+      "desc": "[md]# 前言\r\n\r\n去年年中开始接触IOT设备的漏洞挖掘, 之后有几个聊胜于无的产出, 但没啥变现机会, 大概是去年的国庆前后, 一位学长告诉我某米SRC最近有活动, 可以多看看这家路由器\r\n\r\n某米大概是国内少有的愿意给该类漏洞支付赏金并且**出手大方**的厂商了, 早在之前其实 ...",
+      "author": "Mugwort",
+      "timestamp": 1750318718000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040053",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040053"
+    },
+    {
+      "id": 14,
+      "title": "巧用Chrome-CDP远程调用Debug突破JS逆向",
+      "desc": "[md]\r\n\r\n## 前言\r\n\r\n我在测试一个网站的时候，大多数的网站不会对接口的请求数据做加密处理，但有的时候在测试一些重点行业的网络资产时，常常会碰到一些功能点存在加密，例如登录，个人信息查询，搜索等等。在以往我遇 ...",
+      "author": "Eureka8",
+      "timestamp": 1750312668000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040010",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040010"
+    },
+    {
+      "id": 15,
+      "title": "本地网页视频播放器 纯html",
+      "desc": "吾爱这个代码好像会少东西，我这里复制下来使用发现，在线无法使用，可以去开源那里下载，或者，下载附件。\r\n下载：\r\n先放个开源链接，ps:（这里面有完全纯本地版本）：https://github.com/xyz66882/Web-page-player\r\n国 ...",
+      "author": "小智xyz",
+      "timestamp": 1749818696000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2038672",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2038672"
+    },
+    {
+      "id": 16,
+      "title": "论黑客如何从bat到py到donut到ps1层层包裹木马，揭秘木马神秘运行流程",
+      "desc": "[md]\r\n\r\n# 一、背景\r\n\r\n近期发现一枚样本，传播载体为批处理文件(`cl.bat`)，经过分析发现其通过`net use`命令将某Cloudflare Tunnel内网穿透服务挂载为网络驱动器后，下载并运行其中的恶意`Python`脚本(`yea.py`)。该p ...",
+      "author": "ahov",
+      "timestamp": 1748844770000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2035784",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2035784"
+    },
+    {
+      "id": 17,
+      "title": "保姆式解析某高质量听书网站音频地址全过程(适合小白练手)",
+      "desc": "[md]# 免责声明：\r\n本贴中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关。\r\n## 一、前言\r\n要获取网络上免费站的音视频真实地址的方 ...",
+      "author": "lenvy1",
+      "timestamp": 1748523387000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2035137",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2035137"
+    },
+    {
+      "id": 18,
+      "title": "某程token  jsvmp算法分析",
+      "desc": "接口:  batchSearch?\r\n目标参数：token\r\n\r\n1.插桩apply函数\r\n一路调试 ， 定位到加密参数生成的位置\r\n\r\n\r\n\r\n进去后调试跟个几步发现是个VMP\r\n既然是个VMP  第一步直接无脑插桩apply函数即可，目的是分析大致流程\r\n\r\n排除 ...",
+      "author": "q8917749",
+      "timestamp": 1748445518000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2034891",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2034891"
+    },
+    {
+      "id": 19,
+      "title": "基于air780eg做的定位器",
+      "desc": "源码：\r\n\r\n\r\nhttps://github.com/sunhanaix/GPS_Tracker\r\n\r\n[md]# 一、简述\r\n\r\n本项目基于合宙Air780EG开发。Air780EG实时获得轨迹数据，并通过MQTT协议上传至服务器。  \r\n服务器通过mqtt协议订阅air780eg的几个主题，并 ...",
+      "author": "sunbeat",
+      "timestamp": 1747979038000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2033592",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2033592"
+    }
+  ]
+}
