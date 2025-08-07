@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-08-07T01:49:58.810708",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783065,
+      "title": "太阳燃烧一天损失质量会减少多大的引力？",
+      "cover": "https://pic1.zhimg.com/v2-6d3c169876cd0f7d1e1b0bb968c79f3f.jpg?source=8673f162",
+      "author": "时空通讯 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783065",
+      "mobileUrl": "https://daily.zhihu.com/story/9783065"
+    },
+    {
+      "id": 9783067,
+      "title": "如果把焦虑看作大脑的「过度保护机制」，我们应该如何与它和解？",
+      "cover": "https://pic1.zhimg.com/v2-f27e5ac195fc2d36c4cd34092ad8b053.jpg?source=8673f162",
+      "author": "知乎用户 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783067",
+      "mobileUrl": "https://daily.zhihu.com/story/9783067"
+    },
+    {
+      "id": 9783069,
+      "title": "为什么日本人室内光脚啊？他们屋子里有这么干净吗？",
+      "cover": "https://pica.zhimg.com/v2-3fd0db416501c1ad0ebaa35fc432b2b5.jpg?source=8673f162",
+      "author": "非凡 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783069",
+      "mobileUrl": "https://daily.zhihu.com/story/9783069"
+    },
+    {
+      "id": 9783078,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3714",
+      "url": "https://daily.zhihu.com/story/9783078",
+      "mobileUrl": "https://daily.zhihu.com/story/9783078"
+    }
+  ]
+}
