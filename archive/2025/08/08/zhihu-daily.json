@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-08-08T01:49:23.792712",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783079,
+      "title": "黄瓤的西瓜是怎么结出来的呢？",
+      "cover": "https://picx.zhimg.com/v2-8dbfe0b40ceca75ec39038ae76288895.jpg?source=8673f162",
+      "author": "艾比斯 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783079",
+      "mobileUrl": "https://daily.zhihu.com/story/9783079"
+    },
+    {
+      "id": 9783086,
+      "title": "为什么熬夜晚起不健康，早睡早起就健康？",
+      "cover": "https://picx.zhimg.com/v2-076c9ba054a527f86d387563965e9290.jpg?source=8673f162",
+      "author": "知乎用户 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783086",
+      "mobileUrl": "https://daily.zhihu.com/story/9783086"
+    },
+    {
+      "id": 9783088,
+      "title": "从社会心理学角度分析，为什么「凡尔赛文学」能够精准戳中现代人的心理痛点？",
+      "cover": "https://picx.zhimg.com/v2-07674632873a116b5f4eb60649f9fda5.jpg?source=8673f162",
+      "author": "鸣戈 · 6 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783088",
+      "mobileUrl": "https://daily.zhihu.com/story/9783088"
+    },
+    {
+      "id": 9783091,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3715",
+      "url": "https://daily.zhihu.com/story/9783091",
+      "mobileUrl": "https://daily.zhihu.com/story/9783091"
+    }
+  ]
+}
