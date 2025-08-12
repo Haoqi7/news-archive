@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-08-12T01:39:15.040798",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783197,
+      "title": "为什么馒头蒸好后表面会有一层皮？",
+      "cover": "https://picx.zhimg.com/v2-aa4671131235c5eb2d8a15fee29fba7a.jpg?source=8673f162",
+      "author": "中科院物理所 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783197",
+      "mobileUrl": "https://daily.zhihu.com/story/9783197"
+    },
+    {
+      "id": 9783207,
+      "title": "五行相生相克，只是谈了关系。那么木火土金水五行，谁在宇宙中最早出现呢？",
+      "cover": "https://pic1.zhimg.com/v2-41baf5ae094aabccfb402e8b3e43a999.jpg?source=8673f162",
+      "author": "太空僧 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783207",
+      "mobileUrl": "https://daily.zhihu.com/story/9783207"
+    },
+    {
+      "id": 9783214,
+      "title": "什么动物的蛋最奇怪？",
+      "cover": "https://picx.zhimg.com/v2-5df514fe59c7f7184344cbc2890ffe6b.jpg?source=8673f162",
+      "author": "犬君拌汪酱 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783214",
+      "mobileUrl": "https://daily.zhihu.com/story/9783214"
+    },
+    {
+      "id": 9783224,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-8732fd7724c0e08558f70e1438aa798f.jpg?source=8673f162",
+      "author": "VOL.3717",
+      "url": "https://daily.zhihu.com/story/9783224",
+      "mobileUrl": "https://daily.zhihu.com/story/9783224"
+    }
+  ]
+}
