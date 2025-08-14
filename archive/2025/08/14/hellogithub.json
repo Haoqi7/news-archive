@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-08-14T01:41:57.031513",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "ca4e9df3c18549d7b52a5566ceb62ca4",
+      "title": "智谱开源的旗舰模型系列",
+      "desc": "这是一个专为智能体应用打造的基础模型。GLM-4.5 总参数为 355B 激活参数为 32B，在工具调用、网页浏览、软件工程、前端编程领域进行了优化，可以接入 ",
+      "author": "zai-org",
+      "timestamp": 1753758231000,
+      "hot": 2623,
+      "url": "https://hellogithub.com/repository/ca4e9df3c18549d7b52a5566ceb62ca4",
+      "mobileUrl": "https://hellogithub.com/repository/ca4e9df3c18549d7b52a5566ceb62ca4"
+    },
+    {
+      "id": "6a1325d3a1ff45ecbf15d13e4362865b",
+      "title": "轻量小巧的文本转语音模型",
+      "desc": "这是一款轻量级文本转语音（TTS）模型，体积小于 25MB、无需 GPU 即可流畅运行。它能够将文本高质量地转换为自然流畅的语音，支持多种音色，适用于多种设备和",
+      "author": "KittenML",
+      "timestamp": 1754959469000,
+      "hot": 452,
+      "url": "https://hellogithub.com/repository/6a1325d3a1ff45ecbf15d13e4362865b",
+      "mobileUrl": "https://hellogithub.com/repository/6a1325d3a1ff45ecbf15d13e4362865b"
+    },
+    {
+      "id": "cf3934a3301d48ce83576fe7d6a4334b",
+      "title": "基于大模型的智能文本提取库",
+      "desc": "这是一款由 Google 开源的 Python 库，可实现自动识别和提取文本内容。它内置源文本的精确定位与交互式可视化功能。用户只需提供简短提示和少量示例，便可",
+      "author": "google",
+      "timestamp": 1754959377000,
+      "hot": 216,
+      "url": "https://hellogithub.com/repository/cf3934a3301d48ce83576fe7d6a4334b",
+      "mobileUrl": "https://hellogithub.com/repository/cf3934a3301d48ce83576fe7d6a4334b"
+    },
+    {
+      "id": "2296dac6b54a4ae488e616affecad379",
+      "title": "开源的网页双语对照翻译工具",
+      "desc": "这是一款开源的双语对照翻译浏览器插件。它为用户提供网页内容的快速双语对照翻译功能，便于在阅读外语网页时同步查看原文与译文，支持多翻译引擎（Google、Deep",
+      "author": "fishjar",
+      "timestamp": 1754975007000,
+      "hot": 298,
+      "url": "https://hellogithub.com/repository/2296dac6b54a4ae488e616affecad379",
+      "mobileUrl": "https://hellogithub.com/repository/2296dac6b54a4ae488e616affecad379"
+    },
+    {
+      "id": "236438348e3a42f3acbe9d68e4fca00a",
+      "title": "开源的零代码身份认证中间件",
+      "desc": "这是一个 Go 语言开发的极简认证中间件，可通过 Docker 快速部署。它能为任何 Web 应用或服务一键添加登录界面或 OAuth 登录（Google、Gi",
+      "author": "steveiliop56",
+      "timestamp": 1754959218000,
+      "hot": 277,
+      "url": "https://hellogithub.com/repository/236438348e3a42f3acbe9d68e4fca00a",
+      "mobileUrl": "https://hellogithub.com/repository/236438348e3a42f3acbe9d68e4fca00a"
+    },
+    {
+      "id": "ac2fdf84e6414bf59ca8e8a09e058a8e",
+      "title": "微软开源的 MCP 教程",
+      "desc": "该项目是微软开源的 MCP 基础教程，内容围绕 Python、.NET、Java、TypeScript 等多种编程语言，通过丰富的代码实例与系统化的学习路径，帮",
+      "author": "microsoft",
+      "timestamp": 1754959564000,
+      "hot": 253,
+      "url": "https://hellogithub.com/repository/ac2fdf84e6414bf59ca8e8a09e058a8e",
+      "mobileUrl": "https://hellogithub.com/repository/ac2fdf84e6414bf59ca8e8a09e058a8e"
+    },
+    {
+      "id": "5ce8ae2aa4f74316bf393b57b952433c",
+      "title": "开箱即用的大模型 IM 机器人开发平台",
+      "desc": "这是一个支持多种聊天平台、大模型和 AI 应用的聊天机器人平台，可以轻松集成到 QQ、企业微信、飞书、钉钉、Discord、Slack 等主流平台。它内置 We",
+      "author": "langbot-app",
+      "timestamp": 1754386328000,
+      "hot": 965,
+      "url": "https://hellogithub.com/repository/5ce8ae2aa4f74316bf393b57b952433c",
+      "mobileUrl": "https://hellogithub.com/repository/5ce8ae2aa4f74316bf393b57b952433c"
+    },
+    {
+      "id": "6f0ec18b08fb4fd792fe423202e6937c",
+      "title": "单文件的全能文件服务",
+      "desc": "这是一款基于 Python 开发的多功能文件服务，所有功能集成在单个 Python 文件，仅需一条命令即可启动。通过浏览器即可完成文件浏览、上传、下载、在线播放",
+      "author": "9001",
+      "timestamp": 1754349825000,
+      "hot": 1345,
+      "url": "https://hellogithub.com/repository/6f0ec18b08fb4fd792fe423202e6937c",
+      "mobileUrl": "https://hellogithub.com/repository/6f0ec18b08fb4fd792fe423202e6937c"
+    },
+    {
+      "id": "05eefc97f5664305ad6f03ea5f209f6f",
+      "title": "基于蓝牙的即时通信应用",
+      "desc": "这是一款无需服务器的蓝牙即时通讯应用，专为无网络环境设计。它通过结合蓝牙 Mesh 和 Nostr 协议，实现端到端加密的点对点通信，支持消息重试、离线转发、多",
+      "author": "permissionlesstech",
+      "timestamp": 1754350000000,
+      "hot": 985,
+      "url": "https://hellogithub.com/repository/05eefc97f5664305ad6f03ea5f209f6f",
+      "mobileUrl": "https://hellogithub.com/repository/05eefc97f5664305ad6f03ea5f209f6f"
+    },
+    {
+      "id": "e50e9aace4594a0b8fc28055cdf40d0b",
+      "title": "开源的城市交通仿真工具",
+      "desc": "这是一款开源的微观多模式交通模拟工具包，能够精准模拟从汽车到行人在内的各类交通参与者。它由德国航空航天中心（DLR）的交通系统研究所开发，具备处理大规模路网的能",
+      "author": "eclipse-sumo",
+      "timestamp": 1754350484000,
+      "hot": 986,
+      "url": "https://hellogithub.com/repository/e50e9aace4594a0b8fc28055cdf40d0b",
+      "mobileUrl": "https://hellogithub.com/repository/e50e9aace4594a0b8fc28055cdf40d0b"
+    },
+    {
+      "id": "2980a9df6c764aa1bd8493d44c6581cd",
+      "title": "开源的终端 AI 编程助手",
+      "desc": "该项目是专为终端环境打造的 AI 智能编码助手，可灵活切换或混合调用多种模型。它完全开源、开箱即用，支持 Anthropic、OpenAI、Google 和离线",
+      "author": "sst",
+      "timestamp": 1754350117000,
+      "hot": 683,
+      "url": "https://hellogithub.com/repository/2980a9df6c764aa1bd8493d44c6581cd",
+      "mobileUrl": "https://hellogithub.com/repository/2980a9df6c764aa1bd8493d44c6581cd"
+    },
+    {
+      "id": "fd2576528b244aa8933407bd88a61999",
+      "title": "让 Claude Code 连接任意大模型的工具",
+      "desc": "这是一个专为 Claude Code 设计的增强工具，旨在突破对单一模型提供商的依赖。它在 Anthropic 官方 CLI 基础上增加了可插拔的代理层，只需一",
+      "author": "musistudio",
+      "timestamp": 1754350307000,
+      "hot": 737,
+      "url": "https://hellogithub.com/repository/fd2576528b244aa8933407bd88a61999",
+      "mobileUrl": "https://hellogithub.com/repository/fd2576528b244aa8933407bd88a61999"
+    },
+    {
+      "id": "8e9af473df2244f59d84b79915298fcc",
+      "title": "每日 60 秒资讯 API 集合",
+      "desc": "该项目集合了包括每日新闻、实时票房、汇率、热搜榜、随机段子等多种数据的 API 服务。",
+      "author": "vikiboss",
+      "timestamp": 1753661117000,
+      "hot": 3856,
+      "url": "https://hellogithub.com/repository/8e9af473df2244f59d84b79915298fcc",
+      "mobileUrl": "https://hellogithub.com/repository/8e9af473df2244f59d84b79915298fcc"
+    },
+    {
+      "id": "4dcea807fab7468a962c153b07ae4e4e",
+      "title": "极简的在线白板工具",
+      "desc": "这是一款免费、开源的在线白板工具。它提供一个无限画布，支持自由绘制、思维导图、流程图、画笔、插入图片、自动保存等功能，以及移动端适配、Docker 部署和插件机",
+      "author": "plait-board",
+      "timestamp": 1753661117000,
+      "hot": 1686,
+      "url": "https://hellogithub.com/repository/4dcea807fab7468a962c153b07ae4e4e",
+      "mobileUrl": "https://hellogithub.com/repository/4dcea807fab7468a962c153b07ae4e4e"
+    },
+    {
+      "id": "554dc4c46eb14092b9b0c56f1eb9021c",
+      "title": "企业级的多渠道大模型 API 管理平台",
+      "desc": "这是一款用 Go 语言开发的企业级大模型接口管理平台，支持 OpenAI、Gemini、Claude 等多种服务。它开箱即用、内置 Web 管理界面、保留原生 ",
+      "author": "tbphp",
+      "timestamp": 1753661117000,
+      "hot": 1412,
+      "url": "https://hellogithub.com/repository/554dc4c46eb14092b9b0c56f1eb9021c",
+      "mobileUrl": "https://hellogithub.com/repository/554dc4c46eb14092b9b0c56f1eb9021c"
+    },
+    {
+      "id": "0163cb946dca44cc8905dbe34c2c987b",
+      "title": "基于 AI 的 Markdown 笔记应用",
+      "desc": "这是一款跨平台的 Markdown 笔记应用，专注于用 AI 搭建“记录-写作”的桥梁。它不仅支持截图、文本、插图等多种记录方式，还能通过 AI 模型将这些碎片",
+      "author": "codexu",
+      "timestamp": 1751593768000,
+      "hot": 4520,
+      "url": "https://hellogithub.com/repository/0163cb946dca44cc8905dbe34c2c987b",
+      "mobileUrl": "https://hellogithub.com/repository/0163cb946dca44cc8905dbe34c2c987b"
+    },
+    {
+      "id": "8e8103d347e9482b9b757c7e4bdfb2ca",
+      "title": "精准的网页内容截图库",
+      "desc": "这是一个高效的网页截图 JavaScript 库，可将网页上的任意 Dom 元素快速、精确地转化为高质量图片，并支持导出为 PNG、JPG、WebP 或 Can",
+      "author": "zumerlab",
+      "timestamp": 1753661117000,
+      "hot": 1425,
+      "url": "https://hellogithub.com/repository/8e8103d347e9482b9b757c7e4bdfb2ca",
+      "mobileUrl": "https://hellogithub.com/repository/8e8103d347e9482b9b757c7e4bdfb2ca"
+    },
+    {
+      "id": "a5df093f968f4bc48cf0124f6c54612a",
+      "title": "开源的视觉小说翻译工具",
+      "desc": "这是一款专为 Windows 平台设计的视觉小说（Galgame）翻译器，支持 HOOK、OCR、剪贴板等多种文本提取方式，可灵活切换，并提供在线翻译、离线翻译",
+      "author": "HIllya51",
+      "timestamp": 1753661117000,
+      "hot": 1325,
+      "url": "https://hellogithub.com/repository/a5df093f968f4bc48cf0124f6c54612a",
+      "mobileUrl": "https://hellogithub.com/repository/a5df093f968f4bc48cf0124f6c54612a"
+    },
+    {
+      "id": "bfafef903133433888557c747170237f",
+      "title": "在浏览器中运行的 JupyterLab",
+      "desc": "这是一个完全在浏览器中运行的 JupyterLab，无需安装 Python 或配置服务器。它提供在线交互式 Python 编程环境，可作为静态文件部署到任何静态",
+      "author": "jupyterlite",
+      "timestamp": 1753661117000,
+      "hot": 1010,
+      "url": "https://hellogithub.com/repository/bfafef903133433888557c747170237f",
+      "mobileUrl": "https://hellogithub.com/repository/bfafef903133433888557c747170237f"
+    },
+    {
+      "id": "b95bcb72bdc340b68f16fdf6790b7d5b",
+      "title": "基于 Rust 的高性能分布式存储系统",
+      "desc": "该项是用 Rust 构建的高性能分布式对象存储系统，致力于成为 MinIO 的开源替代品。它安装简单、兼容 S3 协议，采用更友好的开源协议，并内置界面清爽的 ",
+      "author": "rustfs",
+      "timestamp": 1751933777000,
+      "hot": 3790,
+      "url": "https://hellogithub.com/repository/b95bcb72bdc340b68f16fdf6790b7d5b",
+      "mobileUrl": "https://hellogithub.com/repository/b95bcb72bdc340b68f16fdf6790b7d5b"
+    }
+  ]
+}

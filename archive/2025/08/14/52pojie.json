@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "platform": "52pojie",
+    "date": "2025-08-14T01:41:53.551645",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 0,
+      "title": "极验3代滑块流程分析",
+      "desc": "目标网站：aHR0cHM6Ly9kZW1vcy5nZWV0ZXN0LmNvbS9zbGlkZS1mbG9hdC5odG1s\r\n\r\n首先免责声明\r\n第一次发文，有不适的地方多多包涵本文仅供学习交流，因使用本文内容而产生的任何风险及后果，作者不承担任何责任\r\n下一篇：扣代 ...",
+      "author": "shanjzhu",
+      "timestamp": 1754481944000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2051507",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2051507"
+    },
+    {
+      "id": 1,
+      "title": "使用io-uring逃避安全检测和针对性的检测",
+      "desc": "[md]# 背景\r\n\r\nARMO 研究团队近日披露 Linux 运行时安全工具存在重大缺陷，证实`io_uring`接口可使 rootkit 绕过常规监控方案，包括 Falco、Tetragon 等等在内的主流工具均无法检测利用该机制的攻击行为。并且 ARMO 团队 ...",
+      "author": "XCarthGetlin",
+      "timestamp": 1754410002000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2051281",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2051281"
+    },
+    {
+      "id": 2,
+      "title": "Overt安全检测工具深度解析",
+      "desc": "[md]# Overt安全检测工具深度解析\r\n\r\n## 前言\r\n\r\n在移动互联网时代，设备安全检测是风控体系中的重要一环。掌握前沿风控技术是每个安全人员的重要的必修课程之一。Overt 项目致力于收集并集成当前公开的检测技术于一身，构建了一个全面、高效、安全的Android设备安全检 ...",
+      "author": "Aa865186652",
+      "timestamp": 1754187645000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2050639",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2050639"
+    },
+    {
+      "id": 3,
+      "title": "利用NtReadVirtualMemory实现IAT中规避高危API",
+      "desc": "[md]# 前世\r\n\r\n## Win32 API\r\n\r\nWin32 API实现最简单的Shellcode Loader如下，代码中包含注释，可以看到每条语句的含义\r\n```\r\n#include \r\n#include \r\n\r\n// msfvenom -p windows/meterpreter/reverse_https lhost=xxx lpo ...",
+      "author": "ybdt",
+      "timestamp": 1753843651000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049715",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049715"
+    },
+    {
+      "id": 4,
+      "title": "某酒店登录系统滑块逆向分析",
+      "desc": "本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关.本文章未经许可禁止转载， ...",
+      "author": "buluo533",
+      "timestamp": 1753756433000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049410",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049410"
+    },
+    {
+      "id": 5,
+      "title": "某米无线键鼠2逆向初探",
+      "desc": "",
+      "author": "eec",
+      "timestamp": 1753690415000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049251",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049251"
+    },
+    {
+      "id": 6,
+      "title": "某盾无感验证码逆向 - 1",
+      "desc": "[md]# 某盾无感验证码逆向\r\n\r\n***本文仅供学习交流，因使用本文内容而产生的任何风险及后果，作者不承担任何责任，一起学习吧***\r\n\r\n&gt; 目标网站：aHR0cHM6Ly9kdW4uMTYzLmNvbS90cmlhbC9zZW5zZQ==\r\n\r\n# 快速定位\r\n\r\n这里我 ...",
+      "author": "utf8",
+      "timestamp": 1753612348000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049010",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049010"
+    },
+    {
+      "id": 7,
+      "title": "通过为前端项目接入GeoGebra，初步研究AI时代数学教案的生成方案（已部署）",
+      "desc": "",
+      "author": "hans7",
+      "timestamp": 1753354999000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2048343",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2048343"
+    },
+    {
+      "id": 8,
+      "title": "使用Ai8051模拟fx2lafw设备制作简易逻辑分析仪（抛砖引玉）",
+      "desc": "最近在学习USB通信相关的知识，联想到Ai8051有usb，也有40M主频，能不能模拟网上24M那种赛普拉斯单片机的逻辑分析仪呢。\r\n试了一下还真行，虽然性能差了不是一星半点，但是真能跑。\r\n先放张能跑的图，上位机使用的是开源 ...",
+      "author": "苏紫方璇",
+      "timestamp": 1752333910000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2045304",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2045304"
+    },
+    {
+      "id": 9,
+      "title": "[原创] 崔大Scrape十四题, 入门级wasm加密分析",
+      "desc": "本次分析的地址为: aHR0cHM6Ly9zcGExNC5zY3JhcGUuY2VudGVyLw==\r\n\r\n本题如图所示: 为wasm加密, ajax接口且有时间限制(应该涉及到时间戳)\r\n\r\n\r\n开搞!\r\n\r\nF12抓包发现sign值应该就是目标值\r\n\r\n\r\n通过XHR断点后跟栈轻松可以找 ...",
+      "author": "ZenoMiao",
+      "timestamp": 1752161812000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2044904",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2044904"
+    },
+    {
+      "id": 10,
+      "title": "猿人学二十题 js 逆向分析",
+      "desc": "[md]# 猿人学第二十关逆向分析教程\r\n\r\n**[原创] 猿人学学员题34题 js加课例题1 逆向分析**\r\n\r\n\r\n\r\n还原“猿人学 第20关”中加密参数 `sign` 的生成逻辑，最终用 Python 脚本模拟访问接口。\r\n\r\n分析地址：aHR0cHM6Ly9tYXR ...",
+      "author": "chocolate.",
+      "timestamp": 1751873557000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043995",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043995"
+    },
+    {
+      "id": 11,
+      "title": "虚实相生------某网真假双滑块逆向分析",
+      "desc": "在学习路上一直伴我逆向成长的某网（本来是个假滑块，最近更新了），现在变成真假双滑块了，都属于入门级的案例\r\n食用地址（过期的链接都会弹出，不一定是这个，因为链接是动态更新的）： \r\naHR0cHM6Ly9rbnMuY25 ...",
+      "author": "buluo533",
+      "timestamp": 1751705232000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043678",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043678"
+    },
+    {
+      "id": 12,
+      "title": "某美官网案例滑块逆向",
+      "desc": "本文章中所有内容仅供学习交流，抓包内容、敏感网址、数据接口均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关，若有侵权，请联系我立即删除！\r\n\r\n\r\n目标：实现滑块验证。\r\n网站：aHR0c ...",
+      "author": "zzyzy",
+      "timestamp": 1751697859000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043649",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043649"
+    },
+    {
+      "id": 13,
+      "title": "某财富网滑块逆向",
+      "desc": "[md]\r\n\r\n## 声明\r\n本帖仅供学习交流，严禁用于非法用途，如有侵权，请联系本人删除\r\n\r\n## 主题\r\n\r\n\r\n某财富网滑块逆向\r\n\r\nYUhSMGNITTZMeTlwTG1WaGMzUnRiMjVsZVM1amIyMHZkMlZpYzJsMFpXTmhjSFJqYUdFdmMyeHBaR1Z5ZG1Gc2FXUT0 ...",
+      "author": "HaveAnOrange",
+      "timestamp": 1751421763000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042937",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042937"
+    },
+    {
+      "id": 14,
+      "title": "某天御滑块逆向分析",
+      "desc": "本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关.本文章未经许可禁止转载， ...",
+      "author": "buluo533",
+      "timestamp": 1751415302000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042898",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042898"
+    },
+    {
+      "id": 15,
+      "title": "药监局瑞数6补环境生成cookie",
+      "desc": "",
+      "author": "wipb30ybbui",
+      "timestamp": 1751340400000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042722",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042722"
+    },
+    {
+      "id": 16,
+      "title": "Web逆向之VMP还原全流程",
+      "desc": "某歌邮箱注册参数f.req 还原过程。\r\ntrace不说了，试试自实现反编译器还原VMP吧！\r\n\r\n注册参数如下：\r\n\r\n\r\n返回位置如下：\r\n\r\n\r\n虚拟机解释器如下：\r\n\r\n\r\n开始分析VMP结构：\r\n\r\n一、VMP指令集\r\n\r\n\r\n请求首页，302跳转下 ...",
+      "author": "lichuntian00",
+      "timestamp": 1750602169000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040789",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040789"
+    },
+    {
+      "id": 17,
+      "title": "Typora 1.10.8公钥替换",
+      "desc": "[md]# Typora 1.10.8公钥替换\r\n\r\n在最新版本中的Typora中，解包app.asar会发现软件使用了node vm将js编译成了jsc，在之前的版本中，分析atom.js可以得知Typora的激活实际上就是一个简单RSA公钥解密，只要patch了公钥就可 ...",
+      "author": "xqyqx",
+      "timestamp": 1750588586000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040749",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040749"
+    },
+    {
+      "id": 18,
+      "title": "某Guard的SO加固探秘(有趣的GNUHash)",
+      "desc": "[md]\r\n# 1. 前言\r\n\r\n最近瑣事一堆，而且也有點懶惰，分析周期拉得挺長的。\r\n\r\n動調分析了很多次，每次都有新發現，這也使得文章中很多前面的部份是後面補充上去的。\r\n\r\n注：本文只分析該加固的具體流程，以及修復的思路。 ...",
+      "author": "ngiokweng",
+      "timestamp": 1750344181000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040136",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040136"
+    },
+    {
+      "id": 19,
+      "title": "某米路由器漏洞挖掘分享",
+      "desc": "[md]# 前言\r\n\r\n去年年中开始接触IOT设备的漏洞挖掘, 之后有几个聊胜于无的产出, 但没啥变现机会, 大概是去年的国庆前后, 一位学长告诉我某米SRC最近有活动, 可以多看看这家路由器\r\n\r\n某米大概是国内少有的愿意给该类漏洞支付赏金并且**出手大方**的厂商了, 早在之前其实 ...",
+      "author": "Mugwort",
+      "timestamp": 1750318718000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040053",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2040053"
+    }
+  ]
+}

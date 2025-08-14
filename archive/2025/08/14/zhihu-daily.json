@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-08-14T01:41:39.365878",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783248,
+      "title": "有什么动物的牙齿天生是金属的？",
+      "cover": "https://picx.zhimg.com/v2-8023a2a1147cec2880672091be825818.jpg?source=8673f162",
+      "author": "苏澄宇 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783248",
+      "mobileUrl": "https://daily.zhihu.com/story/9783248"
+    },
+    {
+      "id": 9783252,
+      "title": "灵长类生物在进化上比较明显的缺陷是什么？",
+      "cover": "https://pic1.zhimg.com/v2-b5b3b8f219ae75470b36cb30db6a726e.jpg?source=8673f162",
+      "author": "赵泠 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783252",
+      "mobileUrl": "https://daily.zhihu.com/story/9783252"
+    },
+    {
+      "id": 9783253,
+      "title": "有哪些植物，是全身上下都可以吃的呢？",
+      "cover": "https://picx.zhimg.com/v2-9da096adc5233a93dae134d9871d20ba.jpg?source=8673f162",
+      "author": "祥昊 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783253",
+      "mobileUrl": "https://daily.zhihu.com/story/9783253"
+    },
+    {
+      "id": 9783259,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-b40b51413803435a6cf49f708ef121d9.jpg?source=8673f162",
+      "author": "VOL.3719",
+      "url": "https://daily.zhihu.com/story/9783259",
+      "mobileUrl": "https://daily.zhihu.com/story/9783259"
+    }
+  ]
+}
