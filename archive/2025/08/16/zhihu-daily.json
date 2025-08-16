@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-08-16T01:36:37.653214",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783294,
+      "title": "假如把一只成年湾鳄丢到太平洋中央，它生存下来的几率大吗？",
+      "cover": "https://pic1.zhimg.com/v2-4a4b967a21420a2d29c0735904dce784.jpg?source=8673f162",
+      "author": "三眼乌鸦 · 20 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783294",
+      "mobileUrl": "https://daily.zhihu.com/story/9783294"
+    },
+    {
+      "id": 9783298,
+      "title": "如果细胞分裂速度突然加快100倍，生物体的寿命是更长还是更短了？",
+      "cover": "https://picx.zhimg.com/v2-879c4742d2a76f752de2ab28897b2b1f.jpg?source=8673f162",
+      "author": "瞻云 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783298",
+      "mobileUrl": "https://daily.zhihu.com/story/9783298"
+    },
+    {
+      "id": 9783301,
+      "title": "明明好好休息也很快乐，为什么放假待在家不出去玩就会产生出一种「假期被荒废」的负面心理？",
+      "cover": "https://picx.zhimg.com/v2-e8f4cf2f9efe9ccdf31bee18af1ce04c.jpg?source=8673f162",
+      "author": "鸣戈 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783301",
+      "mobileUrl": "https://daily.zhihu.com/story/9783301"
+    },
+    {
+      "id": 9783302,
+      "title": "为什么我们的大脑会「自动筛选」信息？选择性注意效应的本质是什么？",
+      "cover": "https://pic1.zhimg.com/v2-ebd41b3e120528dc6288f574671c766f.jpg?source=8673f162",
+      "author": "OwlLite · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783302",
+      "mobileUrl": "https://daily.zhihu.com/story/9783302"
+    }
+  ]
+}
