@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-08-17T01:46:53.660881",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783306,
+      "title": "为什么牛吃素可以长那么壮？而人不吃荤就不行？",
+      "cover": "https://picx.zhimg.com/v2-f6353e53abf67ed6e52644424ae4162b.jpg?source=8673f162",
+      "author": "兽医潮猫 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783306",
+      "mobileUrl": "https://daily.zhihu.com/story/9783306"
+    },
+    {
+      "id": 9783312,
+      "title": "植物是否算一种运动极其缓慢的触手怪？",
+      "cover": "https://picx.zhimg.com/v2-378a80b166274179835808f775e78ffa.jpg?source=8673f162",
+      "author": "匪鱼nonfish · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783312",
+      "mobileUrl": "https://daily.zhihu.com/story/9783312"
+    },
+    {
+      "id": 9783314,
+      "title": "为什么消消乐这种游戏会让人上瘾?",
+      "cover": "https://picx.zhimg.com/v2-80a59f5ee37b75d09066dec019f9762e.jpg?source=8673f162",
+      "author": "陈芒果 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783314",
+      "mobileUrl": "https://daily.zhihu.com/story/9783314"
+    },
+    {
+      "id": 9783321,
+      "title": "三维空间有莫比乌斯环，四维空间有克莱因瓶，五维六维有什么？",
+      "cover": "https://pic1.zhimg.com/v2-b61dfe634ebb60a13ba81a28612e3113.jpg?source=8673f162",
+      "author": "酱紫君 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783321",
+      "mobileUrl": "https://daily.zhihu.com/story/9783321"
+    }
+  ]
+}
