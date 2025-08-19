@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-08-19T01:36:23.859320",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783334,
+      "title": "海豹的胡须有什么作用？",
+      "cover": "https://picx.zhimg.com/v2-c93cc064637f23aac5d2ee3609f8331b.jpg?source=8673f162",
+      "author": "苏澄宇 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783334",
+      "mobileUrl": "https://daily.zhihu.com/story/9783334"
+    },
+    {
+      "id": 9783339,
+      "title": "植物都有哪些自保奇招？",
+      "cover": "https://pic1.zhimg.com/v2-a0871d0d9ae2df44a17c6c25ecefdb1d.jpg?source=8673f162",
+      "author": "笑霜 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783339",
+      "mobileUrl": "https://daily.zhihu.com/story/9783339"
+    },
+    {
+      "id": 9783348,
+      "title": "蚂蚁为什么不吃同类的尸体？",
+      "cover": "https://pic1.zhimg.com/v2-1a36a7de228d5302eaac3f782d7a156e.jpg?source=8673f162",
+      "author": "剁椒鹿 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783348",
+      "mobileUrl": "https://daily.zhihu.com/story/9783348"
+    },
+    {
+      "id": 9783354,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3722",
+      "url": "https://daily.zhihu.com/story/9783354",
+      "mobileUrl": "https://daily.zhihu.com/story/9783354"
+    }
+  ]
+}
