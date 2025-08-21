@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-08-21T01:25:43.404687",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783376,
+      "title": "为什么圣旨不值钱？",
+      "cover": "https://picx.zhimg.com/v2-db51aee21ec6c59cdba2290a6463954c.jpg?source=8673f162",
+      "author": "祥和居主人 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783376",
+      "mobileUrl": "https://daily.zhihu.com/story/9783376"
+    },
+    {
+      "id": 9783385,
+      "title": "生物可以合成纤维，也可以合成塑料，那么能不能长出复合材料的支撑结构？",
+      "cover": "https://pic1.zhimg.com/v2-c912001aba8112b9f7b1b73cb20d39e6.jpg?source=8673f162",
+      "author": "知谦 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783385",
+      "mobileUrl": "https://daily.zhihu.com/story/9783385"
+    },
+    {
+      "id": 9783391,
+      "title": "为什么音乐能瞬间改变情绪，而文字需要时间消化？",
+      "cover": "https://picx.zhimg.com/v2-d2d77b9b967f47dd0b9d680aa79247f3.jpg?source=8673f162",
+      "author": "鸣戈 · 13 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783391",
+      "mobileUrl": "https://daily.zhihu.com/story/9783391"
+    },
+    {
+      "id": 9783375,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3724",
+      "url": "https://daily.zhihu.com/story/9783375",
+      "mobileUrl": "https://daily.zhihu.com/story/9783375"
+    }
+  ]
+}
