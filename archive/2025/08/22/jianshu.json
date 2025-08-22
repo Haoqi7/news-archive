@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-08-22T01:26:04.405557",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "5bfa036b083e",
+      "title": "【摸鱼神器】UI库秒变低代码工具——表单篇（二）子控件",
+      "cover": "https://upload-images.jianshu.io/upload_images/25078225-b3e79e614d1be27e.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "上一篇介绍了表单控件，这一篇介绍一下表单里面的各种子控件的封装方式。 主要内容 需求分析 子控件的分类 子控件属性的分类 定义 interfac...",
+      "author": "自然框架",
+      "url": "https://www.jianshu.com/p/5bfa036b083e",
+      "mobileUrl": "https://www.jianshu.com/p/5bfa036b083e"
+    },
+    {
+      "id": "f9d9f471c19b",
+      "title": "银行复试",
+      "desc": "今天下午按照银行应聘的姐姐所说，我3点左右就到了银行，然后一直坐到现在，因为领导在开会，所以我要在待客室等着。 这次待客室里只有我一个人，也不清...",
+      "author": "流萤如星",
+      "url": "https://www.jianshu.com/p/f9d9f471c19b",
+      "mobileUrl": "https://www.jianshu.com/p/f9d9f471c19b"
+    },
+    {
+      "id": "3359ef1321af",
+      "title": "燕子情",
+      "cover": "https://upload-images.jianshu.io/upload_images/25835592-cceb49e5c906525c.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "“老王，看见没，那道裂痕又增宽了，真让人担心啊……” “嗯，真是让人操心，得赶紧像向县里报告，抓紧找地方迁出去，好歹是50号人那，这要是砸下来，...",
+      "author": "胡巴豆",
+      "url": "https://www.jianshu.com/p/3359ef1321af",
+      "mobileUrl": "https://www.jianshu.com/p/3359ef1321af"
+    }
+  ]
+}
