@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-08-23T01:23:56.537398",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783419,
+      "title": "研究称吃瓜类食物可以延缓衰老，原理是什么？瓜类有哪些抗老成分？",
+      "cover": "https://pic1.zhimg.com/v2-1738cb81bc5692eb85575da28fe9fb2f.jpg?source=8673f162",
+      "author": "云杉 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783419",
+      "mobileUrl": "https://daily.zhihu.com/story/9783419"
+    },
+    {
+      "id": 9783425,
+      "title": "为什么地球上能够找找宇宙中几乎所有稳定元素，且这些元素均能够在地表易于开采的地方，这是巧合吗？",
+      "cover": "https://picx.zhimg.com/v2-ee34ddebab900397be48ae12a6f7d956.jpg?source=8673f162",
+      "author": "七小七 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783425",
+      "mobileUrl": "https://daily.zhihu.com/story/9783425"
+    },
+    {
+      "id": 9783433,
+      "title": "为啥蜻蜓在雨天也能在外面捕猎呢？",
+      "cover": "https://pica.zhimg.com/v2-49599a3d45ba2cf6079386b390fa4aaf.jpg?source=8673f162",
+      "author": "知乎用户 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783433",
+      "mobileUrl": "https://daily.zhihu.com/story/9783433"
+    },
+    {
+      "id": 9783436,
+      "title": "海带竟然不是植物？！那是个啥？",
+      "cover": "https://picx.zhimg.com/v2-ca4bd97ecde2a0de8df56ee1a62b702c.jpg?source=8673f162",
+      "author": "科普中国 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783436",
+      "mobileUrl": "https://daily.zhihu.com/story/9783436"
+    }
+  ]
+}
