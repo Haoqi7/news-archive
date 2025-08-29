@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-08-29T01:24:21.476738",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783570,
+      "title": "研究发现土豆的「妈妈」是番茄，这个说法有道理吗？",
+      "cover": "https://picx.zhimg.com/v2-2bb81861be0d193d2f67568a6ece2011.jpg?source=8673f162",
+      "author": "剁椒鹿 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783570",
+      "mobileUrl": "https://daily.zhihu.com/story/9783570"
+    },
+    {
+      "id": 9783572,
+      "title": "一直记得并反复播放创伤事件，这是一种「精神上的扣结痂」吗？",
+      "cover": "https://pica.zhimg.com/v2-9a9114cf226305a703868c11edfdf69b.jpg?source=8673f162",
+      "author": "鸣戈 · 6 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783572",
+      "mobileUrl": "https://daily.zhihu.com/story/9783572"
+    },
+    {
+      "id": 9783580,
+      "title": "鸡蛋壳是怎么进化出来的，为什么那么容易碎？",
+      "cover": "https://picx.zhimg.com/v2-57dcc6d41cd342255a232d54972d108a.jpg?source=8673f162",
+      "author": "怪罗先生 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783580",
+      "mobileUrl": "https://daily.zhihu.com/story/9783580"
+    },
+    {
+      "id": 9783582,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-8732fd7724c0e08558f70e1438aa798f.jpg?source=8673f162",
+      "author": "VOL.3730",
+      "url": "https://daily.zhihu.com/story/9783582",
+      "mobileUrl": "https://daily.zhihu.com/story/9783582"
+    }
+  ]
+}
