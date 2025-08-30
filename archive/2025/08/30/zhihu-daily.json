@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-08-30T01:20:14.576435",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783588,
+      "title": "有时候明明有很多事要做，却宁愿刷手机发呆也不想开始，这种「拖延式摆烂」正常吗？",
+      "cover": "https://picx.zhimg.com/v2-dffc5416d141bd5b4232a6a995c76c0d.jpg?source=8673f162",
+      "author": "剁椒鹿 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783588",
+      "mobileUrl": "https://daily.zhihu.com/story/9783588"
+    },
+    {
+      "id": 9783595,
+      "title": "同样是生物碱，为什么巧克力的毒性和成瘾性比槟榔低呢?",
+      "cover": "https://picx.zhimg.com/v2-4df3218c3ca1dbbd466d8fde84f2e2ed.jpg?source=8673f162",
+      "author": "不想实名 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783595",
+      "mobileUrl": "https://daily.zhihu.com/story/9783595"
+    },
+    {
+      "id": 9783601,
+      "title": "为什么人在自然里待久了，会觉得内心突然变「轻」了？",
+      "cover": "https://picx.zhimg.com/v2-49a6315aa4ecd12f7b92c0838f6f8e04.jpg?source=8673f162",
+      "author": "黄彬彬Margaret · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783601",
+      "mobileUrl": "https://daily.zhihu.com/story/9783601"
+    },
+    {
+      "id": 9783609,
+      "title": "到底是人驯化了猫？还是猫驯化了人？",
+      "cover": "https://picx.zhimg.com/v2-66d16ff02254e915da97b9754a023a8e.jpg?source=8673f162",
+      "author": "云杉 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783609",
+      "mobileUrl": "https://daily.zhihu.com/story/9783609"
+    }
+  ]
+}
