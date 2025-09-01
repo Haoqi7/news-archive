@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-09-01T01:45:22.650713",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783630,
+      "title": "什么食物是「因制作失误才被发明出来的」？",
+      "cover": "https://picx.zhimg.com/v2-8700bb6ae8f744908c1fa5c2af02f876.jpg?source=8673f162",
+      "author": "梁燃 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783630",
+      "mobileUrl": "https://daily.zhihu.com/story/9783630"
+    },
+    {
+      "id": 9783635,
+      "title": "为什么吃过的西瓜皮放了一夜变成了紫色？",
+      "cover": "https://picx.zhimg.com/v2-bb436b414d9794b5c453b9d9de807bbe.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783635",
+      "mobileUrl": "https://daily.zhihu.com/story/9783635"
+    },
+    {
+      "id": 9783641,
+      "title": "大脑皮层都舒展开了，会发生什么？",
+      "cover": "https://picx.zhimg.com/v2-c85d8c050ddffcf58ca57a4a7376166f.jpg?source=8673f162",
+      "author": "剁椒鹿 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783641",
+      "mobileUrl": "https://daily.zhihu.com/story/9783641"
+    },
+    {
+      "id": 9783642,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-8732fd7724c0e08558f70e1438aa798f.jpg?source=8673f162",
+      "author": "VOL.3731",
+      "url": "https://daily.zhihu.com/story/9783642",
+      "mobileUrl": "https://daily.zhihu.com/story/9783642"
+    }
+  ]
+}
