@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "platform": "sspai",
+    "date": "2025-09-06T01:20:11.985539",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 102247,
+      "title": "社区速递 108 | 量大管饱的派友七月剁手清单、一周热评和最新文章",
+      "desc": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...",
+      "cover": "9/2/2025/article/63aaf579-c4ce-30f3-7817-440e9489a58d.png",
+      "author": "Matrix机器人",
+      "timestamp": 1756803202000,
+      "hot": 11,
+      "url": "https://sspai.com/post/102247",
+      "mobileUrl": "https://sspai.com/post/102247"
+    },
+    {
+      "id": 102125,
+      "title": "我的桌面我的战场：优质桌搭精选辑",
+      "desc": "我们收到了不少极具设计审美和效率巧思的桌搭分享，于是将这些优质内容整合成文，希望能在你设计学习或办公空间的时候有帮助。",
+      "cover": "2025/8/27/article/2017e8a4-d984-1f9e-8840-5940e70e8b43.jpeg",
+      "author": "少数派编辑部",
+      "timestamp": 1756796283000,
+      "hot": 40,
+      "url": "https://sspai.com/post/102125",
+      "mobileUrl": "https://sspai.com/post/102125"
+    },
+    {
+      "id": 102221,
+      "title": "广深「超燃」：来线下，与少数派一起看 Apple 发布会",
+      "desc": "北京时间9月10日凌晨，Apple一年一度的秋季特别活动即将正式拉开帷幕，我们将在Keynote讲演环节中见到新一年度的iPhone、AppleWatch等多款新品。不论是传闻中的设计焕新版iPhon ...",
+      "cover": "2025/9/2/article/ac144625-1f17-c0fc-f618-d956778abe4a.jpeg",
+      "author": "少数派编辑部",
+      "timestamp": 1756782967000,
+      "hot": 14,
+      "url": "https://sspai.com/post/102221",
+      "mobileUrl": "https://sspai.com/post/102221"
+    },
+    {
+      "id": 102228,
+      "title": "派评 | 近期值得关注的 App",
+      "desc": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的优质 ...",
+      "cover": "2025/9/1/article/620a254b-91c6-0647-eae8-0058f33d7ae1.png",
+      "author": "少数派编辑部",
+      "timestamp": 1756721010000,
+      "hot": 12,
+      "url": "https://sspai.com/post/102228",
+      "mobileUrl": "https://sspai.com/post/102228"
+    },
+    {
+      "id": 102031,
+      "title": "共创 | 深度使用 Notion 七年，这是我的经验、技巧与建议",
+      "desc": "两年前我写下这篇《Notion10年发展史》，试图为这个工具做一番总结，但今日再看已经略显尴尬，洋洋洒洒万字有余，但可能无法概括Notion今天能力上限的十分之一。这两年里，中文模式顺利上线、数据库全 ...",
+      "cover": "2025/08/22/7ba8e06ccb859ef43dcc433efccc89db.png",
+      "author": "二一的笔记",
+      "timestamp": 1756708913000,
+      "hot": 70,
+      "url": "https://sspai.com/post/102031",
+      "mobileUrl": "https://sspai.com/post/102031"
+    },
+    {
+      "id": 102216,
+      "title": "本月玩什么｜小小书店、这个位置有人坐吗、MGSΔ",
+      "desc": "近期值得探讨的新游信息汇总。",
+      "cover": "2025/09/01/62bd6598f761691f4d206c9fb3ba5c6f.jpg",
+      "author": "板斧",
+      "timestamp": 1756689152000,
+      "hot": 13,
+      "url": "https://sspai.com/post/102216",
+      "mobileUrl": "https://sspai.com/post/102216"
+    },
+    {
+      "id": 102195,
+      "title": "多花的钱花在哪里：看硬参数读懂鼠标性能好坏",
+      "desc": "什么 3395、3950，虽然从商家介绍也能知道 3950 比 3395 更好，但它们的差价究竟贵在何处？该怎么从不按套路出牌的定制型号里挑出适合自己的那个？怎么知道自己的预算能不能从基础上满足需求？",
+      "cover": "2025/8/29/article/9e69757e-5f79-14fa-e36a-ebd60b55accb.jpeg",
+      "author": "ROB1N",
+      "timestamp": 1756623600000,
+      "hot": 26,
+      "url": "https://sspai.com/post/102195",
+      "mobileUrl": "https://sspai.com/post/102195"
+    },
+    {
+      "id": 102160,
+      "title": "用 Mac 打造智能化餐厅，这是海底捞给出的答案",
+      "desc": "提起海底捞，你想到的除了火锅，也许还有那一台台用来点餐的iPad。早在2011年，海底捞就已经启用iPad作为点餐工具，为顾客提供更加便利的数字化用餐体验；在2016年，海底捞开始将核心业务系统陆续迁 ...",
+      "cover": "2025/8/29/article/ae55016b-7b3f-47bb-7942-22951bf8bd69.jpeg",
+      "author": "waychane",
+      "timestamp": 1756537200000,
+      "hot": 55,
+      "url": "https://sspai.com/post/102160",
+      "mobileUrl": "https://sspai.com/post/102160"
+    },
+    {
+      "id": 102159,
+      "title": "新玩意 219｜少数派的编辑们最近买了啥？",
+      "desc": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...",
+      "cover": "2025/8/28/article/02c51749-ed1c-4a47-52cf-cba638e631c2.png",
+      "author": "少数派编辑部",
+      "timestamp": 1756373400000,
+      "hot": 35,
+      "url": "https://sspai.com/post/102159",
+      "mobileUrl": "https://sspai.com/post/102159"
+    },
+    {
+      "id": 102094,
+      "title": "老车主、新视角：小鹏 MONA M03 Max 随行体验",
+      "desc": "在我的不断推荐下，我的同学也在最近选择购入了小鹏 MONA M03，而且还是 5 月新发布的 Max 版本。于是我和他一起开着我的旧款 MONA 去提了车，本文是提车后的短暂体验，以及一位 MONA「老车主」的思考。",
+      "cover": "2025/8/28/article/6badf650-66f0-1230-1083-31f15350bf40.jpeg",
+      "author": "别惹小炸毛",
+      "timestamp": 1756270581000,
+      "hot": 20,
+      "url": "https://sspai.com/post/102094",
+      "mobileUrl": "https://sspai.com/post/102094"
+    },
+    {
+      "id": 101882,
+      "title": "打工人留学的现实成本与结局",
+      "desc": "留学似乎更像是放大镜，它让原本不确定性和关系的分歧更快地浮现出来。所以，这些痛苦与失去也许是命中注定的磨难。",
+      "cover": "2025/08/17/c26c216c8605b30c50bff841461d1950.jpg",
+      "author": "Junio",
+      "timestamp": 1756164025000,
+      "hot": 114,
+      "url": "https://sspai.com/post/101882",
+      "mobileUrl": "https://sspai.com/post/101882"
+    },
+    {
+      "id": 101614,
+      "title": "告别繁琐、搞定你的字幕需求：一站式开源处理工具 Subtitle Edit",
+      "desc": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+      "cover": "25/08/2025/article/0ca91b34-42a0-f6bd-ad0f-5250e6f5e45a.jpeg",
+      "author": "清顺",
+      "timestamp": 1756090800000,
+      "hot": 39,
+      "url": "https://sspai.com/post/101614",
+      "mobileUrl": "https://sspai.com/post/101614"
+    },
+    {
+      "id": 102013,
+      "title": "新玩意 218｜少数派的编辑们最近买了啥？",
+      "desc": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...",
+      "cover": "2025/8/21/article/7c22cb25-2c50-db7a-e0c0-87f100c29531.png",
+      "author": "少数派编辑部",
+      "timestamp": 1755770989000,
+      "hot": 32,
+      "url": "https://sspai.com/post/102013",
+      "mobileUrl": "https://sspai.com/post/102013"
+    },
+    {
+      "id": 100887,
+      "title": "数字里的小宇宙：播客内容生态解析报告",
+      "desc": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+      "cover": "20/08/2025/article/661edf47-6b8a-1ae1-fbe3-370ccf524770.jpeg",
+      "author": "彷徨旅人",
+      "timestamp": 1755658800000,
+      "hot": 41,
+      "url": "https://sspai.com/post/100887",
+      "mobileUrl": "https://sspai.com/post/100887"
+    },
+    {
+      "id": 101936,
+      "title": "浏览器扩展合集：实用而有趣的浏览器扩展，我们又为你找到了这 9 款",
+      "desc": "本期介绍 9 款浏览器扩展插件——如果你也有好的扩展插件，欢迎在评论留言或向 Matrix 社区投稿，我们将不定期收录并在首页推送。",
+      "cover": "2025/8/19/article/0e3ee589-26e0-476d-4b8e-db897975583c.png",
+      "author": "克莱德",
+      "timestamp": 1755586800000,
+      "hot": 146,
+      "url": "https://sspai.com/post/101936",
+      "mobileUrl": "https://sspai.com/post/101936"
+    },
+    {
+      "id": 101824,
+      "title": "新玩意 217｜少数派的编辑们最近买了啥？",
+      "desc": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...",
+      "cover": "2025/8/14/article/25b66261-6b89-115f-feab-b80610ba4678.png",
+      "author": "少数派编辑部",
+      "timestamp": 1755162000000,
+      "hot": 29,
+      "url": "https://sspai.com/post/101824",
+      "mobileUrl": "https://sspai.com/post/101824"
+    },
+    {
+      "id": 101818,
+      "title": "四万块组建入门级全屋智能，我买了哪些称心如意的好物",
+      "desc": "全屋智能没必要一上来就大张旗鼓，这些地方花的钱大概率能让你尽快体会到智能家居的好处。",
+      "cover": "2025/8/27/article/501b4c54-d93a-56c3-a319-5c2835cfc1f0.jpeg",
+      "author": "王牌猎人",
+      "timestamp": 1755139071000,
+      "hot": 89,
+      "url": "https://sspai.com/post/101818",
+      "mobileUrl": "https://sspai.com/post/101818"
+    },
+    {
+      "id": 101792,
+      "title": "Liquid Glass 继续调整，iOS 26 Beta 近期更新值得关注的变化",
+      "desc": "一晃眼，iOS26的开发者测试版已经来到了第六个版本，距离9月秋季发布会上的正式版发布越来越近。在最近这三个版本中，Apple依旧在进行各种各样的调整，接下来就让我们一起来看看都有哪些变化吧。设计与交 ...",
+      "cover": "2025/8/13/article/cfe5cd91-16ba-2031-d02a-23a3fd089d7b.jpeg",
+      "author": "Vanilla",
+      "timestamp": 1755055888000,
+      "hot": 22,
+      "url": "https://sspai.com/post/101792",
+      "mobileUrl": "https://sspai.com/post/101792"
+    },
+    {
+      "id": 101781,
+      "title": "社区速递 105 | 派友的桌面装备以及一周最热评、新玩意",
+      "desc": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...",
+      "cover": "8/12/2025/article/1bf3c2d8-f75e-f778-7ede-6d42cdac2981.png",
+      "author": "Matrix机器人",
+      "timestamp": 1754992067000,
+      "hot": 31,
+      "url": "https://sspai.com/post/101781",
+      "mobileUrl": "https://sspai.com/post/101781"
+    },
+    {
+      "id": 101722,
+      "title": "大鲨四代，降噪如一：Bose QuietComfort 消噪耳塞 Ultra II 体验",
+      "desc": "它还有很多需要追赶主流新品的地方，但 Bose 至少在它自己能做好的传统优势项上不会拉垮。",
+      "cover": "2025/08/09/f7b1c8662d63b7229015b03e81795451.jpg",
+      "author": "KingTsui",
+      "timestamp": 1754982292000,
+      "hot": 11,
+      "url": "https://sspai.com/post/101722",
+      "mobileUrl": "https://sspai.com/post/101722"
+    }
+  ]
+}

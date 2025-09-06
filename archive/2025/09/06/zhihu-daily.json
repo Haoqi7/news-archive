@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-09-06T01:20:06.715246",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783736,
+      "title": "汉语是牺牲了什么，才成为世界最紧凑、最高效的语言？",
+      "cover": "https://picx.zhimg.com/v2-4e5796eecbde3c4e7b3bb005f01ba355.jpg?source=8673f162",
+      "author": "黄风妖 · 37 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783736",
+      "mobileUrl": "https://daily.zhihu.com/story/9783736"
+    },
+    {
+      "id": 9783745,
+      "title": "如果全世界停电0.1秒，再恢复供电，会发生什么？",
+      "cover": "https://pic1.zhimg.com/v2-d240905b693f6f626f7c4fdb19af7790.jpg?source=8673f162",
+      "author": "Patrick Zhang · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783745",
+      "mobileUrl": "https://daily.zhihu.com/story/9783745"
+    },
+    {
+      "id": 9783754,
+      "title": "梦的主观价值是虚假的吗?",
+      "cover": "https://pic1.zhimg.com/v2-5e0c71e99844018d3c3ebfc9186e9d4b.jpg?source=8673f162",
+      "author": "赵泠 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783754",
+      "mobileUrl": "https://daily.zhihu.com/story/9783754"
+    },
+    {
+      "id": 9783759,
+      "title": "如何管理比自己能力强的人？",
+      "cover": "https://picx.zhimg.com/v2-b82ae5b2223fe5e9e9a9da6d5945aa3e.jpg?source=8673f162",
+      "author": "周行长 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783759",
+      "mobileUrl": "https://daily.zhihu.com/story/9783759"
+    }
+  ]
+}
