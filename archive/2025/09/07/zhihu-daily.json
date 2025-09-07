@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-09-07T01:27:40.290978",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783767,
+      "title": "正态分布是最自然的，但为什么人类社会中会出现「赢家通吃」现象呢？",
+      "cover": "https://pica.zhimg.com/v2-ddc13f59e12ac287fb071b894636632f.jpg?source=8673f162",
+      "author": "Pandora Eartha · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783767",
+      "mobileUrl": "https://daily.zhihu.com/story/9783767"
+    },
+    {
+      "id": 9783774,
+      "title": "如果蚊子全部吸脂肪而不吸血，你会主动喂养蚊子吗？",
+      "cover": "https://picx.zhimg.com/v2-91447858049f134fbc8cf354fedd9525.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783774",
+      "mobileUrl": "https://daily.zhihu.com/story/9783774"
+    },
+    {
+      "id": 9783775,
+      "title": "为什么没有透明的金属单质？",
+      "cover": "https://picx.zhimg.com/v2-9f4911ebf32b513747ae2d316133d791.jpg?source=8673f162",
+      "author": "shawn · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783775",
+      "mobileUrl": "https://daily.zhihu.com/story/9783775"
+    },
+    {
+      "id": 9783783,
+      "title": "如果提名一个最有故事的方言，你提名哪句？",
+      "cover": "https://picx.zhimg.com/v2-ca101b0612502ff1265c88f7c9efb96d.jpg?source=8673f162",
+      "author": "娃娃鱼 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783783",
+      "mobileUrl": "https://daily.zhihu.com/story/9783783"
+    }
+  ]
+}

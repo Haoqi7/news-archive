@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "platform": "52pojie",
+    "date": "2025-09-07T01:28:03.963561",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 0,
+      "title": "某验3AST分析及实现",
+      "desc": "本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关.本文章未经许可禁止转载， ...",
+      "author": "buluo533",
+      "timestamp": 1756109422000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2055730",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2055730"
+    },
+    {
+      "id": 1,
+      "title": "【js逆向】码上爬-题十二JSVMP入门逆向补环境",
+      "desc": "声明\r\n本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关.本文章未经许可禁止 ...",
+      "author": "R44",
+      "timestamp": 1755405724000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2053916",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2053916"
+    },
+    {
+      "id": 2,
+      "title": "顶象滑块验证码纯算逆向分析",
+      "desc": "[md]## 声明\r\n本文章中所有内容仅供学习交流使用，不用于其他任何目的，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关！若有侵权，请联系作者删除。\r\n## 逆向目标\r\n目标网站：\r\naHR0cHM6Ly93d3cuZGluZ ...",
+      "author": "LiSAimer",
+      "timestamp": 1755073821000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2053068",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2053068"
+    },
+    {
+      "id": 3,
+      "title": "Navicat 17 破解教程",
+      "desc": "[md]Navicat作为查看、管理数据库的工具，使用广泛，本教程针对版本17.1.3进行破解。此版本的下载地址请自行搜索，官网已有新版本，可能直接找不到旧版地址，网上的一些历史版本官方下载地址可能没有17的。\r\n**8.19更新 ...",
+      "author": "iwolf",
+      "timestamp": 1755052156000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2052969",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2052969"
+    },
+    {
+      "id": 4,
+      "title": "使用Unidbg模拟执行去除OLLVM-BR混淆",
+      "desc": "[md]## unidbg模拟执行的去除ollvm混淆\r\n\r\n### 1.函数简单分析\r\n***项目地址：https://github.com/Aar0n3906/Anti-BR-Obf***\r\n\r\n对libtprt.so中的JNI_Onload函数进行去混淆\r\n\r\n\r\n\r\n可以发现在函数后方使用了BR X9作为间 ...",
+      "author": "A4r0n",
+      "timestamp": 1754892304000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2052520",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2052520"
+    },
+    {
+      "id": 5,
+      "title": "某x滑块补环境分析",
+      "desc": "[md]&gt; ## 声明\r\n&gt; 本文章中所有内容仅供学习交流使用，不用于其他任何目的，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关！若有侵权，请联系作者删除。\r\n\r\n### 研究对象\r\n\r\n\r\n### 目标\r\n- 补环境代码 ...",
+      "author": "BinYoooo",
+      "timestamp": 1754734977000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2052187",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2052187"
+    },
+    {
+      "id": 6,
+      "title": "某手势验证码纯算逆向分析",
+      "desc": "[md]## 声明\r\n本文章中所有内容仅供学习交流使用，不用于其他任何目的，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关！若有侵权，请联系作者删除。\r\n## 逆向目标\r\n目标网站：aHR0cHM6Ly93d3cudmFwdGN ...",
+      "author": "LiSAimer",
+      "timestamp": 1754633089000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2051922",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2051922"
+    },
+    {
+      "id": 7,
+      "title": "极验3代滑块流程分析",
+      "desc": "目标网站：aHR0cHM6Ly9kZW1vcy5nZWV0ZXN0LmNvbS9zbGlkZS1mbG9hdC5odG1s\r\n\r\n首先免责声明\r\n第一次发文，有不适的地方多多包涵本文仅供学习交流，因使用本文内容而产生的任何风险及后果，作者不承担任何责任\r\n下一篇：扣代 ...",
+      "author": "shanjzhu",
+      "timestamp": 1754481944000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2051507",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2051507"
+    },
+    {
+      "id": 8,
+      "title": "VMOS Pro 3.1.1最新版全方位破解分析",
+      "desc": "[md]# 前言：\r\napp ：VMOS Pro 3.1.1（https://www.vmos.cn）\r\n工具：jadx,reqable,frida,pycharm,雷电模拟器,算法助手,真机\r\n方法：hook\r\n难点：加壳,加密,混淆\r\n## app界面：\r\n![]()\r\n# 正文：\r\n&gt; 注：该版本有360加固 ...",
+      "author": "mengxinb",
+      "timestamp": 1754470763000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2051458",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2051458"
+    },
+    {
+      "id": 9,
+      "title": "使用io-uring逃避安全检测和针对性的检测",
+      "desc": "[md]# 背景\r\n\r\nARMO 研究团队近日披露 Linux 运行时安全工具存在重大缺陷，证实`io_uring`接口可使 rootkit 绕过常规监控方案，包括 Falco、Tetragon 等等在内的主流工具均无法检测利用该机制的攻击行为。并且 ARMO 团队 ...",
+      "author": "XCarthGetlin",
+      "timestamp": 1754410002000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2051281",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2051281"
+    },
+    {
+      "id": 10,
+      "title": "Overt安全检测工具深度解析",
+      "desc": "[md]# Overt安全检测工具深度解析\r\n\r\n## 前言\r\n\r\n在移动互联网时代，设备安全检测是风控体系中的重要一环。掌握前沿风控技术是每个安全人员的重要的必修课程之一。Overt 项目致力于收集并集成当前公开的检测技术于一身，构建了一个全面、高效、安全的Android设备安全检 ...",
+      "author": "Aa865186652",
+      "timestamp": 1754187645000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2050639",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2050639"
+    },
+    {
+      "id": 11,
+      "title": "利用NtReadVirtualMemory实现IAT中规避高危API",
+      "desc": "[md]# 前世\r\n\r\n## Win32 API\r\n\r\nWin32 API实现最简单的Shellcode Loader如下，代码中包含注释，可以看到每条语句的含义\r\n```\r\n#include \r\n#include \r\n\r\n// msfvenom -p windows/meterpreter/reverse_https lhost=xxx lpo ...",
+      "author": "ybdt",
+      "timestamp": 1753843651000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049715",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049715"
+    },
+    {
+      "id": 12,
+      "title": "某酒店登录系统滑块逆向分析",
+      "desc": "本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关.本文章未经许可禁止转载， ...",
+      "author": "buluo533",
+      "timestamp": 1753756433000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049410",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2049410"
+    },
+    {
+      "id": 13,
+      "title": "通过为前端项目接入GeoGebra，初步研究AI时代数学教案的生成方案（已部署）",
+      "desc": "",
+      "author": "hans7",
+      "timestamp": 1753354999000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2048343",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2048343"
+    },
+    {
+      "id": 14,
+      "title": "x64dbg插件脱壳vmp3.2-3.5",
+      "desc": "事先说明，对加壳程序选项没有包含反调试，资源保护以及虚拟化特定代码片段，vmp会对相关的资源函数进行hook,修复了也无法运行(好像易语言可以 恢复原始api就可以，我尝试了其他程序，修复之后无法运行，放弃)，目前没有 ...",
+      "author": "yoyoRev",
+      "timestamp": 1751981568000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2044339",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2044339"
+    },
+    {
+      "id": 15,
+      "title": "DaisyDisk v4.31 破解记录",
+      "desc": "[md]# DaisyDisk v4.31 破解\r\n\r\n# 简单介绍\r\n\r\nDaisyDisk是一款用于显示文件在磁盘中占比的软件，功能类似于Windows上的TreeSize Free，但稍微弱些，每次打开都需要选择磁盘并扫描，对于1T的盘大概需要近一分钟。软件采 ...",
+      "author": "0xBrian",
+      "timestamp": 1751915852000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2044095",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2044095"
+    },
+    {
+      "id": 16,
+      "title": "猿人学二十题 js 逆向分析",
+      "desc": "[md]# 猿人学第二十关逆向分析教程\r\n\r\n**[原创] 猿人学学员题34题 js加课例题1 逆向分析**\r\n\r\n\r\n\r\n还原“猿人学 第20关”中加密参数 `sign` 的生成逻辑，最终用 Python 脚本模拟访问接口。\r\n\r\n分析地址：aHR0cHM6Ly9tYXR ...",
+      "author": "chocolate.",
+      "timestamp": 1751873557000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043995",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2043995"
+    },
+    {
+      "id": 17,
+      "title": "某财富网滑块逆向",
+      "desc": "[md]\r\n\r\n## 声明\r\n本帖仅供学习交流，严禁用于非法用途，如有侵权，请联系本人删除\r\n\r\n## 主题\r\n\r\n\r\n某财富网滑块逆向\r\n\r\nYUhSMGNITTZMeTlwTG1WaGMzUnRiMjVsZVM1amIyMHZkMlZpYzJsMFpXTmhjSFJqYUdFdmMyeHBaR1Z5ZG1Gc2FXUT0 ...",
+      "author": "HaveAnOrange",
+      "timestamp": 1751421763000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042937",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042937"
+    },
+    {
+      "id": 18,
+      "title": "药监局瑞数6补环境生成cookie",
+      "desc": "",
+      "author": "wipb30ybbui",
+      "timestamp": 1751340400000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042722",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042722"
+    },
+    {
+      "id": 19,
+      "title": "某q音乐jsvmp反编译",
+      "desc": "[md]## 一、分析虚拟机架构\r\n\r\n参考这位师傅的文章`https://jixun.uk/posts/2024/qqmusic-zzc-sign/`, 将虚拟机架构代码重新命名了一下\r\n\r\n该虚拟机是基于寄存器的虚拟框架，所有临时变量、结果都保存在一个寄存器列表 ...",
+      "author": "hostname",
+      "timestamp": 1751051449000,
+      "url": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042090",
+      "mobileUrl": "https://www.52pojie.cn/forum.php?mod=viewthread&tid=2042090"
+    }
+  ]
+}
