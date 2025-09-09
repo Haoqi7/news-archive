@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-09-09T01:23:42.186803",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783838,
+      "title": "中国那么多山，为何只有秦岭敢称「中华龙脉」？",
+      "cover": "https://pic1.zhimg.com/v2-5696212962bb9414fd87ab8d754f48a6.jpg?source=8673f162",
+      "author": "青铜马弓手 · 11 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783838",
+      "mobileUrl": "https://daily.zhihu.com/story/9783838"
+    },
+    {
+      "id": 9783845,
+      "title": "人类的脚趾头为什么是五个？手指头和脚趾头都是五个是必然吗？",
+      "cover": "https://pica.zhimg.com/v2-992960b4a4fd3c91ecf5f2c6318e6e9c.jpg?source=8673f162",
+      "author": "瞻云 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783845",
+      "mobileUrl": "https://daily.zhihu.com/story/9783845"
+    },
+    {
+      "id": 9783847,
+      "title": "只把 20 世纪前的物理数学知识喂给 AI，AI 能推导出狭义或广义相对论吗？",
+      "cover": "https://pica.zhimg.com/v2-8c302d3221e5ef93f3d595e3049664dd.jpg?source=8673f162",
+      "author": "Trisimo崔思莫 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783847",
+      "mobileUrl": "https://daily.zhihu.com/story/9783847"
+    },
+    {
+      "id": 9783853,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-8732fd7724c0e08558f70e1438aa798f.jpg?source=8673f162",
+      "author": "VOL.3737",
+      "url": "https://daily.zhihu.com/story/9783853",
+      "mobileUrl": "https://daily.zhihu.com/story/9783853"
+    }
+  ]
+}
