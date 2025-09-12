@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-09-12T01:19:52.136291",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783893,
+      "title": "现实中没有原型的怪物是如何被设计出来的？",
+      "cover": "https://pic1.zhimg.com/v2-6dc7ea9fc9c0e437b4d07b2532c4e235.jpg?source=8673f162",
+      "author": "叶兰舟 · 7 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783893",
+      "mobileUrl": "https://daily.zhihu.com/story/9783893"
+    },
+    {
+      "id": 9783896,
+      "title": "为什么电风扇没有设计成像人扇扇子那样上下扇动，而是旋转吹风？",
+      "cover": "https://pic1.zhimg.com/v2-7d9168cb57888363af0210ef38aa3394.jpg?source=8673f162",
+      "author": "祥昊 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783896",
+      "mobileUrl": "https://daily.zhihu.com/story/9783896"
+    },
+    {
+      "id": 9783905,
+      "title": "从古到今，有哪些很有意境的城市别称？",
+      "cover": "https://picx.zhimg.com/v2-22697713e92d6639ca75b9e17d7f2049.jpg?source=8673f162",
+      "author": "曲水流觞 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783905",
+      "mobileUrl": "https://daily.zhihu.com/story/9783905"
+    },
+    {
+      "id": 9783906,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-8732fd7724c0e08558f70e1438aa798f.jpg?source=8673f162",
+      "author": "VOL.3740",
+      "url": "https://daily.zhihu.com/story/9783906",
+      "mobileUrl": "https://daily.zhihu.com/story/9783906"
+    }
+  ]
+}
