@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-09-13T01:16:46.920849",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9783908,
+      "title": "为什么灯有电就会亮呢？",
+      "cover": "https://pica.zhimg.com/v2-c16335abc620dd9165afd5aa988c428a.jpg?source=8673f162",
+      "author": "Patrick Zhang · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783908",
+      "mobileUrl": "https://daily.zhihu.com/story/9783908"
+    },
+    {
+      "id": 9783912,
+      "title": "甘孜赛马节一匹「顺拐马」引发关注，堪称现实版「马踏飞燕」，有人说骑顺拐马会更加舒适平稳，是这样吗？",
+      "cover": "https://picx.zhimg.com/v2-d88b198b557400037abf1cd6bbaaa0cf.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783912",
+      "mobileUrl": "https://daily.zhihu.com/story/9783912"
+    },
+    {
+      "id": 9783919,
+      "title": "为什么我总是会因为有事情未完成而焦虑不安？",
+      "cover": "https://pic1.zhimg.com/v2-249a5ef22fa3b56981f09821daa30c71.jpg?source=8673f162",
+      "author": "京师心理大学堂 · 5 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783919",
+      "mobileUrl": "https://daily.zhihu.com/story/9783919"
+    },
+    {
+      "id": 9783927,
+      "title": "猫咪尾巴能够分段独立运动的原理是什么？",
+      "cover": "https://picx.zhimg.com/v2-566b80596cf0d75fe8461d788611fd33.jpg?source=8673f162",
+      "author": "猫研所 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9783927",
+      "mobileUrl": "https://daily.zhihu.com/story/9783927"
+    }
+  ]
+}
