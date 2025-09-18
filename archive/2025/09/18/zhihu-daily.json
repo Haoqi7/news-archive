@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-09-18T01:20:41.184900",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784042,
+      "title": "柑橘黄龙病为什么成为世界性难题？如果感染只能砍除烧毁吗？有可能治好或者控制住吗？",
+      "cover": "https://pic1.zhimg.com/v2-0860544bb7acea69448f46a24d74cca8.jpg?source=8673f162",
+      "author": "云杉 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9784042",
+      "mobileUrl": "https://daily.zhihu.com/story/9784042"
+    },
+    {
+      "id": 9784048,
+      "title": "历史上有哪些奇怪的死法?",
+      "cover": "https://pica.zhimg.com/v2-fa753d8eabfa0649dd68bffd1e195452.jpg?source=8673f162",
+      "author": "愤怒的地瓜 · 6 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9784048",
+      "mobileUrl": "https://daily.zhihu.com/story/9784048"
+    },
+    {
+      "id": 9784057,
+      "title": "为什么网上都在怀念经济上行时期的美？",
+      "cover": "https://pic1.zhimg.com/v2-102239d66ce51a4f08f7e71654d73784.jpg?source=8673f162",
+      "author": "Lens · 8 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9784057",
+      "mobileUrl": "https://daily.zhihu.com/story/9784057"
+    },
+    {
+      "id": 9784063,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-e81b943f8e1904b601aef1096e17bd91.jpg?source=8673f162",
+      "author": "VOL.3744",
+      "url": "https://daily.zhihu.com/story/9784063",
+      "mobileUrl": "https://daily.zhihu.com/story/9784063"
+    }
+  ]
+}
