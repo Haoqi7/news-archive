@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-09-19T01:23:24.246665",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "05d9501f345b4e8a9dedbb3cc5c83aad",
+      "title": "GitHub 开源的 AI 时代开发流程工具",
+      "desc": "这是一套规范驱动开发（SDD）的编程工具，让开发者先用自然语言写清楚“做什么”和“为什么”，再由 AI 编写代码。它将 AI 开发流程规范化，统一规格模板、强制",
+      "author": "github",
+      "timestamp": 1757982100000,
+      "hot": 779,
+      "url": "https://hellogithub.com/repository/05d9501f345b4e8a9dedbb3cc5c83aad",
+      "mobileUrl": "https://hellogithub.com/repository/05d9501f345b4e8a9dedbb3cc5c83aad"
+    },
+    {
+      "id": "205a8869718c4a75b7c1caae8973cce2",
+      "title": "终端里运行任意 GUI 应用",
+      "desc": "该项目突破了传统终端只能运行命令行程序的限制，让用户能够在终端（Terminal）中运行任意 GUI 应用程序，将图形界面的操作体验带入终端环境。它通过自研的 ",
+      "author": "mmulet",
+      "timestamp": 1757981685000,
+      "hot": 776,
+      "url": "https://hellogithub.com/repository/205a8869718c4a75b7c1caae8973cce2",
+      "mobileUrl": "https://hellogithub.com/repository/205a8869718c4a75b7c1caae8973cce2"
+    },
+    {
+      "id": "ed25b38a66eb43b0b2f88ef25ba48a5f",
+      "title": "官方的 MCP 应用商店",
+      "desc": "该项目是官方发起、社区驱动的 MCP 服务注册平台，相当于 MCP 的应用商店，专为解决 MCP 客户端无服务可用的问题。它基于 GitHub 实现 MCP 服",
+      "author": "modelcontextprotocol",
+      "timestamp": 1757982167000,
+      "hot": 464,
+      "url": "https://hellogithub.com/repository/ed25b38a66eb43b0b2f88ef25ba48a5f",
+      "mobileUrl": "https://hellogithub.com/repository/ed25b38a66eb43b0b2f88ef25ba48a5f"
+    },
+    {
+      "id": "4754357165df49ae9454119068ebc532",
+      "title": "开源的企业级支付网关",
+      "desc": "这是一个用 Rust 编写的高性能支付网关系统，将多种支付渠道统一为一套 API。它提供智能路由、自动重试、失败转移、风控管理和可视化后台，内置 50+ 支付方",
+      "author": "juspay",
+      "timestamp": 1757981865000,
+      "hot": 311,
+      "url": "https://hellogithub.com/repository/4754357165df49ae9454119068ebc532",
+      "mobileUrl": "https://hellogithub.com/repository/4754357165df49ae9454119068ebc532"
+    },
+    {
+      "id": "2ee9005ef0c14974bc0c495c25c87596",
+      "title": "开源的 n8n 工作流宝库",
+      "desc": "该项目收集了 2000+ 高质量、开箱即用的 n8n 自动工作流模板，涵盖官方示例、社区精华和用户实用场景。它内置一个基于 FastAPI 的本地搜索服务，支持",
+      "author": "Zie619",
+      "timestamp": 1757981962000,
+      "hot": 507,
+      "url": "https://hellogithub.com/repository/2ee9005ef0c14974bc0c495c25c87596",
+      "mobileUrl": "https://hellogithub.com/repository/2ee9005ef0c14974bc0c495c25c87596"
+    },
+    {
+      "id": "892abe2e8adb4bd8b7fd9bca8e96978c",
+      "title": "简单易用的 Python UI 框架",
+      "desc": "该项目是基于 Python 的用户界面框架，支持纯 Python 开发 Web 或桌面应用。只需几行代码，即可生成按钮、图表、3D 场景等 50 多种组件，解决",
+      "author": "zauberzeug",
+      "timestamp": 1756339793000,
+      "hot": 3405,
+      "url": "https://hellogithub.com/repository/892abe2e8adb4bd8b7fd9bca8e96978c",
+      "mobileUrl": "https://hellogithub.com/repository/892abe2e8adb4bd8b7fd9bca8e96978c"
+    },
+    {
+      "id": "6ea67ad1cab04644a3198789074aa210",
+      "title": "隐形的第二大脑",
+      "desc": "这是一款隐形桌面 AI 助手，不会出现在录屏、截图或桌面中。支持实时读取屏幕和麦克风内容，随时把所见所闻变成可检索、追问的结构化知识。",
+      "author": "pickle-com",
+      "timestamp": 1756339793000,
+      "hot": 4600,
+      "url": "https://hellogithub.com/repository/6ea67ad1cab04644a3198789074aa210",
+      "mobileUrl": "https://hellogithub.com/repository/6ea67ad1cab04644a3198789074aa210"
+    },
+    {
+      "id": "ded5af09da574ec1811ddb154f1b2093",
+      "title": "轻松自托管你的个人财务数据",
+      "desc": "这是一款免费、轻量、可自托管的个人记账应用，采用 Go+Vue 构建。它界面简洁易用、功能丰富，支持二级账户（个人/家庭）、收支分类、交易图片附件、定期收支自动",
+      "author": "mayswind",
+      "timestamp": 1756339793000,
+      "hot": 2486,
+      "url": "https://hellogithub.com/repository/ded5af09da574ec1811ddb154f1b2093",
+      "mobileUrl": "https://hellogithub.com/repository/ded5af09da574ec1811ddb154f1b2093"
+    },
+    {
+      "id": "8605546658d94cbab45182af2a02e4c8",
+      "title": "Java 开发的轻量级开源社区系统",
+      "desc": "这是一个基于 Spring Boot 和 Vue3 构建的开源自由社区系统，定位为轻量级的 Discourse。它完全开源、可二次开发，支持白名单邀请、自定义标",
+      "author": "nagisa77",
+      "timestamp": 1756339793000,
+      "hot": 2014,
+      "url": "https://hellogithub.com/repository/8605546658d94cbab45182af2a02e4c8",
+      "mobileUrl": "https://hellogithub.com/repository/8605546658d94cbab45182af2a02e4c8"
+    },
+    {
+      "id": "8e9af473df2244f59d84b79915298fcc",
+      "title": "每日 60 秒资讯 API 集合",
+      "desc": "该项目集合了包括每日新闻、实时票房、汇率、热搜榜、随机段子等多种数据的 API 服务。",
+      "author": "vikiboss",
+      "timestamp": 1753661117000,
+      "hot": 7895,
+      "url": "https://hellogithub.com/repository/8e9af473df2244f59d84b79915298fcc",
+      "mobileUrl": "https://hellogithub.com/repository/8e9af473df2244f59d84b79915298fcc"
+    },
+    {
+      "id": "4dcea807fab7468a962c153b07ae4e4e",
+      "title": "极简的在线白板工具",
+      "desc": "这是一款免费、开源的在线白板工具。它提供一个无限画布，支持自由绘制、思维导图、流程图、画笔、插入图片、自动保存等功能，以及移动端适配、Docker 部署和插件机",
+      "author": "plait-board",
+      "timestamp": 1753661117000,
+      "hot": 4375,
+      "url": "https://hellogithub.com/repository/4dcea807fab7468a962c153b07ae4e4e",
+      "mobileUrl": "https://hellogithub.com/repository/4dcea807fab7468a962c153b07ae4e4e"
+    },
+    {
+      "id": "b468fd94597b4954beb0203ffeb42fb6",
+      "title": "独特几何头像生成器",
+      "desc": "这是一个用于生成独特且容易识别图像（identicons）的 JavaScript 库，可根据任意字符串（用户名、哈希值等）生成独特的几何图形，支持输出为 SV",
+      "author": "dmester",
+      "timestamp": 1756339793000,
+      "hot": 1760,
+      "url": "https://hellogithub.com/repository/b468fd94597b4954beb0203ffeb42fb6",
+      "mobileUrl": "https://hellogithub.com/repository/b468fd94597b4954beb0203ffeb42fb6"
+    },
+    {
+      "id": "554dc4c46eb14092b9b0c56f1eb9021c",
+      "title": "企业级的多渠道大模型 API 管理平台",
+      "desc": "这是一款用 Go 语言开发的企业级大模型接口管理平台，支持 OpenAI、Gemini、Claude 等多种服务。它开箱即用、内置 Web 管理界面、保留原生 ",
+      "author": "tbphp",
+      "timestamp": 1753661117000,
+      "hot": 2540,
+      "url": "https://hellogithub.com/repository/554dc4c46eb14092b9b0c56f1eb9021c",
+      "mobileUrl": "https://hellogithub.com/repository/554dc4c46eb14092b9b0c56f1eb9021c"
+    },
+    {
+      "id": "bcbb4181b8cb4ecaa0011d1740670108",
+      "title": "开源的 AI 虚拟伴侣",
+      "desc": "这是一个开源自托管的 AI 虚拟伴侣，将二次元虚拟角色（waifu）等智能体带到你的身边。支持实时文字和语音聊天，可陪你玩 Minecraft、异星工厂等游戏，",
+      "author": "moeru-ai",
+      "timestamp": 1756339793000,
+      "hot": 2373,
+      "url": "https://hellogithub.com/repository/bcbb4181b8cb4ecaa0011d1740670108",
+      "mobileUrl": "https://hellogithub.com/repository/bcbb4181b8cb4ecaa0011d1740670108"
+    },
+    {
+      "id": "6a1325d3a1ff45ecbf15d13e4362865b",
+      "title": "轻量小巧的文本转语音模型",
+      "desc": "这是一款轻量级文本转语音（TTS）模型，体积小于 25MB、无需 GPU 即可流畅运行。它能够将文本高质量地转换为自然流畅的语音，支持多种音色，适用于多种设备和",
+      "author": "KittenML",
+      "timestamp": 1754959469000,
+      "hot": 2831,
+      "url": "https://hellogithub.com/repository/6a1325d3a1ff45ecbf15d13e4362865b",
+      "mobileUrl": "https://hellogithub.com/repository/6a1325d3a1ff45ecbf15d13e4362865b"
+    },
+    {
+      "id": "be53ce4991c44fd2891e8b323e3b0490",
+      "title": "极简的 Mac 菜单栏日历",
+      "desc": "这是一款专为 macOS 设计的菜单栏日历工具，支持农历、节日、节气和提醒等功能。",
+      "author": "LunarBar-app",
+      "timestamp": 1756339793000,
+      "hot": 904,
+      "url": "https://hellogithub.com/repository/be53ce4991c44fd2891e8b323e3b0490",
+      "mobileUrl": "https://hellogithub.com/repository/be53ce4991c44fd2891e8b323e3b0490"
+    },
+    {
+      "id": "50100402cc2344a9918783034475aeb5",
+      "title": "自托管的在线文件转换工具",
+      "desc": "这是一个开源的在线文件格式转换工具，支持超过 1000 种主流文档、图片、音视频等多类型文件格式，不依赖第三方服务。它即装即用、操作便捷，并提供文件夹批量处理、",
+      "author": "C4illin",
+      "timestamp": 1756339793000,
+      "hot": 1343,
+      "url": "https://hellogithub.com/repository/50100402cc2344a9918783034475aeb5",
+      "mobileUrl": "https://hellogithub.com/repository/50100402cc2344a9918783034475aeb5"
+    },
+    {
+      "id": "ac2fdf84e6414bf59ca8e8a09e058a8e",
+      "title": "微软开源的 MCP 教程",
+      "desc": "该项目是微软开源的 MCP 基础教程，内容围绕 Python、.NET、Java、TypeScript 等多种编程语言，通过丰富的代码实例与系统化的学习路径，帮",
+      "author": "microsoft",
+      "timestamp": 1754959564000,
+      "hot": 1507,
+      "url": "https://hellogithub.com/repository/ac2fdf84e6414bf59ca8e8a09e058a8e",
+      "mobileUrl": "https://hellogithub.com/repository/ac2fdf84e6414bf59ca8e8a09e058a8e"
+    },
+    {
+      "id": "e0f7137ac0a949f7bd9a14a31162f8e3",
+      "title": "开源的实时协作文档平台",
+      "desc": "这是一款支持多人协作的在线文档平台，完全免费开源。它基于 Django+React 构建，支持离线编辑自动同步、文档/页面级访问控制和 AI 辅助（摘要、翻译、",
+      "author": "suitenumerique",
+      "timestamp": 1756339793000,
+      "hot": 1367,
+      "url": "https://hellogithub.com/repository/e0f7137ac0a949f7bd9a14a31162f8e3",
+      "mobileUrl": "https://hellogithub.com/repository/e0f7137ac0a949f7bd9a14a31162f8e3"
+    },
+    {
+      "id": "4fa579f75ab54c4db7d469eb36f299e1",
+      "title": "好用的开源屏幕批注工具",
+      "desc": "这是一款免费开源的 Windows 屏幕批注工具，拥有流畅的画笔体验和丰富的绘图、标注功能，让屏幕演示变得简单高效。适用于教学授课、远程演示、日常办公等多种场景",
+      "author": "Alan-CRL",
+      "timestamp": 1756339793000,
+      "hot": 1209,
+      "url": "https://hellogithub.com/repository/4fa579f75ab54c4db7d469eb36f299e1",
+      "mobileUrl": "https://hellogithub.com/repository/4fa579f75ab54c4db7d469eb36f299e1"
+    }
+  ]
+}
