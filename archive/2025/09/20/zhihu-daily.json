@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-09-20T01:19:25.673802",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784087,
+      "title": "人的身体是「越用越灵巧」，还是「越用越易坏」？",
+      "cover": "https://picx.zhimg.com/v2-6c4f798c28e0d55938cf001228555431.jpg?source=8673f162",
+      "author": "若水 · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9784087",
+      "mobileUrl": "https://daily.zhihu.com/story/9784087"
+    },
+    {
+      "id": 9784093,
+      "title": "为什么「情绪价值」成为了当代年轻人择偶的「硬通货」？",
+      "cover": "https://pic1.zhimg.com/v2-f2918eb254fdb8b946e5dc7883a4f1d3.jpg?source=8673f162",
+      "author": "知乎用户 · 4 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9784093",
+      "mobileUrl": "https://daily.zhihu.com/story/9784093"
+    },
+    {
+      "id": 9784103,
+      "title": "自然界中吃鱼的动物都是如何避免被鱼刺卡住的？",
+      "cover": "https://picx.zhimg.com/v2-03508fc97bf9be7a7a7c0dee70fd168a.jpg?source=8673f162",
+      "author": "剁椒鹿 · 1 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9784103",
+      "mobileUrl": "https://daily.zhihu.com/story/9784103"
+    },
+    {
+      "id": 9784108,
+      "title": "从心理学角度看，为什么「万事开头难」？为什么很多人始终不敢迈出第一步？",
+      "cover": "https://pica.zhimg.com/v2-056972571b88c13d22ed5af10e8f932a.jpg?source=8673f162",
+      "author": "Tom · 3 分钟阅读",
+      "url": "https://daily.zhihu.com/story/9784108",
+      "mobileUrl": "https://daily.zhihu.com/story/9784108"
+    }
+  ]
+}
