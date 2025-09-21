@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-09-21T01:36:45.016870",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": "31b6b59fb992",
+      "title": "每日一题day7-1550. 存在连续三个奇数的数组",
+      "desc": "题目： 给你一个整数数组 arr，请你判断数组中是否存在连续三个元素都是奇数的情况：如果存在，请返回 true ；否则，返回 false 。 示...",
+      "author": "程序员小2",
+      "url": "https://www.jianshu.com/p/31b6b59fb992",
+      "mobileUrl": "https://www.jianshu.com/p/31b6b59fb992"
+    },
+    {
+      "id": "fd98d550ee8a",
+      "title": "1539. 第 k 个缺失的正整数",
+      "desc": "解题思路 1.知识点 方法一：枚举思路与算法我们可以顺序枚举。枚举法由于数组是严格递增的，所以可以认为一个不缺失的数组是从1开始的：nums =...",
+      "author": "spark打酱油",
+      "url": "https://www.jianshu.com/p/fd98d550ee8a",
+      "mobileUrl": "https://www.jianshu.com/p/fd98d550ee8a"
+    },
+    {
+      "id": "41c4a48ec831",
+      "title": "全面掌握组件化ARouter，即刻吊打面试官！",
+      "cover": "https://upload-images.jianshu.io/upload_images/28265229-036f36394abe2998.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "前言 为了实现组件化要解决的几个问题点，其中 页面跳转、组件间通信 的问题是使用了 ARouter 这个框架来解决的。ARouter确实是专门用...",
+      "author": "不落魄Android开发",
+      "url": "https://www.jianshu.com/p/41c4a48ec831",
+      "mobileUrl": "https://www.jianshu.com/p/41c4a48ec831"
+    },
+    {
+      "id": "442759a3ccf1",
+      "title": "Android高斯模糊（毛玻璃效果）蒙层库-ShapeBlurView",
+      "cover": "https://upload-images.jianshu.io/upload_images/2454085-0866a420a087a381.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "ShapeBlurView ShapeBlurView库是一个高斯模糊（毛玻璃效果）蒙层库。Like iOS UIVisualEffectVie...",
+      "author": "centerzx",
+      "url": "https://www.jianshu.com/p/442759a3ccf1",
+      "mobileUrl": "https://www.jianshu.com/p/442759a3ccf1"
+    }
+  ]
+}
