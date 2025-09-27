@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-09-27T01:21:15.291169",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784267,
+      "title": "为什么我们在镜子中看到的自己是左右颠倒，而不是上下颠倒？",
+      "cover": "https://picx.zhimg.com/v2-9f7325db800932dd07216c58d897dd0d.jpg?source=8673f162",
+      "author": "赵泠 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784267",
+      "mobileUrl": "https://daily.zhihu.com/story/9784267"
+    },
+    {
+      "id": 9784257,
+      "title": "网友称几乎绝迹床虱又出现了，什么是床虱？",
+      "cover": "https://picx.zhimg.com/v2-18d397f924d9cb4f818dba6861735641.jpg?source=8673f162",
+      "author": "斜绿天蛾 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784257",
+      "mobileUrl": "https://daily.zhihu.com/story/9784257"
+    },
+    {
+      "id": 9784264,
+      "title": "为什么 oct- 大多数情况下是「8」的前缀，但 October 却是 10 月？",
+      "cover": "https://picx.zhimg.com/v2-aff1f6d0bc91f365ed74656a256e7f84.jpg?source=8673f162",
+      "author": "kwasglag · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784264",
+      "mobileUrl": "https://daily.zhihu.com/story/9784264"
+    },
+    {
+      "id": 9784272,
+      "title": "数学「男厕尴尬问题」如何求解？",
+      "cover": "https://picx.zhimg.com/v2-d928b35c9dacd32b31d363640ca5fa89.jpg?source=8673f162",
+      "author": "杂然赋流形丶 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784272",
+      "mobileUrl": "https://daily.zhihu.com/story/9784272"
+    }
+  ]
+}
