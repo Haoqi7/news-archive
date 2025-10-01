@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-10-01T01:41:21.656864",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784342,
+      "title": "有没有跟人类趋同进化的生物？",
+      "cover": "https://pic1.zhimg.com/v2-5db130e5a362a89c291073a15a24a93c.jpg?source=8673f162",
+      "author": "云杉 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784342",
+      "mobileUrl": "https://daily.zhihu.com/story/9784342"
+    },
+    {
+      "id": 9784350,
+      "title": "为什么在群体决策中，个体容易放弃自己的判断？",
+      "cover": "https://picx.zhimg.com/v2-dc70482ffe391c6ac4bea65e0ae2a8df.jpg?source=8673f162",
+      "author": "鸣戈 · 6 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784350",
+      "mobileUrl": "https://daily.zhihu.com/story/9784350"
+    },
+    {
+      "id": 9784354,
+      "title": "NASA 称美国「毅力」号火星车发现潜在生命迹象，这有哪些意义？会给火星研究带来哪些新的想象空间？",
+      "cover": "https://picx.zhimg.com/v2-e8c763ae75391955c4fc0ca944c6e970.jpg?source=8673f162",
+      "author": "黄河边儿 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784354",
+      "mobileUrl": "https://daily.zhihu.com/story/9784354"
+    },
+    {
+      "id": 9784362,
+      "title": "为什么罗非鱼在中国被嫌弃，在国外却很流行？",
+      "cover": "https://pic1.zhimg.com/v2-d4fb4b97f878890a0d843fcbaaa29572.jpg?source=8673f162",
+      "author": "窈慕颜 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784362",
+      "mobileUrl": "https://daily.zhihu.com/story/9784362"
+    }
+  ]
+}
