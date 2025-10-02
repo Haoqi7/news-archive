@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-10-02T01:22:56.603742",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784370,
+      "title": "某科普图鉴书籍昆虫图片疑为 AI 生成，出版社回应称系「建模还原图」，如何看待此类科普图片失真问题？",
+      "cover": "https://picx.zhimg.com/v2-77cb58f6c02bc907725e3419316a9808.jpg?source=8673f162",
+      "author": "犬君拌汪酱 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784370",
+      "mobileUrl": "https://daily.zhihu.com/story/9784370"
+    },
+    {
+      "id": 9784375,
+      "title": "现有的最接近恐龙的鸟是什么？",
+      "cover": "https://picx.zhimg.com/v2-0a2915fc3062e488921d06520d7ce608.jpg?source=8673f162",
+      "author": "三眼乌鸦 · 6 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784375",
+      "mobileUrl": "https://daily.zhihu.com/story/9784375"
+    },
+    {
+      "id": 9784379,
+      "title": "大爷仅凭肉眼观察色板，便精准调配出相同颜色的油漆，他是怎么做到的？普通人要做到有多难？",
+      "cover": "https://pica.zhimg.com/v2-1b25b0310a697f399aa3b0e9b0af357b.jpg?source=8673f162",
+      "author": "发霉的蘑菇 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784379",
+      "mobileUrl": "https://daily.zhihu.com/story/9784379"
+    },
+    {
+      "id": 9784381,
+      "title": "iPhone Air 国行版当前仅支持中国联通 eSIM 服务，为何 eSIM 在国内这么难普及？",
+      "cover": "https://pic1.zhimg.com/v2-2743d4872ca9abe4e44eab0b49ecb89d.jpg?source=8673f162",
+      "author": "Ye Han · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784381",
+      "mobileUrl": "https://daily.zhihu.com/story/9784381"
+    }
+  ]
+}
