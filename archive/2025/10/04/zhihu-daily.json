@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-10-04T01:20:31.031204",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784430,
+      "title": "当你摸猫头时，在它眼中会认为是什么意思呢？",
+      "cover": "https://picx.zhimg.com/v2-79af752be509b434531c4b7f0aaa07ce.jpg?source=8673f162",
+      "author": "高sir · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784430",
+      "mobileUrl": "https://daily.zhihu.com/story/9784430"
+    },
+    {
+      "id": 9784426,
+      "title": "为什么人会对蟑螂如此厌恶但其他大型昆虫就不会？",
+      "cover": "https://pica.zhimg.com/v2-98ca7c431859cecd33a16292fb1c4722.jpg?source=8673f162",
+      "author": "剁椒鹿 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784426",
+      "mobileUrl": "https://daily.zhihu.com/story/9784426"
+    },
+    {
+      "id": 9784435,
+      "title": "鸟类的爪子都是默认抓紧，松开反而要使劲的吗？",
+      "cover": "https://picx.zhimg.com/v2-1c1b55daa7d41819b4634780f7a5d2fe.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784435",
+      "mobileUrl": "https://daily.zhihu.com/story/9784435"
+    },
+    {
+      "id": 9784436,
+      "title": "自然界中，哪些鱼类进化出了令人惊叹的独特生存策略或行为？",
+      "cover": "https://pic1.zhimg.com/v2-995f79c160eef612a60883321008aaed.jpg?source=8673f162",
+      "author": "犬君拌汪酱 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784436",
+      "mobileUrl": "https://daily.zhihu.com/story/9784436"
+    }
+  ]
+}
