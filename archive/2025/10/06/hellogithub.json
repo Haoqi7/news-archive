@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-10-06T01:28:55.402683",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "6bf89fb380dc492f98d35476125ffc21",
+      "title": "高度可定制的 Windows 桌面美化工具",
+      "desc": "这是一款免费开源的 Windows 桌面增强工具，专注于高度自定义和效率提升。它采用 Rust 语言开发，结合 Tauri 框架与 Web 技术，支持窗口平铺管",
+      "author": "eythaann",
+      "timestamp": 1759045745000,
+      "hot": 1597,
+      "url": "https://hellogithub.com/repository/6bf89fb380dc492f98d35476125ffc21",
+      "mobileUrl": "https://hellogithub.com/repository/6bf89fb380dc492f98d35476125ffc21"
+    },
+    {
+      "id": "fb844b7286244bf8a1d67bfd228a95c7",
+      "title": "抬头即见的开源课表工具",
+      "desc": "这是一款专为大屏设备打造的桌面课表应用，可将课程表以简洁组件的形式常驻桌面，取代传统黑板课表。支持下课提醒、天气信息、倒计时、密码保护和课表导入等功能，适用于配",
+      "author": "ClassIsland",
+      "timestamp": 1759045745000,
+      "hot": 1376,
+      "url": "https://hellogithub.com/repository/fb844b7286244bf8a1d67bfd228a95c7",
+      "mobileUrl": "https://hellogithub.com/repository/fb844b7286244bf8a1d67bfd228a95c7"
+    },
+    {
+      "id": "f72043c7eb9145a58e98b5c66eb213cc",
+      "title": "卡通风格城市建设模拟游戏",
+      "desc": "这是一款轻量级、卡通风格的 2.5D 城市模拟游戏，基于 Three.js 和 Vue3 构建。玩家可在浏览器中通过点选和拖放，实时建造、搬迁和拆除建筑。建筑会",
+      "author": "hexianWeb",
+      "timestamp": 1759045745000,
+      "hot": 1033,
+      "url": "https://hellogithub.com/repository/f72043c7eb9145a58e98b5c66eb213cc",
+      "mobileUrl": "https://hellogithub.com/repository/f72043c7eb9145a58e98b5c66eb213cc"
+    },
+    {
+      "id": "5a6f236f85634876894fb32c0c94e67a",
+      "title": "极速的原生桌面启动器",
+      "desc": "这是一款基于 C++ 开发的桌面启动器，不依赖 Electron 或浏览器。它速度快、易扩展、界面简洁，专注于提升桌面操作效率，支持文件搜索、剪贴板历史、内联计",
+      "author": "vicinaehq",
+      "timestamp": 1759045745000,
+      "hot": 1088,
+      "url": "https://hellogithub.com/repository/5a6f236f85634876894fb32c0c94e67a",
+      "mobileUrl": "https://hellogithub.com/repository/5a6f236f85634876894fb32c0c94e67a"
+    },
+    {
+      "id": "2794c5a95ef245a4945a738a085c6df5",
+      "title": "老乡鸡菜谱开源版",
+      "desc": "该项目非老乡鸡官方出品，是作者基于《老乡鸡菜品溯源报告》等资料，归纳、整理了老乡鸡菜品的配方、制作流程及烹饪要点。",
+      "author": "Gar-b-age",
+      "timestamp": 1759045745000,
+      "hot": 869,
+      "url": "https://hellogithub.com/repository/2794c5a95ef245a4945a738a085c6df5",
+      "mobileUrl": "https://hellogithub.com/repository/2794c5a95ef245a4945a738a085c6df5"
+    },
+    {
+      "id": "e17a648b2a24468982c4e6489da3b879",
+      "title": "在 Linux 系统上轻松运行 Windows 应用",
+      "desc": "这是一款无需复杂配置即可在 Linux 上运行 Windows 应用的工具。通过图形化向导自动完成镜像拉取、容器创建和 RDP 配置，全程无需手动敲命令，就能让",
+      "author": "TibixDev",
+      "timestamp": 1759045745000,
+      "hot": 464,
+      "url": "https://hellogithub.com/repository/e17a648b2a24468982c4e6489da3b879",
+      "mobileUrl": "https://hellogithub.com/repository/e17a648b2a24468982c4e6489da3b879"
+    },
+    {
+      "id": "8f890f8d74174dbba51bbc8399fd5729",
+      "title": "无需 WebDriver 的浏览器自动化 Python 库",
+      "desc": "这是一个用于自动化操作 Chromium 内核浏览器的 Python 库。它通过原生 DevTools 协议（CDP）直接控制浏览器，无需依赖 WebDrive",
+      "author": "autoscrape-labs",
+      "timestamp": 1759045745000,
+      "hot": 581,
+      "url": "https://hellogithub.com/repository/8f890f8d74174dbba51bbc8399fd5729",
+      "mobileUrl": "https://hellogithub.com/repository/8f890f8d74174dbba51bbc8399fd5729"
+    },
+    {
+      "id": "f9322162577641caa96c054a8261c036",
+      "title": "自动检测代码屎山等级的工具",
+      "desc": "这是一款用于评估代码“屎山等级”的工具，支持 Python、Java、Go 等多种编程语言。它能够自动扫描指定目录，深入分析项目代码的混乱程度，并用犀利又搞笑的",
+      "author": "Done-0",
+      "timestamp": 1759045745000,
+      "hot": 875,
+      "url": "https://hellogithub.com/repository/f9322162577641caa96c054a8261c036",
+      "mobileUrl": "https://hellogithub.com/repository/f9322162577641caa96c054a8261c036"
+    },
+    {
+      "id": "026b385e08d2420a9b3716bd066768f7",
+      "title": "新手友好的 Rust 实战教程",
+      "desc": "这是一个专为 Rust 初学者设计的快速入门教程，带你一步步实现一个可用的命令行 Todo 应用。",
+      "author": "InkSha",
+      "timestamp": 1759045745000,
+      "hot": 521,
+      "url": "https://hellogithub.com/repository/026b385e08d2420a9b3716bd066768f7",
+      "mobileUrl": "https://hellogithub.com/repository/026b385e08d2420a9b3716bd066768f7"
+    },
+    {
+      "id": "c88f35d75a7f4b23b48268a8d963ddbe",
+      "title": "开箱即用的本地语音转写工具",
+      "desc": "这是一款集实时语音转文本、翻译和说话人分离于一体的开源工具，自带服务器端和 Web UI，一条命令即可私有化部署。它基于最新的增量流式技术，无需联网和写前端代码",
+      "author": "QuentinFuxa",
+      "timestamp": 1759045745000,
+      "hot": 301,
+      "url": "https://hellogithub.com/repository/c88f35d75a7f4b23b48268a8d963ddbe",
+      "mobileUrl": "https://hellogithub.com/repository/c88f35d75a7f4b23b48268a8d963ddbe"
+    },
+    {
+      "id": "73f040691a75462eb1d9631930dde96f",
+      "title": "类 Flask 的轻量级 C++ Web 框架",
+      "desc": "这是一款专为 C++ 开发者设计的轻量级 Web 框架，仅需引入头文件即可轻松集成。它拥有类似 Python Flask 的简洁易用路由 API，只需少量代码即",
+      "author": "CrowCpp",
+      "timestamp": 1759045745000,
+      "hot": 248,
+      "url": "https://hellogithub.com/repository/73f040691a75462eb1d9631930dde96f",
+      "mobileUrl": "https://hellogithub.com/repository/73f040691a75462eb1d9631930dde96f"
+    },
+    {
+      "id": "d7bef5a029844313865da707625d33c3",
+      "title": "高颜值一站式服务器管理平台",
+      "desc": "这是一个基于 Web 的服务器管理平台，集成了 SSH 终端、SSH 隧道、服务器监控和文件管理等功能。它完全免费开源、可自托管，支持自动重连、文件上传、分屏显",
+      "author": "LukeGus",
+      "timestamp": 1759045745000,
+      "hot": 611,
+      "url": "https://hellogithub.com/repository/d7bef5a029844313865da707625d33c3",
+      "mobileUrl": "https://hellogithub.com/repository/d7bef5a029844313865da707625d33c3"
+    },
+    {
+      "id": "fb929f3616ad4130b7698b63a93bd4aa",
+      "title": "轻松提取 PDF 文本和表格的 Python 库",
+      "desc": "该项目是基于 Python 的 PDF 解析与数据提取库，可轻松提取文本和表格。它能够精确获取 PDF 文档中每个字符、线条、矩形等元素的详细位置、尺寸和字体信",
+      "author": "jsvine",
+      "timestamp": 1759045745000,
+      "hot": 262,
+      "url": "https://hellogithub.com/repository/fb929f3616ad4130b7698b63a93bd4aa",
+      "mobileUrl": "https://hellogithub.com/repository/fb929f3616ad4130b7698b63a93bd4aa"
+    },
+    {
+      "id": "bcae9b1e41914e79a88093f7dc823566",
+      "title": "开箱即用的 WebSocket 调试工具",
+      "desc": "这是一款专业的 WebSocket 调试与流量控制浏览器插件，安装后会在 Chrome DevTools 面板中新增一个标签页。操作便捷，支持 WebSocke",
+      "author": "law-chain-hot",
+      "timestamp": 1759045745000,
+      "hot": 305,
+      "url": "https://hellogithub.com/repository/bcae9b1e41914e79a88093f7dc823566",
+      "mobileUrl": "https://hellogithub.com/repository/bcae9b1e41914e79a88093f7dc823566"
+    },
+    {
+      "id": "05089277bbf548aca6a05bd3aab90476",
+      "title": "极简省电的番茄时钟工具",
+      "desc": "这是一个开源的 Android 时间管理工具，基于番茄工作法帮助用户管理时间、提升专注力。它无广告、无追踪、完全离线，支持历史记录、彩色标签、热力图统计、专注/",
+      "author": "adrcotfas",
+      "timestamp": 1759045745000,
+      "hot": 411,
+      "url": "https://hellogithub.com/repository/05089277bbf548aca6a05bd3aab90476",
+      "mobileUrl": "https://hellogithub.com/repository/05089277bbf548aca6a05bd3aab90476"
+    },
+    {
+      "id": "0ea27d485a0245328b64f00b47ccd861",
+      "title": "隔空查看苹果设备电量的 Mac 工具",
+      "desc": "这是一款专为 macOS 设计的电量监控工具，能在 Mac 菜单栏实时显示 iPhone、iPad、AirPods 和 Apple Watch 等设备的电池电量",
+      "author": "lihaoyun6",
+      "timestamp": 1759045745000,
+      "hot": 199,
+      "url": "https://hellogithub.com/repository/0ea27d485a0245328b64f00b47ccd861",
+      "mobileUrl": "https://hellogithub.com/repository/0ea27d485a0245328b64f00b47ccd861"
+    },
+    {
+      "id": "42a5a30c3aba4f408778505708dea20c",
+      "title": "支持多语法的轻量级图表生成服务",
+      "desc": "这是一个支持多种文本描述生成图表的服务，提供统一 API 接口，支持数十种主流图表语法和格式，包括 PlantUML、Mermaid、Graphviz、C4、B",
+      "author": "yuzutech",
+      "timestamp": 1759045745000,
+      "hot": 309,
+      "url": "https://hellogithub.com/repository/42a5a30c3aba4f408778505708dea20c",
+      "mobileUrl": "https://hellogithub.com/repository/42a5a30c3aba4f408778505708dea20c"
+    },
+    {
+      "id": "d7549ba0ef284583a0a3845d39eb2b37",
+      "title": "平滑手写与签名的 JavaScript 库",
+      "desc": "这是一个用于平滑绘图的 JavaScript 库，支持通过鼠标或手指流畅绘制画笔轨迹。它采用“惰性画笔”算法，有效减少手抖、锯齿等问题，让线条更加自然顺滑，适用",
+      "author": "dulnan",
+      "timestamp": 1759045745000,
+      "hot": 167,
+      "url": "https://hellogithub.com/repository/d7549ba0ef284583a0a3845d39eb2b37",
+      "mobileUrl": "https://hellogithub.com/repository/d7549ba0ef284583a0a3845d39eb2b37"
+    },
+    {
+      "id": "318dbb6faa31476eae113e58a16e4bdc",
+      "title": "更友好的命令行 HTTP 客户端",
+      "desc": "这是一个用 Rust 编写的命令行 HTTP 客户端，支持语法高亮、JSON 格式化、下载进度条、会话 Cookie 持久化等功能，可完美替代 cURL。",
+      "author": "ducaale",
+      "timestamp": 1759045745000,
+      "hot": 208,
+      "url": "https://hellogithub.com/repository/318dbb6faa31476eae113e58a16e4bdc",
+      "mobileUrl": "https://hellogithub.com/repository/318dbb6faa31476eae113e58a16e4bdc"
+    },
+    {
+      "id": "ddafd44c6e5e49fa946054903c6ef09c",
+      "title": "免费开源的容器桌面管理工具",
+      "desc": "这是一款跨平台、免费开源的容器与 K8s 桌面管理工具，为容器和 K8s 的构建、管理与部署提供了直观易用的桌面界面，支持 Podman、Docker、Lima",
+      "author": "podman-desktop",
+      "timestamp": 1759045745000,
+      "hot": 311,
+      "url": "https://hellogithub.com/repository/ddafd44c6e5e49fa946054903c6ef09c",
+      "mobileUrl": "https://hellogithub.com/repository/ddafd44c6e5e49fa946054903c6ef09c"
+    }
+  ]
+}

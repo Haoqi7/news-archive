@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-10-06T01:25:10.626296",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784447,
+      "title": "为什么现在的人类不怎么戴帽子了？",
+      "cover": "https://picx.zhimg.com/v2-4b311603d67cdf39bf3cf1b19e2f8cbe.jpg?source=8673f162",
+      "author": "粟江南 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784447",
+      "mobileUrl": "https://daily.zhihu.com/story/9784447"
+    },
+    {
+      "id": 9784443,
+      "title": "如果人类不割走一部分蜂蜜，会对蜜蜂群有什么影响吗？",
+      "cover": "https://picx.zhimg.com/v2-d605050c5c3202eebb81142bd698c9c7.jpg?source=8673f162",
+      "author": "斜绿天蛾 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784443",
+      "mobileUrl": "https://daily.zhihu.com/story/9784443"
+    },
+    {
+      "id": 9784448,
+      "title": "为什么自然界会演化出像对称、黄金比例这样的美学？",
+      "cover": "https://picx.zhimg.com/v2-78399b9014e50f827a912734ae4387be.jpg?source=8673f162",
+      "author": "invalid s · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784448",
+      "mobileUrl": "https://daily.zhihu.com/story/9784448"
+    },
+    {
+      "id": 9784450,
+      "title": "快速搅拌一杯水，相当于往水里输入能量，可以让水沸腾吗？",
+      "cover": "https://picx.zhimg.com/v2-ff3e0f33b8b5ec3cc7f101171a1dee7a.jpg?source=8673f162",
+      "author": "瞻云 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784450",
+      "mobileUrl": "https://daily.zhihu.com/story/9784450"
+    }
+  ]
+}
