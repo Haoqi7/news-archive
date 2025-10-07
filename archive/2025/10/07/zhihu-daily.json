@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-10-07T01:23:49.678216",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784463,
+      "title": "太阳的寿命大概还剩50亿年，等太阳死亡后，人类该何去何从呢？",
+      "cover": "https://pic1.zhimg.com/v2-3ece169c39b8d4132cd0e3b1b15ec393.jpg?source=8673f162",
+      "author": "瞻云 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784463",
+      "mobileUrl": "https://daily.zhihu.com/story/9784463"
+    },
+    {
+      "id": 9784458,
+      "title": "被时代淘汰的水果有哪些？",
+      "cover": "https://pic1.zhimg.com/v2-4e8765d5165332fb5a5f520c850f5402.jpg?source=8673f162",
+      "author": "上海自然博物馆 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784458",
+      "mobileUrl": "https://daily.zhihu.com/story/9784458"
+    },
+    {
+      "id": 9784470,
+      "title": "有哪些一度被认为是已经灭绝，可是后来又被发现的生物？",
+      "cover": "https://picx.zhimg.com/v2-55f73ec9eb317fb3ee0c12554eb1135b.jpg?source=8673f162",
+      "author": "怪罗先生 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784470",
+      "mobileUrl": "https://daily.zhihu.com/story/9784470"
+    },
+    {
+      "id": 9784474,
+      "title": "人类拉屎需要擦屁股，动物为什么不需？",
+      "cover": "https://pica.zhimg.com/v2-6acc168d408886c4e109cd8c42f83fc1.jpg?source=8673f162",
+      "author": "kmlover · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784474",
+      "mobileUrl": "https://daily.zhihu.com/story/9784474"
+    }
+  ]
+}

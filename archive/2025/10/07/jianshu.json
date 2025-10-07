@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-10-07T01:25:43.343800",
+    "count": 2
+  },
+  "data": [
+    {
+      "id": "ac41e9da23a2",
+      "title": "跟着 Cell 学作图 | 复杂热图(ComplexHeatmap)",
+      "cover": "https://upload-images.jianshu.io/upload_images/24213523-e72bb07e748d20a1.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "今天我们复现一幅2020年发表在Cell上的热图。 DOI:10.1016/j.cell.2020.07.009 22 读图 将不同样本的基因表...",
+      "author": "木舟笔记",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/ac41e9da23a2",
+      "mobileUrl": "https://www.jianshu.com/p/ac41e9da23a2"
+    },
+    {
+      "id": "0cc1986b4664",
+      "title": "思考力的重要性——从“早餐话题”引发的思考",
+      "cover": "https://upload-images.jianshu.io/upload_images/30773781-4a7d04eeb7385752.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "尽管常说“人类一思考，上帝就会发笑”，但在人工智能时代，人类的思考方式与信息辨识能力反而愈发重要。作为人类文明的传播者，教师若想跟上时代，...",
+      "author": "夏念兹",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/0cc1986b4664",
+      "mobileUrl": "https://www.jianshu.com/p/0cc1986b4664"
+    }
+  ]
+}
