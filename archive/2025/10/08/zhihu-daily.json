@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-10-08T01:24:00.722291",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784479,
+      "title": "三体人脱水从生物学上来讲真的可行吗？",
+      "cover": "https://pica.zhimg.com/v2-fe3164e4db289154cc3510f6c63a3158.jpg?source=8673f162",
+      "author": "瞻云 · 7 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784479",
+      "mobileUrl": "https://daily.zhihu.com/story/9784479"
+    },
+    {
+      "id": 9784480,
+      "title": "你见过哪些看起来像人造的但实际上是自然形成的地质奇观？",
+      "cover": "https://pic1.zhimg.com/v2-6143f7ade26bc4b623078cc83c8382c7.jpg?source=8673f162",
+      "author": "杨溢 · 8 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784480",
+      "mobileUrl": "https://daily.zhihu.com/story/9784480"
+    },
+    {
+      "id": 9784488,
+      "title": "候鸟迁徙的现象，背后藏着什么有趣的科学细节？",
+      "cover": "https://picx.zhimg.com/v2-52c5ef85e4f5f5cc689d9af03167175f.jpg?source=8673f162",
+      "author": "免渡河 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784488",
+      "mobileUrl": "https://daily.zhihu.com/story/9784488"
+    },
+    {
+      "id": 9784498,
+      "title": "明明好好休息也很快乐，为什么放假待在家不出去玩就会产生出一种「假期被荒废」的负面心理？",
+      "cover": "https://picx.zhimg.com/v2-0ff4be0268544acd832188bf24338b6d.jpg?source=8673f162",
+      "author": "木棉959 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784498",
+      "mobileUrl": "https://daily.zhihu.com/story/9784498"
+    }
+  ]
+}
