@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-10-11T01:21:38.399732",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784569,
+      "title": "为什么哺乳动物是血肉之躯，昆虫却是汁水之躯？",
+      "cover": "https://picx.zhimg.com/v2-a6346ce9f7394fbaab88209db024bf66.jpg?source=8673f162",
+      "author": "瞻云 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784569",
+      "mobileUrl": "https://daily.zhihu.com/story/9784569"
+    },
+    {
+      "id": 9784563,
+      "title": "互联网已经将绝大部分信息差抹除了，知识已经随处可以获得，为何大部分人依旧无法获得大幅突破？",
+      "cover": "https://pica.zhimg.com/v2-a79c3094bb7d87e4f2bb3468132c886b.jpg?source=8673f162",
+      "author": "奔奔马 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784563",
+      "mobileUrl": "https://daily.zhihu.com/story/9784563"
+    },
+    {
+      "id": 9784574,
+      "title": "画家与科学家，谁更善于「观察」世界？",
+      "cover": "https://picx.zhimg.com/v2-fbd0c63f476d44a146c2d26ddac2ce87.jpg?source=8673f162",
+      "author": "晏北 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784574",
+      "mobileUrl": "https://daily.zhihu.com/story/9784574"
+    },
+    {
+      "id": 9784575,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-8732fd7724c0e08558f70e1438aa798f.jpg?source=8673f162",
+      "author": "VOL.3756",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784575",
+      "mobileUrl": "https://daily.zhihu.com/story/9784575"
+    }
+  ]
+}
