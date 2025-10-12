@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-10-12T01:28:11.073271",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784576,
+      "title": "猫真的有杀死主人的意图吗？",
+      "cover": "https://picx.zhimg.com/v2-ef1f9cab5d71cfa4796fb753cd321fee.jpg?source=8673f162",
+      "author": "猫研所 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784576",
+      "mobileUrl": "https://daily.zhihu.com/story/9784576"
+    },
+    {
+      "id": 9784585,
+      "title": "为什么苏州想要一座机场这么难？",
+      "cover": "https://pica.zhimg.com/v2-70c35ce60f42b2dbcf7f45e1d1e77809.jpg?source=8673f162",
+      "author": "老年DLCZMU · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784585",
+      "mobileUrl": "https://daily.zhihu.com/story/9784585"
+    },
+    {
+      "id": 9784592,
+      "title": "除了人类，还有什么动物会倒着走？",
+      "cover": "https://picx.zhimg.com/v2-1f30e0373f240e72e5ccf1e02af6031a.jpg?source=8673f162",
+      "author": "苏澄宇 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784592",
+      "mobileUrl": "https://daily.zhihu.com/story/9784592"
+    },
+    {
+      "id": 9784600,
+      "title": "达芬奇的《最后的晚餐》为什么会出名，真正的意义是什么？",
+      "cover": "https://picx.zhimg.com/v2-1e8711a2f9b2e9599b4940aade938dfc.jpg?source=8673f162",
+      "author": "Michael · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784600",
+      "mobileUrl": "https://daily.zhihu.com/story/9784600"
+    }
+  ]
+}
