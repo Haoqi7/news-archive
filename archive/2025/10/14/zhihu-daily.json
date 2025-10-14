@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-10-14T01:24:31.736631",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784622,
+      "title": "恢复汉服真的有必要吗？",
+      "cover": "https://pica.zhimg.com/v2-d0a778daccfbddfacb2ba6b869c5cf12.jpg?source=8673f162",
+      "author": "燕白鱼 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784622",
+      "mobileUrl": "https://daily.zhihu.com/story/9784622"
+    },
+    {
+      "id": 9784628,
+      "title": "树每天站在路上不无聊吗？",
+      "cover": "https://pica.zhimg.com/v2-5b60891ac76d77f06585d332882a41c5.jpg?source=8673f162",
+      "author": "葫芦大娃 · 6 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784628",
+      "mobileUrl": "https://daily.zhihu.com/story/9784628"
+    },
+    {
+      "id": 9784634,
+      "title": "软硬科幻之分合理吗?什么才是真正的科幻?",
+      "cover": "https://pic1.zhimg.com/v2-16e091afbff19bab91d0201e4cd88c40.jpg?source=8673f162",
+      "author": "赵泠 · 6 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784634",
+      "mobileUrl": "https://daily.zhihu.com/story/9784634"
+    },
+    {
+      "id": 9784636,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-8732fd7724c0e08558f70e1438aa798f.jpg?source=8673f162",
+      "author": "VOL.3758",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784636",
+      "mobileUrl": "https://daily.zhihu.com/story/9784636"
+    }
+  ]
+}
