@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-10-16T01:23:58.758872",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784675,
+      "title": "假如我们能 「吃石头」 获取能量，我们的牙齿需要变得多坚硬才能咬碎石头？",
+      "cover": "https://picx.zhimg.com/v2-c14d410d2c5615f82def4a50ad1cee17.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784675",
+      "mobileUrl": "https://daily.zhihu.com/story/9784675"
+    },
+    {
+      "id": 9784685,
+      "title": "喜欢看旧书、二手书有哪些危害？",
+      "cover": "https://picx.zhimg.com/v2-abab42658ffc7513dd4a85b133e458ff.jpg?source=8673f162",
+      "author": "Chirality · 8 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784685",
+      "mobileUrl": "https://daily.zhihu.com/story/9784685"
+    },
+    {
+      "id": 9784695,
+      "title": "氢氟酸有多危险？若不慎接触到该怎样处理？",
+      "cover": "https://pic1.zhimg.com/v2-0057c25fe16d87d23eedbf2c0d5b7923.jpg?source=8673f162",
+      "author": "云杉 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784695",
+      "mobileUrl": "https://daily.zhihu.com/story/9784695"
+    },
+    {
+      "id": 9784701,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3760",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784701",
+      "mobileUrl": "https://daily.zhihu.com/story/9784701"
+    }
+  ]
+}
