@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-10-19T01:41:34.570089",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "ead024af38f642ef871ed5f1bb3e4a7b",
+      "title": "面向 K8s 的异构 AI 计算虚拟化中间件",
+      "desc": "这是一款专为异构计算环境打造的 GPU 共享与调度管理平台，致力于最大化提升 GPU 利用率。它提供灵活、可靠、按需和弹性的多元异构 GPU 虚拟化、调度与管理",
+      "author": "Project-HAMi",
+      "timestamp": 1760439295000,
+      "hot": 635,
+      "url": "https://hellogithub.com/repository/ead024af38f642ef871ed5f1bb3e4a7b",
+      "mobileUrl": "https://hellogithub.com/repository/ead024af38f642ef871ed5f1bb3e4a7b"
+    },
+    {
+      "id": "6bf89fb380dc492f98d35476125ffc21",
+      "title": "高度可定制的 Windows 桌面美化工具",
+      "desc": "这是一款免费开源的 Windows 桌面增强工具，专注于高度自定义和效率提升。它采用 Rust 语言开发，结合 Tauri 框架与 Web 技术，支持窗口平铺管",
+      "author": "eythaann",
+      "timestamp": 1759045745000,
+      "hot": 4430,
+      "url": "https://hellogithub.com/repository/6bf89fb380dc492f98d35476125ffc21",
+      "mobileUrl": "https://hellogithub.com/repository/6bf89fb380dc492f98d35476125ffc21"
+    },
+    {
+      "id": "fb844b7286244bf8a1d67bfd228a95c7",
+      "title": "抬头即见的开源课表工具",
+      "desc": "这是一款专为大屏设备打造的桌面课表应用，可将课程表以简洁组件的形式常驻桌面，取代传统黑板课表。支持下课提醒、天气信息、倒计时、密码保护和课表导入等功能，适用于配",
+      "author": "ClassIsland",
+      "timestamp": 1759045745000,
+      "hot": 2922,
+      "url": "https://hellogithub.com/repository/fb844b7286244bf8a1d67bfd228a95c7",
+      "mobileUrl": "https://hellogithub.com/repository/fb844b7286244bf8a1d67bfd228a95c7"
+    },
+    {
+      "id": "f72043c7eb9145a58e98b5c66eb213cc",
+      "title": "卡通风格城市建设模拟游戏",
+      "desc": "这是一款轻量级、卡通风格的 2.5D 城市模拟游戏，基于 Three.js 和 Vue3 构建。玩家可在浏览器中通过点选和拖放，实时建造、搬迁和拆除建筑。建筑会",
+      "author": "hexianWeb",
+      "timestamp": 1759045745000,
+      "hot": 2486,
+      "url": "https://hellogithub.com/repository/f72043c7eb9145a58e98b5c66eb213cc",
+      "mobileUrl": "https://hellogithub.com/repository/f72043c7eb9145a58e98b5c66eb213cc"
+    },
+    {
+      "id": "2794c5a95ef245a4945a738a085c6df5",
+      "title": "老乡鸡菜谱开源版",
+      "desc": "该项目非老乡鸡官方出品，是作者基于《老乡鸡菜品溯源报告》等资料，归纳、整理了老乡鸡菜品的配方、制作流程及烹饪要点。",
+      "author": "Gar-b-age",
+      "timestamp": 1759045745000,
+      "hot": 2274,
+      "url": "https://hellogithub.com/repository/2794c5a95ef245a4945a738a085c6df5",
+      "mobileUrl": "https://hellogithub.com/repository/2794c5a95ef245a4945a738a085c6df5"
+    },
+    {
+      "id": "e17a648b2a24468982c4e6489da3b879",
+      "title": "在 Linux 系统上轻松运行 Windows 应用",
+      "desc": "这是一款无需复杂配置即可在 Linux 上运行 Windows 应用的工具。通过图形化向导自动完成镜像拉取、容器创建和 RDP 配置，全程无需手动敲命令，就能让",
+      "author": "TibixDev",
+      "timestamp": 1759045745000,
+      "hot": 1371,
+      "url": "https://hellogithub.com/repository/e17a648b2a24468982c4e6489da3b879",
+      "mobileUrl": "https://hellogithub.com/repository/e17a648b2a24468982c4e6489da3b879"
+    },
+    {
+      "id": "f9322162577641caa96c054a8261c036",
+      "title": "自动检测代码屎山等级的工具",
+      "desc": "这是一款用于评估代码“屎山等级”的工具，支持 Python、Java、Go 等多种编程语言。它能够自动扫描指定目录，深入分析项目代码的混乱程度，并用犀利又搞笑的",
+      "author": "Done-0",
+      "timestamp": 1759045745000,
+      "hot": 1881,
+      "url": "https://hellogithub.com/repository/f9322162577641caa96c054a8261c036",
+      "mobileUrl": "https://hellogithub.com/repository/f9322162577641caa96c054a8261c036"
+    },
+    {
+      "id": "c88f35d75a7f4b23b48268a8d963ddbe",
+      "title": "开箱即用的本地语音转写工具",
+      "desc": "这是一款集实时语音转文本、翻译和说话人分离于一体的开源工具，自带服务器端和 Web UI，一条命令即可私有化部署。它基于最新的增量流式技术，无需联网和写前端代码",
+      "author": "QuentinFuxa",
+      "timestamp": 1759045745000,
+      "hot": 1063,
+      "url": "https://hellogithub.com/repository/c88f35d75a7f4b23b48268a8d963ddbe",
+      "mobileUrl": "https://hellogithub.com/repository/c88f35d75a7f4b23b48268a8d963ddbe"
+    },
+    {
+      "id": "05d9501f345b4e8a9dedbb3cc5c83aad",
+      "title": "GitHub 开源的 AI 时代开发流程工具",
+      "desc": "这是一套规范驱动开发（SDD）的编程工具，让开发者先用自然语言写清楚“做什么”和“为什么”，再由 AI 编写代码。它将 AI 开发流程规范化，统一规格模板、强制",
+      "author": "github",
+      "timestamp": 1758010900000,
+      "hot": 3019,
+      "url": "https://hellogithub.com/repository/05d9501f345b4e8a9dedbb3cc5c83aad",
+      "mobileUrl": "https://hellogithub.com/repository/05d9501f345b4e8a9dedbb3cc5c83aad"
+    },
+    {
+      "id": "892abe2e8adb4bd8b7fd9bca8e96978c",
+      "title": "简单易用的 Python UI 框架",
+      "desc": "该项目是基于 Python 的用户界面框架，支持纯 Python 开发 Web 或桌面应用。只需几行代码，即可生成按钮、图表、3D 场景等 50 多种组件，解决",
+      "author": "zauberzeug",
+      "timestamp": 1756368593000,
+      "hot": 4924,
+      "url": "https://hellogithub.com/repository/892abe2e8adb4bd8b7fd9bca8e96978c",
+      "mobileUrl": "https://hellogithub.com/repository/892abe2e8adb4bd8b7fd9bca8e96978c"
+    },
+    {
+      "id": "5a6f236f85634876894fb32c0c94e67a",
+      "title": "极速的原生桌面启动器",
+      "desc": "这是一款基于 C++ 开发的桌面启动器，不依赖 Electron 或浏览器。它速度快、易扩展、界面简洁，专注于提升桌面操作效率，支持文件搜索、剪贴板历史、内联计",
+      "author": "vicinaehq",
+      "timestamp": 1759045745000,
+      "hot": 2350,
+      "url": "https://hellogithub.com/repository/5a6f236f85634876894fb32c0c94e67a",
+      "mobileUrl": "https://hellogithub.com/repository/5a6f236f85634876894fb32c0c94e67a"
+    },
+    {
+      "id": "6ea67ad1cab04644a3198789074aa210",
+      "title": "隐形的第二大脑",
+      "desc": "这是一款隐形桌面 AI 助手，不会出现在录屏、截图或桌面中。支持实时读取屏幕和麦克风内容，随时把所见所闻变成可检索、追问的结构化知识。",
+      "author": "pickle-com",
+      "timestamp": 1756368593000,
+      "hot": 6403,
+      "url": "https://hellogithub.com/repository/6ea67ad1cab04644a3198789074aa210",
+      "mobileUrl": "https://hellogithub.com/repository/6ea67ad1cab04644a3198789074aa210"
+    },
+    {
+      "id": "ded5af09da574ec1811ddb154f1b2093",
+      "title": "轻松自托管你的个人财务数据",
+      "desc": "这是一款免费、轻量、可自托管的个人记账应用，采用 Go+Vue 构建。它界面简洁易用、功能丰富，支持二级账户（个人/家庭）、收支分类、交易图片附件、定期收支自动",
+      "author": "mayswind",
+      "timestamp": 1756368593000,
+      "hot": 3752,
+      "url": "https://hellogithub.com/repository/ded5af09da574ec1811ddb154f1b2093",
+      "mobileUrl": "https://hellogithub.com/repository/ded5af09da574ec1811ddb154f1b2093"
+    },
+    {
+      "id": "8f890f8d74174dbba51bbc8399fd5729",
+      "title": "无需 WebDriver 的浏览器自动化 Python 库",
+      "desc": "这是一个用于自动化操作 Chromium 内核浏览器的 Python 库。它通过原生 DevTools 协议（CDP）直接控制浏览器，无需依赖 WebDrive",
+      "author": "autoscrape-labs",
+      "timestamp": 1759045745000,
+      "hot": 1240,
+      "url": "https://hellogithub.com/repository/8f890f8d74174dbba51bbc8399fd5729",
+      "mobileUrl": "https://hellogithub.com/repository/8f890f8d74174dbba51bbc8399fd5729"
+    },
+    {
+      "id": "026b385e08d2420a9b3716bd066768f7",
+      "title": "新手友好的 Rust 实战教程",
+      "desc": "这是一个专为 Rust 初学者设计的快速入门教程，带你一步步实现一个可用的命令行 Todo 应用。",
+      "author": "InkSha",
+      "timestamp": 1759045745000,
+      "hot": 1126,
+      "url": "https://hellogithub.com/repository/026b385e08d2420a9b3716bd066768f7",
+      "mobileUrl": "https://hellogithub.com/repository/026b385e08d2420a9b3716bd066768f7"
+    },
+    {
+      "id": "bcae9b1e41914e79a88093f7dc823566",
+      "title": "开箱即用的 WebSocket 调试工具",
+      "desc": "这是一款专业的 WebSocket 调试与流量控制浏览器插件，安装后会在 Chrome DevTools 面板中新增一个标签页。操作便捷，支持 WebSocke",
+      "author": "law-chain-hot",
+      "timestamp": 1759045745000,
+      "hot": 704,
+      "url": "https://hellogithub.com/repository/bcae9b1e41914e79a88093f7dc823566",
+      "mobileUrl": "https://hellogithub.com/repository/bcae9b1e41914e79a88093f7dc823566"
+    },
+    {
+      "id": "42a5a30c3aba4f408778505708dea20c",
+      "title": "支持多语法的轻量级图表生成服务",
+      "desc": "这是一个支持多种文本描述生成图表的服务，提供统一 API 接口，支持数十种主流图表语法和格式，包括 PlantUML、Mermaid、Graphviz、C4、B",
+      "author": "yuzutech",
+      "timestamp": 1759045745000,
+      "hot": 748,
+      "url": "https://hellogithub.com/repository/42a5a30c3aba4f408778505708dea20c",
+      "mobileUrl": "https://hellogithub.com/repository/42a5a30c3aba4f408778505708dea20c"
+    },
+    {
+      "id": "fb929f3616ad4130b7698b63a93bd4aa",
+      "title": "轻松提取 PDF 文本和表格的 Python 库",
+      "desc": "该项目是基于 Python 的 PDF 解析与数据提取库，可轻松提取文本和表格。它能够精确获取 PDF 文档中每个字符、线条、矩形等元素的详细位置、尺寸和字体信",
+      "author": "jsvine",
+      "timestamp": 1759045745000,
+      "hot": 681,
+      "url": "https://hellogithub.com/repository/fb929f3616ad4130b7698b63a93bd4aa",
+      "mobileUrl": "https://hellogithub.com/repository/fb929f3616ad4130b7698b63a93bd4aa"
+    },
+    {
+      "id": "8e9af473df2244f59d84b79915298fcc",
+      "title": "每日 60 秒资讯 API 集合",
+      "desc": "该项目集合了包括每日新闻、实时票房、汇率、热搜榜、随机段子等多种数据的 API 服务。",
+      "author": "vikiboss",
+      "timestamp": 1753689917000,
+      "hot": 9624,
+      "url": "https://hellogithub.com/repository/8e9af473df2244f59d84b79915298fcc",
+      "mobileUrl": "https://hellogithub.com/repository/8e9af473df2244f59d84b79915298fcc"
+    },
+    {
+      "id": "05089277bbf548aca6a05bd3aab90476",
+      "title": "极简省电的番茄时钟工具",
+      "desc": "这是一个开源的 Android 时间管理工具，基于番茄工作法帮助用户管理时间、提升专注力。它无广告、无追踪、完全离线，支持历史记录、彩色标签、热力图统计、专注/",
+      "author": "adrcotfas",
+      "timestamp": 1759045745000,
+      "hot": 908,
+      "url": "https://hellogithub.com/repository/05089277bbf548aca6a05bd3aab90476",
+      "mobileUrl": "https://hellogithub.com/repository/05089277bbf548aca6a05bd3aab90476"
+    }
+  ]
+}
