@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-10-24T01:21:40.865597",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9784976,
+      "title": "哪些数学知识可以用于艺术创作当中？",
+      "cover": "https://picx.zhimg.com/v2-d2d2a8e1c88a3dc097920fdf9f0fd3b8.jpg?source=8673f162",
+      "author": "解磊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784976",
+      "mobileUrl": "https://daily.zhihu.com/story/9784976"
+    },
+    {
+      "id": 9784963,
+      "title": "从种植和营养的角度看，有哪些蔬菜是农残和激素相对少且营养丰富适合给小朋友吃的？",
+      "cover": "https://picx.zhimg.com/v2-6fb363ff33138fb6974f28c1743c13ab.jpg?source=8673f162",
+      "author": "芝麻酱 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784963",
+      "mobileUrl": "https://daily.zhihu.com/story/9784963"
+    },
+    {
+      "id": 9784973,
+      "title": "动物为什么没有进化出远程捕猎器官？",
+      "cover": "https://pic1.zhimg.com/v2-c5f2a5081a1751d0868fc92a9dc0b263.jpg?source=8673f162",
+      "author": "逗逗SF · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784973",
+      "mobileUrl": "https://daily.zhihu.com/story/9784973"
+    },
+    {
+      "id": 9784850,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3766",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784850",
+      "mobileUrl": "https://daily.zhihu.com/story/9784850"
+    }
+  ]
+}
