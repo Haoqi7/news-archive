@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-10-28T01:24:36.624090",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785052,
+      "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
+      "cover": "https://picx.zhimg.com/v2-8d80e3b649a3092c500a5beff79ec457.jpg?source=8673f162",
+      "author": "平凡 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785052",
+      "mobileUrl": "https://daily.zhihu.com/story/9785052"
+    },
+    {
+      "id": 9785056,
+      "title": "商鞅被五马分尸时，明明已经受力平衡了，为什么商鞅还是死了?",
+      "cover": "https://picx.zhimg.com/v2-31163aa028a0a2e239d2c87ac64dffe6.jpg?source=8673f162",
+      "author": "瞻云 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785056",
+      "mobileUrl": "https://daily.zhihu.com/story/9785056"
+    },
+    {
+      "id": 9785059,
+      "title": "有哪些冲击心灵和视觉的野生动物照片？",
+      "cover": "https://picx.zhimg.com/v2-fe1b2fb0b00d848fa5fe3ea376232cc1.jpg?source=8673f162",
+      "author": "小星有鬼 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785059",
+      "mobileUrl": "https://daily.zhihu.com/story/9785059"
+    },
+    {
+      "id": 9784863,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3768",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784863",
+      "mobileUrl": "https://daily.zhihu.com/story/9784863"
+    }
+  ]
+}
