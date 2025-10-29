@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-10-29T01:38:47.580201",
+    "count": 1
+  },
+  "data": [
+    {
+      "id": "a6c2a07904f0",
+      "title": "5个有趣的Python脚本",
+      "cover": "https://upload-images.jianshu.io/upload_images/13723999-8cedb81e2493c44e.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "Python可以玩的方向有很多，比如爬虫、预测分析、GUI、自动化、图像处理、可视化等等，可能只需要十几行代码就能实现酷炫的功能。 因为Pyth...",
+      "author": "朱卫军AI_Python",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/a6c2a07904f0",
+      "mobileUrl": "https://www.jianshu.com/p/a6c2a07904f0"
+    }
+  ]
+}
