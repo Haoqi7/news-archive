@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-11-04T01:28:21.432180",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "ead024af38f642ef871ed5f1bb3e4a7b",
+      "title": "面向 K8s 的异构 AI 计算虚拟化中间件",
+      "desc": "这是一款专为异构计算环境打造的 GPU 共享与调度管理平台，致力于最大化提升 GPU 利用率。它提供灵活、可靠、按需和弹性的多元异构 GPU 虚拟化、调度与管理",
+      "author": "Project-HAMi",
+      "timestamp": 1760439295000,
+      "hot": 1838,
+      "url": "https://hellogithub.com/repository/ead024af38f642ef871ed5f1bb3e4a7b",
+      "mobileUrl": "https://hellogithub.com/repository/ead024af38f642ef871ed5f1bb3e4a7b"
+    },
+    {
+      "id": "947d47ffe8404985908b266e187dec99",
+      "title": "极简的个人云相册平台",
+      "desc": "这是一款功能强大的自托管个人相册应用，专为展示与分享个人摄影作品而设计。它提供简洁易用的 Web 界面，可轻松管理和浏览照片，支持 Live Photo 与 M",
+      "author": "HoshinoSuzumi",
+      "timestamp": 1761638686000,
+      "hot": 1198,
+      "url": "https://hellogithub.com/repository/947d47ffe8404985908b266e187dec99",
+      "mobileUrl": "https://hellogithub.com/repository/947d47ffe8404985908b266e187dec99"
+    },
+    {
+      "id": "8f3cafdd6ef3445dbb1c0ed6dd34c8b5",
+      "title": "清爽的轻量级内容分享平台",
+      "desc": "这是一款开源、自托管的轻量级内容发布平台，专注于思想流动和快速分享。它拥有简洁直观的操作界面，支持发布和分享想法、文字、图片和链接。同时，支持类似 Activi",
+      "author": "lin-snow",
+      "timestamp": 1761638686000,
+      "hot": 1668,
+      "url": "https://hellogithub.com/repository/8f3cafdd6ef3445dbb1c0ed6dd34c8b5",
+      "mobileUrl": "https://hellogithub.com/repository/8f3cafdd6ef3445dbb1c0ed6dd34c8b5"
+    },
+    {
+      "id": "988eff6254ed4737a866551f1b9c308c",
+      "title": "Office 文件在线编辑器",
+      "desc": "这是一个基于 OnlyOffice 和 WebAssembly 的本地 Web 文档编辑器，纯前端实现、无需服务器端处理，用户可直接在浏览器中打开和编辑 DOC",
+      "author": "ranuts",
+      "timestamp": 1761638686000,
+      "hot": 916,
+      "url": "https://hellogithub.com/repository/988eff6254ed4737a866551f1b9c308c",
+      "mobileUrl": "https://hellogithub.com/repository/988eff6254ed4737a866551f1b9c308c"
+    },
+    {
+      "id": "5e703f07874f41ddb9e775071498f37c",
+      "title": "《新概念英语》全四册在线课文朗读",
+      "desc": "该项目为《新概念英语》学习者提供了一个方便的在线学习平台，结合美式发音音频与 Gemini AI 生成的中文字幕，支持课文朗读与单句点读。",
+      "author": "iChochy",
+      "timestamp": 1761638686000,
+      "hot": 647,
+      "url": "https://hellogithub.com/repository/5e703f07874f41ddb9e775071498f37c",
+      "mobileUrl": "https://hellogithub.com/repository/5e703f07874f41ddb9e775071498f37c"
+    },
+    {
+      "id": "2d9d2dfc722043408305cbe37ce96f7e",
+      "title": "跨媒体的个人 AI 笔记应用",
+      "desc": "这是一款本地优先的 AI 笔记本工具，能够将多种媒体类型（如本地文件、网页、视频等）整合至本地资料库，并借助 AI 快速生成笔记。它帮助用户在学习和研究过程中，",
+      "author": "deta",
+      "timestamp": 1761638686000,
+      "hot": 1028,
+      "url": "https://hellogithub.com/repository/2d9d2dfc722043408305cbe37ce96f7e",
+      "mobileUrl": "https://hellogithub.com/repository/2d9d2dfc722043408305cbe37ce96f7e"
+    },
+    {
+      "id": "4ee254c25ccd4ab0b833392b0bb3b43f",
+      "title": "开源的 AI 浏览器",
+      "desc": "该项目是基于 Chromium 的开源 AI 浏览器，能够在本地浏览器中运行 AI Agents，可作为 ChatGPT Atlas、Perplexity Co",
+      "author": "browseros-ai",
+      "timestamp": 1761638686000,
+      "hot": 768,
+      "url": "https://hellogithub.com/repository/4ee254c25ccd4ab0b833392b0bb3b43f",
+      "mobileUrl": "https://hellogithub.com/repository/4ee254c25ccd4ab0b833392b0bb3b43f"
+    },
+    {
+      "id": "39c81ccf143043b391a4337f86ce85ab",
+      "title": "在 Android 设备上运行 Stable Diffusion",
+      "desc": "这是一款专为 Android 用户打造的本地 Stable Diffusion AI 绘画应用，完全离线运行，兼容高通骁龙 NPU、CPU 和 GPU，支持文生",
+      "author": "xororz",
+      "timestamp": 1761638686000,
+      "hot": 680,
+      "url": "https://hellogithub.com/repository/39c81ccf143043b391a4337f86ce85ab",
+      "mobileUrl": "https://hellogithub.com/repository/39c81ccf143043b391a4337f86ce85ab"
+    },
+    {
+      "id": "5c4337a9e2dd4a8ba8aba87a88f04b8b",
+      "title": "免费炫酷的股票市场应用",
+      "desc": "这是一款基于 Next.js、TailwindCSS 和 MongoDB 构建的股票市场平台，提供实时行情、图表（K 线图、热力图）、新闻资讯和个性化监控等功能",
+      "author": "Open-Dev-Society",
+      "timestamp": 1761638686000,
+      "hot": 895,
+      "url": "https://hellogithub.com/repository/5c4337a9e2dd4a8ba8aba87a88f04b8b",
+      "mobileUrl": "https://hellogithub.com/repository/5c4337a9e2dd4a8ba8aba87a88f04b8b"
+    },
+    {
+      "id": "15d2f28eafb34fa8b81d7fd420ff6636",
+      "title": "开源的人形机器人",
+      "desc": "该项目是由伯克利 Hybrid Robotics 团队开源，旨在提供低成本、模块化、可定制的人形机器人解决方案。机器人采用 3D 打印和常见组件，整体成本在 5",
+      "author": "HybridRobotics",
+      "timestamp": 1761638686000,
+      "hot": 452,
+      "url": "https://hellogithub.com/repository/15d2f28eafb34fa8b81d7fd420ff6636",
+      "mobileUrl": "https://hellogithub.com/repository/15d2f28eafb34fa8b81d7fd420ff6636"
+    },
+    {
+      "id": "54e09132ba0a40cf9ff6594320e6c6ba",
+      "title": "开源的 PPT 编辑插件",
+      "desc": "这是一款专为提升 PPT 编辑效率的插件，支持一键添加图片标题、自动对齐、复制/粘贴图片位置，以及插入 Markdown 文本和 LaTeX 数学公式。",
+      "author": "Achuan-2",
+      "timestamp": 1761638686000,
+      "hot": 369,
+      "url": "https://hellogithub.com/repository/54e09132ba0a40cf9ff6594320e6c6ba",
+      "mobileUrl": "https://hellogithub.com/repository/54e09132ba0a40cf9ff6594320e6c6ba"
+    },
+    {
+      "id": "f9c6c8fc65ed4e66b77a0cb99df15096",
+      "title": "离线优先的桌面 API 客户端",
+      "desc": "这是一款快速、离线优先的桌面 API 客户端，支持 REST、GraphQL、SSE、WebSocket 和 gRPC 协议。它基于 Rust、Tauri 和 ",
+      "author": "mountain-loop",
+      "timestamp": 1761638686000,
+      "hot": 515,
+      "url": "https://hellogithub.com/repository/f9c6c8fc65ed4e66b77a0cb99df15096",
+      "mobileUrl": "https://hellogithub.com/repository/f9c6c8fc65ed4e66b77a0cb99df15096"
+    },
+    {
+      "id": "b16e1dd8b02b40e1aa81546f2b94445b",
+      "title": "Steam 游戏资源命令行下载工具",
+      "desc": "这是一款用于从 Steam 平台批量下载指定内容的命令行工具，无需安装 Steam 客户端。用户可通过命令行直接下载指定游戏或应用的文件，支持仓库标识（depo",
+      "author": "SteamRE",
+      "timestamp": 1761638686000,
+      "hot": 442,
+      "url": "https://hellogithub.com/repository/b16e1dd8b02b40e1aa81546f2b94445b",
+      "mobileUrl": "https://hellogithub.com/repository/b16e1dd8b02b40e1aa81546f2b94445b"
+    },
+    {
+      "id": "6da549af3c4b433e8caa46f4551ae576",
+      "title": "《Agentic Design Patterns》中文翻译版",
+      "desc": "该项目是《Agentic Design Patterns》一书的中英文对照版，这本书系统性地介绍了构建现代 AI 智能体（Agent）的实践方法与设计模式，包括",
+      "author": "ginobefun",
+      "timestamp": 1761638686000,
+      "hot": 407,
+      "url": "https://hellogithub.com/repository/6da549af3c4b433e8caa46f4551ae576",
+      "mobileUrl": "https://hellogithub.com/repository/6da549af3c4b433e8caa46f4551ae576"
+    },
+    {
+      "id": "e552f1adc9114dab88ef7d2fdcde68be",
+      "title": "超低存储占用的向量数据库",
+      "desc": "这是一款开源的轻量级向量数据库，通过按需计算嵌入向量，实现极低的存储占用。用户可以在个人设备（笔记本电脑）上构建强大且完全私有的检索增强生成 (RAG) 系统，",
+      "author": "yichuan-w",
+      "timestamp": 1761638686000,
+      "hot": 249,
+      "url": "https://hellogithub.com/repository/e552f1adc9114dab88ef7d2fdcde68be",
+      "mobileUrl": "https://hellogithub.com/repository/e552f1adc9114dab88ef7d2fdcde68be"
+    },
+    {
+      "id": "5312e9f087f1490ebad49432f097ded9",
+      "title": "宝可梦存档编辑工具",
+      "desc": "这是一款开源的宝可梦存档编辑器，支持多种宝可梦游戏存档文件的读取与编辑。用户可自由修改宝可梦属性、技能、道具、图鉴完成度等信息，并内置存档合法性验证功能，确保修",
+      "author": "kwsch",
+      "timestamp": 1761638686000,
+      "hot": 828,
+      "url": "https://hellogithub.com/repository/5312e9f087f1490ebad49432f097ded9",
+      "mobileUrl": "https://hellogithub.com/repository/5312e9f087f1490ebad49432f097ded9"
+    },
+    {
+      "id": "a00a5e0703fb496abd597383e12f37b2",
+      "title": "灵活的测试报告生成工具",
+      "desc": "这是一款基于 Java 开发的测试报告工具，支持多种编程语言和测试框架，能够生成统一、详细的测试报告，涵盖测试结果明细、测试用例执行情况、测试覆盖率等。",
+      "author": "allure-framework",
+      "timestamp": 1761638686000,
+      "hot": 380,
+      "url": "https://hellogithub.com/repository/a00a5e0703fb496abd597383e12f37b2",
+      "mobileUrl": "https://hellogithub.com/repository/a00a5e0703fb496abd597383e12f37b2"
+    },
+    {
+      "id": "7bc7e9a9792346569a9e2b6e6416e840",
+      "title": "免费开源的 Google Drive 替代品",
+      "desc": "这是一款基于 Node.js 和 MongoDB 构建的云存储平台，提供类似 Google Drive 的文件管理和存储功能，支持 Docker 一键部署。",
+      "author": "linagora",
+      "timestamp": 1761638686000,
+      "hot": 312,
+      "url": "https://hellogithub.com/repository/7bc7e9a9792346569a9e2b6e6416e840",
+      "mobileUrl": "https://hellogithub.com/repository/7bc7e9a9792346569a9e2b6e6416e840"
+    },
+    {
+      "id": "870ea626b0bb4fa38c02e22bf4eb0231",
+      "title": "实时的 NVIDIA GPU 网页监控面板",
+      "desc": "这是一个基于 FastAPI 开发的实时 NVIDIA GPU 监控仪表盘，支持利用率、内存、温度、功耗、风扇转速等多项 GPU 指标。它通过 WebSocke",
+      "author": "psalias2006",
+      "timestamp": 1761638686000,
+      "hot": 268,
+      "url": "https://hellogithub.com/repository/870ea626b0bb4fa38c02e22bf4eb0231",
+      "mobileUrl": "https://hellogithub.com/repository/870ea626b0bb4fa38c02e22bf4eb0231"
+    },
+    {
+      "id": "b8b03b3b32a449ea84cfc2b96cd384f3",
+      "title": "免训练的 DiT 模型缓存加速框架",
+      "desc": "该项目是为 Diffusers 提供统一缓存加速的框架，支持几乎所有的 DiT 扩散模型，包括 Qwen-Image-Lightning、Qwen-Image、",
+      "author": "vipshop",
+      "timestamp": 1761638686000,
+      "hot": 231,
+      "url": "https://hellogithub.com/repository/b8b03b3b32a449ea84cfc2b96cd384f3",
+      "mobileUrl": "https://hellogithub.com/repository/b8b03b3b32a449ea84cfc2b96cd384f3"
+    }
+  ]
+}
