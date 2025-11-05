@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-11-05T01:37:17.369974",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785214,
+      "title": "甲烷这么清洁高效的燃料，哺乳动物为什么当做屁放了？",
+      "cover": "https://pic1.zhimg.com/v2-9966cdd3da4f40a37584a19a6e5c0df6.jpg?source=8673f162",
+      "author": "瞻云 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785214",
+      "mobileUrl": "https://daily.zhihu.com/story/9785214"
+    },
+    {
+      "id": 9785198,
+      "title": "为什么月球始终以同一面朝向地球？",
+      "cover": "https://picx.zhimg.com/v2-5a735ade88a5a0e9013380a53bec5092.jpg?source=8673f162",
+      "author": "Archimon · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785198",
+      "mobileUrl": "https://daily.zhihu.com/story/9785198"
+    },
+    {
+      "id": 9785205,
+      "title": "为什么河流都是弯弯曲曲的？",
+      "cover": "https://pica.zhimg.com/v2-279642356a7e87055c3c2ee8407d3edd.jpg?source=8673f162",
+      "author": "免渡河 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785205",
+      "mobileUrl": "https://daily.zhihu.com/story/9785205"
+    },
+    {
+      "id": 9784898,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3774",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784898",
+      "mobileUrl": "https://daily.zhihu.com/story/9784898"
+    }
+  ]
+}
