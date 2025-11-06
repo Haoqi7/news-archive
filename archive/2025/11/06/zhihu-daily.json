@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-11-06T01:28:23.089226",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785225,
+      "title": "有哪些我们从来想象不到的奇怪的远古生物？",
+      "cover": "https://picx.zhimg.com/v2-ef02ca8e85198795f826a7871dd6b70b.jpg?source=8673f162",
+      "author": "云杉 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785225",
+      "mobileUrl": "https://daily.zhihu.com/story/9785225"
+    },
+    {
+      "id": 9785219,
+      "title": "为什么激光能切割金属，但是遇到镜子就要被反射？",
+      "cover": "https://pic1.zhimg.com/v2-1c0e0867b479c50a31067cd61dc67acc.jpg?source=8673f162",
+      "author": "太空僧 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785219",
+      "mobileUrl": "https://daily.zhihu.com/story/9785219"
+    },
+    {
+      "id": 9785223,
+      "title": "为什么只有晴雯需要用 10 公分长的指甲劈线，其他绣娘都不需要？",
+      "cover": "https://pic1.zhimg.com/v2-413857870d56454c1e8165dcca7e4eae.jpg?source=8673f162",
+      "author": "会飞的女巫 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785223",
+      "mobileUrl": "https://daily.zhihu.com/story/9785223"
+    },
+    {
+      "id": 9784901,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3775",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784901",
+      "mobileUrl": "https://daily.zhihu.com/story/9784901"
+    }
+  ]
+}
