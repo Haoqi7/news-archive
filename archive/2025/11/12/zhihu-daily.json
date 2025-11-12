@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-11-12T01:28:20.328726",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785321,
+      "title": "如果海平面持续上升，世界会发生什么变化，人类该如何自救呢？",
+      "cover": "https://picx.zhimg.com/v2-5f67e1b63c1e4199e74854eab05a58db.jpg?source=8673f162",
+      "author": "黄河边儿 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785321",
+      "mobileUrl": "https://daily.zhihu.com/story/9785321"
+    },
+    {
+      "id": 9785325,
+      "title": "为什么牛要穿鼻子，而不是和马一样用笼头呢？",
+      "cover": "https://picx.zhimg.com/v2-308b9f5b63c4d4e119dc3af39e71ac49.jpg?source=8673f162",
+      "author": "晴耕雨读的浣熊君 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785325",
+      "mobileUrl": "https://daily.zhihu.com/story/9785325"
+    },
+    {
+      "id": 9785329,
+      "title": "网传喝冰可乐可以缓解偏头痛，这是真的吗？如果是真的，是什么原理？",
+      "cover": "https://picx.zhimg.com/v2-59510d687100739e28d83a4e37cf1527.jpg?source=8673f162",
+      "author": "杜木头 · 11 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785329",
+      "mobileUrl": "https://daily.zhihu.com/story/9785329"
+    },
+    {
+      "id": 9784926,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3779",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784926",
+      "mobileUrl": "https://daily.zhihu.com/story/9784926"
+    }
+  ]
+}
