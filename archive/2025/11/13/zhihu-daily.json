@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-11-13T01:37:51.399423",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785340,
+      "title": "历史上，除了我们熟悉的金属和纸币，还有哪些奇特的物品曾被用作货币？",
+      "cover": "https://pica.zhimg.com/v2-13af5c04e0294c8b137b91376d34585a.jpg?source=8673f162",
+      "author": "晴耕雨读的浣熊君 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785340",
+      "mobileUrl": "https://daily.zhihu.com/story/9785340"
+    },
+    {
+      "id": 9785331,
+      "title": "太阳每秒消耗 420 万吨物质，已经烧了 46 亿年，为什么能烧这么久？",
+      "cover": "https://picx.zhimg.com/v2-de1b09539b2195ccfea027c280d6b81a.jpg?source=8673f162",
+      "author": "瞻云 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785331",
+      "mobileUrl": "https://daily.zhihu.com/story/9785331"
+    },
+    {
+      "id": 9785334,
+      "title": "为什么麻雀只能跳着走，而鸽子等能双腿分开走路？",
+      "cover": "https://pica.zhimg.com/v2-f0fff31ea93f1cadfde53ef6612fde7f.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785334",
+      "mobileUrl": "https://daily.zhihu.com/story/9785334"
+    },
+    {
+      "id": 9784934,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3780",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9784934",
+      "mobileUrl": "https://daily.zhihu.com/story/9784934"
+    }
+  ]
+}
