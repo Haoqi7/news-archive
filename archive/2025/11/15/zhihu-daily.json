@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-11-15T01:26:24.398724",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785388,
+      "title": "有哪些逆天的微生物？",
+      "cover": "https://pic1.zhimg.com/v2-ccda5d76b76cb75052333ab46ac83f90.jpg?source=8673f162",
+      "author": "mekdull · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785388",
+      "mobileUrl": "https://daily.zhihu.com/story/9785388"
+    },
+    {
+      "id": 9785369,
+      "title": "如何评价 Rich Sutton 关于「LLM是死路」的观点？",
+      "cover": "https://pica.zhimg.com/v2-838dadfad1bdbde56c8565d3f6c7b09f.jpg?source=8673f162",
+      "author": "gwave · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785369",
+      "mobileUrl": "https://daily.zhihu.com/story/9785369"
+    },
+    {
+      "id": 9785373,
+      "title": "新疆干部痴迷「翻翻鸽」，4 年受贿 95 只价值 132 万，什么是翻翻鸽？为何这么值钱？",
+      "cover": "https://pic1.zhimg.com/v2-afc2982d0e94eba3421b21d9f8a316a8.jpg?source=8673f162",
+      "author": "托卡马克之冠 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785373",
+      "mobileUrl": "https://daily.zhihu.com/story/9785373"
+    },
+    {
+      "id": 9785380,
+      "title": "为什么布洛芬不接「急单」，而是率先发现甲沟炎？它的作用机制是怎样的？",
+      "cover": "https://pic1.zhimg.com/v2-354ebd84f514c4fe1e5b650c64a62179.jpg?source=8673f162",
+      "author": "不想实名 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785380",
+      "mobileUrl": "https://daily.zhihu.com/story/9785380"
+    }
+  ]
+}
