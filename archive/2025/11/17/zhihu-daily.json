@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-11-17T01:38:23.121511",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785443,
+      "title": "如何用一张图来解释一个看似复杂的科学概念？",
+      "cover": "https://pica.zhimg.com/v2-80cdd4de2d3e479e59e77ac4a93c5ad4.jpg?source=8673f162",
+      "author": "杜氏利什鳗鱼饭​ · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785443",
+      "mobileUrl": "https://daily.zhihu.com/story/9785443"
+    },
+    {
+      "id": 9785431,
+      "title": "把蛇蛋捡回家母蛇会来家里找吗？",
+      "cover": "https://picx.zhimg.com/v2-1ee6c571dc4d13774076594828af1f21.jpg?source=8673f162",
+      "author": "蚂蚁 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785431",
+      "mobileUrl": "https://daily.zhihu.com/story/9785431"
+    },
+    {
+      "id": 9785436,
+      "title": "为什么镜子能颠倒左右，却不能颠倒上下？",
+      "cover": "https://pic1.zhimg.com/v2-19164fa7af585eb239afd2c47919c593.jpg?source=8673f162",
+      "author": "拉格朗日的忧郁 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785436",
+      "mobileUrl": "https://daily.zhihu.com/story/9785436"
+    },
+    {
+      "id": 9785455,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3782",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785455",
+      "mobileUrl": "https://daily.zhihu.com/story/9785455"
+    }
+  ]
+}
