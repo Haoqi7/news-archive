@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-11-19T01:28:32.696263",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785564,
+      "title": "有哪些极具美学特色的科幻电影？它如何影响电影科幻世界观的传达？",
+      "cover": "https://picx.zhimg.com/v2-7fb75326cde491cd77a603c97fdf13e9.jpg?source=8673f162",
+      "author": "娃娃鱼 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785564",
+      "mobileUrl": "https://daily.zhihu.com/story/9785564"
+    },
+    {
+      "id": 9785447,
+      "title": "太平洋上空的鸟类在哪里休息？",
+      "cover": "https://pic1.zhimg.com/v2-379bb6cfe04bb4ee3e5779f5dfdff08d.jpg?source=8673f162",
+      "author": "科学小松鼠 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785447",
+      "mobileUrl": "https://daily.zhihu.com/story/9785447"
+    },
+    {
+      "id": 9785559,
+      "title": "为什么有城市叫「北京」「南京」「东京」而没有城市叫「西京」呢？",
+      "cover": "https://pic1.zhimg.com/v2-22cf2375a2470de91e4b2edc11da8ee0.jpg?source=8673f162",
+      "author": "lakeoffire · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785559",
+      "mobileUrl": "https://daily.zhihu.com/story/9785559"
+    },
+    {
+      "id": 9785463,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3784",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785463",
+      "mobileUrl": "https://daily.zhihu.com/story/9785463"
+    }
+  ]
+}
