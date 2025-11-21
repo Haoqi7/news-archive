@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-11-21T01:28:02.466023",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "9b3f71b9861f412fa50f2b1566914966",
+      "title": "跨平台原生性能的 UI 框架",
+      "desc": "该项目是 Snapchat 团队开源的跨平台 UI 框架，支持使用 TypeScript 编写 UI 并直接编译为 iOS、Android 和 macOS 原生",
+      "author": "Snapchat",
+      "timestamp": 1763453030000,
+      "hot": 708,
+      "url": "https://hellogithub.com/repository/9b3f71b9861f412fa50f2b1566914966",
+      "mobileUrl": "https://hellogithub.com/repository/9b3f71b9861f412fa50f2b1566914966"
+    },
+    {
+      "id": "abaff5b78aa74bcda1f8b859f3414d40",
+      "title": "节省 Token 的数据格式",
+      "desc": "这是一种专为 LLM 提示词设计的数据序列化格式，比 JSON 节省 30-60% 的 Token。它融合了 YAML 和 CSV 的特点，紧凑且容易理解。官方",
+      "author": "toon-format",
+      "timestamp": 1763453206000,
+      "hot": 518,
+      "url": "https://hellogithub.com/repository/abaff5b78aa74bcda1f8b859f3414d40",
+      "mobileUrl": "https://hellogithub.com/repository/abaff5b78aa74bcda1f8b859f3414d40"
+    },
+    {
+      "id": "d7b49e95d06747dd9cdf5f49d584b2f5",
+      "title": "一键配置 Arch Linux 开发环境",
+      "desc": "该项目是为 Arch Linux 用户设计的 Hyprland 桌面环境一键安装脚本，内置主题管理和 Hyprland 窗口管理器，支持自动安装 NVIDIA ",
+      "author": "HyDE-Project",
+      "timestamp": 1763453802000,
+      "hot": 399,
+      "url": "https://hellogithub.com/repository/d7b49e95d06747dd9cdf5f49d584b2f5",
+      "mobileUrl": "https://hellogithub.com/repository/d7b49e95d06747dd9cdf5f49d584b2f5"
+    },
+    {
+      "id": "7651142859d3485fad000b8eb51a497f",
+      "title": "AI 驱动的全网热点追踪助手",
+      "desc": "这是一款开箱即用的热点资讯追踪助手，告别无效刷屏只看真正关心的新闻资讯。它基于 GitHub Actions 自动监控全网热点，支持 AI 智能分析可用自然语言",
+      "author": "sansan0",
+      "timestamp": 1763453712000,
+      "hot": 719,
+      "url": "https://hellogithub.com/repository/7651142859d3485fad000b8eb51a497f",
+      "mobileUrl": "https://hellogithub.com/repository/7651142859d3485fad000b8eb51a497f"
+    },
+    {
+      "id": "7fb9ac15451c4205a0ac6b8645c525be",
+      "title": "开源 AI 安全检测工具",
+      "desc": "这是一款基于 AI 的安全测试工具，可自动对应用进行安全测试的 AI Agent。它能够集成到 CI/CD 流程，实现自动拉取代码并启动应用，然后模拟黑客行为寻",
+      "author": "usestrix",
+      "timestamp": 1763453863000,
+      "hot": 349,
+      "url": "https://hellogithub.com/repository/7fb9ac15451c4205a0ac6b8645c525be",
+      "mobileUrl": "https://hellogithub.com/repository/7fb9ac15451c4205a0ac6b8645c525be"
+    },
+    {
+      "id": "ac9c0c37bf274c60ac37e59862adda09",
+      "title": "免费跨平台的语音转录工具",
+      "desc": "这是一款基于 Tauri 开发的跨平台语音转文字桌面应用，完全免费开源、本地运行。它界面清爽、交互简单，你只需按下快捷键即可开始转录，并且会将语音转文字的结果，",
+      "author": "cjpais",
+      "timestamp": 1762870428000,
+      "hot": 1252,
+      "url": "https://hellogithub.com/repository/ac9c0c37bf274c60ac37e59862adda09",
+      "mobileUrl": "https://hellogithub.com/repository/ac9c0c37bf274c60ac37e59862adda09"
+    },
+    {
+      "id": "947d47ffe8404985908b266e187dec99",
+      "title": "极简的个人云相册平台",
+      "desc": "这是一款功能强大的自托管个人相册应用，专为展示与分享个人摄影作品而设计。它提供简洁易用的 Web 界面，可轻松管理和浏览照片，支持 Live Photo 与 M",
+      "author": "HoshinoSuzumi",
+      "timestamp": 1761638686000,
+      "hot": 3487,
+      "url": "https://hellogithub.com/repository/947d47ffe8404985908b266e187dec99",
+      "mobileUrl": "https://hellogithub.com/repository/947d47ffe8404985908b266e187dec99"
+    },
+    {
+      "id": "8f3cafdd6ef3445dbb1c0ed6dd34c8b5",
+      "title": "清爽的轻量级内容分享平台",
+      "desc": "这是一款开源、自托管的轻量级内容发布平台，专注于思想流动和快速分享。它拥有简洁直观的操作界面，支持发布和分享想法、文字、图片和链接。同时，支持类似 Activi",
+      "author": "lin-snow",
+      "timestamp": 1761638686000,
+      "hot": 3967,
+      "url": "https://hellogithub.com/repository/8f3cafdd6ef3445dbb1c0ed6dd34c8b5",
+      "mobileUrl": "https://hellogithub.com/repository/8f3cafdd6ef3445dbb1c0ed6dd34c8b5"
+    },
+    {
+      "id": "5e703f07874f41ddb9e775071498f37c",
+      "title": "《新概念英语》全四册在线课文朗读",
+      "desc": "该项目为《新概念英语》学习者提供了一个方便的在线学习平台，结合美式发音音频与 Gemini AI 生成的中文字幕，支持课文朗读与单句点读。",
+      "author": "iChochy",
+      "timestamp": 1761638686000,
+      "hot": 1924,
+      "url": "https://hellogithub.com/repository/5e703f07874f41ddb9e775071498f37c",
+      "mobileUrl": "https://hellogithub.com/repository/5e703f07874f41ddb9e775071498f37c"
+    },
+    {
+      "id": "988eff6254ed4737a866551f1b9c308c",
+      "title": "Office 文件在线编辑器",
+      "desc": "这是一个基于 OnlyOffice 和 WebAssembly 的本地 Web 文档编辑器，纯前端实现、无需服务器端处理，用户可直接在浏览器中打开和编辑 DOC",
+      "author": "ranuts",
+      "timestamp": 1761638686000,
+      "hot": 2530,
+      "url": "https://hellogithub.com/repository/988eff6254ed4737a866551f1b9c308c",
+      "mobileUrl": "https://hellogithub.com/repository/988eff6254ed4737a866551f1b9c308c"
+    },
+    {
+      "id": "2d9d2dfc722043408305cbe37ce96f7e",
+      "title": "跨媒体的个人 AI 笔记应用",
+      "desc": "这是一款本地优先的 AI 笔记本工具，能够将多种媒体类型（如本地文件、网页、视频等）整合至本地资料库，并借助 AI 快速生成笔记。它帮助用户在学习和研究过程中，",
+      "author": "deta",
+      "timestamp": 1761638686000,
+      "hot": 2604,
+      "url": "https://hellogithub.com/repository/2d9d2dfc722043408305cbe37ce96f7e",
+      "mobileUrl": "https://hellogithub.com/repository/2d9d2dfc722043408305cbe37ce96f7e"
+    },
+    {
+      "id": "39c81ccf143043b391a4337f86ce85ab",
+      "title": "在 Android 设备上运行 Stable Diffusion",
+      "desc": "这是一款专为 Android 用户打造的本地 Stable Diffusion AI 绘画应用，完全离线运行，兼容高通骁龙 NPU、CPU 和 GPU，支持文生",
+      "author": "xororz",
+      "timestamp": 1761638686000,
+      "hot": 1704,
+      "url": "https://hellogithub.com/repository/39c81ccf143043b391a4337f86ce85ab",
+      "mobileUrl": "https://hellogithub.com/repository/39c81ccf143043b391a4337f86ce85ab"
+    },
+    {
+      "id": "6bf89fb380dc492f98d35476125ffc21",
+      "title": "高度可定制的 Windows 桌面美化工具",
+      "desc": "这是一款免费开源的 Windows 桌面增强工具，专注于高度自定义和效率提升。它采用 Rust 语言开发，结合 Tauri 框架与 Web 技术，支持窗口平铺管",
+      "author": "eythaann",
+      "timestamp": 1759045745000,
+      "hot": 7138,
+      "url": "https://hellogithub.com/repository/6bf89fb380dc492f98d35476125ffc21",
+      "mobileUrl": "https://hellogithub.com/repository/6bf89fb380dc492f98d35476125ffc21"
+    },
+    {
+      "id": "54e09132ba0a40cf9ff6594320e6c6ba",
+      "title": "开源的 PPT 编辑插件",
+      "desc": "这是一款专为提升 PPT 编辑效率的插件，支持一键添加图片标题、自动对齐、复制/粘贴图片位置，以及插入 Markdown 文本和 LaTeX 数学公式。",
+      "author": "Achuan-2",
+      "timestamp": 1761638686000,
+      "hot": 1102,
+      "url": "https://hellogithub.com/repository/54e09132ba0a40cf9ff6594320e6c6ba",
+      "mobileUrl": "https://hellogithub.com/repository/54e09132ba0a40cf9ff6594320e6c6ba"
+    },
+    {
+      "id": "5c4337a9e2dd4a8ba8aba87a88f04b8b",
+      "title": "免费炫酷的股票市场应用",
+      "desc": "这是一款基于 Next.js、TailwindCSS 和 MongoDB 构建的股票市场平台，提供实时行情、图表（K 线图、热力图）、新闻资讯和个性化监控等功能",
+      "author": "Open-Dev-Society",
+      "timestamp": 1761638686000,
+      "hot": 2364,
+      "url": "https://hellogithub.com/repository/5c4337a9e2dd4a8ba8aba87a88f04b8b",
+      "mobileUrl": "https://hellogithub.com/repository/5c4337a9e2dd4a8ba8aba87a88f04b8b"
+    },
+    {
+      "id": "15d2f28eafb34fa8b81d7fd420ff6636",
+      "title": "开源的人形机器人",
+      "desc": "该项目是由伯克利 Hybrid Robotics 团队开源，旨在提供低成本、模块化、可定制的人形机器人解决方案。机器人采用 3D 打印和常见组件，整体成本在 5",
+      "author": "HybridRobotics",
+      "timestamp": 1761638686000,
+      "hot": 1179,
+      "url": "https://hellogithub.com/repository/15d2f28eafb34fa8b81d7fd420ff6636",
+      "mobileUrl": "https://hellogithub.com/repository/15d2f28eafb34fa8b81d7fd420ff6636"
+    },
+    {
+      "id": "fb844b7286244bf8a1d67bfd228a95c7",
+      "title": "抬头即见的开源课表工具",
+      "desc": "这是一款专为大屏设备打造的桌面课表应用，可将课程表以简洁组件的形式常驻桌面，取代传统黑板课表。支持下课提醒、天气信息、倒计时、密码保护和课表导入等功能，适用于配",
+      "author": "ClassIsland",
+      "timestamp": 1759045745000,
+      "hot": 4409,
+      "url": "https://hellogithub.com/repository/fb844b7286244bf8a1d67bfd228a95c7",
+      "mobileUrl": "https://hellogithub.com/repository/fb844b7286244bf8a1d67bfd228a95c7"
+    },
+    {
+      "id": "f72043c7eb9145a58e98b5c66eb213cc",
+      "title": "卡通风格城市建设模拟游戏",
+      "desc": "这是一款轻量级、卡通风格的 2.5D 城市模拟游戏，基于 Three.js 和 Vue3 构建。玩家可在浏览器中通过点选和拖放，实时建造、搬迁和拆除建筑。建筑会",
+      "author": "hexianWeb",
+      "timestamp": 1759045745000,
+      "hot": 4326,
+      "url": "https://hellogithub.com/repository/f72043c7eb9145a58e98b5c66eb213cc",
+      "mobileUrl": "https://hellogithub.com/repository/f72043c7eb9145a58e98b5c66eb213cc"
+    },
+    {
+      "id": "f9c6c8fc65ed4e66b77a0cb99df15096",
+      "title": "离线优先的桌面 API 客户端",
+      "desc": "这是一款快速、离线优先的桌面 API 客户端，支持 REST、GraphQL、SSE、WebSocket 和 gRPC 协议。它基于 Rust、Tauri 和 ",
+      "author": "mountain-loop",
+      "timestamp": 1761638686000,
+      "hot": 1306,
+      "url": "https://hellogithub.com/repository/f9c6c8fc65ed4e66b77a0cb99df15096",
+      "mobileUrl": "https://hellogithub.com/repository/f9c6c8fc65ed4e66b77a0cb99df15096"
+    },
+    {
+      "id": "2794c5a95ef245a4945a738a085c6df5",
+      "title": "老乡鸡菜谱开源版",
+      "desc": "该项目非老乡鸡官方出品，是作者基于《老乡鸡菜品溯源报告》等资料，归纳、整理了老乡鸡菜品的配方、制作流程及烹饪要点。",
+      "author": "Gar-b-age",
+      "timestamp": 1759045745000,
+      "hot": 3729,
+      "url": "https://hellogithub.com/repository/2794c5a95ef245a4945a738a085c6df5",
+      "mobileUrl": "https://hellogithub.com/repository/2794c5a95ef245a4945a738a085c6df5"
+    }
+  ]
+}
