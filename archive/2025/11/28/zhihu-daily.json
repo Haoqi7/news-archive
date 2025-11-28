@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-11-28T01:26:52.481964",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785728,
+      "title": "水泥寿命只有 50 年，那么 50 年后的房子会怎么样?",
+      "cover": "https://picx.zhimg.com/v2-708c8a0e7f0da9c6cc5bb5298f2efd7d.jpg?source=8673f162",
+      "author": "居叔 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785728",
+      "mobileUrl": "https://daily.zhihu.com/story/9785728"
+    },
+    {
+      "id": 9785719,
+      "title": "果冻里的「蒟蒻」到底是什么？它跟普通果冻有什么区别？",
+      "cover": "https://picx.zhimg.com/v2-59dd633355bb7fbf695a0c49fdaa9a55.jpg?source=8673f162",
+      "author": "九月听澜 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785719",
+      "mobileUrl": "https://daily.zhihu.com/story/9785719"
+    },
+    {
+      "id": 9785720,
+      "title": "为什么老虎厉害还是狮子厉害这个问题，网上会吵得不可开交，但是鸡厉害还是鸭厉害这个问题则没有什么争议？",
+      "cover": "https://pic1.zhimg.com/v2-071e615632a25fa2379de75e44c5aa2e.jpg?source=8673f162",
+      "author": "剁椒鹿 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785720",
+      "mobileUrl": "https://daily.zhihu.com/story/9785720"
+    },
+    {
+      "id": 9785503,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3791",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785503",
+      "mobileUrl": "https://daily.zhihu.com/story/9785503"
+    }
+  ]
+}
