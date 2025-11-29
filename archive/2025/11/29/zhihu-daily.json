@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-11-29T01:27:24.437817",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785749,
+      "title": "生物界还有哪些类似银杏这种没有近亲的独苗生物？",
+      "cover": "https://picx.zhimg.com/v2-ed69da41ffedafb2db4979de41121c39.jpg?source=8673f162",
+      "author": "mekdull · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785749",
+      "mobileUrl": "https://daily.zhihu.com/story/9785749"
+    },
+    {
+      "id": 9785734,
+      "title": "鸟累了可以睡在鸟窝，但是下雨了，它在哪里躲雨呢？",
+      "cover": "https://picx.zhimg.com/v2-c8e3b9646878bb5d887a0404cc6ea613.jpg?source=8673f162",
+      "author": "蝉说 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785734",
+      "mobileUrl": "https://daily.zhihu.com/story/9785734"
+    },
+    {
+      "id": 9785738,
+      "title": "猪每天吃的食物是糠，为什么还能长这么肥？",
+      "cover": "https://picx.zhimg.com/v2-00467808b643096c64d5f90b757594d9.jpg?source=8673f162",
+      "author": "瞻云 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785738",
+      "mobileUrl": "https://daily.zhihu.com/story/9785738"
+    },
+    {
+      "id": 9785744,
+      "title": "为什么茶树、咖啡树和可可树都独立进化出了咖啡因？",
+      "cover": "https://pic1.zhimg.com/v2-71badda3c3a55afaa3f357e9bb4f273a.jpg?source=8673f162",
+      "author": "紫侠狼 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785744",
+      "mobileUrl": "https://daily.zhihu.com/story/9785744"
+    }
+  ]
+}
