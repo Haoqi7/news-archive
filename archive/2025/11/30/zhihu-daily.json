@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-11-30T01:47:17.865311",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785761,
+      "title": "为什么晶体多呈现「规则多面体」的形态？这类「周期性分割」的「自然设计之美」是从何而来？",
+      "cover": "https://pic1.zhimg.com/v2-2798533fa5e1c9b8a4fbcbbe78f6fa5b.jpg?source=8673f162",
+      "author": "云杉 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785761",
+      "mobileUrl": "https://daily.zhihu.com/story/9785761"
+    },
+    {
+      "id": 9785752,
+      "title": "有什么以前是穷人食物，现在却变得无比奢侈？",
+      "cover": "https://pic1.zhimg.com/v2-347d9b972ffc3c02689677fce80e6a3a.jpg?source=8673f162",
+      "author": "张佳玮 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785752",
+      "mobileUrl": "https://daily.zhihu.com/story/9785752"
+    },
+    {
+      "id": 9785767,
+      "title": "海盗为什么不去劫一艘航空母舰？",
+      "cover": "https://picx.zhimg.com/v2-6329cc7f3e9c1a06f819679f7cd7d279.jpg?source=8673f162",
+      "author": "曾负债60万的喵喵 · 8 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785767",
+      "mobileUrl": "https://daily.zhihu.com/story/9785767"
+    },
+    {
+      "id": 9785776,
+      "title": "猛犸象是不是大象的祖先？",
+      "cover": "https://pic1.zhimg.com/v2-f7752c7589791ad2359dd53a1375e8b9.jpg?source=8673f162",
+      "author": "知乎用户 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785776",
+      "mobileUrl": "https://daily.zhihu.com/story/9785776"
+    }
+  ]
+}
