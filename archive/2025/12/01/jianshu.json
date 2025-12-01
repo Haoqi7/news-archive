@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-12-01T01:54:51.890769",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "cba4031e8b02",
+      "title": "python 常见字符串函数操作",
+      "desc": "python中字符串常见用法：s = \"abcdefg \"print(len(s)) # 获取字符串长度print(len(s.strip())...",
+      "author": "小黄不头秃",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/cba4031e8b02",
+      "mobileUrl": "https://www.jianshu.com/p/cba4031e8b02"
+    },
+    {
+      "id": "34d29052d727",
+      "title": "《以交易为生II：卖出的艺术（珍藏版）》读书笔记29",
+      "desc": "第一部分心态、风险管理和做好交易记 第3章做好交易记录 两种策略 对于买入交易，有两种比较流行的策略，一个是“低买、高卖”，另一个是“高买、更高...",
+      "author": "九轩",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/34d29052d727",
+      "mobileUrl": "https://www.jianshu.com/p/34d29052d727"
+    },
+    {
+      "id": "8d4b59883872",
+      "title": "消失的声音",
+      "desc": "我每天吃完晚饭都要去散步，沿着住的小区转一圈，沿途热闹繁华。 这天走到一竹林的时候听到一声声刺耳凄厉的叫声，远远看去一团黑乎乎瘦小的猫，我走近时...",
+      "author": "威龙vicon",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/8d4b59883872",
+      "mobileUrl": "https://www.jianshu.com/p/8d4b59883872"
+    }
+  ]
+}
