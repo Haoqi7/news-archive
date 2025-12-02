@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-12-02T01:39:37.105656",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785813,
+      "title": "自然界有什么五颜六色的动物？",
+      "cover": "https://pic1.zhimg.com/v2-5e6f835587a73eab5713fb111731bc17.jpg?source=8673f162",
+      "author": "小星有鬼 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785813",
+      "mobileUrl": "https://daily.zhihu.com/story/9785813"
+    },
+    {
+      "id": 9785816,
+      "title": "鳄鱼为何进化了 2 亿年，几乎没有什么变化？",
+      "cover": "https://pica.zhimg.com/v2-2b3a5bddc7dc4a31d3e710b95277228e.jpg?source=8673f162",
+      "author": "剁椒鹿 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785816",
+      "mobileUrl": "https://daily.zhihu.com/story/9785816"
+    },
+    {
+      "id": 9785824,
+      "title": "看地图会发现哪些（关于河流、山川、国境线等）有意思的事情？",
+      "cover": "https://picx.zhimg.com/v2-3fd8878b4933bbaad8f333c5fbbf71b6.jpg?source=8673f162",
+      "author": "宁南左侯 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785824",
+      "mobileUrl": "https://daily.zhihu.com/story/9785824"
+    },
+    {
+      "id": 9785516,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3793",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785516",
+      "mobileUrl": "https://daily.zhihu.com/story/9785516"
+    }
+  ]
+}
