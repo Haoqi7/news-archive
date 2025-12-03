@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-12-03T01:39:19.831780",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785837,
+      "title": "为什么树木会生长年轮？",
+      "cover": "https://picx.zhimg.com/v2-19bac426ac18594b4aee9871847d1335.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785837",
+      "mobileUrl": "https://daily.zhihu.com/story/9785837"
+    },
+    {
+      "id": 9785828,
+      "title": "如果一种病毒不致病，而是能精准地「编辑」宿主的快乐中枢让宿主永远幸福，它会如何传播并改变生态系统？",
+      "cover": "https://pic1.zhimg.com/v2-3b89299350f6d619b2ce095feda92a7b.jpg?source=8673f162",
+      "author": "不想实名 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785828",
+      "mobileUrl": "https://daily.zhihu.com/story/9785828"
+    },
+    {
+      "id": 9785830,
+      "title": "河马的机动性为何如此离谱？",
+      "cover": "https://pic1.zhimg.com/v2-86c9c764524bc325746e6e1fc7a39786.jpg?source=8673f162",
+      "author": "剁椒鹿 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785830",
+      "mobileUrl": "https://daily.zhihu.com/story/9785830"
+    },
+    {
+      "id": 9785519,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3794",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785519",
+      "mobileUrl": "https://daily.zhihu.com/story/9785519"
+    }
+  ]
+}
