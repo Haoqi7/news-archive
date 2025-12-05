@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-12-05T01:40:58.278069",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "fcffaf1f8a0a4c28b2641b7e3edff853",
+      "title": "让 AI 替你画架构图",
+      "desc": "这是一个基于 Next.js 构建的 Web 应用，融合了 AI 与 draw.io 图表绘制能力。现在你可以通过对话直接生成、编辑、优化流程图和架构图，支持流",
+      "author": "DayuanJiang",
+      "timestamp": 1764316977000,
+      "hot": 1695,
+      "url": "https://hellogithub.com/repository/fcffaf1f8a0a4c28b2641b7e3edff853",
+      "mobileUrl": "https://hellogithub.com/repository/fcffaf1f8a0a4c28b2641b7e3edff853"
+    },
+    {
+      "id": "9f3b14d187594203885439a39fed0077",
+      "title": "完全开源可自托管的私有云盘",
+      "desc": "该项目是基于 Go+Vue.js 构建的在线文件管理工具，功能比原版 FileBrowser 更丰富，支持多文件源（本地或云）、目录级访问控制、设置共享过期时间",
+      "author": "gtsteffaniak",
+      "timestamp": 1764316977000,
+      "hot": 828,
+      "url": "https://hellogithub.com/repository/9f3b14d187594203885439a39fed0077",
+      "mobileUrl": "https://hellogithub.com/repository/9f3b14d187594203885439a39fed0077"
+    },
+    {
+      "id": "a8bd165df55f41a295b62c716228b007",
+      "title": "开源的轻量级 K8s 管理面板",
+      "desc": "这是一款轻量级、现代化的 Kubernetes 可视化管理平台，适用于管理和监控 K8s 集群。它拥有直观易用的界面，支持查看 Pod 日志、执行容器命令、编辑",
+      "author": "zxh326",
+      "timestamp": 1764316977000,
+      "hot": 824,
+      "url": "https://hellogithub.com/repository/a8bd165df55f41a295b62c716228b007",
+      "mobileUrl": "https://hellogithub.com/repository/a8bd165df55f41a295b62c716228b007"
+    },
+    {
+      "id": "532ffb13723d43fbbf1578021b2c3294",
+      "title": "Mac 滚动截图工具",
+      "desc": "这是一款用于解决 macOS 原生截图功能，不支持滚动截图的工具。只需要框选指定区域，然后滚动页面，即可轻松得到完整的长截图。",
+      "author": "Brkgng",
+      "timestamp": 1764316977000,
+      "hot": 351,
+      "url": "https://hellogithub.com/repository/532ffb13723d43fbbf1578021b2c3294",
+      "mobileUrl": "https://hellogithub.com/repository/532ffb13723d43fbbf1578021b2c3294"
+    },
+    {
+      "id": "210e98e397544f248ef790826e975635",
+      "title": "开箱即用的轻量级向量数据库",
+      "desc": "该项目是 OceanBase 团队开源的一款轻量级 AI 原生搜索数据库，支持关系型、向量和文本数据的统一存储与检索。它提供嵌入式和服务器两种模式，最低仅需 1",
+      "author": "oceanbase",
+      "timestamp": 1764316977000,
+      "hot": 893,
+      "url": "https://hellogithub.com/repository/210e98e397544f248ef790826e975635",
+      "mobileUrl": "https://hellogithub.com/repository/210e98e397544f248ef790826e975635"
+    },
+    {
+      "id": "14c54f5da81b4959a9d619e96823deb8",
+      "title": "用自然语言操控你的手机",
+      "desc": "这是一个基于 LLM Agents 的手机自动化框架，可通过自然语言操控 Android 设备或模拟器，支持 DeepSeek、OpenAI、Gemini 等主",
+      "author": "droidrun",
+      "timestamp": 1764316977000,
+      "hot": 959,
+      "url": "https://hellogithub.com/repository/14c54f5da81b4959a9d619e96823deb8",
+      "mobileUrl": "https://hellogithub.com/repository/14c54f5da81b4959a9d619e96823deb8"
+    },
+    {
+      "id": "f0574176501f42b2acf0f72706a172b4",
+      "title": "炫酷 3D 球体年会抽奖应用",
+      "desc": "这是一个基于 Three.js 和 Vue.js 构建的年会抽奖工具，支持导入人员名单、设置奖品/奖项、播放背景音乐、临时抽奖等功能。",
+      "author": "LOG1997",
+      "timestamp": 1764316977000,
+      "hot": 749,
+      "url": "https://hellogithub.com/repository/f0574176501f42b2acf0f72706a172b4",
+      "mobileUrl": "https://hellogithub.com/repository/f0574176501f42b2acf0f72706a172b4"
+    },
+    {
+      "id": "0bd4328c24794902bd6097055cda6f36",
+      "title": "随手可用的 AI 桌面助手",
+      "desc": "这是一款基于上下文感知的桌面 AI 助手，能够自动获取并理解当前屏幕上的内容，无需截图、复制内容或切换应用。只需一键即可召唤出 AI，进行问答、翻译、答疑等任务",
+      "author": "DearVa",
+      "timestamp": 1764316977000,
+      "hot": 754,
+      "url": "https://hellogithub.com/repository/0bd4328c24794902bd6097055cda6f36",
+      "mobileUrl": "https://hellogithub.com/repository/0bd4328c24794902bd6097055cda6f36"
+    },
+    {
+      "id": "025d3a9473c74e0aabef1a1f888ca7c4",
+      "title": "基于 Wi-Fi 信号的运动监测系统",
+      "desc": "这是一个基于 Wi-Fi 频谱分析（CSI）的运动检测系统，采用 ESP32-S3 开发板，成本约 10 欧元。它通过分析人体对 Wi-Fi 信号的干扰变化，实",
+      "author": "francescopace",
+      "timestamp": 1764316977000,
+      "hot": 469,
+      "url": "https://hellogithub.com/repository/025d3a9473c74e0aabef1a1f888ca7c4",
+      "mobileUrl": "https://hellogithub.com/repository/025d3a9473c74e0aabef1a1f888ca7c4"
+    },
+    {
+      "id": "3cbf370c9f534ea3bf3695b7f9b8bd19",
+      "title": "开源的 Android 白噪音应用",
+      "desc": "这是一个专注于白噪音播放的 Android 应用，提供雨声、篝火、雷声、猫咪呼噜、鸟鸣、夜虫等多种自然声音，帮助你放松、冥想和入睡。",
+      "author": "Tosencen",
+      "timestamp": 1764316977000,
+      "hot": 327,
+      "url": "https://hellogithub.com/repository/3cbf370c9f534ea3bf3695b7f9b8bd19",
+      "mobileUrl": "https://hellogithub.com/repository/3cbf370c9f534ea3bf3695b7f9b8bd19"
+    },
+    {
+      "id": "744b2adf9c6c4d70aa16aed3d0fea007",
+      "title": "FastAPI 最佳实践指南",
+      "desc": "这是一份作者在初创公司多年使用 FastAPI 开发应用的实战经验总结，内容涵盖项目结构、异步、Pydantic、Depends、数据迁移等方面。",
+      "author": "zhanymkanov",
+      "timestamp": 1764316977000,
+      "hot": 586,
+      "url": "https://hellogithub.com/repository/744b2adf9c6c4d70aa16aed3d0fea007",
+      "mobileUrl": "https://hellogithub.com/repository/744b2adf9c6c4d70aa16aed3d0fea007"
+    },
+    {
+      "id": "15c5086cbbaf48a2925d096dc3dd32b3",
+      "title": "开源低成本的机械臂",
+      "desc": "该项目是由 TheRobotStudio 与 Hugging Face 联合开源的低成本机械臂，内含自制 SO-100 和 SO-101 两款机械臂的所有资料。",
+      "author": "TheRobotStudio",
+      "timestamp": 1764316977000,
+      "hot": 292,
+      "url": "https://hellogithub.com/repository/15c5086cbbaf48a2925d096dc3dd32b3",
+      "mobileUrl": "https://hellogithub.com/repository/15c5086cbbaf48a2925d096dc3dd32b3"
+    },
+    {
+      "id": "03c7e70105e9443aa2c967a7da314bef",
+      "title": "比系统自带更好用的看图工具",
+      "desc": "这是一款快速、免费的图片查看工具，适用于 Windows 和 macOS 平台。它采用 .NET NativeAOT 编译技术，体积小、启动速度快，支持浏览长图",
+      "author": "Ruben2776",
+      "timestamp": 1764316977000,
+      "hot": 715,
+      "url": "https://hellogithub.com/repository/03c7e70105e9443aa2c967a7da314bef",
+      "mobileUrl": "https://hellogithub.com/repository/03c7e70105e9443aa2c967a7da314bef"
+    },
+    {
+      "id": "55d41367570345f1838e02fd12be7961",
+      "title": "支持 Web 端的远程桌面工具",
+      "desc": "这是一款开源、轻量级的跨平台远程桌面工具，支持不同设备间（Windows、Linux 和 macOS）的远程桌面控制和音视频传输，特点是可直接通过浏览器控制远程",
+      "author": "kunkundi",
+      "timestamp": 1764316977000,
+      "hot": 617,
+      "url": "https://hellogithub.com/repository/55d41367570345f1838e02fd12be7961",
+      "mobileUrl": "https://hellogithub.com/repository/55d41367570345f1838e02fd12be7961"
+    },
+    {
+      "id": "3f1076e463044a548c7691d519a70ebd",
+      "title": "本地优先的 AI 笔记和会议助手",
+      "desc": "这是一款可离线运行的 AI 智能笔记和会议记录应用，通过接入 Ollama 可实现语音转录到摘要生成全程在本地完成，支持会议录音、实时转录、笔记整理和智能摘要等",
+      "author": "fastrepl",
+      "timestamp": 1764316977000,
+      "hot": 507,
+      "url": "https://hellogithub.com/repository/3f1076e463044a548c7691d519a70ebd",
+      "mobileUrl": "https://hellogithub.com/repository/3f1076e463044a548c7691d519a70ebd"
+    },
+    {
+      "id": "d6391dde4be74ef4b0ce727ceb22da5c",
+      "title": "纯 Python 实现的 CPU 模拟器",
+      "desc": "该项目是 Python 写的轻量级 8 位 CPU 模拟器，能够将抽象的汇编语言执行过程转化为可视化、可交互的学习体验，并支持将代码执行过程导出为 GIF 或 ",
+      "author": "sql-hkr",
+      "timestamp": 1764316977000,
+      "hot": 346,
+      "url": "https://hellogithub.com/repository/d6391dde4be74ef4b0ce727ceb22da5c",
+      "mobileUrl": "https://hellogithub.com/repository/d6391dde4be74ef4b0ce727ceb22da5c"
+    },
+    {
+      "id": "dd4ce5b04d2743f7b64ce0db3019773c",
+      "title": "Java 开发的个人足迹分析平台",
+      "desc": "这是一款基于 Spring Boot 和 PostGIS 构建的个人位置追踪与分析平台，适用于记录自己的行动轨迹和地理位置信息。支持自动识别停留地点、分析出行路",
+      "author": "dedicatedcode",
+      "timestamp": 1764316977000,
+      "hot": 368,
+      "url": "https://hellogithub.com/repository/dd4ce5b04d2743f7b64ce0db3019773c",
+      "mobileUrl": "https://hellogithub.com/repository/dd4ce5b04d2743f7b64ce0db3019773c"
+    },
+    {
+      "id": "eb51b4529ab140ba9a808c1ee7f6a8e6",
+      "title": "机器人算法 Python 实现集合",
+      "desc": "该项目汇集了机器人领域算法的 Python 实现，涵盖定位、SLAM、路径规划、空中导航、机械臂、双足机器人等技术，并提供示例代码和可视化演示。",
+      "author": "AtsushiSakai",
+      "timestamp": 1764316977000,
+      "hot": 368,
+      "url": "https://hellogithub.com/repository/eb51b4529ab140ba9a808c1ee7f6a8e6",
+      "mobileUrl": "https://hellogithub.com/repository/eb51b4529ab140ba9a808c1ee7f6a8e6"
+    },
+    {
+      "id": "f9d81137c618479caff625f76de3e92e",
+      "title": "终端里的 CSV 数据魔术师",
+      "desc": "这是一个能够处理 GB 级超大 CSV 文件的命令行工具，支持预览、过滤、切片、聚合、排序等操作，并可在终端里通过直方图、热力图等方式进行数据可视化。",
+      "author": "medialab",
+      "timestamp": 1764316977000,
+      "hot": 215,
+      "url": "https://hellogithub.com/repository/f9d81137c618479caff625f76de3e92e",
+      "mobileUrl": "https://hellogithub.com/repository/f9d81137c618479caff625f76de3e92e"
+    },
+    {
+      "id": "df0a94dc93e0436eac0e34e6f3aa432c",
+      "title": "开源的鼠标连点工具",
+      "desc": "这是一款基于 Qt6 构建的鼠标连点器，仅适用于 Windows 系统。它开箱即用、操作简单，支持自定义鼠标点击间隔和快捷键功能。",
+      "author": "SeaEpoch",
+      "timestamp": 1764316977000,
+      "hot": 418,
+      "url": "https://hellogithub.com/repository/df0a94dc93e0436eac0e34e6f3aa432c",
+      "mobileUrl": "https://hellogithub.com/repository/df0a94dc93e0436eac0e34e6f3aa432c"
+    }
+  ]
+}

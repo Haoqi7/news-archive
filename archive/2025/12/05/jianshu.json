@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-12-05T01:40:46.840498",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": "819b36242385",
+      "title": "vue 批量自动引入并注册组件或路由等等",
+      "cover": "https://upload-images.jianshu.io/upload_images/10434248-acf7edec049391d5.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "有时候有大量的组件.vue后缀的,或.js,或.ts文件, 需要一个个的手动引入很麻烦,那么你可以尝试这样创建一个index.js 本项目使用v...",
+      "author": "littlesunn",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/819b36242385",
+      "mobileUrl": "https://www.jianshu.com/p/819b36242385"
+    },
+    {
+      "id": "5839a724b54d",
+      "title": "我的世界•穿越星空【五】（上）",
+      "desc": "在回家的路上，璃月不露声色的对我说：‘既然你十四元素都有的话，就先修炼光和电吧，毕竟是十四元素中的佼佼者。’ ‘那么我剩下的元素怎么办？’ ‘只...",
+      "author": "BH白鹤",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/5839a724b54d",
+      "mobileUrl": "https://www.jianshu.com/p/5839a724b54d"
+    },
+    {
+      "id": "081291b0eb6a",
+      "title": "刷题小记2（华为机考）",
+      "desc": "今天还是在刷题，下午考试。 临近考试，竟然还有点紧张。也是很多年没有考试了。这次参加了HR推荐的华为机考，一共有3题，分别是100/100/20...",
+      "author": "古云梦泽",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/081291b0eb6a",
+      "mobileUrl": "https://www.jianshu.com/p/081291b0eb6a"
+    },
+    {
+      "id": "cbcd6c9af718",
+      "title": "电脑上的GPT之GPT4All安装及使用",
+      "cover": "https://upload-images.jianshu.io/upload_images/1866197-46290e9b82297f7b.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "最重要的Git链接[https://github.com/nomic-ai/gpt4all.git] 众所周知ChatGPT功能超强，但是Ope...",
+      "author": "山水域",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/cbcd6c9af718",
+      "mobileUrl": "https://www.jianshu.com/p/cbcd6c9af718"
+    }
+  ]
+}
