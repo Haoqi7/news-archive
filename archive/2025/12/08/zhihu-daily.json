@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-12-08T01:41:08.000968",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9785920,
+      "title": "为什么只有吸猫，没有吸狗？",
+      "cover": "https://picx.zhimg.com/v2-c795034539eb941c9a6cdf7c683c1169.jpg?source=8673f162",
+      "author": "苏澄宇 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785920",
+      "mobileUrl": "https://daily.zhihu.com/story/9785920"
+    },
+    {
+      "id": 9785929,
+      "title": "有哪些十分常见的单词有其他罕见的意思？",
+      "cover": "https://picx.zhimg.com/v2-f1b9a98cd486ea1d879adf1e095e2aab.jpg?source=8673f162",
+      "author": "企鹅将军 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785929",
+      "mobileUrl": "https://daily.zhihu.com/story/9785929"
+    },
+    {
+      "id": 9785939,
+      "title": "为什么植物没有免疫系统，但是植物在存活时不会腐烂，死亡后就会腐烂？",
+      "cover": "https://picx.zhimg.com/v2-614906c9f169034a406d8b27a50be209.jpg?source=8673f162",
+      "author": "莫轩 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785939",
+      "mobileUrl": "https://daily.zhihu.com/story/9785939"
+    },
+    {
+      "id": 9785532,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3797",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785532",
+      "mobileUrl": "https://daily.zhihu.com/story/9785532"
+    }
+  ]
+}
