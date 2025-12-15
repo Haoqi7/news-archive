@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-12-15T01:46:20.872928",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786040,
+      "title": "人脑最多可以接收来自几个眼睛的图像信息？",
+      "cover": "https://picx.zhimg.com/v2-5d07e5588fbc4561be4545001ca72733.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786040",
+      "mobileUrl": "https://daily.zhihu.com/story/9786040"
+    },
+    {
+      "id": 9786046,
+      "title": "为什么北大西洋暖流如此强劲，以至于可以对欧洲气候产生如此大的影响？",
+      "cover": "https://pic1.zhimg.com/v2-9fb72a3ebad64b7a16a5a1a55ef9ead3.jpg?source=8673f162",
+      "author": "地球知识局 · 8 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786046",
+      "mobileUrl": "https://daily.zhihu.com/story/9786046"
+    },
+    {
+      "id": 9786055,
+      "title": "为什么很多人认为物理和数学更相似，而不是和化学、生物学、地球科学更相似？",
+      "cover": "https://picx.zhimg.com/v2-c29830c64f8bf05b290ed0ff48f9f9c4.jpg?source=8673f162",
+      "author": "gwave · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786055",
+      "mobileUrl": "https://daily.zhihu.com/story/9786055"
+    },
+    {
+      "id": 9786060,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3802",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786060",
+      "mobileUrl": "https://daily.zhihu.com/story/9786060"
+    }
+  ]
+}
