@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-12-16T01:43:25.733892",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786142,
+      "title": "到底什么样的文化使得中国人是圆桌吃饭，而西方人是长桌吃饭？",
+      "cover": "https://picx.zhimg.com/v2-65740f1fa327646ecd60fac41daddb53.jpg?source=8673f162",
+      "author": "陆土根 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786142",
+      "mobileUrl": "https://daily.zhihu.com/story/9786142"
+    },
+    {
+      "id": 9786136,
+      "title": "有哪些物种看起来像 AI 生成的，但在自然界真实存在？",
+      "cover": "https://picx.zhimg.com/v2-1009720ff1b568694edc8ab1b7d5de11.jpg?source=8673f162",
+      "author": "剁椒鹿 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786136",
+      "mobileUrl": "https://daily.zhihu.com/story/9786136"
+    },
+    {
+      "id": 9786146,
+      "title": "天文摄影师拍下人类坠入太阳图片，这是如何做到的？还能在什么位置跳跃可以实现？",
+      "cover": "https://pica.zhimg.com/v2-fc94dee7095c606d815ae1db4ee24bb6.jpg?source=8673f162",
+      "author": "astroR2 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786146",
+      "mobileUrl": "https://daily.zhihu.com/story/9786146"
+    },
+    {
+      "id": 9786064,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3803",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786064",
+      "mobileUrl": "https://daily.zhihu.com/story/9786064"
+    }
+  ]
+}
