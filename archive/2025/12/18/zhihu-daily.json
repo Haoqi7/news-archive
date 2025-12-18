@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-12-18T01:39:19.219879",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786171,
+      "title": "有没有人从生物学上解释一下为什么我们人类会觉得肉好吃？",
+      "cover": "https://picx.zhimg.com/v2-49dd038015404caf4cd0a2000ece36bf.jpg?source=8673f162",
+      "author": "高sir · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786171",
+      "mobileUrl": "https://daily.zhihu.com/story/9786171"
+    },
+    {
+      "id": 9785422,
+      "title": "为什么同样作为异蛋白，虾蟹等海鲜就能作为主要的高蛋白来源，而昆虫不行?",
+      "cover": "https://pic1.zhimg.com/v2-1f2c38e93f228012ce48ab829b38559a.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9785422",
+      "mobileUrl": "https://daily.zhihu.com/story/9785422"
+    },
+    {
+      "id": 9786172,
+      "title": "假如人类可以冬眠，膀胱会不会憋炸了?",
+      "cover": "https://pica.zhimg.com/v2-f4e14de5e246024bd7c59bdf109aa137.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786172",
+      "mobileUrl": "https://daily.zhihu.com/story/9786172"
+    },
+    {
+      "id": 9786075,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3805",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786075",
+      "mobileUrl": "https://daily.zhihu.com/story/9786075"
+    }
+  ]
+}
