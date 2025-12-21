@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-12-21T01:48:57.728584",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "377d3716b77b49cb9938f14d79a0f5c1",
+      "title": "扮演云架构师的塔防游戏",
+      "desc": "这是一个基于 Web 的塔防模拟游戏，旨在通过玩游戏的方式学习云架构知识。玩家在游戏中扮演云架构师，利用有限的预算搭建云基础设施。面对持续增长的访问流量和 DD",
+      "author": "pshenok",
+      "timestamp": 1765355484000,
+      "hot": 2001,
+      "url": "https://hellogithub.com/repository/377d3716b77b49cb9938f14d79a0f5c1",
+      "mobileUrl": "https://hellogithub.com/repository/377d3716b77b49cb9938f14d79a0f5c1"
+    },
+    {
+      "id": "7b1823246759402a9443a3105dbec0bb",
+      "title": "一句话生成小红书图文的创作工具",
+      "desc": "该项目是基于 AI 的一站式小红书图文生成工具，只需输入一句话描述主题，并上传主页截图作为风格参考，即可自动生成包含封面图和内容的完整图文笔记，支持重新生成单页",
+      "author": "HisMax",
+      "timestamp": 1765355368000,
+      "hot": 1886,
+      "url": "https://hellogithub.com/repository/7b1823246759402a9443a3105dbec0bb",
+      "mobileUrl": "https://hellogithub.com/repository/7b1823246759402a9443a3105dbec0bb"
+    },
+    {
+      "id": "e8d97ec60b1c46fba4e119f84d5d4e2b",
+      "title": "长时长多角色语音合成框架",
+      "desc": "该项目是微软开源的文本转语音框架，旨在解决传统 TTS 系统在生成长篇幅、多角色对话时（博客、有声书）的痛点。它能够基于文本，一次性合成长达 90 分钟、4 位",
+      "author": "microsoft",
+      "timestamp": 1765355997000,
+      "hot": 1024,
+      "url": "https://hellogithub.com/repository/e8d97ec60b1c46fba4e119f84d5d4e2b",
+      "mobileUrl": "https://hellogithub.com/repository/e8d97ec60b1c46fba4e119f84d5d4e2b"
+    },
+    {
+      "id": "958a22354c124eadbc7e8ee8e4e46ec3",
+      "title": "开箱即用的文件传输工具",
+      "desc": "这是一款采用 Rust 和 Tauri 构建的开源 P2P 文件传输工具，无需注册和服务器，即可实现端到端的文件传输。用户只需将文件拖入应用，将随机生成的传输凭",
+      "author": "tonyantony300",
+      "timestamp": 1765228644000,
+      "hot": 1585,
+      "url": "https://hellogithub.com/repository/958a22354c124eadbc7e8ee8e4e46ec3",
+      "mobileUrl": "https://hellogithub.com/repository/958a22354c124eadbc7e8ee8e4e46ec3"
+    },
+    {
+      "id": "fcffaf1f8a0a4c28b2641b7e3edff853",
+      "title": "让 AI 替你画架构图",
+      "desc": "这是一个基于 Next.js 构建的 Web 应用，融合了 AI 与 draw.io 图表绘制能力。现在你可以通过对话直接生成、编辑、优化流程图和架构图，支持流",
+      "author": "DayuanJiang",
+      "timestamp": 1764316977000,
+      "hot": 4085,
+      "url": "https://hellogithub.com/repository/fcffaf1f8a0a4c28b2641b7e3edff853",
+      "mobileUrl": "https://hellogithub.com/repository/fcffaf1f8a0a4c28b2641b7e3edff853"
+    },
+    {
+      "id": "0c3c1b2f0e594683a6b8cc3b9d3173b4",
+      "title": "秒开大文件的终端编辑器",
+      "desc": "这是一款支持鼠标操作的终端文本编辑器，能够流畅编辑 GB 级大文件。它开箱即用、上手简单，内置 LSP 客户端，提供自动补全、跳转到定义等 IDE 功能，以及 ",
+      "author": "sinelaw",
+      "timestamp": 1765355203000,
+      "hot": 1229,
+      "url": "https://hellogithub.com/repository/0c3c1b2f0e594683a6b8cc3b9d3173b4",
+      "mobileUrl": "https://hellogithub.com/repository/0c3c1b2f0e594683a6b8cc3b9d3173b4"
+    },
+    {
+      "id": "87e3144b3b054ef6b1afa9ae71a07802",
+      "title": "一键修复 NextJS 高危漏洞",
+      "desc": "该项目是 NextJS 官方开源的专门用于修复 CVE-2025-66478（React 2 Shell RCE）远程代码执行漏洞的命令行工具，支持一键自动检测",
+      "author": "vercel-labs",
+      "timestamp": 1765293722000,
+      "hot": 536,
+      "url": "https://hellogithub.com/repository/87e3144b3b054ef6b1afa9ae71a07802",
+      "mobileUrl": "https://hellogithub.com/repository/87e3144b3b054ef6b1afa9ae71a07802"
+    },
+    {
+      "id": "9f3b14d187594203885439a39fed0077",
+      "title": "完全开源可自托管的私有云盘",
+      "desc": "该项目是基于 Go+Vue.js 构建的在线文件管理工具，功能比原版 FileBrowser 更丰富，支持多文件源（本地或云）、目录级访问控制、设置共享过期时间",
+      "author": "gtsteffaniak",
+      "timestamp": 1764316977000,
+      "hot": 2025,
+      "url": "https://hellogithub.com/repository/9f3b14d187594203885439a39fed0077",
+      "mobileUrl": "https://hellogithub.com/repository/9f3b14d187594203885439a39fed0077"
+    },
+    {
+      "id": "f0574176501f42b2acf0f72706a172b4",
+      "title": "炫酷 3D 球体年会抽奖应用",
+      "desc": "这是一个基于 Three.js 和 Vue.js 构建的年会抽奖工具，支持导入人员名单、设置奖品/奖项、播放背景音乐、临时抽奖等功能。",
+      "author": "LOG1997",
+      "timestamp": 1764316977000,
+      "hot": 1727,
+      "url": "https://hellogithub.com/repository/f0574176501f42b2acf0f72706a172b4",
+      "mobileUrl": "https://hellogithub.com/repository/f0574176501f42b2acf0f72706a172b4"
+    },
+    {
+      "id": "0bd4328c24794902bd6097055cda6f36",
+      "title": "随手可用的 AI 桌面助手",
+      "desc": "这是一款基于上下文感知的桌面 AI 助手，能够自动获取并理解当前屏幕上的内容，无需截图、复制内容或切换应用。只需一键即可召唤出 AI，进行问答、翻译、答疑等任务",
+      "author": "DearVa",
+      "timestamp": 1764316977000,
+      "hot": 2391,
+      "url": "https://hellogithub.com/repository/0bd4328c24794902bd6097055cda6f36",
+      "mobileUrl": "https://hellogithub.com/repository/0bd4328c24794902bd6097055cda6f36"
+    },
+    {
+      "id": "3cbf370c9f534ea3bf3695b7f9b8bd19",
+      "title": "开源的 Android 白噪音应用",
+      "desc": "这是一个专注于白噪音播放的 Android 应用，提供雨声、篝火、雷声、猫咪呼噜、鸟鸣、夜虫等多种自然声音，帮助你放松、冥想和入睡。",
+      "author": "Tosencen",
+      "timestamp": 1764316977000,
+      "hot": 1023,
+      "url": "https://hellogithub.com/repository/3cbf370c9f534ea3bf3695b7f9b8bd19",
+      "mobileUrl": "https://hellogithub.com/repository/3cbf370c9f534ea3bf3695b7f9b8bd19"
+    },
+    {
+      "id": "a8bd165df55f41a295b62c716228b007",
+      "title": "开源的轻量级 K8s 管理面板",
+      "desc": "这是一款轻量级、现代化的 Kubernetes 可视化管理平台，适用于管理和监控 K8s 集群。它拥有直观易用的界面，支持查看 Pod 日志、执行容器命令、编辑",
+      "author": "zxh326",
+      "timestamp": 1764316977000,
+      "hot": 1706,
+      "url": "https://hellogithub.com/repository/a8bd165df55f41a295b62c716228b007",
+      "mobileUrl": "https://hellogithub.com/repository/a8bd165df55f41a295b62c716228b007"
+    },
+    {
+      "id": "947d47ffe8404985908b266e187dec99",
+      "title": "极简的个人云相册平台",
+      "desc": "这是一款功能强大的自托管个人相册应用，专为展示与分享个人摄影作品而设计。它提供简洁易用的 Web 界面，可轻松管理和浏览照片，支持 Live Photo 与 M",
+      "author": "HoshinoSuzumi",
+      "timestamp": 1761638686000,
+      "hot": 4877,
+      "url": "https://hellogithub.com/repository/947d47ffe8404985908b266e187dec99",
+      "mobileUrl": "https://hellogithub.com/repository/947d47ffe8404985908b266e187dec99"
+    },
+    {
+      "id": "532ffb13723d43fbbf1578021b2c3294",
+      "title": "Mac 滚动截图工具",
+      "desc": "这是一款用于解决 macOS 原生截图功能，不支持滚动截图的工具。只需要框选指定区域，然后滚动页面，即可轻松得到完整的长截图。",
+      "author": "Brkgng",
+      "timestamp": 1764316977000,
+      "hot": 774,
+      "url": "https://hellogithub.com/repository/532ffb13723d43fbbf1578021b2c3294",
+      "mobileUrl": "https://hellogithub.com/repository/532ffb13723d43fbbf1578021b2c3294"
+    },
+    {
+      "id": "8f3cafdd6ef3445dbb1c0ed6dd34c8b5",
+      "title": "清爽的轻量级内容分享平台",
+      "desc": "这是一款开源、自托管的轻量级内容发布平台，专注于思想流动和快速分享。它拥有简洁直观的操作界面，支持发布和分享想法、文字、图片和链接。同时，支持类似 Activi",
+      "author": "lin-snow",
+      "timestamp": 1761638686000,
+      "hot": 5469,
+      "url": "https://hellogithub.com/repository/8f3cafdd6ef3445dbb1c0ed6dd34c8b5",
+      "mobileUrl": "https://hellogithub.com/repository/8f3cafdd6ef3445dbb1c0ed6dd34c8b5"
+    },
+    {
+      "id": "5e703f07874f41ddb9e775071498f37c",
+      "title": "《新概念英语》全四册在线课文朗读",
+      "desc": "该项目为《新概念英语》学习者提供了一个方便的在线学习平台，结合美式发音音频与 Gemini AI 生成的中文字幕，支持课文朗读与单句点读。",
+      "author": "iChochy",
+      "timestamp": 1761638686000,
+      "hot": 2948,
+      "url": "https://hellogithub.com/repository/5e703f07874f41ddb9e775071498f37c",
+      "mobileUrl": "https://hellogithub.com/repository/5e703f07874f41ddb9e775071498f37c"
+    },
+    {
+      "id": "14c54f5da81b4959a9d619e96823deb8",
+      "title": "用自然语言操控你的手机",
+      "desc": "这是一个基于 LLM Agents 的手机自动化框架，可通过自然语言操控 Android 设备或模拟器，支持 DeepSeek、OpenAI、Gemini 等主",
+      "author": "droidrun",
+      "timestamp": 1764316977000,
+      "hot": 2015,
+      "url": "https://hellogithub.com/repository/14c54f5da81b4959a9d619e96823deb8",
+      "mobileUrl": "https://hellogithub.com/repository/14c54f5da81b4959a9d619e96823deb8"
+    },
+    {
+      "id": "611a8aecd29d4ac295c64899448f395c",
+      "title": "回放你的 Git 提交历史",
+      "desc": "这是一个能够将 Git 提交历史转化为动画的命令行工具，通过打字动画和代码高亮，在终端里生动展示每一次变更。",
+      "author": "unhappychoice",
+      "timestamp": 1764316977000,
+      "hot": 1009,
+      "url": "https://hellogithub.com/repository/611a8aecd29d4ac295c64899448f395c",
+      "mobileUrl": "https://hellogithub.com/repository/611a8aecd29d4ac295c64899448f395c"
+    },
+    {
+      "id": "9b3f71b9861f412fa50f2b1566914966",
+      "title": "跨平台原生性能的 UI 框架",
+      "desc": "该项目是 Snapchat 团队开源的跨平台 UI 框架，支持使用 TypeScript 编写 UI 并直接编译为 iOS、Android 和 macOS 原生",
+      "author": "Snapchat",
+      "timestamp": 1763453030000,
+      "hot": 2163,
+      "url": "https://hellogithub.com/repository/9b3f71b9861f412fa50f2b1566914966",
+      "mobileUrl": "https://hellogithub.com/repository/9b3f71b9861f412fa50f2b1566914966"
+    },
+    {
+      "id": "df0a94dc93e0436eac0e34e6f3aa432c",
+      "title": "开源的鼠标连点工具",
+      "desc": "这是一款基于 Qt6 构建的鼠标连点器，仅适用于 Windows 系统。它开箱即用、操作简单，支持自定义鼠标点击间隔和快捷键功能。",
+      "author": "SeaEpoch",
+      "timestamp": 1764316977000,
+      "hot": 959,
+      "url": "https://hellogithub.com/repository/df0a94dc93e0436eac0e34e6f3aa432c",
+      "mobileUrl": "https://hellogithub.com/repository/df0a94dc93e0436eac0e34e6f3aa432c"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-12-21T01:48:31.830838",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786214,
+      "title": "冬天撸猫总是「一路火花带闪电」，猫被静电电到会害怕吗？怎样才能「安全」撸猫？",
+      "cover": "https://picx.zhimg.com/v2-14bca95ff7da06d56ed2d184a5005c0e.jpg?source=8673f162",
+      "author": "猫研所 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786214",
+      "mobileUrl": "https://daily.zhihu.com/story/9786214"
+    },
+    {
+      "id": 9786216,
+      "title": "坏死的肢体必须截掉吗？不截会怎样？",
+      "cover": "https://pic1.zhimg.com/v2-55658022bdcce704b6381d4a2315eb6c.jpg?source=8673f162",
+      "author": "瞻云 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786216",
+      "mobileUrl": "https://daily.zhihu.com/story/9786216"
+    },
+    {
+      "id": 9786226,
+      "title": "为什么长江入海口可以形成如崇明岛一样的面积较大的岛屿，而黄河入海口却没有？",
+      "cover": "https://picx.zhimg.com/v2-22f1d6ad86092dcbe965f77ed6ac128a.jpg?source=8673f162",
+      "author": "免渡河 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786226",
+      "mobileUrl": "https://daily.zhihu.com/story/9786226"
+    },
+    {
+      "id": 9786227,
+      "title": "科学家苦寻 13 年发现全球罕见哈氏大王花，完全寄生无需光合作用，这种花为何这么罕见？还有哪些特点？",
+      "cover": "https://picx.zhimg.com/v2-d414ab16ec0f84e12e4455b5e99ce396.jpg?source=8673f162",
+      "author": "艾比斯 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786227",
+      "mobileUrl": "https://daily.zhihu.com/story/9786227"
+    }
+  ]
+}
