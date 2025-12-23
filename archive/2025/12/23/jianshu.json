@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2025-12-23T01:43:33.305598",
+    "count": 2
+  },
+  "data": [
+    {
+      "id": "ad54a723603e",
+      "title": "一串绿葡萄",
+      "cover": "https://upload-images.jianshu.io/upload_images/3541125-b0d3a5c2d70a0539.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "一个好友发着九张葡萄照片。一串又一串的绿葡萄，勾出了我童年的记忆。还记得小小的我一直渴望着猪圈上的葡萄快快长大，长得圆圆的。也许我心生好奇，对绿...",
+      "author": "岁月的足迹",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/ad54a723603e",
+      "mobileUrl": "https://www.jianshu.com/p/ad54a723603e"
+    },
+    {
+      "id": "e317f0ee21d2",
+      "title": "答读者问(8)：如何批量查询marker基因(对应的蛋白)会不会在膜上表达？",
+      "cover": "https://upload-images.jianshu.io/upload_images/14337454-c4d69f323ed83450.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "做实验的朋友们对这个问题应该是很感兴趣的，因为涉及到后续能不能实验验证。 一般的做法是拿基因名或者蛋白名去查文献，查网站。我知道的：unipro...",
+      "author": "TOP生物信息",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/e317f0ee21d2",
+      "mobileUrl": "https://www.jianshu.com/p/e317f0ee21d2"
+    }
+  ]
+}
