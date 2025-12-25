@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-12-25T01:43:29.603595",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786289,
+      "title": "有什么大家都不知道的动物冷知识？",
+      "cover": "https://picx.zhimg.com/v2-e4302bfa39c2b29fe84c1223cbc820fc.jpg?source=8673f162",
+      "author": "凌泉 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786289",
+      "mobileUrl": "https://daily.zhihu.com/story/9786289"
+    },
+    {
+      "id": 9786287,
+      "title": "为什么APP不能读成A-P-P，但PDF可以读成P-D-F?",
+      "cover": "https://picx.zhimg.com/v2-aa6e271446d1bfdcf78ab5a5e8d98e4b.jpg?source=8673f162",
+      "author": "魏剑峰 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786287",
+      "mobileUrl": "https://daily.zhihu.com/story/9786287"
+    },
+    {
+      "id": 9786288,
+      "title": "从食品科学角度看，被热议的「锅气」究竟是什么？",
+      "cover": "https://pic1.zhimg.com/v2-ad14b598dcb1b125d8cc93b8265d03ba.jpg?source=8673f162",
+      "author": "赵泠 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786288",
+      "mobileUrl": "https://daily.zhihu.com/story/9786288"
+    },
+    {
+      "id": 9786105,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3810",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786105",
+      "mobileUrl": "https://daily.zhihu.com/story/9786105"
+    }
+  ]
+}
