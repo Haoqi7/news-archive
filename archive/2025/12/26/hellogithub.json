@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-12-26T01:43:22.981367",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "dea04077c9984f11bda3efd76ecd873b",
+      "title": "领取你的免费域名",
+      "desc": "该项目是由非营利组织 DigitalPlat 发起，旨在为个人和组织免费提供域名注册服务。用户可注册一个免费域名，并将其托管在 Cloudflare、Hostr",
+      "author": "DigitalPlatDev",
+      "timestamp": 1766736223000,
+      "hot": 75,
+      "url": "https://hellogithub.com/repository/dea04077c9984f11bda3efd76ecd873b",
+      "mobileUrl": "https://hellogithub.com/repository/dea04077c9984f11bda3efd76ecd873b"
+    },
+    {
+      "id": "db7e68a76e804dd99bb86fcf551efa0a",
+      "title": "开源的个人关系管理系统",
+      "desc": "这是一款基于 Laravel 和 Vue.js 构建的个人关系管理系统，可用于记录和管理与朋友、家人之间的互动细节，比如人情往来、生日提醒和活动安排等。",
+      "author": "monicahq",
+      "timestamp": 1766736223000,
+      "hot": 56,
+      "url": "https://hellogithub.com/repository/db7e68a76e804dd99bb86fcf551efa0a",
+      "mobileUrl": "https://hellogithub.com/repository/db7e68a76e804dd99bb86fcf551efa0a"
+    },
+    {
+      "id": "17243dc7dfa744318774d57b7ce6dc5f",
+      "title": "更强大的 Windows 任务管理器",
+      "desc": "这是一款适用于 Windows 平台的高级任务管理工具，相比系统自带的任务管理器，能够实时显示更详细的进程信息，包括线程堆栈、文件句柄和网络连接等。",
+      "author": "DavidXanatos",
+      "timestamp": 1766736223000,
+      "hot": 48,
+      "url": "https://hellogithub.com/repository/17243dc7dfa744318774d57b7ce6dc5f",
+      "mobileUrl": "https://hellogithub.com/repository/17243dc7dfa744318774d57b7ce6dc5f"
+    },
+    {
+      "id": "f3edd6eccdad4e74b1c7311c879cd146",
+      "title": "开箱即用的聊天记录分析工具",
+      "desc": "这是一款本地优先的聊天记录分析工具，无需上传数据到云端（AI 功能除外），支持 SQL 查询和 AI 智能挖掘、回顾个人聊天历史。",
+      "author": "hellodigua",
+      "timestamp": 1766736223000,
+      "hot": 45,
+      "url": "https://hellogithub.com/repository/f3edd6eccdad4e74b1c7311c879cd146",
+      "mobileUrl": "https://hellogithub.com/repository/f3edd6eccdad4e74b1c7311c879cd146"
+    },
+    {
+      "id": "20c7ae0025f94076b3d54dbe33476f68",
+      "title": "小巧的 Windows 硬件监控工具",
+      "desc": "这是一款轻量、可定制的 Windows 硬件监控桌面工具，可实时显示 CPU、GPU、内存、网络等信息，支持任务栏显示、鼠标穿透、多语言和报警等功能。",
+      "author": "Diorser",
+      "timestamp": 1766736223000,
+      "hot": 38,
+      "url": "https://hellogithub.com/repository/20c7ae0025f94076b3d54dbe33476f68",
+      "mobileUrl": "https://hellogithub.com/repository/20c7ae0025f94076b3d54dbe33476f68"
+    },
+    {
+      "id": "97db79f1bce74a0b8e61114e9a3972f7",
+      "title": "HF 的官方 Python 客户端",
+      "desc": "该项目是 Hugging Face 平台官方开源的 Python 客户端，提供了模型、数据集和 Spaces 的下载、上传、管理等功能。",
+      "author": "huggingface",
+      "timestamp": 1766736223000,
+      "hot": 37,
+      "url": "https://hellogithub.com/repository/97db79f1bce74a0b8e61114e9a3972f7",
+      "mobileUrl": "https://hellogithub.com/repository/97db79f1bce74a0b8e61114e9a3972f7"
+    },
+    {
+      "id": "13ae48127d1446e3bbf271a09f8c9ea3",
+      "title": "面向 AI 编程工具的记忆系统",
+      "desc": "该项目是专为 AI 编程工具设计的记忆系统，采用 Git 和 JSON 作为持久化存储，为 AI 编程智能体提供长期、结构化的记忆，解决其在处理长周期、复杂编程",
+      "author": "steveyegge",
+      "timestamp": 1766736223000,
+      "hot": 31,
+      "url": "https://hellogithub.com/repository/13ae48127d1446e3bbf271a09f8c9ea3",
+      "mobileUrl": "https://hellogithub.com/repository/13ae48127d1446e3bbf271a09f8c9ea3"
+    },
+    {
+      "id": "d2af74f0aea146ad8e4b2086982f5777",
+      "title": "沉浸式桌面歌词显示工具",
+      "desc": "这是一款专为 Windows 设计的沉浸式歌词显示工具，能够自动识别播放器正在播放的音乐，实时检索本地或在线歌词，并通过流畅动画美观地展示在桌面上。",
+      "author": "jayfunc",
+      "timestamp": 1766736223000,
+      "hot": 31,
+      "url": "https://hellogithub.com/repository/d2af74f0aea146ad8e4b2086982f5777",
+      "mobileUrl": "https://hellogithub.com/repository/d2af74f0aea146ad8e4b2086982f5777"
+    },
+    {
+      "id": "7dfb1883330d441f9264d8e8945c75e2",
+      "title": "一键将 AI 生成内容粘贴到 Word",
+      "desc": "这是一款基于 Python 的 Windows 托盘工具，可自动将剪贴板中的 Markdown 和网页 AI 的富文本回复，通过 Pandoc 转换为 DOCX",
+      "author": "RICHQAQ",
+      "timestamp": 1766736223000,
+      "hot": 25,
+      "url": "https://hellogithub.com/repository/7dfb1883330d441f9264d8e8945c75e2",
+      "mobileUrl": "https://hellogithub.com/repository/7dfb1883330d441f9264d8e8945c75e2"
+    },
+    {
+      "id": "256611bdb13b43da8b6a83843eaef4e3",
+      "title": "Gmail 邮箱清理工具",
+      "desc": "这是一款开源、注重隐私的 Gmail 批量清理工具，帮助用户快速整理收件箱。它基于 FastAPI 构建，提供 Web 界面，支持批量退订、删除、归档、标签管理",
+      "author": "Gururagavendra",
+      "timestamp": 1766736223000,
+      "hot": 25,
+      "url": "https://hellogithub.com/repository/256611bdb13b43da8b6a83843eaef4e3",
+      "mobileUrl": "https://hellogithub.com/repository/256611bdb13b43da8b6a83843eaef4e3"
+    },
+    {
+      "id": "1b127af0ff114f17b796318d883515b0",
+      "title": "让你在键盘上安心吃泡面的小工具",
+      "desc": "这是一款用于临时屏蔽笔记本键盘和鼠标输入的 Windows 工具。它采用 AutoHotkey 开发，界面简洁美观，一键即可屏蔽键盘输入，让你在清理键盘、做笔记",
+      "author": "Nigh",
+      "timestamp": 1766736223000,
+      "hot": 23,
+      "url": "https://hellogithub.com/repository/1b127af0ff114f17b796318d883515b0",
+      "mobileUrl": "https://hellogithub.com/repository/1b127af0ff114f17b796318d883515b0"
+    },
+    {
+      "id": "d354571e2cf24f3ca71ff151f2e5f333",
+      "title": "极简零依赖 PDF 生成库",
+      "desc": "这是一个用 TypeScript 开发的 PDF 生成库，压缩后体积仅 3.3KB，核心代码不到 400 行。它删除了自定义字体、图片、压缩等非必要功能，适用于",
+      "author": "Lulzx",
+      "timestamp": 1766736223000,
+      "hot": 23,
+      "url": "https://hellogithub.com/repository/d354571e2cf24f3ca71ff151f2e5f333",
+      "mobileUrl": "https://hellogithub.com/repository/d354571e2cf24f3ca71ff151f2e5f333"
+    },
+    {
+      "id": "a6b9e2e37b6349f4acee24e1dbf4bd83",
+      "title": "无需发邮件验证邮箱有效性的工具",
+      "desc": "这是一款用 Rust 开发的邮箱验证工具，通过正则表达式、DNS、SMTP 等多重校验，在不发送邮件的情况下验证邮箱有效性，支持 API 和 CLI 等使用方式",
+      "author": "reacherhq",
+      "timestamp": 1766736223000,
+      "hot": 21,
+      "url": "https://hellogithub.com/repository/a6b9e2e37b6349f4acee24e1dbf4bd83",
+      "mobileUrl": "https://hellogithub.com/repository/a6b9e2e37b6349f4acee24e1dbf4bd83"
+    },
+    {
+      "id": "8f6dcbc33c9a4b50a5885d7a84f01699",
+      "title": "适用于 Android 的代码编辑器",
+      "desc": "这是一款开源的 Android 文本与代码编辑器，内置 Termux 终端可运行 Python 和 Node.js，支持 200+ 编程语言语法高亮、自动缩进和",
+      "author": "Xed-Editor",
+      "timestamp": 1766736223000,
+      "hot": 20,
+      "url": "https://hellogithub.com/repository/8f6dcbc33c9a4b50a5885d7a84f01699",
+      "mobileUrl": "https://hellogithub.com/repository/8f6dcbc33c9a4b50a5885d7a84f01699"
+    },
+    {
+      "id": "c6d5e2e476fd416eaa1fb67975d0d103",
+      "title": "多功能 Web 代码编辑器组件",
+      "desc": "该项目是知名 Web 代码编辑器组件 CodeMirror 的核心开发仓库。通过 npm 即可安装，轻松开发出一个可扩展、易用的代码编辑器，支持语法高亮、自动补",
+      "author": "codemirror",
+      "timestamp": 1766736223000,
+      "hot": 20,
+      "url": "https://hellogithub.com/repository/c6d5e2e476fd416eaa1fb67975d0d103",
+      "mobileUrl": "https://hellogithub.com/repository/c6d5e2e476fd416eaa1fb67975d0d103"
+    },
+    {
+      "id": "c8a0ee51918e4353af08012b8472b85e",
+      "title": "AI 驱动的 PPT 生成工具",
+      "desc": "该项目基于 Nano Banana Pro API，能够根据用户的想法、大纲或文档（如 PDF、Markdown）自动生成结构清晰、排版精美的 PPT，并支持通",
+      "author": "Anionex",
+      "timestamp": 1766736223000,
+      "hot": 20,
+      "url": "https://hellogithub.com/repository/c8a0ee51918e4353af08012b8472b85e",
+      "mobileUrl": "https://hellogithub.com/repository/c8a0ee51918e4353af08012b8472b85e"
+    },
+    {
+      "id": "41276084ee244295a4ca38239816696c",
+      "title": "开箱即用的网速测试工具",
+      "desc": "这是一款开源、轻量级的网络速度监控与统计工具，支持定期执行网速测试并生成统计图表，最多保留 30 天的历史数据。",
+      "author": "gnmyt",
+      "timestamp": 1766736223000,
+      "hot": 19,
+      "url": "https://hellogithub.com/repository/41276084ee244295a4ca38239816696c",
+      "mobileUrl": "https://hellogithub.com/repository/41276084ee244295a4ca38239816696c"
+    },
+    {
+      "id": "108effe824ed4273b4cb8b00014f878a",
+      "title": "局域网设备唤醒工具",
+      "desc": "这是一款可自托管的网络唤醒 Web 应用，支持一键唤醒局域网内设备、端口状态监控、定时自动开机和网络设备自动发现功能。",
+      "author": "seriousm4x",
+      "timestamp": 1766736223000,
+      "hot": 18,
+      "url": "https://hellogithub.com/repository/108effe824ed4273b4cb8b00014f878a",
+      "mobileUrl": "https://hellogithub.com/repository/108effe824ed4273b4cb8b00014f878a"
+    },
+    {
+      "id": "fb9ee95577b04e9d9799d2c8a173c347",
+      "title": "告别内存溢出的 Java 电子表格处理库",
+      "desc": "这是一个高性能、低内存占用的 Java 电子表格处理库，基于 Apache POI 做了优化和封装，通过流式读取有效避免处理大文件时的 OOM 问题。",
+      "author": "apache",
+      "timestamp": 1766736223000,
+      "hot": 17,
+      "url": "https://hellogithub.com/repository/fb9ee95577b04e9d9799d2c8a173c347",
+      "mobileUrl": "https://hellogithub.com/repository/fb9ee95577b04e9d9799d2c8a173c347"
+    },
+    {
+      "id": "b8a4f1a1076a4f83bdd13959f10c6eb5",
+      "title": "极简轻量级 JavaScript 框架",
+      "desc": "这是一个轻量级、极简的 JavaScript 框架，专为前端交互设计，提供类似 Vue 的声明式语法，但无需构建工具，可直接在 HTML 中使用。适用于为静态页",
+      "author": "alpinejs",
+      "timestamp": 1766736223000,
+      "hot": 17,
+      "url": "https://hellogithub.com/repository/b8a4f1a1076a4f83bdd13959f10c6eb5",
+      "mobileUrl": "https://hellogithub.com/repository/b8a4f1a1076a4f83bdd13959f10c6eb5"
+    }
+  ]
+}
