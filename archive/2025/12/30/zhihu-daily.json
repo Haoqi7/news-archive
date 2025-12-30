@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-12-30T01:43:58.025022",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786384,
+      "title": "快乐真的是因为大脑分泌多巴胺吗？",
+      "cover": null,
+      "author": "瞻云 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786384",
+      "mobileUrl": "https://daily.zhihu.com/story/9786384"
+    },
+    {
+      "id": 9786381,
+      "title": "人们都说「吃甜食会让人心情变好」，甜食真的能刺激大脑分泌快乐激素，改善情绪吗？",
+      "cover": "https://pic1.zhimg.com/v2-bee47b7db14bc9d3d578e711b9133347.jpg?source=8673f162",
+      "author": "高sir · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786381",
+      "mobileUrl": "https://daily.zhihu.com/story/9786381"
+    },
+    {
+      "id": 9786382,
+      "title": "有哪些奇特的繁衍或繁殖方式？",
+      "cover": "https://pica.zhimg.com/v2-d5c85cd10c330540a16f4c965d4a7e75.jpg?source=8673f162",
+      "author": "小星有鬼 · 8 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786382",
+      "mobileUrl": "https://daily.zhihu.com/story/9786382"
+    },
+    {
+      "id": 9786123,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3813",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786123",
+      "mobileUrl": "https://daily.zhihu.com/story/9786123"
+    }
+  ]
+}
