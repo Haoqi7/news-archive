@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2025-12-31T01:44:42.700665",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786402,
+      "title": "从生物进化的角度来看，酒的存在有什么意义？",
+      "cover": "https://picx.zhimg.com/v2-0dc03789d77d2f5453de173b696e51c3.jpg?source=8673f162",
+      "author": "云杉 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786402",
+      "mobileUrl": "https://daily.zhihu.com/story/9786402"
+    },
+    {
+      "id": 9786392,
+      "title": "鳄鱼冬眠为什么要将自己冻在水里？",
+      "cover": "https://picx.zhimg.com/v2-f65c4a9a4ee27865892dc5c906b1df95.jpg?source=8673f162",
+      "author": "苏澄宇 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786392",
+      "mobileUrl": "https://daily.zhihu.com/story/9786392"
+    },
+    {
+      "id": 9786393,
+      "title": "同样都是小麦，为什么西方发明的是面包，而中国却拿去做了馒头？",
+      "cover": "https://picx.zhimg.com/v2-db2a88feb45961ed2ec0286dc96be907.jpg?source=8673f162",
+      "author": "非凡 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786393",
+      "mobileUrl": "https://daily.zhihu.com/story/9786393"
+    },
+    {
+      "id": 9786128,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3814",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786128",
+      "mobileUrl": "https://daily.zhihu.com/story/9786128"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2025-12-31T01:45:07.547279",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "20c7ae0025f94076b3d54dbe33476f68",
+      "title": "小巧的 Windows 硬件监控工具",
+      "desc": "这是一款轻量、可定制的 Windows 硬件监控桌面工具，可实时显示 CPU、GPU、内存、网络等信息，支持任务栏显示、鼠标穿透、多语言和报警等功能。",
+      "author": "Diorser",
+      "timestamp": 1766736223000,
+      "hot": 1298,
+      "url": "https://hellogithub.com/repository/20c7ae0025f94076b3d54dbe33476f68",
+      "mobileUrl": "https://hellogithub.com/repository/20c7ae0025f94076b3d54dbe33476f68"
+    },
+    {
+      "id": "dea04077c9984f11bda3efd76ecd873b",
+      "title": "领取你的免费域名",
+      "desc": "该项目是由非营利组织 DigitalPlat 发起，旨在为个人和组织免费提供域名注册服务。用户可注册一个免费域名，并将其托管在 Cloudflare、Hostr",
+      "author": "DigitalPlatDev",
+      "timestamp": 1766736223000,
+      "hot": 1366,
+      "url": "https://hellogithub.com/repository/dea04077c9984f11bda3efd76ecd873b",
+      "mobileUrl": "https://hellogithub.com/repository/dea04077c9984f11bda3efd76ecd873b"
+    },
+    {
+      "id": "d2af74f0aea146ad8e4b2086982f5777",
+      "title": "沉浸式桌面歌词显示工具",
+      "desc": "这是一款专为 Windows 设计的沉浸式歌词显示工具，能够自动识别播放器正在播放的音乐，实时检索本地或在线歌词，并通过流畅动画美观地展示在桌面上。",
+      "author": "jayfunc",
+      "timestamp": 1766736223000,
+      "hot": 921,
+      "url": "https://hellogithub.com/repository/d2af74f0aea146ad8e4b2086982f5777",
+      "mobileUrl": "https://hellogithub.com/repository/d2af74f0aea146ad8e4b2086982f5777"
+    },
+    {
+      "id": "c8a0ee51918e4353af08012b8472b85e",
+      "title": "AI 驱动的 PPT 生成工具",
+      "desc": "该项目基于 Nano Banana Pro API，能够根据用户的想法、大纲或文档（如 PDF、Markdown）自动生成结构清晰、排版精美的 PPT，并支持通",
+      "author": "Anionex",
+      "timestamp": 1766736223000,
+      "hot": 869,
+      "url": "https://hellogithub.com/repository/c8a0ee51918e4353af08012b8472b85e",
+      "mobileUrl": "https://hellogithub.com/repository/c8a0ee51918e4353af08012b8472b85e"
+    },
+    {
+      "id": "89dd575abef147188252e25675feb7aa",
+      "title": "图解大模型技术原理",
+      "desc": "该项目包含 100 多张大模型技术原理图，系统介绍了大模型和强化学习，内容涵盖 LLM/VLM 大模型结构、训练算法（RL、RLHF、GRPO、DPO、SFT、",
+      "author": "changyeyu",
+      "timestamp": 1766736223000,
+      "hot": 510,
+      "url": "https://hellogithub.com/repository/89dd575abef147188252e25675feb7aa",
+      "mobileUrl": "https://hellogithub.com/repository/89dd575abef147188252e25675feb7aa"
+    },
+    {
+      "id": "f3edd6eccdad4e74b1c7311c879cd146",
+      "title": "开箱即用的聊天记录分析工具",
+      "desc": "这是一款本地优先的聊天记录分析工具，无需上传数据到云端（AI 功能除外），支持 SQL 查询和 AI 智能挖掘、回顾个人聊天历史。",
+      "author": "hellodigua",
+      "timestamp": 1766736223000,
+      "hot": 748,
+      "url": "https://hellogithub.com/repository/f3edd6eccdad4e74b1c7311c879cd146",
+      "mobileUrl": "https://hellogithub.com/repository/f3edd6eccdad4e74b1c7311c879cd146"
+    },
+    {
+      "id": "a95f4a4830bc4a69b56f96ac7efaacf8",
+      "title": "跨平台的 GitHub 应用商店",
+      "desc": "这是一款基于 Kotlin 开发的跨平台开源应用商店客户端，支持一键发现热门开源项目、下载安装包（如 APK、EXE、DMG 等），以及追踪已安装应用并提示更新",
+      "author": "rainxchzed",
+      "timestamp": 1766736223000,
+      "hot": 634,
+      "url": "https://hellogithub.com/repository/a95f4a4830bc4a69b56f96ac7efaacf8",
+      "mobileUrl": "https://hellogithub.com/repository/a95f4a4830bc4a69b56f96ac7efaacf8"
+    },
+    {
+      "id": "41276084ee244295a4ca38239816696c",
+      "title": "开箱即用的网速测试工具",
+      "desc": "这是一款开源、轻量级的网络速度监控与统计工具，支持定期执行网速测试并生成统计图表，最多保留 30 天的历史数据。",
+      "author": "gnmyt",
+      "timestamp": 1766736223000,
+      "hot": 562,
+      "url": "https://hellogithub.com/repository/41276084ee244295a4ca38239816696c",
+      "mobileUrl": "https://hellogithub.com/repository/41276084ee244295a4ca38239816696c"
+    },
+    {
+      "id": "108effe824ed4273b4cb8b00014f878a",
+      "title": "局域网设备唤醒工具",
+      "desc": "这是一款可自托管的网络唤醒 Web 应用，支持一键唤醒局域网内设备、端口状态监控、定时自动开机和网络设备自动发现功能。",
+      "author": "seriousm4x",
+      "timestamp": 1766736223000,
+      "hot": 491,
+      "url": "https://hellogithub.com/repository/108effe824ed4273b4cb8b00014f878a",
+      "mobileUrl": "https://hellogithub.com/repository/108effe824ed4273b4cb8b00014f878a"
+    },
+    {
+      "id": "db7e68a76e804dd99bb86fcf551efa0a",
+      "title": "开源的个人关系管理系统",
+      "desc": "这是一款基于 Laravel 和 Vue.js 构建的个人关系管理系统，可用于记录和管理与朋友、家人之间的互动细节，比如人情往来、生日提醒和活动安排等。",
+      "author": "monicahq",
+      "timestamp": 1766736223000,
+      "hot": 669,
+      "url": "https://hellogithub.com/repository/db7e68a76e804dd99bb86fcf551efa0a",
+      "mobileUrl": "https://hellogithub.com/repository/db7e68a76e804dd99bb86fcf551efa0a"
+    },
+    {
+      "id": "fd1e080847844c9691e12116195b6908",
+      "title": "像写代码一样制作你的简历",
+      "desc": "这是一款基于 Typst 的简历生成器，专为程序员、学生和学术研究人员设计。只需要编写纯文本 YAML 文件，即可一键生成排版精美、专业的 PDF 简历。",
+      "author": "rendercv",
+      "timestamp": 1766736223000,
+      "hot": 483,
+      "url": "https://hellogithub.com/repository/fd1e080847844c9691e12116195b6908",
+      "mobileUrl": "https://hellogithub.com/repository/fd1e080847844c9691e12116195b6908"
+    },
+    {
+      "id": "97db79f1bce74a0b8e61114e9a3972f7",
+      "title": "HF 的官方 Python 客户端",
+      "desc": "该项目是 Hugging Face 平台官方开源的 Python 客户端，提供了模型、数据集和 Spaces 的下载、上传、管理等功能。",
+      "author": "huggingface",
+      "timestamp": 1766736223000,
+      "hot": 356,
+      "url": "https://hellogithub.com/repository/97db79f1bce74a0b8e61114e9a3972f7",
+      "mobileUrl": "https://hellogithub.com/repository/97db79f1bce74a0b8e61114e9a3972f7"
+    },
+    {
+      "id": "6e4890ff04494c38900eddb168286ba9",
+      "title": "开箱即用的 Java 应用镜像构建工具",
+      "desc": "该项目是 Google 开源的 Java 应用容器镜像构建工具，无需运行 Docker 或编写 Dockerfile 即可构建镜像，提供 Maven/Gradl",
+      "author": "GoogleContainerTools",
+      "timestamp": 1766736223000,
+      "hot": 335,
+      "url": "https://hellogithub.com/repository/6e4890ff04494c38900eddb168286ba9",
+      "mobileUrl": "https://hellogithub.com/repository/6e4890ff04494c38900eddb168286ba9"
+    },
+    {
+      "id": "a6b9e2e37b6349f4acee24e1dbf4bd83",
+      "title": "无需发邮件验证邮箱有效性的工具",
+      "desc": "这是一款用 Rust 开发的邮箱验证工具，通过正则表达式、DNS、SMTP 等多重校验，在不发送邮件的情况下验证邮箱有效性，支持 API 和 CLI 等使用方式",
+      "author": "reacherhq",
+      "timestamp": 1766736223000,
+      "hot": 365,
+      "url": "https://hellogithub.com/repository/a6b9e2e37b6349f4acee24e1dbf4bd83",
+      "mobileUrl": "https://hellogithub.com/repository/a6b9e2e37b6349f4acee24e1dbf4bd83"
+    },
+    {
+      "id": "b8a4f1a1076a4f83bdd13959f10c6eb5",
+      "title": "极简轻量级 JavaScript 框架",
+      "desc": "这是一个轻量级、极简的 JavaScript 框架，专为前端交互设计，提供类似 Vue 的声明式语法，但无需构建工具，可直接在 HTML 中使用。适用于为静态页",
+      "author": "alpinejs",
+      "timestamp": 1766736223000,
+      "hot": 268,
+      "url": "https://hellogithub.com/repository/b8a4f1a1076a4f83bdd13959f10c6eb5",
+      "mobileUrl": "https://hellogithub.com/repository/b8a4f1a1076a4f83bdd13959f10c6eb5"
+    },
+    {
+      "id": "c375f495416847669029ab0d07184589",
+      "title": "纯文字的太空策略游戏",
+      "desc": "这是一款基于 TypeScript 和 Vue 3 构建的纯文字太空策略游戏，灵感源自经典的 OGame 银河帝国游戏。玩家将在银河系中建设行星与月球、发展科技",
+      "author": "setube",
+      "timestamp": 1766736223000,
+      "hot": 416,
+      "url": "https://hellogithub.com/repository/c375f495416847669029ab0d07184589",
+      "mobileUrl": "https://hellogithub.com/repository/c375f495416847669029ab0d07184589"
+    },
+    {
+      "id": "0424c52c57e34dbcb17252031440bd9e",
+      "title": "Rust 高性能命令行日志查看器",
+      "desc": "这是一款 Rust 写的高性能命令行日志查看和处理工具，能够将 JSON 和 logfmt 格式的结构化日志转换为高亮且易于人类阅读的格式。",
+      "author": "pamburus",
+      "timestamp": 1766736223000,
+      "hot": 242,
+      "url": "https://hellogithub.com/repository/0424c52c57e34dbcb17252031440bd9e",
+      "mobileUrl": "https://hellogithub.com/repository/0424c52c57e34dbcb17252031440bd9e"
+    },
+    {
+      "id": "9965ef6b792e4d63981f47a3f426adf0",
+      "title": "极简的 UWP 视频播放器",
+      "desc": "这是一款基于 LibVLCSharp 构建的视频播放器，拥有美观简洁的界面和流畅的播放体验，支持触屏、画中画、视频截图和投屏等功能，适用于 Windows 10",
+      "author": "huynhsontung",
+      "timestamp": 1766736223000,
+      "hot": 208,
+      "url": "https://hellogithub.com/repository/9965ef6b792e4d63981f47a3f426adf0",
+      "mobileUrl": "https://hellogithub.com/repository/9965ef6b792e4d63981f47a3f426adf0"
+    },
+    {
+      "id": "980eb0e2df5f4ffcbe289e0287003317",
+      "title": "RAG 应用自动化评测框架",
+      "desc": "这是一个专门用于评测和优化 RAG 应用的开源框架，提供客观、可量化的评测结果，并支持自动生成测试数据集。",
+      "author": "vibrantlabsai",
+      "timestamp": 1766736223000,
+      "hot": 187,
+      "url": "https://hellogithub.com/repository/980eb0e2df5f4ffcbe289e0287003317",
+      "mobileUrl": "https://hellogithub.com/repository/980eb0e2df5f4ffcbe289e0287003317"
+    },
+    {
+      "id": "c6d5e2e476fd416eaa1fb67975d0d103",
+      "title": "多功能 Web 代码编辑器组件",
+      "desc": "该项目是知名 Web 代码编辑器组件 CodeMirror 的核心开发仓库。通过 npm 即可安装，轻松开发出一个可扩展、易用的代码编辑器，支持语法高亮、自动补",
+      "author": "codemirror",
+      "timestamp": 1766736223000,
+      "hot": 350,
+      "url": "https://hellogithub.com/repository/c6d5e2e476fd416eaa1fb67975d0d103",
+      "mobileUrl": "https://hellogithub.com/repository/c6d5e2e476fd416eaa1fb67975d0d103"
+    }
+  ]
+}
