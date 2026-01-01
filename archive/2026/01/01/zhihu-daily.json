@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-01T01:54:24.536274",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786424,
+      "title": "长款羽绒服的羽毛沉到下摆，是制作的问题吗？",
+      "cover": "https://pica.zhimg.com/v2-d237eb340035386c2894f4c42d74deff.jpg?source=8673f162",
+      "author": "梁燃 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786424",
+      "mobileUrl": "https://daily.zhihu.com/story/9786424"
+    },
+    {
+      "id": 9786409,
+      "title": "人类幼崽为什么不进化出像猫那样的后颈皮?",
+      "cover": "https://picx.zhimg.com/v2-c0356e14d96a03484575fcb33ca36aec.jpg?source=8673f162",
+      "author": "苏澄宇 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786409",
+      "mobileUrl": "https://daily.zhihu.com/story/9786409"
+    },
+    {
+      "id": 9786415,
+      "title": "思考就是一个在大脑中「对自己讲话」的过程吗？",
+      "cover": "https://picx.zhimg.com/v2-0e0847950938ebc617204eb885841488.jpg?source=8673f162",
+      "author": "解磊 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786415",
+      "mobileUrl": "https://daily.zhihu.com/story/9786415"
+    },
+    {
+      "id": 9786426,
+      "title": "为什么只有葡萄被大量用于酿酒，其他水果却没有？",
+      "cover": "https://pic1.zhimg.com/v2-a15dbd2359e84c6b1791e38aa76f91db.jpg?source=8673f162",
+      "author": "企鹅将军 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786426",
+      "mobileUrl": "https://daily.zhihu.com/story/9786426"
+    }
+  ]
+}
