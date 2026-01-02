@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-02T01:45:45.885905",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786443,
+      "title": "大脑消耗糖分这么多，为什么没有动脑减肥法？",
+      "cover": "https://picx.zhimg.com/v2-d0a381a3545bff6030704ffac1fc6ef5.jpg?source=8673f162",
+      "author": "云杉 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786443",
+      "mobileUrl": "https://daily.zhihu.com/story/9786443"
+    },
+    {
+      "id": 9786434,
+      "title": "白蚁是一种蟑螂吗？如果是，为什么习性差异这么大？",
+      "cover": "https://pica.zhimg.com/v2-02bbfc070597e06b14062a577017e9a2.jpg?source=8673f162",
+      "author": "斜绿天蛾 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786434",
+      "mobileUrl": "https://daily.zhihu.com/story/9786434"
+    },
+    {
+      "id": 9786436,
+      "title": "人类是什么时候发现了时差的存在？",
+      "cover": "https://pic1.zhimg.com/v2-8718bc57106f7d153509d78db3298092.jpg?source=8673f162",
+      "author": "晴耕雨读的浣熊君 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786436",
+      "mobileUrl": "https://daily.zhihu.com/story/9786436"
+    },
+    {
+      "id": 9786438,
+      "title": "为什么「旧金山」的译名流传了下来，但「新金山」（墨尔本）则没有？",
+      "cover": "https://pic1.zhimg.com/v2-a1fd67c3f6503fcedd38fe513aab72d1.jpg?source=8673f162",
+      "author": "晴耕雨读的浣熊君 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786438",
+      "mobileUrl": "https://daily.zhihu.com/story/9786438"
+    }
+  ]
+}
