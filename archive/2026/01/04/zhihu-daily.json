@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-04T01:54:47.873363",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786475,
+      "title": "宇宙本身是什么颜色的？",
+      "cover": "https://picx.zhimg.com/v2-59ae16dc8bb2f2624086dcd58247edf1.jpg?source=8673f162",
+      "author": "苏澄宇 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786475",
+      "mobileUrl": "https://daily.zhihu.com/story/9786475"
+    },
+    {
+      "id": 9786483,
+      "title": "「女性生殖、尿道和排泄是分离的，男性却是尿道和生殖二合一的，所以女人比男人进化的高级」，这种说法有科学依据吗？",
+      "cover": "https://pic1.zhimg.com/v2-a388b279096d0ad4bca55b22aeab618a.jpg?source=8673f162",
+      "author": "瞻云 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786483",
+      "mobileUrl": "https://daily.zhihu.com/story/9786483"
+    },
+    {
+      "id": 9786491,
+      "title": "为什么有长颈鹿，没有长颈马，长颈牛?",
+      "cover": "https://pic1.zhimg.com/v2-962a64d590d648cdb58f4bba399c3932.jpg?source=8673f162",
+      "author": "三眼乌鸦 · 10 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786491",
+      "mobileUrl": "https://daily.zhihu.com/story/9786491"
+    },
+    {
+      "id": 9786495,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3815",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786495",
+      "mobileUrl": "https://daily.zhihu.com/story/9786495"
+    }
+  ]
+}
