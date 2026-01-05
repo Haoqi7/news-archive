@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-05T01:54:41.397071",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786548,
+      "title": "为什么人类会进化出如此娇嫩的脚呢？",
+      "cover": "https://pic1.zhimg.com/v2-6e496089348f0bbb912a9c4cf2427fa1.jpg?source=8673f162",
+      "author": "瞻云 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786548",
+      "mobileUrl": "https://daily.zhihu.com/story/9786548"
+    },
+    {
+      "id": 9786557,
+      "title": "人类是否无法想象出没见过的东西？",
+      "cover": "https://picx.zhimg.com/v2-4bd16bb976e6d39eb9cba9012e772ff4.jpg?source=8673f162",
+      "author": "云杉 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786557",
+      "mobileUrl": "https://daily.zhihu.com/story/9786557"
+    },
+    {
+      "id": 9786564,
+      "title": "战争对动物的影响如何？",
+      "cover": "https://picx.zhimg.com/v2-41dc2159cbf841bfcf6431a2ba324bec.jpg?source=8673f162",
+      "author": "fyfyhff · 6 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786564",
+      "mobileUrl": "https://daily.zhihu.com/story/9786564"
+    },
+    {
+      "id": 9786503,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3816",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786503",
+      "mobileUrl": "https://daily.zhihu.com/story/9786503"
+    }
+  ]
+}
