@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-07T01:45:34.965959",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786591,
+      "title": "都说长得越快的树木越不成材，但为什么竹子长那么快强度却很好，甚至可以用来做建材呢？",
+      "cover": "https://picx.zhimg.com/v2-2194b223f0b91dda92dfe652b0308ca3.jpg?source=8673f162",
+      "author": "冯海峰 · 14 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786591",
+      "mobileUrl": "https://daily.zhihu.com/story/9786591"
+    },
+    {
+      "id": 9786593,
+      "title": "人类体能在自然界同体型动物中似乎都很弱，在发明热武器以前如何在自然界中存活？",
+      "cover": "https://picx.zhimg.com/v2-72cd9c4eb7b91930be65d46241424893.jpg?source=8673f162",
+      "author": "赵泠 · 9 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786593",
+      "mobileUrl": "https://daily.zhihu.com/story/9786593"
+    },
+    {
+      "id": 9786597,
+      "title": "科学家培育出「不用挑刺」的鲫鱼，称口感没有变化，这种鱼是怎么培育出来的？离上餐桌还有多远？",
+      "cover": "https://picx.zhimg.com/v2-26c574606e052bbe0ab0ba3092018a52.jpg?source=8673f162",
+      "author": "孙悦礼 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786597",
+      "mobileUrl": "https://daily.zhihu.com/story/9786597"
+    },
+    {
+      "id": 9786588,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3818",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786588",
+      "mobileUrl": "https://daily.zhihu.com/story/9786588"
+    }
+  ]
+}
