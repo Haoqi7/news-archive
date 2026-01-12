@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-12T01:51:12.329919",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786707,
+      "title": "为什么地球不会往下掉？",
+      "cover": "https://pic1.zhimg.com/v2-5ce5fed51aee584d4fb1e3defe3e85ac.jpg?source=8673f162",
+      "author": "宇宙-观察 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786707",
+      "mobileUrl": "https://daily.zhihu.com/story/9786707"
+    },
+    {
+      "id": 9786717,
+      "title": "男生健身应该着重锻炼哪些肌肉？",
+      "cover": "https://picx.zhimg.com/v2-82b6b0e1ced1cd22aa3e88a82e984f1e.jpg?source=8673f162",
+      "author": "孙悦礼 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786717",
+      "mobileUrl": "https://daily.zhihu.com/story/9786717"
+    },
+    {
+      "id": 9786978,
+      "title": "一只霸王龙穿越到现在的非洲大草原会发生什么？",
+      "cover": "https://picx.zhimg.com/v2-23e2e8788de91963b63cea7b3d616e0a.jpg?source=8673f162",
+      "author": "剁椒鹿 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786978",
+      "mobileUrl": "https://daily.zhihu.com/story/9786978"
+    },
+    {
+      "id": 9786520,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3821",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786520",
+      "mobileUrl": "https://daily.zhihu.com/story/9786520"
+    }
+  ]
+}
