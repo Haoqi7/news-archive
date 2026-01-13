@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-13T01:43:02.254430",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786727,
+      "title": "如何提高自制力？",
+      "cover": "https://picx.zhimg.com/v2-cbc7a574a619754d0515678105d44c9d.jpg?source=8673f162",
+      "author": "edmond · 61 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786727",
+      "mobileUrl": "https://daily.zhihu.com/story/9786727"
+    },
+    {
+      "id": 9786732,
+      "title": "为什么湖面结冰后鱼还能活下去？",
+      "cover": "https://picx.zhimg.com/v2-000801ed615995a788f93a7910d0f86c.jpg?source=8673f162",
+      "author": "苏澄宇 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786732",
+      "mobileUrl": "https://daily.zhihu.com/story/9786732"
+    },
+    {
+      "id": 9786738,
+      "title": "月球到底是如何形成的？",
+      "cover": "https://pic1.zhimg.com/v2-cd04454592a3691464eac266d91aeb95.jpg?source=8673f162",
+      "author": "七小七 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786738",
+      "mobileUrl": "https://daily.zhihu.com/story/9786738"
+    },
+    {
+      "id": 9786532,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3822",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786532",
+      "mobileUrl": "https://daily.zhihu.com/story/9786532"
+    }
+  ]
+}
