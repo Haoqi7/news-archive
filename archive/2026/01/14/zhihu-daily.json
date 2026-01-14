@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-14T01:50:00.825324",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786740,
+      "title": "如果地球上的能源即将枯竭，会迫使全人类再一次引发航天科技大爆发吗？",
+      "cover": "https://pic1.zhimg.com/v2-1658caa3de22d5cd0f8259ecdbd5c021.jpg?source=8673f162",
+      "author": "赵泠 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786740",
+      "mobileUrl": "https://daily.zhihu.com/story/9786740"
+    },
+    {
+      "id": 9786741,
+      "title": "为什么我们总是容易陷入对「没有产出」的焦虑之中？",
+      "cover": "https://picx.zhimg.com/v2-224922d808e8cb494b529cf71e1421de.jpg?source=8673f162",
+      "author": "邢乎 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786741",
+      "mobileUrl": "https://daily.zhihu.com/story/9786741"
+    },
+    {
+      "id": 9786747,
+      "title": "同样是猫科，为什么猫的耳朵是尖的，老虎的耳朵却是圆的？",
+      "cover": "https://picx.zhimg.com/v2-70ab0811296ee3ccc5990fbcfa75d30d.jpg?source=8673f162",
+      "author": "苏澄宇 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786747",
+      "mobileUrl": "https://daily.zhihu.com/story/9786747"
+    },
+    {
+      "id": 9786981,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3823",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786981",
+      "mobileUrl": "https://daily.zhihu.com/story/9786981"
+    }
+  ]
+}
