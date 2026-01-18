@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-18T01:53:27.694093",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786803,
+      "title": "有的鸟类能飞到万米高空，不会高反或者冻死吗？",
+      "cover": "https://pic1.zhimg.com/v2-95f621bec1946b4c6fe40f1f96188a1c.jpg?source=8673f162",
+      "author": "苏澄宇 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786803",
+      "mobileUrl": "https://daily.zhihu.com/story/9786803"
+    },
+    {
+      "id": 9786804,
+      "title": "零下 40℃，蒙古人住蒙古包里为啥不觉得冷？",
+      "cover": "https://pica.zhimg.com/v2-01c673b83a2be0d1806424e55266b95a.jpg?source=8673f162",
+      "author": "王洪江 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786804",
+      "mobileUrl": "https://daily.zhihu.com/story/9786804"
+    },
+    {
+      "id": 9786813,
+      "title": "为什么大部分东西旧了就会变黄而不是变蓝？这是什么科学道理？",
+      "cover": "https://picx.zhimg.com/v2-a6d4790c6c0e6fbec3d9ea820e0220a2.jpg?source=8673f162",
+      "author": "苏澄宇 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786813",
+      "mobileUrl": "https://daily.zhihu.com/story/9786813"
+    },
+    {
+      "id": 9787028,
+      "title": "土壤并没有密封作用，海水为什么能留在地表，没有渗入到地心内部呢？",
+      "cover": "https://picx.zhimg.com/v2-f4bfd0aa21261418f604e44ecb91404b.jpg?source=8673f162",
+      "author": "繁星与辰 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787028",
+      "mobileUrl": "https://daily.zhihu.com/story/9787028"
+    }
+  ]
+}
