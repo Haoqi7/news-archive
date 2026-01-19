@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-19T01:51:45.420597",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786830,
+      "title": "为什么人的命要用「条」这个量词？",
+      "cover": "https://pic1.zhimg.com/v2-ebee0f946d63415bda2dd38c2bfec42c.jpg?source=8673f162",
+      "author": "Jajil · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786830",
+      "mobileUrl": "https://daily.zhihu.com/story/9786830"
+    },
+    {
+      "id": 9786840,
+      "title": "鸟儿为什么不躺着睡？",
+      "cover": "https://picx.zhimg.com/v2-3c1143151d2ca35a8598a0e2c4ee229d.jpg?source=8673f162",
+      "author": "苏澄宇 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786840",
+      "mobileUrl": "https://daily.zhihu.com/story/9786840"
+    },
+    {
+      "id": 9786844,
+      "title": "为什么狮子老虎的眼睛和猫的眼睛不一样？",
+      "cover": "https://pica.zhimg.com/v2-cf7d8d7b04f65a7d1313d3ffe6a0da2d.jpg?source=8673f162",
+      "author": "苏澄宇 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786844",
+      "mobileUrl": "https://daily.zhihu.com/story/9786844"
+    },
+    {
+      "id": 9787003,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3826",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787003",
+      "mobileUrl": "https://daily.zhihu.com/story/9787003"
+    }
+  ]
+}
