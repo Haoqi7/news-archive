@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-20T01:46:44.367284",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786848,
+      "title": "为什么有的动物用舌头喝水而不用嘴直接喝？",
+      "cover": "https://picx.zhimg.com/v2-165329bf9e7b37d52eeba0803686286f.jpg?source=8673f162",
+      "author": "高sir · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786848",
+      "mobileUrl": "https://daily.zhihu.com/story/9786848"
+    },
+    {
+      "id": 9786858,
+      "title": "请问假如蜜蜂采了有毒的花，酿的蜜也会有毒吗？",
+      "cover": "https://picx.zhimg.com/v2-d895e3f1fa155b108945542f49404d7c.jpg?source=8673f162",
+      "author": "奔奔马 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786858",
+      "mobileUrl": "https://daily.zhihu.com/story/9786858"
+    },
+    {
+      "id": 9787052,
+      "title": "猪一生都被关在猪圈里，但为什么没有抑郁症的表现行为？",
+      "cover": "https://picx.zhimg.com/v2-be15f5663df6de7699e7cb9457f1ae92.jpg?source=8673f162",
+      "author": "unclean · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787052",
+      "mobileUrl": "https://daily.zhihu.com/story/9787052"
+    },
+    {
+      "id": 9787007,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-3cb34e5ef4a52b44ddf998748ef0b535.jpg?source=8673f162",
+      "author": "VOL.3827",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787007",
+      "mobileUrl": "https://daily.zhihu.com/story/9787007"
+    }
+  ]
+}
