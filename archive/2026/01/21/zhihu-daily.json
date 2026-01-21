@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-21T01:49:39.936043",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9786868,
+      "title": "ICU 的可怕之处在哪？",
+      "cover": "https://picx.zhimg.com/v2-d0f78f162828185ce444b9c87d2fa42c.jpg?source=8673f162",
+      "author": "快乐的874 · 6 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786868",
+      "mobileUrl": "https://daily.zhihu.com/story/9786868"
+    },
+    {
+      "id": 9786873,
+      "title": "只切掉蚊子的全部腿，而不破坏蚊子其他身体部分，蚊子还能飞起来么？",
+      "cover": "https://pic1.zhimg.com/v2-bf6f5617da7baabef7c84f660b7c0d2d.jpg?source=8673f162",
+      "author": "南官竹 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786873",
+      "mobileUrl": "https://daily.zhihu.com/story/9786873"
+    },
+    {
+      "id": 9786881,
+      "title": "人为什么需要睡觉？人睡觉的时候身体都在做什么？",
+      "cover": "https://pic1.zhimg.com/v2-0e5172ca3ccee0e1ef7a3a7bfd140ec4.jpg?source=8673f162",
+      "author": "瞻云 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9786881",
+      "mobileUrl": "https://daily.zhihu.com/story/9786881"
+    },
+    {
+      "id": 9787014,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-8732fd7724c0e08558f70e1438aa798f.jpg?source=8673f162",
+      "author": "VOL.3828",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787014",
+      "mobileUrl": "https://daily.zhihu.com/story/9787014"
+    }
+  ]
+}
