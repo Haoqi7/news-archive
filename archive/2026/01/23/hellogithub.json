@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2026-01-23T01:47:00.533446",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "7dfb1883330d441f9264d8e8945c75e2",
+      "title": "一键将 AI 生成内容粘贴到 Word",
+      "desc": "这是一款基于 Python 的 Windows 托盘工具，可自动将剪贴板中的 Markdown 和网页 AI 的富文本回复，通过 Pandoc 转换为 DOCX",
+      "author": "RICHQAQ",
+      "timestamp": 1766736223000,
+      "hot": 1611,
+      "url": "https://hellogithub.com/repository/7dfb1883330d441f9264d8e8945c75e2",
+      "mobileUrl": "https://hellogithub.com/repository/7dfb1883330d441f9264d8e8945c75e2"
+    },
+    {
+      "id": "dea04077c9984f11bda3efd76ecd873b",
+      "title": "领取你的免费域名",
+      "desc": "该项目是由非营利组织 DigitalPlat 发起，旨在为个人和组织免费提供域名注册服务。用户可注册一个免费域名，并将其托管在 Cloudflare、Hostr",
+      "author": "DigitalPlatDev",
+      "timestamp": 1766736223000,
+      "hot": 4961,
+      "url": "https://hellogithub.com/repository/dea04077c9984f11bda3efd76ecd873b",
+      "mobileUrl": "https://hellogithub.com/repository/dea04077c9984f11bda3efd76ecd873b"
+    },
+    {
+      "id": "0ed430a01ac74a50807fb87a609a1771",
+      "title": "极简的 macOS 系统清理工具",
+      "desc": "这是一款专为 macOS 设计的轻量级命令行清理工具，集深度清理、应用卸载、硬盘空间分析和实时状态监控于一体。它主要由 shell 编写，安装简单、零干扰（无广",
+      "author": "tw93",
+      "timestamp": 1767688320000,
+      "hot": 1604,
+      "url": "https://hellogithub.com/repository/0ed430a01ac74a50807fb87a609a1771",
+      "mobileUrl": "https://hellogithub.com/repository/0ed430a01ac74a50807fb87a609a1771"
+    },
+    {
+      "id": "0afc05e8a6644b3e8f28e6c2de66840d",
+      "title": "AI 编程助手的设计增强插件",
+      "desc": "这是一款面向 AI 编程助手的 UI/UX 设计增强插件，赋予 AI 助手生成专业级界面和用户体验的能力。它内置 57 种 UI 风格、95 套调色方案、56 ",
+      "author": "nextlevelbuilder",
+      "timestamp": 1767689389000,
+      "hot": 2319,
+      "url": "https://hellogithub.com/repository/0afc05e8a6644b3e8f28e6c2de66840d",
+      "mobileUrl": "https://hellogithub.com/repository/0afc05e8a6644b3e8f28e6c2de66840d"
+    },
+    {
+      "id": "89dd575abef147188252e25675feb7aa",
+      "title": "图解大模型技术原理",
+      "desc": "该项目包含 100 多张大模型技术原理图，系统介绍了大模型和强化学习，内容涵盖 LLM/VLM 大模型结构、训练算法（RL、RLHF、GRPO、DPO、SFT、",
+      "author": "changyeyu",
+      "timestamp": 1766736223000,
+      "hot": 2771,
+      "url": "https://hellogithub.com/repository/89dd575abef147188252e25675feb7aa",
+      "mobileUrl": "https://hellogithub.com/repository/89dd575abef147188252e25675feb7aa"
+    },
+    {
+      "id": "20c7ae0025f94076b3d54dbe33476f68",
+      "title": "小巧的 Windows 硬件监控工具",
+      "desc": "这是一款轻量、可定制的 Windows 硬件监控桌面工具，可实时显示 CPU、GPU、内存、网络等信息，支持任务栏显示、鼠标穿透、多语言和报警等功能。",
+      "author": "Diorser",
+      "timestamp": 1766736223000,
+      "hot": 3663,
+      "url": "https://hellogithub.com/repository/20c7ae0025f94076b3d54dbe33476f68",
+      "mobileUrl": "https://hellogithub.com/repository/20c7ae0025f94076b3d54dbe33476f68"
+    },
+    {
+      "id": "c8a0ee51918e4353af08012b8472b85e",
+      "title": "AI 驱动的 PPT 生成工具",
+      "desc": "该项目基于 Nano Banana Pro API，能够根据用户的想法、大纲或文档（如 PDF、Markdown）自动生成结构清晰、排版精美的 PPT，并支持通",
+      "author": "Anionex",
+      "timestamp": 1766736223000,
+      "hot": 3086,
+      "url": "https://hellogithub.com/repository/c8a0ee51918e4353af08012b8472b85e",
+      "mobileUrl": "https://hellogithub.com/repository/c8a0ee51918e4353af08012b8472b85e"
+    },
+    {
+      "id": "a95f4a4830bc4a69b56f96ac7efaacf8",
+      "title": "跨平台的 GitHub 应用商店",
+      "desc": "这是一款基于 Kotlin 开发的跨平台开源应用商店客户端，支持一键发现热门开源项目、下载安装包（如 APK、EXE、DMG 等），以及追踪已安装应用并提示更新",
+      "author": "rainxchzed",
+      "timestamp": 1766736223000,
+      "hot": 3116,
+      "url": "https://hellogithub.com/repository/a95f4a4830bc4a69b56f96ac7efaacf8",
+      "mobileUrl": "https://hellogithub.com/repository/a95f4a4830bc4a69b56f96ac7efaacf8"
+    },
+    {
+      "id": "d2af74f0aea146ad8e4b2086982f5777",
+      "title": "沉浸式桌面歌词显示工具",
+      "desc": "这是一款专为 Windows 设计的沉浸式歌词显示工具，能够自动识别播放器正在播放的音乐，实时检索本地或在线歌词，并通过流畅动画美观地展示在桌面上。",
+      "author": "jayfunc",
+      "timestamp": 1766736223000,
+      "hot": 2579,
+      "url": "https://hellogithub.com/repository/d2af74f0aea146ad8e4b2086982f5777",
+      "mobileUrl": "https://hellogithub.com/repository/d2af74f0aea146ad8e4b2086982f5777"
+    },
+    {
+      "id": "fd1e080847844c9691e12116195b6908",
+      "title": "像写代码一样制作你的简历",
+      "desc": "这是一款基于 Typst 的简历生成器，专为程序员、学生和学术研究人员设计。只需要编写纯文本 YAML 文件，即可一键生成排版精美、专业的 PDF 简历。",
+      "author": "rendercv",
+      "timestamp": 1766736223000,
+      "hot": 1823,
+      "url": "https://hellogithub.com/repository/fd1e080847844c9691e12116195b6908",
+      "mobileUrl": "https://hellogithub.com/repository/fd1e080847844c9691e12116195b6908"
+    },
+    {
+      "id": "fcffaf1f8a0a4c28b2641b7e3edff853",
+      "title": "让 AI 替你画架构图",
+      "desc": "这是一个基于 Next.js 构建的 Web 应用，融合了 AI 与 draw.io 图表绘制能力。现在你可以通过对话直接生成、编辑、优化流程图和架构图，支持流",
+      "author": "DayuanJiang",
+      "timestamp": 1764316977000,
+      "hot": 6518,
+      "url": "https://hellogithub.com/repository/fcffaf1f8a0a4c28b2641b7e3edff853",
+      "mobileUrl": "https://hellogithub.com/repository/fcffaf1f8a0a4c28b2641b7e3edff853"
+    },
+    {
+      "id": "abe93f3a0f6943e494c568f07c4c7ff0",
+      "title": "一条命令揭秘进程身世",
+      "desc": "这是一个用 Go 编写的命令行诊断工具，用于快速定位和分析正在运行的进程。它通过端口、服务名或 PID 映射进程信息，生成通俗易懂的进程因果链，直观展示进程的来",
+      "author": "pranshuparmar",
+      "timestamp": 1767688167000,
+      "hot": 1329,
+      "url": "https://hellogithub.com/repository/abe93f3a0f6943e494c568f07c4c7ff0",
+      "mobileUrl": "https://hellogithub.com/repository/abe93f3a0f6943e494c568f07c4c7ff0"
+    },
+    {
+      "id": "f3edd6eccdad4e74b1c7311c879cd146",
+      "title": "开箱即用的聊天记录分析工具",
+      "desc": "这是一款本地优先的聊天记录分析工具，无需上传数据到云端（AI 功能除外），支持 SQL 查询和 AI 智能挖掘、回顾个人聊天历史。",
+      "author": "hellodigua",
+      "timestamp": 1766736223000,
+      "hot": 2364,
+      "url": "https://hellogithub.com/repository/f3edd6eccdad4e74b1c7311c879cd146",
+      "mobileUrl": "https://hellogithub.com/repository/f3edd6eccdad4e74b1c7311c879cd146"
+    },
+    {
+      "id": "377d3716b77b49cb9938f14d79a0f5c1",
+      "title": "扮演云架构师的塔防游戏",
+      "desc": "这是一个基于 Web 的塔防模拟游戏，旨在通过玩游戏的方式学习云架构知识。玩家在游戏中扮演云架构师，利用有限的预算搭建云基础设施。面对持续增长的访问流量和 DD",
+      "author": "pshenok",
+      "timestamp": 1765355484000,
+      "hot": 3373,
+      "url": "https://hellogithub.com/repository/377d3716b77b49cb9938f14d79a0f5c1",
+      "mobileUrl": "https://hellogithub.com/repository/377d3716b77b49cb9938f14d79a0f5c1"
+    },
+    {
+      "id": "108effe824ed4273b4cb8b00014f878a",
+      "title": "局域网设备唤醒工具",
+      "desc": "这是一款可自托管的网络唤醒 Web 应用，支持一键唤醒局域网内设备、端口状态监控、定时自动开机和网络设备自动发现功能。",
+      "author": "seriousm4x",
+      "timestamp": 1766736223000,
+      "hot": 1486,
+      "url": "https://hellogithub.com/repository/108effe824ed4273b4cb8b00014f878a",
+      "mobileUrl": "https://hellogithub.com/repository/108effe824ed4273b4cb8b00014f878a"
+    },
+    {
+      "id": "958a22354c124eadbc7e8ee8e4e46ec3",
+      "title": "开箱即用的文件传输工具",
+      "desc": "这是一款采用 Rust 和 Tauri 构建的开源 P2P 文件传输工具，无需注册和服务器，即可实现端到端的文件传输。用户只需将文件拖入应用，将随机生成的传输凭",
+      "author": "tonyantony300",
+      "timestamp": 1765228644000,
+      "hot": 3078,
+      "url": "https://hellogithub.com/repository/958a22354c124eadbc7e8ee8e4e46ec3",
+      "mobileUrl": "https://hellogithub.com/repository/958a22354c124eadbc7e8ee8e4e46ec3"
+    },
+    {
+      "id": "3cbf370c9f534ea3bf3695b7f9b8bd19",
+      "title": "开源的 Android 白噪音应用",
+      "desc": "这是一个专注于白噪音播放的 Android 应用，提供雨声、篝火、雷声、猫咪呼噜、鸟鸣、夜虫等多种自然声音，帮助你放松、冥想和入睡。",
+      "author": "Tosencen",
+      "timestamp": 1764316977000,
+      "hot": 1902,
+      "url": "https://hellogithub.com/repository/3cbf370c9f534ea3bf3695b7f9b8bd19",
+      "mobileUrl": "https://hellogithub.com/repository/3cbf370c9f534ea3bf3695b7f9b8bd19"
+    },
+    {
+      "id": "1b127af0ff114f17b796318d883515b0",
+      "title": "让你在键盘上安心吃泡面的小工具",
+      "desc": "这是一款用于临时屏蔽笔记本键盘和鼠标输入的 Windows 工具。它采用 AutoHotkey 开发，界面简洁美观，一键即可屏蔽键盘输入，让你在清理键盘、做笔记",
+      "author": "Nigh",
+      "timestamp": 1766736223000,
+      "hot": 1391,
+      "url": "https://hellogithub.com/repository/1b127af0ff114f17b796318d883515b0",
+      "mobileUrl": "https://hellogithub.com/repository/1b127af0ff114f17b796318d883515b0"
+    },
+    {
+      "id": "0bd4328c24794902bd6097055cda6f36",
+      "title": "随手可用的 AI 桌面助手",
+      "desc": "这是一款基于上下文感知的桌面 AI 助手，能够自动获取并理解当前屏幕上的内容，无需截图、复制内容或切换应用。只需一键即可召唤出 AI，进行问答、翻译、答疑等任务",
+      "author": "DearVa",
+      "timestamp": 1764316977000,
+      "hot": 4036,
+      "url": "https://hellogithub.com/repository/0bd4328c24794902bd6097055cda6f36",
+      "mobileUrl": "https://hellogithub.com/repository/0bd4328c24794902bd6097055cda6f36"
+    },
+    {
+      "id": "9f3b14d187594203885439a39fed0077",
+      "title": "完全开源可自托管的私有云盘",
+      "desc": "该项目是基于 Go+Vue.js 构建的在线文件管理工具，功能比原版 FileBrowser 更丰富，支持多文件源（本地或云）、目录级访问控制、设置共享过期时间",
+      "author": "gtsteffaniak",
+      "timestamp": 1764316977000,
+      "hot": 3071,
+      "url": "https://hellogithub.com/repository/9f3b14d187594203885439a39fed0077",
+      "mobileUrl": "https://hellogithub.com/repository/9f3b14d187594203885439a39fed0077"
+    }
+  ]
+}
