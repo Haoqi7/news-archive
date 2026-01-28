@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-01-28T01:49:03.491218",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9787109,
+      "title": "恐龙憋得住屎吗？",
+      "cover": "https://pic1.zhimg.com/v2-7802cf37c449009821e02c791764d03b.jpg?source=8673f162",
+      "author": "剁椒鹿 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787109",
+      "mobileUrl": "https://daily.zhihu.com/story/9787109"
+    },
+    {
+      "id": 9787114,
+      "title": "为什么奇蹄目和偶蹄目不叫食草目？",
+      "cover": "https://pic1.zhimg.com/v2-c20f9886aa6628377f2855ae74c9b163.jpg?source=8673f162",
+      "author": "犬君拌汪酱 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787114",
+      "mobileUrl": "https://daily.zhihu.com/story/9787114"
+    },
+    {
+      "id": 9787120,
+      "title": "既然紫色不好染，古人能不能用红线做经线，蓝线做纬线，纺织出紫色的布料？",
+      "cover": "https://pica.zhimg.com/v2-5f1b21ff9c66122a5c215bff1ab9eec7.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787120",
+      "mobileUrl": "https://daily.zhihu.com/story/9787120"
+    },
+    {
+      "id": 9787231,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-8732fd7724c0e08558f70e1438aa798f.jpg?source=8673f162",
+      "author": "VOL.3833",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787231",
+      "mobileUrl": "https://daily.zhihu.com/story/9787231"
+    }
+  ]
+}
