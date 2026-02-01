@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-02-01T02:26:56.132933",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9787173,
+      "title": "为什么猫的颜色最多只有三种?",
+      "cover": "https://picx.zhimg.com/v2-af75d39025db8db5d07db2ca9706f739.jpg?source=8673f162",
+      "author": "猫研所 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787173",
+      "mobileUrl": "https://daily.zhihu.com/story/9787173"
+    },
+    {
+      "id": 9787178,
+      "title": "海豹为什么拍肚皮?",
+      "cover": "https://picx.zhimg.com/v2-ead1e74776b2047be28446aefec48b8d.jpg?source=8673f162",
+      "author": "剁椒鹿 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787178",
+      "mobileUrl": "https://daily.zhihu.com/story/9787178"
+    },
+    {
+      "id": 9787184,
+      "title": "灵长类以外有和人类趋同进化的动物吗？",
+      "cover": "https://picx.zhimg.com/v2-15b33cd572913cbd72ad78028bc8c930.jpg?source=8673f162",
+      "author": "云杉 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787184",
+      "mobileUrl": "https://daily.zhihu.com/story/9787184"
+    },
+    {
+      "id": 9787190,
+      "title": "为什么猫都不喜欢橘子味呢？",
+      "cover": "https://pic1.zhimg.com/v2-cedbd1ec0343b1c0dc76eadbe9d8d4c0.jpg?source=8673f162",
+      "author": "苏澄宇 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787190",
+      "mobileUrl": "https://daily.zhihu.com/story/9787190"
+    }
+  ]
+}
