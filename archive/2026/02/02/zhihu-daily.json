@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-02-02T02:10:33.023713",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9787204,
+      "title": "为什么有的人特别容易紧张？",
+      "cover": "https://picx.zhimg.com/v2-ecd5e16b474cf37ae5c49552caf6632e.jpg?source=8673f162",
+      "author": "虞豁斐 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787204",
+      "mobileUrl": "https://daily.zhihu.com/story/9787204"
+    },
+    {
+      "id": 9787211,
+      "title": "恐龙真的和现在的复原图长得差不多吗？",
+      "cover": "https://pic1.zhimg.com/v2-d3343151964209dde4a1b227e9ebfc58.jpg?source=8673f162",
+      "author": "剁椒鹿 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787211",
+      "mobileUrl": "https://daily.zhihu.com/story/9787211"
+    },
+    {
+      "id": 9787354,
+      "title": "地铁图为什么不按照真实比例和路线画？",
+      "cover": "https://picx.zhimg.com/v2-40f3e8427fb5011965932e80edfb0e9c.jpg?source=8673f162",
+      "author": "知乎用户 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787354",
+      "mobileUrl": "https://daily.zhihu.com/story/9787354"
+    },
+    {
+      "id": 9787253,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-8732fd7724c0e08558f70e1438aa798f.jpg?source=8673f162",
+      "author": "VOL.3836",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787253",
+      "mobileUrl": "https://daily.zhihu.com/story/9787253"
+    }
+  ]
+}
