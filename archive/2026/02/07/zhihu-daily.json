@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-02-07T02:00:44.231298",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9787438,
+      "title": "为什么现在几乎不提臭氧层空洞了，是误解还是地球臭氧已修复？",
+      "cover": "https://picx.zhimg.com/v2-988ad2d5f95407a575b7089866124d43.jpg?source=8673f162",
+      "author": "张武昌 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787438",
+      "mobileUrl": "https://daily.zhihu.com/story/9787438"
+    },
+    {
+      "id": 9787439,
+      "title": "马的腿断了几乎必死，那么牛呢？",
+      "cover": "https://pic1.zhimg.com/v2-a5a43e4b672e44183a48df64423fd1a1.jpg?source=8673f162",
+      "author": "云杉 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787439",
+      "mobileUrl": "https://daily.zhihu.com/story/9787439"
+    },
+    {
+      "id": 9787442,
+      "title": "如果每隔 100 年，淘汰人类中智商较低的 50%，人类整体智力水平会快速进化吗？",
+      "cover": "https://pica.zhimg.com/v2-a5d84c343d22fffa313b9c1545850958.jpg?source=8673f162",
+      "author": "瞻云 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787442",
+      "mobileUrl": "https://daily.zhihu.com/story/9787442"
+    },
+    {
+      "id": 9787449,
+      "title": "为什么中国式刺身（鱼脍）在明中期被逐渐淘汰了？",
+      "cover": "https://picx.zhimg.com/v2-9cb7a03c936db83425542a03e2b3eee7.jpg?source=8673f162",
+      "author": "知乎用户 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787449",
+      "mobileUrl": "https://daily.zhihu.com/story/9787449"
+    }
+  ]
+}
