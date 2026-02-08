@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-02-08T02:34:01.070671",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9787452,
+      "title": "请问为什么数学中不废除除号「÷」？",
+      "cover": "https://pic1.zhimg.com/v2-dc3b3ee71a93bed1b05444bf00dd7f1d.jpg?source=8673f162",
+      "author": "知乎用户 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787452",
+      "mobileUrl": "https://daily.zhihu.com/story/9787452"
+    },
+    {
+      "id": 9787455,
+      "title": "中国为什么不生产类似 gore-tex 的面料？",
+      "cover": "https://pic1.zhimg.com/v2-66fb83ffe280edb53a7967f43d74c17d.jpg?source=8673f162",
+      "author": "姚蔚铭 · 8 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787455",
+      "mobileUrl": "https://daily.zhihu.com/story/9787455"
+    },
+    {
+      "id": 9787463,
+      "title": "海狗、海豹、海狮、海牛、海象……分别是怎么跟狗、豹、狮、牛、象关联上的？",
+      "cover": "https://picx.zhimg.com/v2-c0a1b34ff8b49b99c1d1738659e4d261.jpg?source=8673f162",
+      "author": "南官竹 · 7 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787463",
+      "mobileUrl": "https://daily.zhihu.com/story/9787463"
+    },
+    {
+      "id": 9787473,
+      "title": "数学是人类发明的，还是宇宙本身的语言？",
+      "cover": "https://picx.zhimg.com/v2-0af35fc06e1b9d47a7e8c1aef81fe79c.jpg?source=8673f162",
+      "author": "干货逻辑 · 19 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787473",
+      "mobileUrl": "https://daily.zhihu.com/story/9787473"
+    }
+  ]
+}
