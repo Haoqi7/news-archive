@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2026-02-12T02:12:44.071009",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "71d65ace215945b0909d4c75c31b9fcb",
+      "title": "基于 CF Pages 的免费文件托管开源方案",
+      "desc": "这是一款基于 Cloudflare Pages 的开源文件托管解决方案，支持无服务器和 Docker 两种部署方式，可利用 Cloudflare 免费额度实现零",
+      "author": "MarSeventh",
+      "timestamp": 1770314980000,
+      "hot": 781,
+      "url": "https://hellogithub.com/repository/71d65ace215945b0909d4c75c31b9fcb",
+      "mobileUrl": "https://hellogithub.com/repository/71d65ace215945b0909d4c75c31b9fcb"
+    },
+    {
+      "id": "d0d75240fb95445bba1d7af7574d8420",
+      "title": "AI 驱动的修仙世界模拟器",
+      "desc": "这是一款基于 LLM 的修仙模拟器游戏，不同于传统 RPG，游戏内的 NPC 均是 AI 智能体，有独立的性格、记忆和行为逻辑，而玩家在游戏中扮演“天道”，以上",
+      "author": "4thfever",
+      "timestamp": 1769587857000,
+      "hot": 2849,
+      "url": "https://hellogithub.com/repository/d0d75240fb95445bba1d7af7574d8420",
+      "mobileUrl": "https://hellogithub.com/repository/d0d75240fb95445bba1d7af7574d8420"
+    },
+    {
+      "id": "539ac4217e69431684ad4a0bab768811",
+      "title": "新一代 AI 模型聚合管理与分发系统",
+      "desc": "该项目是基于 One API 二次开发的 AI 模型接口管理与分发平台。它将 OpenAl、Claude、Gemini、DeepSeek 等多种主流大模型与 A",
+      "author": "QuantumNous",
+      "timestamp": 1769587857000,
+      "hot": 2711,
+      "url": "https://hellogithub.com/repository/539ac4217e69431684ad4a0bab768811",
+      "mobileUrl": "https://hellogithub.com/repository/539ac4217e69431684ad4a0bab768811"
+    },
+    {
+      "id": "e252a098a6dc4bf68f307c82943c5e45",
+      "title": "开源的 AI 手机自动化助手",
+      "desc": "这是一款开源的 Android AI 手机自动化助手，无需电脑即可让用户通过自然语言指令操控手机自动完成任务。它基于视觉语言模型识别屏幕截图，结合委托执行或 G",
+      "author": "Turbo1123",
+      "timestamp": 1769587857000,
+      "hot": 1950,
+      "url": "https://hellogithub.com/repository/e252a098a6dc4bf68f307c82943c5e45",
+      "mobileUrl": "https://hellogithub.com/repository/e252a098a6dc4bf68f307c82943c5e45"
+    },
+    {
+      "id": "8dcce88021b0459f81d0a14007d547ba",
+      "title": "无需上传文件的 PDF 全能工具箱",
+      "desc": "这是一款基于 Next.js 和 WebAssembly 构建的开源 PDF 工具箱，所有文件操作均在本地浏览器内完成，无需上传到外部服务器。它提供节点式编排 ",
+      "author": "PDFCraftTool",
+      "timestamp": 1769587857000,
+      "hot": 1914,
+      "url": "https://hellogithub.com/repository/8dcce88021b0459f81d0a14007d547ba",
+      "mobileUrl": "https://hellogithub.com/repository/8dcce88021b0459f81d0a14007d547ba"
+    },
+    {
+      "id": "7ea63f77647141a2bad1f8346c3738b3",
+      "title": "开源的键鼠统计工具",
+      "desc": "这是一款轻量级的 macOS/Windows 应用，在不记录具体输入内容的前提下，量化用户的输入行为，支持统计键盘敲击次数、鼠标点击次数、鼠标移动和滚动距离。",
+      "author": "debugtheworldbot",
+      "timestamp": 1769587857000,
+      "hot": 1217,
+      "url": "https://hellogithub.com/repository/7ea63f77647141a2bad1f8346c3738b3",
+      "mobileUrl": "https://hellogithub.com/repository/7ea63f77647141a2bad1f8346c3738b3"
+    },
+    {
+      "id": "9d6ac70b021b4a418e47c4aea9a03cd3",
+      "title": "用手机操控 Claude Code 和 Codex",
+      "desc": "这是一款可以远程操作 Claude Code 或 Codex 的工具，让你随时随地通过手机查看和远程控制 AI 编程助手，提供了 iOS、Android 和 W",
+      "author": "slopus",
+      "timestamp": 1769587857000,
+      "hot": 1505,
+      "url": "https://hellogithub.com/repository/9d6ac70b021b4a418e47c4aea9a03cd3",
+      "mobileUrl": "https://hellogithub.com/repository/9d6ac70b021b4a418e47c4aea9a03cd3"
+    },
+    {
+      "id": "dea04077c9984f11bda3efd76ecd873b",
+      "title": "领取你的免费域名",
+      "desc": "该项目是由非营利组织 DigitalPlat 发起，旨在为个人和组织免费提供域名注册服务。用户可注册一个免费域名，并将其托管在 Cloudflare、Hostr",
+      "author": "DigitalPlatDev",
+      "timestamp": 1766736223000,
+      "hot": 6477,
+      "url": "https://hellogithub.com/repository/dea04077c9984f11bda3efd76ecd873b",
+      "mobileUrl": "https://hellogithub.com/repository/dea04077c9984f11bda3efd76ecd873b"
+    },
+    {
+      "id": "7a27da3dc6834e14b4afb7dca5949bf7",
+      "title": "极简的城市地图海报生成器",
+      "desc": "该项目是用 Python 开发的城市地图海报生成器，可将城市地图数据转化为美观、极简风格的艺术海报。它利用 OpenStreetMap 的数据，自动绘制指定城市",
+      "author": "originalankur",
+      "timestamp": 1769587857000,
+      "hot": 1479,
+      "url": "https://hellogithub.com/repository/7a27da3dc6834e14b4afb7dca5949bf7",
+      "mobileUrl": "https://hellogithub.com/repository/7a27da3dc6834e14b4afb7dca5949bf7"
+    },
+    {
+      "id": "0ed430a01ac74a50807fb87a609a1771",
+      "title": "极简的 macOS 系统清理工具",
+      "desc": "这是一款专为 macOS 设计的轻量级命令行清理工具，集深度清理、应用卸载、硬盘空间分析和实时状态监控于一体。它主要由 shell 编写，安装简单、零干扰（无广",
+      "author": "tw93",
+      "timestamp": 1767688320000,
+      "hot": 2196,
+      "url": "https://hellogithub.com/repository/0ed430a01ac74a50807fb87a609a1771",
+      "mobileUrl": "https://hellogithub.com/repository/0ed430a01ac74a50807fb87a609a1771"
+    },
+    {
+      "id": "a95f4a4830bc4a69b56f96ac7efaacf8",
+      "title": "跨平台的 GitHub 应用商店",
+      "desc": "这是一款基于 Kotlin 开发的跨平台开源应用商店客户端，支持一键发现热门开源项目、下载安装包（如 APK、EXE、DMG 等），以及追踪已安装应用并提示更新",
+      "author": "rainxchzed",
+      "timestamp": 1766736223000,
+      "hot": 4526,
+      "url": "https://hellogithub.com/repository/a95f4a4830bc4a69b56f96ac7efaacf8",
+      "mobileUrl": "https://hellogithub.com/repository/a95f4a4830bc4a69b56f96ac7efaacf8"
+    },
+    {
+      "id": "c73bd28ceb944f1580caa4b7d5d53e08",
+      "title": "让 AI 编程工具按流程工作",
+      "desc": "该项目是专为 AI 编程智能体打造的完整软件开发工作流，通过组合技能（skills）和指令，让智能体不只是生成代码，而是按照流程进行设计、规划和实现。",
+      "author": "obra",
+      "timestamp": 1769587857000,
+      "hot": 1254,
+      "url": "https://hellogithub.com/repository/c73bd28ceb944f1580caa4b7d5d53e08",
+      "mobileUrl": "https://hellogithub.com/repository/c73bd28ceb944f1580caa4b7d5d53e08"
+    },
+    {
+      "id": "0afc05e8a6644b3e8f28e6c2de66840d",
+      "title": "AI 编程助手的设计增强插件",
+      "desc": "这是一款面向 AI 编程助手的 UI/UX 设计增强插件，赋予 AI 助手生成专业级界面和用户体验的能力。它内置 57 种 UI 风格、95 套调色方案、56 ",
+      "author": "nextlevelbuilder",
+      "timestamp": 1767689389000,
+      "hot": 3203,
+      "url": "https://hellogithub.com/repository/0afc05e8a6644b3e8f28e6c2de66840d",
+      "mobileUrl": "https://hellogithub.com/repository/0afc05e8a6644b3e8f28e6c2de66840d"
+    },
+    {
+      "id": "7dfb1883330d441f9264d8e8945c75e2",
+      "title": "一键将 AI 生成内容粘贴到 Word",
+      "desc": "这是一款基于 Python 的 Windows 托盘工具，可自动将剪贴板中的 Markdown 和网页 AI 的富文本回复，通过 Pandoc 转换为 DOCX",
+      "author": "RICHQAQ",
+      "timestamp": 1766736223000,
+      "hot": 2485,
+      "url": "https://hellogithub.com/repository/7dfb1883330d441f9264d8e8945c75e2",
+      "mobileUrl": "https://hellogithub.com/repository/7dfb1883330d441f9264d8e8945c75e2"
+    },
+    {
+      "id": "89dd575abef147188252e25675feb7aa",
+      "title": "图解大模型技术原理",
+      "desc": "该项目包含 100 多张大模型技术原理图，系统介绍了大模型和强化学习，内容涵盖 LLM/VLM 大模型结构、训练算法（RL、RLHF、GRPO、DPO、SFT、",
+      "author": "changyeyu",
+      "timestamp": 1766736223000,
+      "hot": 3394,
+      "url": "https://hellogithub.com/repository/89dd575abef147188252e25675feb7aa",
+      "mobileUrl": "https://hellogithub.com/repository/89dd575abef147188252e25675feb7aa"
+    },
+    {
+      "id": "c8a0ee51918e4353af08012b8472b85e",
+      "title": "AI 驱动的 PPT 生成工具",
+      "desc": "该项目基于 Nano Banana Pro API，能够根据用户的想法、大纲或文档（如 PDF、Markdown）自动生成结构清晰、排版精美的 PPT，并支持通",
+      "author": "Anionex",
+      "timestamp": 1766736223000,
+      "hot": 3853,
+      "url": "https://hellogithub.com/repository/c8a0ee51918e4353af08012b8472b85e",
+      "mobileUrl": "https://hellogithub.com/repository/c8a0ee51918e4353af08012b8472b85e"
+    },
+    {
+      "id": "20c7ae0025f94076b3d54dbe33476f68",
+      "title": "小巧的 Windows 硬件监控工具",
+      "desc": "这是一款轻量、可定制的 Windows 硬件监控桌面工具，可实时显示 CPU、GPU、内存、网络等信息，支持任务栏显示、鼠标穿透、多语言和报警等功能。",
+      "author": "Diorser",
+      "timestamp": 1766736223000,
+      "hot": 4331,
+      "url": "https://hellogithub.com/repository/20c7ae0025f94076b3d54dbe33476f68",
+      "mobileUrl": "https://hellogithub.com/repository/20c7ae0025f94076b3d54dbe33476f68"
+    },
+    {
+      "id": "d2af74f0aea146ad8e4b2086982f5777",
+      "title": "沉浸式桌面歌词显示工具",
+      "desc": "这是一款专为 Windows 设计的沉浸式歌词显示工具，能够自动识别播放器正在播放的音乐，实时检索本地或在线歌词，并通过流畅动画美观地展示在桌面上。",
+      "author": "jayfunc",
+      "timestamp": 1766736223000,
+      "hot": 3113,
+      "url": "https://hellogithub.com/repository/d2af74f0aea146ad8e4b2086982f5777",
+      "mobileUrl": "https://hellogithub.com/repository/d2af74f0aea146ad8e4b2086982f5777"
+    },
+    {
+      "id": "d4a1cc7dd0b543dd811ec189ed7ebc37",
+      "title": "跨平台的可视化路由追踪工具",
+      "desc": "这是一款基于 NextTrace 开发的可视化路由追踪工具，能够直观展示数据包从本地到目标服务器的传输路径，显示每一跳的 IP 地址、延迟和地理位置信息，支持 ",
+      "author": "Archeb",
+      "timestamp": 1769587857000,
+      "hot": 1026,
+      "url": "https://hellogithub.com/repository/d4a1cc7dd0b543dd811ec189ed7ebc37",
+      "mobileUrl": "https://hellogithub.com/repository/d4a1cc7dd0b543dd811ec189ed7ebc37"
+    },
+    {
+      "id": "7088ef620bc54177b8975c6384a2e439",
+      "title": "Gemini 生成图片水印清除工具",
+      "desc": "这是一款用于移除 Gemini Nano Banana 和 Pro 生成图片右下角可见水印的工具，不支持隐形水印（SynthID）。它跨平台、无需联网、开箱即用",
+      "author": "allenk",
+      "timestamp": 1769587857000,
+      "hot": 803,
+      "url": "https://hellogithub.com/repository/7088ef620bc54177b8975c6384a2e439",
+      "mobileUrl": "https://hellogithub.com/repository/7088ef620bc54177b8975c6384a2e439"
+    }
+  ]
+}
