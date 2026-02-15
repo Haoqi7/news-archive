@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-02-15T02:21:13.375976",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9787647,
+      "title": "腊肉吃了对身体不好，为什么还有那么多人热衷于烘腊肉？",
+      "cover": "https://pica.zhimg.com/v2-63871b452e000153e0ab2807dc179a09.jpg?source=8673f162",
+      "author": "秋食爱吃饭 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787647",
+      "mobileUrl": "https://daily.zhihu.com/story/9787647"
+    },
+    {
+      "id": 9787656,
+      "title": "店里单曲循环的广告歌，长年累月下来会对店员产生心理影响吗？如果会，那店员怎样才能缓解这种「精神污染」？",
+      "cover": "https://picx.zhimg.com/v2-bc6e459305d7b2a530335ecbf791870b.jpg?source=8673f162",
+      "author": "解磊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787656",
+      "mobileUrl": "https://daily.zhihu.com/story/9787656"
+    },
+    {
+      "id": 9787660,
+      "title": "为什么无人机外形为什么不直接等比例缩放有人驾驶的战斗机/直升机？",
+      "cover": "https://pica.zhimg.com/v2-ad9dbc599404ab7fdafa467b5f93794b.jpg?source=8673f162",
+      "author": "知乎用户 · 7 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787660",
+      "mobileUrl": "https://daily.zhihu.com/story/9787660"
+    },
+    {
+      "id": 9787665,
+      "title": "太阳、地球、月亮哪个看起来更圆些？",
+      "cover": "https://picx.zhimg.com/v2-d8fdae4a697b741086edef43f02e2546.jpg?source=8673f162",
+      "author": "七小七 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787665",
+      "mobileUrl": "https://daily.zhihu.com/story/9787665"
+    }
+  ]
+}
