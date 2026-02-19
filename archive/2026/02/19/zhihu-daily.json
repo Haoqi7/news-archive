@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-02-19T02:09:25.105327",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9787684,
+      "title": "为什么有时候天空中的云朵会有比较清晰的边界？",
+      "cover": "https://pic1.zhimg.com/v2-46b6865fcb1f396caa6d080d61b2d024.jpg?source=8673f162",
+      "author": "Devymex Wang · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787684",
+      "mobileUrl": "https://daily.zhihu.com/story/9787684"
+    },
+    {
+      "id": 9787750,
+      "title": "蛤蜊壳上为什么会有「山水画」？还有没有其他动物的有趣纹路？",
+      "cover": "https://pic1.zhimg.com/v2-9b1b5727de1ac5d92f98239c10065134.jpg?source=8673f162",
+      "author": "剁椒鹿 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787750",
+      "mobileUrl": "https://daily.zhihu.com/story/9787750"
+    },
+    {
+      "id": 9787836,
+      "title": "为什么橘子皮里有白色的丝？",
+      "cover": "https://picx.zhimg.com/v2-f77e6fd490eb1a90fb7620cb37de260b.jpg?source=8673f162",
+      "author": "苏澄宇 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787836",
+      "mobileUrl": "https://daily.zhihu.com/story/9787836"
+    },
+    {
+      "id": 9787845,
+      "title": "网传马桶因科氏力在南半球冲水方向相反，这是真的吗？其他旋转物体也会受到影响吗？",
+      "cover": "https://pica.zhimg.com/v2-9957109299c05f67a8015a5988d2dc2e.jpg?source=8673f162",
+      "author": "气象喵探员 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787845",
+      "mobileUrl": "https://daily.zhihu.com/story/9787845"
+    }
+  ]
+}
