@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-02-22T02:09:48.230477",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9787701,
+      "title": "马汗有什么特别的地方么？",
+      "cover": "https://pic1.zhimg.com/v2-aaa29d8acb2b2a18ed79fbf09f3192f2.jpg?source=8673f162",
+      "author": "苏澄宇 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787701",
+      "mobileUrl": "https://daily.zhihu.com/story/9787701"
+    },
+    {
+      "id": 9787792,
+      "title": "放屁会不会传播细菌？",
+      "cover": "https://picx.zhimg.com/v2-d75596c1a66dc370ec90be109188c141.jpg?source=8673f162",
+      "author": "高sir · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787792",
+      "mobileUrl": "https://daily.zhihu.com/story/9787792"
+    },
+    {
+      "id": 9787795,
+      "title": "鸟为什么亲嘴？",
+      "cover": "https://picx.zhimg.com/v2-3463f0ea406b7bae1fa51f385d9e04e9.jpg?source=8673f162",
+      "author": "苏澄宇 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787795",
+      "mobileUrl": "https://daily.zhihu.com/story/9787795"
+    },
+    {
+      "id": 9787798,
+      "title": "为什么网上有些照片放大看分辨率其实很低，但整体看起来却很锐很舒服？",
+      "cover": "https://picx.zhimg.com/v2-38f1a55ba7443df6d0a31aca2e9284fb.jpg?source=8673f162",
+      "author": "猫大发财 · 8 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787798",
+      "mobileUrl": "https://daily.zhihu.com/story/9787798"
+    }
+  ]
+}
