@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-02-25T02:09:00.957654",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9787855,
+      "title": "有哪些全身透明的动物？它们为什么是透明的？",
+      "cover": "https://pic1.zhimg.com/v2-193c375b7a7c6c53f99b835d42e28110.jpg?source=8673f162",
+      "author": "小星有鬼 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787855",
+      "mobileUrl": "https://daily.zhihu.com/story/9787855"
+    },
+    {
+      "id": 9787861,
+      "title": "太阳系形成过程中，有多少行星被毁灭？能找到它们曾经存在的证据吗？",
+      "cover": "https://pic1.zhimg.com/v2-8c4fdfb74b23a153e654ad034ec42547.jpg?source=8673f162",
+      "author": "Ungrouped-CC · 14 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787861",
+      "mobileUrl": "https://daily.zhihu.com/story/9787861"
+    },
+    {
+      "id": 9787865,
+      "title": "如果地球在冥王星轨道上，那么中午天空是灰蓝色还是黑色还是什么颜色？",
+      "cover": "https://picx.zhimg.com/v2-f16293a7cfb4e4b8a77890448245ead5.jpg?source=8673f162",
+      "author": "太空僧 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787865",
+      "mobileUrl": "https://daily.zhihu.com/story/9787865"
+    },
+    {
+      "id": 9787335,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-8732fd7724c0e08558f70e1438aa798f.jpg?source=8673f162",
+      "author": "VOL.3848",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787335",
+      "mobileUrl": "https://daily.zhihu.com/story/9787335"
+    }
+  ]
+}
