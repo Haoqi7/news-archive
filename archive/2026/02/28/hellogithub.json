@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2026-02-28T01:54:41.193822",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "e89283ed6162421ea152f0d5a22ae796",
+      "title": "开箱即用的 Windows 系统优化工具",
+      "desc": "这是一款基于 C# 开发的 Windows 10/11 一站式系统优化工具，无需重装系统即可定制、精简系统。它集成了软件管理、系统优化、界面定制等功能，支持一键",
+      "author": "memstechtips",
+      "timestamp": 1772266209000,
+      "hot": 56,
+      "url": "https://hellogithub.com/repository/e89283ed6162421ea152f0d5a22ae796",
+      "mobileUrl": "https://hellogithub.com/repository/e89283ed6162421ea152f0d5a22ae796"
+    },
+    {
+      "id": "cd100d360d8e4e62a16108c9b77a6b80",
+      "title": "从零开始动手实现 AI Agent",
+      "desc": "该项目是讲解如何从零构建类似 Claude Code 的 AI Agent 工具，共计 12 节课，每节课都有一个可运行的 Python 文件。内容从最基础的 ",
+      "author": "shareAI-lab",
+      "timestamp": 1772266209000,
+      "hot": 43,
+      "url": "https://hellogithub.com/repository/cd100d360d8e4e62a16108c9b77a6b80",
+      "mobileUrl": "https://hellogithub.com/repository/cd100d360d8e4e62a16108c9b77a6b80"
+    },
+    {
+      "id": "af9d02f45da94a49af60092ac4c353cb",
+      "title": "手绘鱼类的在线虚拟水族馆",
+      "desc": "该项目是让用户通过手绘创作鱼类涂鸦，并通过 AI 技术判定作品与鱼的相似度，通过审核的鱼会被放入一个全球共享的虚拟水族箱中。",
+      "author": "aldenhallak",
+      "timestamp": 1772266209000,
+      "hot": 37,
+      "url": "https://hellogithub.com/repository/af9d02f45da94a49af60092ac4c353cb",
+      "mobileUrl": "https://hellogithub.com/repository/af9d02f45da94a49af60092ac4c353cb"
+    },
+    {
+      "id": "fc36441992724e1e8dc51fd7aa350207",
+      "title": "开箱即用的个人 AI 助手",
+      "desc": "这是一款用 TypeScript 开发的开源个人 AI 助手，可快速部署在 macOS、Windows 和 Linux 系统，并支持通过 WhatsApp、Te",
+      "author": "openclaw",
+      "timestamp": 1772266209000,
+      "hot": 37,
+      "url": "https://hellogithub.com/repository/fc36441992724e1e8dc51fd7aa350207",
+      "mobileUrl": "https://hellogithub.com/repository/fc36441992724e1e8dc51fd7aa350207"
+    },
+    {
+      "id": "414d4e75898b43e19f9faaac78e47924",
+      "title": "开源的库存管理系统",
+      "desc": "这是一款基于 Python 和 Django 开发的库存管理平台，内置 Web 管理界面和 REST API 服务，支持扫码入库、零件追踪、物料清单和供应商管理",
+      "author": "inventree",
+      "timestamp": 1772266209000,
+      "hot": 73,
+      "url": "https://hellogithub.com/repository/414d4e75898b43e19f9faaac78e47924",
+      "mobileUrl": "https://hellogithub.com/repository/414d4e75898b43e19f9faaac78e47924"
+    },
+    {
+      "id": "99b56746d94c4c9eae09788de133f310",
+      "title": "Rust 写的实时 ASCII 天气动画",
+      "desc": "这是一款用 Rust 编写的终端查看天气工具，可通过 ASCII 动画实时展示当前天气情况，支持下雨、下雪、闪电和昼夜变化等动画效果。",
+      "author": "Veirt",
+      "timestamp": 1772266209000,
+      "hot": 49,
+      "url": "https://hellogithub.com/repository/99b56746d94c4c9eae09788de133f310",
+      "mobileUrl": "https://hellogithub.com/repository/99b56746d94c4c9eae09788de133f310"
+    },
+    {
+      "id": "dd16fb9fba044e039d2bedc76813d801",
+      "title": "极简的 AI Agent 工具箱",
+      "desc": "这是一款基于 TypeScript 开发的 AI Agent 工具箱，爆火的 OpenClaw 就是基于该项目开发出来的。它提供开发 AI Agent 所需的基",
+      "author": "badlogic",
+      "timestamp": 1772266209000,
+      "hot": 41,
+      "url": "https://hellogithub.com/repository/dd16fb9fba044e039d2bedc76813d801",
+      "mobileUrl": "https://hellogithub.com/repository/dd16fb9fba044e039d2bedc76813d801"
+    },
+    {
+      "id": "7a864f9749604b42a7bf8bd8aa735129",
+      "title": "Claude 官方开源的 Skills 教程",
+      "desc": "该项目是 Anthropic 官方开源的 Agent Skills 仓库，介绍如何通过标准化的 SKILL.md 文件结构，将提示词和工具调用封装为插件形式，为",
+      "author": "anthropics",
+      "timestamp": 1772266209000,
+      "hot": 31,
+      "url": "https://hellogithub.com/repository/7a864f9749604b42a7bf8bd8aa735129",
+      "mobileUrl": "https://hellogithub.com/repository/7a864f9749604b42a7bf8bd8aa735129"
+    },
+    {
+      "id": "6daa16e405ce46ed97b4a57706aeb29f",
+      "title": "基于 LLM 的智能股票分析系统",
+      "desc": "这是一个由 LLM 驱动的智能股票分析工具，支持 A 股、港股和美股的每日自动分析与推送。它通过 AkShare、Tushare、YFinance 等数据源获取",
+      "author": "ZhuLinsen",
+      "timestamp": 1772266209000,
+      "hot": 30,
+      "url": "https://hellogithub.com/repository/6daa16e405ce46ed97b4a57706aeb29f",
+      "mobileUrl": "https://hellogithub.com/repository/6daa16e405ce46ed97b4a57706aeb29f"
+    },
+    {
+      "id": "2007acc44e0b4b5f80830270e0852ce2",
+      "title": "高颜值多功能的 Android 音乐播放器",
+      "desc": "这是一款本地优先、注重隐私的 Android 音乐播放器，拥有美观的 Material You 动态主题 ，界面可随专辑封面或手机壁纸自动变化，支持歌词显示、自",
+      "author": "theovilardo",
+      "timestamp": 1772266209000,
+      "hot": 29,
+      "url": "https://hellogithub.com/repository/2007acc44e0b4b5f80830270e0852ce2",
+      "mobileUrl": "https://hellogithub.com/repository/2007acc44e0b4b5f80830270e0852ce2"
+    },
+    {
+      "id": "3f6b0de90417407b9cbd3028a3764947",
+      "title": "文字版田园模拟经营游戏",
+      "desc": "这是一款名为《桃源乡》的纯前端文字版田园模拟经营游戏，灵感来自《星露谷物语》。它采用像素与中国风相结合的视觉设计，玩家可以按照自己的想法经营农场，体验种植、钓鱼",
+      "author": "setube",
+      "timestamp": 1772266209000,
+      "hot": 29,
+      "url": "https://hellogithub.com/repository/3f6b0de90417407b9cbd3028a3764947",
+      "mobileUrl": "https://hellogithub.com/repository/3f6b0de90417407b9cbd3028a3764947"
+    },
+    {
+      "id": "c3260da3158444c88143cf9037e3763d",
+      "title": "像高级语言一样写 C 代码",
+      "desc": "这是一个现代系统编程语言，写起来像高级语言又能像 C 语言一样运行。它通过编译生成 GNU C/C11 代码，兼容 C ABI（应用程序二进制接口），支持无缝集",
+      "author": "z-libs",
+      "timestamp": 1772266209000,
+      "hot": 27,
+      "url": "https://hellogithub.com/repository/c3260da3158444c88143cf9037e3763d",
+      "mobileUrl": "https://hellogithub.com/repository/c3260da3158444c88143cf9037e3763d"
+    },
+    {
+      "id": "1ad3f791842d44b7a379b62601c63a03",
+      "title": "零依赖单文件实现现代 AI 主流算法",
+      "desc": "这是一个专为学习 AI 算法设计的教学项目，包含 30 个零依赖、单文件、可直接运行的 Python 实现，涵盖从基础的 GPT 到微调（LoRA、PPO）以及",
+      "author": "Mathews-Tom",
+      "timestamp": 1772266209000,
+      "hot": 26,
+      "url": "https://hellogithub.com/repository/1ad3f791842d44b7a379b62601c63a03",
+      "mobileUrl": "https://hellogithub.com/repository/1ad3f791842d44b7a379b62601c63a03"
+    },
+    {
+      "id": "e3061031a1a6478595fb23268dca078e",
+      "title": "开源的 Windows 人脸识别解锁工具",
+      "desc": "这是一款基于 Tauri 框架开发的 Windows 面容识别解锁增强工具，为没有红外摄像头的普通 Windows 电脑提供类似 Windows Hello 的",
+      "author": "zs1083339604",
+      "timestamp": 1772266209000,
+      "hot": 21,
+      "url": "https://hellogithub.com/repository/e3061031a1a6478595fb23268dca078e",
+      "mobileUrl": "https://hellogithub.com/repository/e3061031a1a6478595fb23268dca078e"
+    },
+    {
+      "id": "1b1da1f9ae4c4175baa3d762b4e0ba41",
+      "title": "基于 Cloudflare 的轻量级邮箱服务",
+      "desc": "这是一款基于 Cloudflare 的轻量级、响应式邮箱服务，只需一个域名即可在 Cloudflare Workers 上低成本快速搭建邮件服务平台，支持群发、",
+      "author": "maillab",
+      "timestamp": 1772266209000,
+      "hot": 20,
+      "url": "https://hellogithub.com/repository/1b1da1f9ae4c4175baa3d762b4e0ba41",
+      "mobileUrl": "https://hellogithub.com/repository/1b1da1f9ae4c4175baa3d762b4e0ba41"
+    },
+    {
+      "id": "cf9421bca8d04d4e8357e2f09c8fb06a",
+      "title": "实时监控 SQL 流量的工具",
+      "desc": "这是一款基于 Go 开发的实时 SQL 流量监控工具，无需修改代码即可使用。它作为代理部署在应用与数据库之间，通过解析数据库 wire 协议捕获所有查询，提供 ",
+      "author": "mickamy",
+      "timestamp": 1772266209000,
+      "hot": 19,
+      "url": "https://hellogithub.com/repository/cf9421bca8d04d4e8357e2f09c8fb06a",
+      "mobileUrl": "https://hellogithub.com/repository/cf9421bca8d04d4e8357e2f09c8fb06a"
+    },
+    {
+      "id": "bfd53e7223324a46886ecdbdba8a7792",
+      "title": "比图片还小的免费看图工具",
+      "desc": "这是一款用 C 语言编写的 Windows 轻量级图片查看工具，让你几乎感受不到等待。它体积小、启动快，拥有极快的图片加载和切换速度，支持 JPG、PNG、WE",
+      "author": "voidtools",
+      "timestamp": 1772266209000,
+      "hot": 17,
+      "url": "https://hellogithub.com/repository/bfd53e7223324a46886ecdbdba8a7792",
+      "mobileUrl": "https://hellogithub.com/repository/bfd53e7223324a46886ecdbdba8a7792"
+    },
+    {
+      "id": "7a1c76f835c34c8a846f81642a09a4af",
+      "title": "本地运行的智能知识库搜索工具",
+      "desc": "这是一款完全本地运行的智能搜索引擎，可用于检索个人文档、知识库、会议记录和 Markdown 文件。它集成了本地运行轻量化模型、BM25 全文检索、向量语义搜索",
+      "author": "tobi",
+      "timestamp": 1772266209000,
+      "hot": 17,
+      "url": "https://hellogithub.com/repository/7a1c76f835c34c8a846f81642a09a4af",
+      "mobileUrl": "https://hellogithub.com/repository/7a1c76f835c34c8a846f81642a09a4af"
+    },
+    {
+      "id": "ef01295189f047afb41dbc8eb01bfd20",
+      "title": "免费开源的动作捕捉系统",
+      "desc": "这是一款基于 Python 开发的动作捕捉系统，无需标记点和 GPU，仅用普通摄像头即可实现全身 3D 动作数据采集，适用于动画制作、游戏开发和教育等场景。",
+      "author": "freemocap",
+      "timestamp": 1772266209000,
+      "hot": 16,
+      "url": "https://hellogithub.com/repository/ef01295189f047afb41dbc8eb01bfd20",
+      "mobileUrl": "https://hellogithub.com/repository/ef01295189f047afb41dbc8eb01bfd20"
+    },
+    {
+      "id": "01ee2f0704f249d5856ea617851d67c7",
+      "title": "拯救 B 站弹幕体验的浏览器插件",
+      "desc": "这是一款专为提升哔哩哔哩网站弹幕体验的浏览器插件，能够自动合并重复或相似的弹幕内容，还你清爽的弹幕视频体验。",
+      "author": "xmcp",
+      "timestamp": 1772266209000,
+      "hot": 16,
+      "url": "https://hellogithub.com/repository/01ee2f0704f249d5856ea617851d67c7",
+      "mobileUrl": "https://hellogithub.com/repository/01ee2f0704f249d5856ea617851d67c7"
+    }
+  ]
+}
