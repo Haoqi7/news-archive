@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-01T02:23:47.929470",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9787926,
+      "title": "猫真的能分辨胡萝卜和纸巾吗？",
+      "cover": "https://pic1.zhimg.com/v2-5fe34b41ed5eca615dea925bbd6df3f7.jpg?source=8673f162",
+      "author": "苏澄宇 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787926",
+      "mobileUrl": "https://daily.zhihu.com/story/9787926"
+    },
+    {
+      "id": 9787922,
+      "title": "《牡丹亭》本质上是不是一个先性后爱的故事？",
+      "cover": "https://picx.zhimg.com/v2-df748865ba4e4e7797a45b7a7964f720.jpg?source=8673f162",
+      "author": "鞭临天下 · 6 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787922",
+      "mobileUrl": "https://daily.zhihu.com/story/9787922"
+    },
+    {
+      "id": 9787933,
+      "title": "古代砍头，为什么一定要等「秋后」才问斩？",
+      "cover": "https://picx.zhimg.com/v2-61524932d81fe3316c1dd5c6cc6af91d.jpg?source=8673f162",
+      "author": "晴耕雨读的浣熊君 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787933",
+      "mobileUrl": "https://daily.zhihu.com/story/9787933"
+    },
+    {
+      "id": 9787937,
+      "title": "为什么包法利家请得起仆人？",
+      "cover": "https://pica.zhimg.com/v2-7338fcde1d73e29c2b131512cc64f803.jpg?source=8673f162",
+      "author": "高林 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787937",
+      "mobileUrl": "https://daily.zhihu.com/story/9787937"
+    }
+  ]
+}
