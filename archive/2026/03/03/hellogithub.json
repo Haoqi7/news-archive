@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2026-03-03T02:09:22.832087",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "cd100d360d8e4e62a16108c9b77a6b80",
+      "title": "从零开始动手实现 AI Agent",
+      "desc": "该项目是讲解如何从零构建类似 Claude Code 的 AI Agent 工具，共计 12 节课，每节课都有一个可运行的 Python 文件。内容从最基础的 ",
+      "author": "shareAI-lab",
+      "timestamp": 1772266209000,
+      "hot": 999,
+      "url": "https://hellogithub.com/repository/cd100d360d8e4e62a16108c9b77a6b80",
+      "mobileUrl": "https://hellogithub.com/repository/cd100d360d8e4e62a16108c9b77a6b80"
+    },
+    {
+      "id": "99932c00b692483a8439b04f8858b39f",
+      "title": "只需一句话即可创造你的专属智能体",
+      "desc": "这是一款开源的零代码智能体自动生成平台，无需编程基础或复杂的流程图编排，通过自然语言描述需求即可快速创建 AI 智能体。它内置了数据处理引擎，能够自动处理 20",
+      "author": "ModelEngine-Group",
+      "timestamp": 1772530334000,
+      "hot": 23,
+      "url": "https://hellogithub.com/repository/99932c00b692483a8439b04f8858b39f",
+      "mobileUrl": "https://hellogithub.com/repository/99932c00b692483a8439b04f8858b39f"
+    },
+    {
+      "id": "fc36441992724e1e8dc51fd7aa350207",
+      "title": "开箱即用的个人 AI 助手",
+      "desc": "这是一款用 TypeScript 开发的开源个人 AI 助手，可快速部署在 macOS、Windows 和 Linux 系统，并支持通过 WhatsApp、Te",
+      "author": "openclaw",
+      "timestamp": 1772266209000,
+      "hot": 931,
+      "url": "https://hellogithub.com/repository/fc36441992724e1e8dc51fd7aa350207",
+      "mobileUrl": "https://hellogithub.com/repository/fc36441992724e1e8dc51fd7aa350207"
+    },
+    {
+      "id": "7a864f9749604b42a7bf8bd8aa735129",
+      "title": "Claude 官方开源的 Skills 教程",
+      "desc": "该项目是 Anthropic 官方开源的 Agent Skills 仓库，介绍如何通过标准化的 SKILL.md 文件结构，将提示词和工具调用封装为插件形式，为",
+      "author": "anthropics",
+      "timestamp": 1772266209000,
+      "hot": 547,
+      "url": "https://hellogithub.com/repository/7a864f9749604b42a7bf8bd8aa735129",
+      "mobileUrl": "https://hellogithub.com/repository/7a864f9749604b42a7bf8bd8aa735129"
+    },
+    {
+      "id": "99b56746d94c4c9eae09788de133f310",
+      "title": "Rust 写的实时 ASCII 天气动画",
+      "desc": "这是一款用 Rust 编写的终端查看天气工具，可通过 ASCII 动画实时展示当前天气情况，支持下雨、下雪、闪电和昼夜变化等动画效果。",
+      "author": "Veirt",
+      "timestamp": 1772266209000,
+      "hot": 330,
+      "url": "https://hellogithub.com/repository/99b56746d94c4c9eae09788de133f310",
+      "mobileUrl": "https://hellogithub.com/repository/99b56746d94c4c9eae09788de133f310"
+    },
+    {
+      "id": "e89283ed6162421ea152f0d5a22ae796",
+      "title": "开箱即用的 Windows 系统优化工具",
+      "desc": "这是一款基于 C# 开发的 Windows 10/11 一站式系统优化工具，无需重装系统即可定制、精简系统。它集成了软件管理、系统优化、界面定制等功能，支持一键",
+      "author": "memstechtips",
+      "timestamp": 1772266209000,
+      "hot": 685,
+      "url": "https://hellogithub.com/repository/e89283ed6162421ea152f0d5a22ae796",
+      "mobileUrl": "https://hellogithub.com/repository/e89283ed6162421ea152f0d5a22ae796"
+    },
+    {
+      "id": "bba08609d7194ebbb01bfc4678e5b5c9",
+      "title": "终端里的高速下载工具",
+      "desc": "这是一款采用 Go 语言开发的终端下载工具，可将下载文件自动切分为多个数据块并行下载，支持从多个镜像源下载、自动故障转移、顺序下载模式等功能。",
+      "author": "surge-downloader",
+      "timestamp": 1772266209000,
+      "hot": 336,
+      "url": "https://hellogithub.com/repository/bba08609d7194ebbb01bfc4678e5b5c9",
+      "mobileUrl": "https://hellogithub.com/repository/bba08609d7194ebbb01bfc4678e5b5c9"
+    },
+    {
+      "id": "ef01295189f047afb41dbc8eb01bfd20",
+      "title": "免费开源的动作捕捉系统",
+      "desc": "这是一款基于 Python 开发的动作捕捉系统，无需标记点和 GPU，仅用普通摄像头即可实现全身 3D 动作数据采集，适用于动画制作、游戏开发和教育等场景。",
+      "author": "freemocap",
+      "timestamp": 1772266209000,
+      "hot": 334,
+      "url": "https://hellogithub.com/repository/ef01295189f047afb41dbc8eb01bfd20",
+      "mobileUrl": "https://hellogithub.com/repository/ef01295189f047afb41dbc8eb01bfd20"
+    },
+    {
+      "id": "152412c3b6be46538fb99ce21058fef4",
+      "title": "专为流式输出而生的 Markdown 渲染组件",
+      "desc": "该项目是专为流式传输场景设计的 React Markdown 组件，可用于解决大语言模型逐字输出 Markdown 内容时出现的闪烁、渲染错误和安全等问题。",
+      "author": "vercel",
+      "timestamp": 1772266209000,
+      "hot": 239,
+      "url": "https://hellogithub.com/repository/152412c3b6be46538fb99ce21058fef4",
+      "mobileUrl": "https://hellogithub.com/repository/152412c3b6be46538fb99ce21058fef4"
+    },
+    {
+      "id": "a279979de0044ec396d168957a374ba1",
+      "title": "Windows 鼠标特效增强工具",
+      "desc": "这是一款轻量级的 Windows 桌面鼠标/光标特效工具，支持点击波纹、粒子拖尾、悬停发光、漂浮文字等多种鼠标特效。",
+      "author": "sqmw",
+      "timestamp": 1772266209000,
+      "hot": 305,
+      "url": "https://hellogithub.com/repository/a279979de0044ec396d168957a374ba1",
+      "mobileUrl": "https://hellogithub.com/repository/a279979de0044ec396d168957a374ba1"
+    },
+    {
+      "id": "3f6b0de90417407b9cbd3028a3764947",
+      "title": "文字版田园模拟经营游戏",
+      "desc": "这是一款名为《桃源乡》的纯前端文字版田园模拟经营游戏，灵感来自《星露谷物语》。它采用像素与中国风相结合的视觉设计，玩家可以按照自己的想法经营农场，体验种植、钓鱼",
+      "author": "setube",
+      "timestamp": 1772266209000,
+      "hot": 427,
+      "url": "https://hellogithub.com/repository/3f6b0de90417407b9cbd3028a3764947",
+      "mobileUrl": "https://hellogithub.com/repository/3f6b0de90417407b9cbd3028a3764947"
+    },
+    {
+      "id": "3bdde3ad6226495099b02115111cafad",
+      "title": "当个人主页变成 3D 游戏",
+      "desc": "该项目是前端大神 Bruno Simon 的开源新作，他将个人主页打造成一个可以驾车探索的沉浸式 3D 开放世界游戏，融入了物理模拟、天气系统、植被、昼夜交替等",
+      "author": "brunosimon",
+      "timestamp": 1772266209000,
+      "hot": 244,
+      "url": "https://hellogithub.com/repository/3bdde3ad6226495099b02115111cafad",
+      "mobileUrl": "https://hellogithub.com/repository/3bdde3ad6226495099b02115111cafad"
+    },
+    {
+      "id": "8c18828b8bcd4895baed282021955eea",
+      "title": "让汉字在网页上动起来",
+      "desc": "这是一款用于展示汉字笔画顺序和交互式书写练习的 JavaScript 库，支持简/繁体字、调节播放速度、循环方式、实时检查笔画正确性等功能。",
+      "author": "chanind",
+      "timestamp": 1772266209000,
+      "hot": 372,
+      "url": "https://hellogithub.com/repository/8c18828b8bcd4895baed282021955eea",
+      "mobileUrl": "https://hellogithub.com/repository/8c18828b8bcd4895baed282021955eea"
+    },
+    {
+      "id": "60226df0a2494e3f8f82c88b569925e1",
+      "title": "基于 GitHub 贡献生成太空射击动图",
+      "desc": "该项目能够根据用户的 GitHub 贡献图生成太空射击游戏风格的动图，支持自定义动图帧率以及通过 GitHub Actions 定时生成并自动更新到个人主页。",
+      "author": "czl9707",
+      "timestamp": 1772266209000,
+      "hot": 125,
+      "url": "https://hellogithub.com/repository/60226df0a2494e3f8f82c88b569925e1",
+      "mobileUrl": "https://hellogithub.com/repository/60226df0a2494e3f8f82c88b569925e1"
+    },
+    {
+      "id": "dd16fb9fba044e039d2bedc76813d801",
+      "title": "极简的 AI Agent 工具箱",
+      "desc": "这是一款基于 TypeScript 开发的 AI Agent 工具箱，爆火的 OpenClaw 就是基于该项目开发出来的。它提供开发 AI Agent 所需的基",
+      "author": "badlogic",
+      "timestamp": 1772266209000,
+      "hot": 393,
+      "url": "https://hellogithub.com/repository/dd16fb9fba044e039d2bedc76813d801",
+      "mobileUrl": "https://hellogithub.com/repository/dd16fb9fba044e039d2bedc76813d801"
+    },
+    {
+      "id": "6daa16e405ce46ed97b4a57706aeb29f",
+      "title": "基于 LLM 的智能股票分析系统",
+      "desc": "这是一个由 LLM 驱动的智能股票分析工具，支持 A 股、港股和美股的每日自动分析与推送。它通过 AkShare、Tushare、YFinance 等数据源获取",
+      "author": "ZhuLinsen",
+      "timestamp": 1772266209000,
+      "hot": 498,
+      "url": "https://hellogithub.com/repository/6daa16e405ce46ed97b4a57706aeb29f",
+      "mobileUrl": "https://hellogithub.com/repository/6daa16e405ce46ed97b4a57706aeb29f"
+    },
+    {
+      "id": "339cc9090668489bad119124bc03b1af",
+      "title": "轻量级进程内向量数据库",
+      "desc": "该项目是阿里开源的进程内向量数据库，无需独立部署即可直接使用。它基于 Proxima 引擎构建，提供本地化、低延迟的向量数据管理和语义检索能力，支持混合搜索、数",
+      "author": "alibaba",
+      "timestamp": 1772266209000,
+      "hot": 176,
+      "url": "https://hellogithub.com/repository/339cc9090668489bad119124bc03b1af",
+      "mobileUrl": "https://hellogithub.com/repository/339cc9090668489bad119124bc03b1af"
+    },
+    {
+      "id": "7a1c76f835c34c8a846f81642a09a4af",
+      "title": "本地运行的智能知识库搜索工具",
+      "desc": "这是一款完全本地运行的智能搜索引擎，可用于检索个人文档、知识库、会议记录和 Markdown 文件。它集成了本地运行轻量化模型、BM25 全文检索、向量语义搜索",
+      "author": "tobi",
+      "timestamp": 1772266209000,
+      "hot": 340,
+      "url": "https://hellogithub.com/repository/7a1c76f835c34c8a846f81642a09a4af",
+      "mobileUrl": "https://hellogithub.com/repository/7a1c76f835c34c8a846f81642a09a4af"
+    },
+    {
+      "id": "5c531ffe4c3f497a81b6197dcd6385d2",
+      "title": "Java 写的文字版宠物小精灵游戏",
+      "desc": "这是一款基于 Java 游戏开发框架 LibGDX 构建的终端文字版宠物小精灵游戏，通过 Unicode 盲文字符作为像素点渲染画面，支持对战机制和完整的单人剧",
+      "author": "zachMahan64",
+      "timestamp": 1772266209000,
+      "hot": 180,
+      "url": "https://hellogithub.com/repository/5c531ffe4c3f497a81b6197dcd6385d2",
+      "mobileUrl": "https://hellogithub.com/repository/5c531ffe4c3f497a81b6197dcd6385d2"
+    },
+    {
+      "id": "6e48e7fd497440a0bc719e0941f61a06",
+      "title": "让小白也能玩转虚拟机的工具",
+      "desc": "这是一个用于快速创建和运行 QEMU 虚拟机的工具，通过 quickget 和 quickemu 两个命令，能够自动完成系统镜像下载、配置文件生成和启动虚拟机，",
+      "author": "quickemu-project",
+      "timestamp": 1772266209000,
+      "hot": 163,
+      "url": "https://hellogithub.com/repository/6e48e7fd497440a0bc719e0941f61a06",
+      "mobileUrl": "https://hellogithub.com/repository/6e48e7fd497440a0bc719e0941f61a06"
+    }
+  ]
+}
