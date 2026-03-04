@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-04T02:02:43.883535",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9787977,
+      "title": "草莓是农残最高的水果吗？",
+      "cover": "https://pic1.zhimg.com/v2-8567004c0ddb3d068586991691b29727.jpg?source=8673f162",
+      "author": "Alfred大老虎 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787977",
+      "mobileUrl": "https://daily.zhihu.com/story/9787977"
+    },
+    {
+      "id": 9787982,
+      "title": "为什么马成为人类最常用的坐骑？",
+      "cover": "https://picx.zhimg.com/v2-8aa218835a879e3975868cf17c45b96a.jpg?source=8673f162",
+      "author": "苏澄宇 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787982",
+      "mobileUrl": "https://daily.zhihu.com/story/9787982"
+    },
+    {
+      "id": 9787990,
+      "title": "从进化论的角度怎么解释「新生儿行动力差，吐奶大哭」，这些习惯都不利于在野外生存吧？",
+      "cover": "https://pic1.zhimg.com/v2-f9087a3ac0d2011fac852002c19ea86f.jpg?source=8673f162",
+      "author": "瞻云 · 7 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9787990",
+      "mobileUrl": "https://daily.zhihu.com/story/9787990"
+    },
+    {
+      "id": 9788086,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-fc9ec352c9c9bf707a37cdb92a77ee5b.jpg?source=8673f162",
+      "author": "VOL.3854",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788086",
+      "mobileUrl": "https://daily.zhihu.com/story/9788086"
+    }
+  ]
+}
