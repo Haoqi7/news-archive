@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-06T02:05:36.440318",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788021,
+      "title": "为什么水中含氧量更少，鲸鱼却长得很大?",
+      "cover": "https://picx.zhimg.com/v2-1830c6bab7cc56da4979a17bdd1e58c7.jpg?source=8673f162",
+      "author": "苏澄宇 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788021",
+      "mobileUrl": "https://daily.zhihu.com/story/9788021"
+    },
+    {
+      "id": 9788031,
+      "title": "鸟类筑巢有什么讲究吗？有没有什么特别奇葩的鸟巢？",
+      "cover": "https://pica.zhimg.com/v2-e153d93ec44b78fc07a44d8d3d6b3313.jpg?source=8673f162",
+      "author": "三眼乌鸦 · 7 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788031",
+      "mobileUrl": "https://daily.zhihu.com/story/9788031"
+    },
+    {
+      "id": 9788039,
+      "title": "为什么又重又硬的木材，多产于热带地区？",
+      "cover": "https://picx.zhimg.com/v2-65f62933d02ca029314803b990d4540b.jpg?source=8673f162",
+      "author": "冯海峰 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788039",
+      "mobileUrl": "https://daily.zhihu.com/story/9788039"
+    },
+    {
+      "id": 9788090,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-fc9ec352c9c9bf707a37cdb92a77ee5b.jpg?source=8673f162",
+      "author": "VOL.3856",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788090",
+      "mobileUrl": "https://daily.zhihu.com/story/9788090"
+    }
+  ]
+}
