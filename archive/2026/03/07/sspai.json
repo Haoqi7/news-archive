@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "platform": "sspai",
+    "date": "2026-03-07T01:58:19.840825",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 106749,
+      "title": "派评 | 近期值得关注的 App",
+      "desc": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀",
+      "cover": "2026/3/2/article/85ec278f-ad6c-1c77-806d-cf82a5b4e1bd.jpeg",
+      "author": "少数派编辑部",
+      "timestamp": 1772444463000,
+      "hot": 12,
+      "url": "https://sspai.com/post/106749",
+      "mobileUrl": "https://sspai.com/post/106749"
+    },
+    {
+      "id": 106661,
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "desc": "📅本周新预告《名侦探柯南：高速公路的堕天使》正式预告2月23日，动画电影《名侦探柯南：高速公路的堕天使》发布了正式预告，将于4月10日在日本上映。莲井隆弘（《真･武士传YAIBA》）执导，大仓崇裕（《 ...",
+      "cover": "2026/2/27/article/b10e8946-4f4d-e094-f9be-cd17544220ad.png",
+      "author": "少数派编辑部",
+      "timestamp": 1772185229000,
+      "hot": 12,
+      "url": "https://sspai.com/post/106661",
+      "mobileUrl": "https://sspai.com/post/106661"
+    },
+    {
+      "id": 106645,
+      "title": "当恐惧有了两种模样：《生化危机 9：安魂曲》评测",
+      "desc": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。《生化危机》系列是由卡普空（Capcom）打造的经典生存恐怖游戏IP，自1996年诞生以来，凭借紧张压迫的氛围、资源管理与动作解谜融合的 ...",
+      "cover": "2026/2/27/article/da99655f-a0c6-8d42-1ad9-555ac7611d55.png",
+      "author": "机核GCORES",
+      "timestamp": 1772174119000,
+      "hot": 20,
+      "url": "https://sspai.com/post/106645",
+      "mobileUrl": "https://sspai.com/post/106645"
+    },
+    {
+      "id": 106469,
+      "title": "年度征文｜LLM 眼中的好文章：少数派 2025 热门内容解码",
+      "desc": "那些互动量高的文章，往往不是最精致的，而是最真的。",
+      "cover": "2026/02/21/590e1fbdd44fd7348491779e9be4c3dc.png",
+      "author": "彷徨旅人",
+      "timestamp": 1771944247000,
+      "hot": 26,
+      "url": "https://sspai.com/post/106469",
+      "mobileUrl": "https://sspai.com/post/106469"
+    },
+    {
+      "id": 106285,
+      "title": "年度征文｜AI 十字路口：当机器学会「思考」，我们应该知道什么？",
+      "desc": "这场智能革命，不是人类故事的终结，而是一个全新章节的开始。而我们，都是这个章节的第一批作者。",
+      "cover": "2026/02/10/8d1bb4d3a1ed825145ae1bdec14ee953.png",
+      "author": "Yepi",
+      "timestamp": 1771642800000,
+      "hot": 73,
+      "url": "https://sspai.com/post/106285",
+      "mobileUrl": "https://sspai.com/post/106285"
+    },
+    {
+      "id": 106451,
+      "title": "新玩意 236｜少数派的编辑们最近买了啥？",
+      "desc": "从手机到手指机器人，少数派的编辑们又买了啥新玩意？",
+      "cover": "2026/2/18/article/d9548e56-b634-3778-2cc3-582ae6c4475c.png",
+      "author": "少数派编辑部",
+      "timestamp": 1771479180000,
+      "hot": 21,
+      "url": "https://sspai.com/post/106451",
+      "mobileUrl": "https://sspai.com/post/106451"
+    },
+    {
+      "id": 106352,
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "desc": "📅本周新预告《来自深渊觉醒的神秘》首支预告2月8日，动画电影《来自深渊觉醒的神秘》发布了首支特报，定档2026年秋季在日本上映。本作改编自土笔章人的同名漫画，小岛正幸执导，仓田英之编剧，KevinPe ...",
+      "cover": "2026/2/13/article/4a0030c2-8a68-01ce-7098-efb5e9bdc425.png",
+      "author": "少数派编辑部",
+      "timestamp": 1770975086000,
+      "hot": 11,
+      "url": "https://sspai.com/post/106352",
+      "mobileUrl": "https://sspai.com/post/106352"
+    },
+    {
+      "id": 106232,
+      "title": "OpenClaw：高强度使用两周，这个 AI 工具颠覆了我的工作流",
+      "desc": "OpenClaw究竟是什么？少数派深度剖析这款强大工具的定义、核心功能、应用场景，并提供详细上手教程，助你快速理解与掌握。",
+      "cover": "2026/2/11/article/193ae31c-5f81-f352-b3bb-5cfb2d4114a9.png",
+      "author": "Vanilla",
+      "timestamp": 1770803255000,
+      "hot": 108,
+      "url": "https://sspai.com/post/106232",
+      "mobileUrl": "https://sspai.com/post/106232"
+    },
+    {
+      "id": 106020,
+      "title": "从特斯拉一日自驾，看纯电在日本的实际体验",
+      "desc": "对于想把车当作「工具」的日本人来说，最理想的状态还是充电发生在家里，而不是发生在路上。",
+      "cover": "2026/02/04/5b081c1747bf55039bd172846c1ba711.jpg",
+      "author": "SIMON_",
+      "timestamp": 1770342206000,
+      "hot": 32,
+      "url": "https://sspai.com/post/106020",
+      "mobileUrl": "https://sspai.com/post/106020"
+    },
+    {
+      "id": 106090,
+      "title": "新玩意 235｜少数派的编辑们最近买了啥？",
+      "desc": "很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内 ...",
+      "cover": "2026/2/5/article/523eae5a-5615-3ecc-e58a-64e7118ddd41.png",
+      "author": "少数派编辑部",
+      "timestamp": 1770282928000,
+      "hot": 27,
+      "url": "https://sspai.com/post/106090",
+      "mobileUrl": "https://sspai.com/post/106090"
+    },
+    {
+      "id": 105976,
+      "title": "醒醒现在是 2015：小米 1S 和红米 Note 背后的机圈历史",
+      "desc": "使人觉得遥远的不是时间长，而是两三件不可挽回的事。",
+      "cover": "2026/02/02/0f2ae769a100ea8caa7b3c9855634fde.jpg",
+      "author": "Enc3lMag1k",
+      "timestamp": 1770132155000,
+      "hot": 37,
+      "url": "https://sspai.com/post/105976",
+      "mobileUrl": "https://sspai.com/post/105976"
+    },
+    {
+      "id": 105869,
+      "title": "新玩意 234｜少数派的编辑们最近买了啥？",
+      "desc": "很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内 ...",
+      "cover": "2026/1/29/article/49f5cb83-b4fb-a66a-afe9-29140c7b9f1c.png",
+      "author": "少数派编辑部",
+      "timestamp": 1769677646000,
+      "hot": 24,
+      "url": "https://sspai.com/post/105869",
+      "mobileUrl": "https://sspai.com/post/105869"
+    },
+    {
+      "id": 105630,
+      "title": "截稿顺延｜将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛",
+      "desc": "有没有想过，一张你亲手设计的「画」，可以被放在无数人的客厅、书房、卧室，伴随着音乐每天被看见、被触摸、被爱不释手？",
+      "cover": "2026/1/21/article/52ac34d8-dd95-a74a-6871-cada2c173b4b.jpeg",
+      "author": "听歌的水獭",
+      "timestamp": 1769050800000,
+      "hot": 24,
+      "url": "https://sspai.com/post/105630",
+      "mobileUrl": "https://sspai.com/post/105630"
+    },
+    {
+      "id": 105647,
+      "title": "插混换到纯电的两万公里后，我不再有里程焦虑了",
+      "desc": "当出行工具与生活节奏同频，中控屏和仪表盘上的数字就只是数字。",
+      "cover": "2026/01/21/929cddd2efc6eb2a77cb0e8173799a68.png",
+      "author": "约斯特普通",
+      "timestamp": 1768986433000,
+      "hot": 20,
+      "url": "https://sspai.com/post/105647",
+      "mobileUrl": "https://sspai.com/post/105647"
+    },
+    {
+      "id": 105621,
+      "title": "出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享",
+      "desc": "随着 CLI Coding Agent 的出现，我可以在 iPad 或手机上，通过 SSH 远程连接 Mac，在乘坐地铁等碎片时间远程开发，这是我的实践方式。",
+      "cover": "2026/01/20/eb7b338770c475bfd4fa46e552f59736.png",
+      "author": "Blanboom",
+      "timestamp": 1768914058000,
+      "hot": 23,
+      "url": "https://sspai.com/post/105621",
+      "mobileUrl": "https://sspai.com/post/105621"
+    },
+    {
+      "id": 105559,
+      "title": "巴掌大的小主机 Khadas Mind 2，究竟能用来干什么？",
+      "desc": "2025年10月至2026年1月期间，少数派与模块化迷你主机先行品牌Khadas合作，发起了针对Khadas最新产品Mind2的众测活动。本次活动分两期举行，每期挑选10名少数派用户，免费提供包含主机 ...",
+      "cover": "2026/01/18/7a7a0f65188c34161f8d5979706a74bb.png",
+      "author": "so1ar",
+      "timestamp": 1768738377000,
+      "hot": 13,
+      "url": "https://sspai.com/post/105559",
+      "mobileUrl": "https://sspai.com/post/105559"
+    },
+    {
+      "id": 105484,
+      "title": "深度横评：2026 年，AI 生成 PPT 到底进化到什么程度了？",
+      "desc": "我测了 8 款 AI PPT 工具，只有 2 款真正能用。",
+      "cover": "2026/01/15/188b36c660fd2758fdcab4627b49e65f.png",
+      "author": "小胡小胡0009",
+      "timestamp": 1768480097000,
+      "hot": 40,
+      "url": "https://sspai.com/post/105484",
+      "mobileUrl": "https://sspai.com/post/105484"
+    },
+    {
+      "id": 105481,
+      "title": "我的 AI 工具日常使用与工作流是怎样的？",
+      "desc": "你准备让哪个 AI 先「上岗」，让哪几个 AI「打配合」呢？更重要的是——你准备在这个工作流里充当何种角色？",
+      "cover": "2026/01/15/d9db6a4fefc0e074057794d476de83dc.jpg",
+      "author": "玉树芝兰",
+      "timestamp": 1768471029000,
+      "hot": 139,
+      "url": "https://sspai.com/post/105481",
+      "mobileUrl": "https://sspai.com/post/105481"
+    },
+    {
+      "id": 105458,
+      "title": "新玩意 233｜少数派的编辑们最近买了啥？",
+      "desc": "很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内 ...",
+      "cover": "1/15/2026/article/7dab2ae3-6e20-5fd1-8fa8-8300a8f35903.png",
+      "author": "少数派编辑部",
+      "timestamp": 1768469531000,
+      "hot": 19,
+      "url": "https://sspai.com/post/105458",
+      "mobileUrl": "https://sspai.com/post/105458"
+    },
+    {
+      "id": 105331,
+      "title": "普通人更要多动手：聊聊我把 Claude Code 变成个人助手后的那些事",
+      "desc": "下载一个 Claude Code 或者 Cursor，把你的想法告诉 AI。你会发现，原来自己能做到的事情，比想象中多得多。",
+      "cover": "2026/01/10/8da82b7cdb4547cbbf8074c1a83e905a.png",
+      "author": "愚人哲",
+      "timestamp": 1768222731000,
+      "hot": 136,
+      "url": "https://sspai.com/post/105331",
+      "mobileUrl": "https://sspai.com/post/105331"
+    }
+  ]
+}
