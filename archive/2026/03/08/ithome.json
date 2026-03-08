@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "platform": "ithome",
+    "date": "2026-03-08T02:07:55.451738",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 926710,
+      "title": "华为 Mate 80 Pro Max 手机开放购买：麒麟 9030 Pro 芯片，7999 元起",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926710_240.jpg",
+      "timestamp": "昨日 23:24",
+      "hot": 492,
+      "url": "https://www.ithome.com/0/926/710.htm",
+      "mobileUrl": "https://m.ithome.com/html/926710.htm"
+    },
+    {
+      "id": 926692,
+      "title": "小米 17 系列手机“龙虾”封测版本开推，新增基于 MiMo 大模型构建的 Xiaomi miclaw 应用",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926692_240.jpg",
+      "timestamp": "昨日 21:05",
+      "hot": 148,
+      "url": "https://www.ithome.com/0/926/692.htm",
+      "mobileUrl": "https://m.ithome.com/html/926692.htm"
+    },
+    {
+      "id": 926698,
+      "title": "OPPO 回应 realme 真我暂停新机研发，称相关工作均正常进行中",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926698_240.jpg",
+      "timestamp": "昨日 21:59",
+      "hot": 136,
+      "url": "https://www.ithome.com/0/926/698.htm",
+      "mobileUrl": "https://m.ithome.com/html/926698.htm"
+    },
+    {
+      "id": 926794,
+      "title": "阿里最年轻 P10 林俊旸离职尘埃落定：为千问，我只能做这么多了",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926794_240.jpg",
+      "timestamp": "14:13",
+      "hot": 130,
+      "url": "https://www.ithome.com/0/926/794.htm",
+      "mobileUrl": "https://m.ithome.com/html/926794.htm"
+    },
+    {
+      "id": 926774,
+      "title": "路虎揽胜回应魏建军道歉：真诚和担当是最好的代言，祝长城汽车越来越好",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926774_240.jpg",
+      "timestamp": "11:27",
+      "hot": 148,
+      "url": "https://www.ithome.com/0/926/774.htm",
+      "mobileUrl": "https://m.ithome.com/html/926774.htm"
+    },
+    {
+      "id": 926823,
+      "title": "腾讯 QQ 开放 OpenClaw“小龙虾”官方接入：支持一键创建机器人，单个账号最多 5 个",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926823_240.jpg",
+      "timestamp": "16:23",
+      "hot": 75,
+      "url": "https://www.ithome.com/0/926/823.htm",
+      "mobileUrl": "https://m.ithome.com/html/926823.htm"
+    },
+    {
+      "id": 926735,
+      "title": "网警依法查处造谣某知名茶饮品牌“准毒品”等 3 起网络谣言案",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926735_240.jpg",
+      "timestamp": "08:50",
+      "hot": 105,
+      "url": "https://www.ithome.com/0/926/735.htm",
+      "mobileUrl": "https://m.ithome.com/html/926735.htm"
+    },
+    {
+      "id": 926694,
+      "title": "荣耀 MagicOS 11 系统大版本官宣“正全力筹备中”，官方发布新功能前瞻",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926694_240.jpg",
+      "timestamp": "昨日 21:24",
+      "hot": 102,
+      "url": "https://www.ithome.com/0/926/694.htm",
+      "mobileUrl": "https://m.ithome.com/html/926694.htm"
+    },
+    {
+      "id": 926809,
+      "title": "小米雷军谈“人工智能时代”：未来每周或仅需工作 3 天，每天工作 2 个小时",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926809_240.jpg",
+      "timestamp": "15:26",
+      "hot": 234,
+      "url": "https://www.ithome.com/0/926/809.htm",
+      "mobileUrl": "https://m.ithome.com/html/926809.htm"
+    },
+    {
+      "id": 926757,
+      "title": "苹果 M5 Pro 芯片 GeekBench 跑分曝光：多核破 2.8 万，逼近 M3 Ultra",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926757_240.jpg",
+      "timestamp": "10:15",
+      "hot": 115,
+      "url": "https://www.ithome.com/0/926/757.htm",
+      "mobileUrl": "https://m.ithome.com/html/926757.htm"
+    },
+    {
+      "id": 926721,
+      "title": "苹果 iPhone 17e 手机 Geekbench 跑分曝光：GPU 性能低于 iPhone 17，CPU 几乎持平",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926721_240.jpg",
+      "timestamp": "07:30",
+      "hot": 145,
+      "url": "https://www.ithome.com/0/926/721.htm",
+      "mobileUrl": "https://m.ithome.com/html/926721.htm"
+    },
+    {
+      "id": 926691,
+      "title": "高德地图步行导航全新升级：全球首发“视觉认知步导”，融合千问大模型",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926691_240.jpg",
+      "timestamp": "昨日 21:04",
+      "hot": 54,
+      "url": "https://www.ithome.com/0/926/691.htm",
+      "mobileUrl": "https://m.ithome.com/html/926691.htm"
+    },
+    {
+      "id": 925198,
+      "title": "苹果 iPhone 17e 发布：搭载 A19 芯片、支持 MagSafe，4499 元起",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/925198_240.jpg",
+      "timestamp": "03月02日",
+      "hot": 598,
+      "url": "https://www.ithome.com/0/925/198.htm",
+      "mobileUrl": "https://m.ithome.com/html/925198.htm"
+    },
+    {
+      "id": 925977,
+      "title": "苹果最便宜笔记本 MacBook Neo 发布：搭载 A18 Pro 处理器、没有刘海，售价 4599 元起",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/925977_240.jpg",
+      "timestamp": "03月04日",
+      "hot": 584,
+      "url": "https://www.ithome.com/0/925/977.htm",
+      "mobileUrl": "https://m.ithome.com/html/925977.htm"
+    },
+    {
+      "id": 926312,
+      "title": "纯电续航 950km“全球第一”，比亚迪王朝首款 D 级旗舰 SUV 大唐发布",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926312_240.jpg",
+      "timestamp": "03月05日",
+      "hot": 322,
+      "url": "https://www.ithome.com/0/926/312.htm",
+      "mobileUrl": "https://m.ithome.com/html/926312.htm"
+    },
+    {
+      "id": 926291,
+      "title": "刷新充电速度新纪录：比亚迪第二代刀片电池发布，10% 充到 70% 只需五分钟",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/926291_240.jpg",
+      "timestamp": "03月05日",
+      "hot": 613,
+      "url": "https://www.ithome.com/0/926/291.htm",
+      "mobileUrl": "https://m.ithome.com/html/926291.htm"
+    },
+    {
+      "id": 925578,
+      "title": "苹果发布搭载 M5 Pro/M5 Max 芯片款 MacBook Pro：17999 元起，3 月 11 日发售",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/925578_240.jpg",
+      "timestamp": "03月03日",
+      "hot": 268,
+      "url": "https://www.ithome.com/0/925/578.htm",
+      "mobileUrl": "https://m.ithome.com/html/925578.htm"
+    },
+    {
+      "id": 925200,
+      "title": "苹果 M4 芯片款 iPad Air 发布：4799 元起，3 月 11 日发售",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/925200_240.jpg",
+      "timestamp": "03月02日",
+      "hot": 292,
+      "url": "https://www.ithome.com/0/925/200.htm",
+      "mobileUrl": "https://m.ithome.com/html/925200.htm"
+    },
+    {
+      "id": 924694,
+      "title": "小米 Vision GT 双门超跑首发亮相：MWC 2026 公开展出，玩家未来可在《GT 赛车 7》内驾驶体验",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/2/924694_240.jpg",
+      "timestamp": "02月28日",
+      "hot": 446,
+      "url": "https://www.ithome.com/0/924/694.htm",
+      "mobileUrl": "https://m.ithome.com/html/924694.htm"
+    },
+    {
+      "id": 925577,
+      "title": "苹果 M5 MacBook Air 笔记本发布：搭 N1 无线网络芯片、支持灵活定制，8499 元起",
+      "cover": "https://img.ithome.com/newsuploadfiles/thumbnail/2026/3/925577_240.jpg",
+      "timestamp": "03月03日",
+      "hot": 322,
+      "url": "https://www.ithome.com/0/925/577.htm",
+      "mobileUrl": "https://m.ithome.com/html/925577.htm"
+    }
+  ]
+}

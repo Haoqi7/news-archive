@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-08T02:07:42.559368",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788068,
+      "title": "如何理解「鞭策自己必须完美，其实是一种精神暴力」？",
+      "cover": "https://picx.zhimg.com/v2-f1ca2fcc6919db6200b41e689bdcf5d8.jpg?source=8673f162",
+      "author": "解磊 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788068",
+      "mobileUrl": "https://daily.zhihu.com/story/9788068"
+    },
+    {
+      "id": 9788070,
+      "title": "在猫咪眼中，人类的哪些行为，是它们认为「流氓」且没礼貌的？",
+      "cover": "https://pic1.zhimg.com/v2-836bcf7c305ba539b07e9f2bc61d83ea.jpg?source=8673f162",
+      "author": "王心远 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788070",
+      "mobileUrl": "https://daily.zhihu.com/story/9788070"
+    },
+    {
+      "id": 9788076,
+      "title": "有人说「隔夜菜亚硝酸盐含量高，吃了会致癌」，所有隔夜菜都有这个风险吗？",
+      "cover": "https://pic1.zhimg.com/v2-a2768e0d89d87c5deddbb4880b98d810.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788076",
+      "mobileUrl": "https://daily.zhihu.com/story/9788076"
+    },
+    {
+      "id": 9788077,
+      "title": "为什么电箱和电柜用金属外壳？",
+      "cover": "https://picx.zhimg.com/v2-ac7007164427d0c90bcc108fc5ea009a.jpg?source=8673f162",
+      "author": "Patrick Zhang · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788077",
+      "mobileUrl": "https://daily.zhihu.com/story/9788077"
+    }
+  ]
+}
