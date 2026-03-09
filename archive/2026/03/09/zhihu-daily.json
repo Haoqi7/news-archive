@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-09T02:08:49.592272",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788140,
+      "title": "没有冰箱的时候，居住在热带的人是不是从来没见过冰？",
+      "cover": "https://pic1.zhimg.com/v2-512fc0f2f8767d3eeec832dcf1c9c3ed.jpg?source=8673f162",
+      "author": "Saechia · 8 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788140",
+      "mobileUrl": "https://daily.zhihu.com/story/9788140"
+    },
+    {
+      "id": 9788141,
+      "title": "为什么有咸水湖但没有咸水河？",
+      "cover": "https://picx.zhimg.com/v2-fdbf5413ad8bffd350fa8da903575387.jpg?source=8673f162",
+      "author": "免渡河 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788141",
+      "mobileUrl": "https://daily.zhihu.com/story/9788141"
+    },
+    {
+      "id": 9788149,
+      "title": "白化病在古代的社会处境大概怎样？",
+      "cover": "https://picx.zhimg.com/v2-c0cd8f4b9350884e41873f232b6938c0.jpg?source=8673f162",
+      "author": "晴耕雨读的浣熊君 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788149",
+      "mobileUrl": "https://daily.zhihu.com/story/9788149"
+    },
+    {
+      "id": 9788158,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-1f8590dc22328f029e3c2eeb73f7d0c9.jpg?source=8673f162",
+      "author": "VOL.3857",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788158",
+      "mobileUrl": "https://daily.zhihu.com/story/9788158"
+    }
+  ]
+}
