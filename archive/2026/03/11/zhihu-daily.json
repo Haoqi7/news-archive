@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-11T02:00:59.952940",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788167,
+      "title": "为什么保鲜膜可以保鲜食物，其它塑料袋却会把食物捂变质？",
+      "cover": "https://picx.zhimg.com/v2-91c09359b43252b44761f0c958ae7ba2.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788167",
+      "mobileUrl": "https://daily.zhihu.com/story/9788167"
+    },
+    {
+      "id": 9788201,
+      "title": "明代「民间书坊」数量众多，出版的书除了通俗文学，还有哪些实用类著作吗？",
+      "cover": "https://picx.zhimg.com/v2-f6cac964cb66a9363545f096cafee2c4.jpg?source=8673f162",
+      "author": "宁南左侯 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788201",
+      "mobileUrl": "https://daily.zhihu.com/story/9788201"
+    },
+    {
+      "id": 9788318,
+      "title": "古人每天的工作时间是不是都挺短的？",
+      "cover": "https://picx.zhimg.com/v2-8f151c04c222e1393abbf5d248ddcc11.jpg?source=8673f162",
+      "author": "晴耕雨读的浣熊君 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788318",
+      "mobileUrl": "https://daily.zhihu.com/story/9788318"
+    },
+    {
+      "id": 9788303,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-1f8590dc22328f029e3c2eeb73f7d0c9.jpg?source=8673f162",
+      "author": "VOL.3859",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788303",
+      "mobileUrl": "https://daily.zhihu.com/story/9788303"
+    }
+  ]
+}
