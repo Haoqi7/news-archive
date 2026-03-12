@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-12T02:07:24.116514",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788172,
+      "title": "关于马的生活习性，有哪些冷门又有趣的小知识？",
+      "cover": "https://pic1.zhimg.com/v2-e9bdea9957b633e9e6a71d4d54d7fce1.jpg?source=8673f162",
+      "author": "苏澄宇 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788172",
+      "mobileUrl": "https://daily.zhihu.com/story/9788172"
+    },
+    {
+      "id": 9788209,
+      "title": "有哪些汉字的起源是你意想不到的？",
+      "cover": "https://pic1.zhimg.com/v2-640ab11342639e9cbc3f74e2fa68d720.jpg?source=8673f162",
+      "author": "黄佳智 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788209",
+      "mobileUrl": "https://daily.zhihu.com/story/9788209"
+    },
+    {
+      "id": 9788211,
+      "title": "为什么几乎没有看见鲨鱼身上长藤壶？",
+      "cover": "https://picx.zhimg.com/v2-5e85eccf5fa492670347844abb926a00.jpg?source=8673f162",
+      "author": "瞻云 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788211",
+      "mobileUrl": "https://daily.zhihu.com/story/9788211"
+    },
+    {
+      "id": 9788309,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-1f8590dc22328f029e3c2eeb73f7d0c9.jpg?source=8673f162",
+      "author": "VOL.3860",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788309",
+      "mobileUrl": "https://daily.zhihu.com/story/9788309"
+    }
+  ]
+}
