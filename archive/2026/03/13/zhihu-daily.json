@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-13T02:05:09.479917",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788177,
+      "title": "为什么淬火能让钢变硬？",
+      "cover": "https://pic1.zhimg.com/v2-c5c909d1a442187054eae663882dd4e5.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788177",
+      "mobileUrl": "https://daily.zhihu.com/story/9788177"
+    },
+    {
+      "id": 9788221,
+      "title": "为什么云这么重却不会掉下来，从气象学角度该怎么解释，是否与「浮力平衡」有关？",
+      "cover": "https://pica.zhimg.com/v2-3a30037dac33f53a32e60e8bdfe0cc13.jpg?source=8673f162",
+      "author": "气象喵探员 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788221",
+      "mobileUrl": "https://daily.zhihu.com/story/9788221"
+    },
+    {
+      "id": 9788225,
+      "title": "比目鱼的眼睛天生就长在同一侧吗？",
+      "cover": "https://pic1.zhimg.com/v2-7504c38abe81b9b7d78ca89b486c677d.jpg?source=8673f162",
+      "author": "苏澄宇 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788225",
+      "mobileUrl": "https://daily.zhihu.com/story/9788225"
+    },
+    {
+      "id": 9788312,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-1f8590dc22328f029e3c2eeb73f7d0c9.jpg?source=8673f162",
+      "author": "VOL.3861",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788312",
+      "mobileUrl": "https://daily.zhihu.com/story/9788312"
+    }
+  ]
+}
