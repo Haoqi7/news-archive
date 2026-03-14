@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2026-03-14T02:02:37.975380",
+    "count": 2
+  },
+  "data": [
+    {
+      "id": "a254258c31d1",
+      "title": "第二章 性能瓶颈的分析与定位(2) 检测式剖析器",
+      "desc": "检测式剖析器(Instrumenting profilers)    代码检测工具就是在现存的代码中加入额外的代码用于测量性能和输出性能数据。这...",
+      "author": "耕田者",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/a254258c31d1",
+      "mobileUrl": "https://www.jianshu.com/p/a254258c31d1"
+    },
+    {
+      "id": "0f45d1ce958f",
+      "title": "Vite 3.0 发布，下一代的前端工具链",
+      "cover": "https://upload-images.jianshu.io/upload_images/10024246-608874f16d477752.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "距离 v2 发布 16 个月后，Vite 3.0 现已正式发布[https://www.oschina.net/action/GoToLink?...",
+      "author": "涅槃快乐是金",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/0f45d1ce958f",
+      "mobileUrl": "https://www.jianshu.com/p/0f45d1ce958f"
+    }
+  ]
+}

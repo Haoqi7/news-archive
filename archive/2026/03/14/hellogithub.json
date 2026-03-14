@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2026-03-14T02:02:49.254385",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "cd100d360d8e4e62a16108c9b77a6b80",
+      "title": "从零开始动手实现 AI Agent",
+      "desc": "该项目是讲解如何从零构建类似 Claude Code 的 AI Agent 工具，共计 12 节课，每节课都有一个可运行的 Python 文件。内容从最基础的 ",
+      "author": "shareAI-lab",
+      "timestamp": 1772266209000,
+      "hot": 4572,
+      "url": "https://hellogithub.com/repository/cd100d360d8e4e62a16108c9b77a6b80",
+      "mobileUrl": "https://hellogithub.com/repository/cd100d360d8e4e62a16108c9b77a6b80"
+    },
+    {
+      "id": "fc36441992724e1e8dc51fd7aa350207",
+      "title": "现象级的个人 AI 助手",
+      "desc": "这是一款用 TypeScript 开发的开源个人 AI 助手，可快速部署在 macOS、Windows 和 Linux 系统，并支持通过 WhatsApp、Te",
+      "author": "openclaw",
+      "timestamp": 1772266209000,
+      "hot": 4552,
+      "url": "https://hellogithub.com/repository/fc36441992724e1e8dc51fd7aa350207",
+      "mobileUrl": "https://hellogithub.com/repository/fc36441992724e1e8dc51fd7aa350207"
+    },
+    {
+      "id": "99932c00b692483a8439b04f8858b39f",
+      "title": "只需一句话即可创造你的专属智能体",
+      "desc": "这是一款开源的零代码智能体自动生成平台，无需编程基础或复杂的流程图编排，通过自然语言描述需求即可快速创建 AI 智能体。它内置了数据处理引擎，能够自动处理 20",
+      "author": "ModelEngine-Group",
+      "timestamp": 1772530334000,
+      "hot": 1536,
+      "url": "https://hellogithub.com/repository/99932c00b692483a8439b04f8858b39f",
+      "mobileUrl": "https://hellogithub.com/repository/99932c00b692483a8439b04f8858b39f"
+    },
+    {
+      "id": "e89283ed6162421ea152f0d5a22ae796",
+      "title": "开箱即用的 Windows 系统优化工具",
+      "desc": "这是一款基于 C# 开发的 Windows 10/11 一站式系统优化工具，无需重装系统即可定制、精简系统。它集成了软件管理、系统优化、界面定制等功能，支持一键",
+      "author": "memstechtips",
+      "timestamp": 1772266209000,
+      "hot": 2174,
+      "url": "https://hellogithub.com/repository/e89283ed6162421ea152f0d5a22ae796",
+      "mobileUrl": "https://hellogithub.com/repository/e89283ed6162421ea152f0d5a22ae796"
+    },
+    {
+      "id": "6daa16e405ce46ed97b4a57706aeb29f",
+      "title": "基于 LLM 的智能股票分析系统",
+      "desc": "这是一个由 LLM 驱动的智能股票分析工具，支持 A 股、港股和美股的每日自动分析与推送。它通过 AkShare、Tushare、YFinance 等数据源获取",
+      "author": "ZhuLinsen",
+      "timestamp": 1772266209000,
+      "hot": 2528,
+      "url": "https://hellogithub.com/repository/6daa16e405ce46ed97b4a57706aeb29f",
+      "mobileUrl": "https://hellogithub.com/repository/6daa16e405ce46ed97b4a57706aeb29f"
+    },
+    {
+      "id": "99b56746d94c4c9eae09788de133f310",
+      "title": "Rust 写的实时 ASCII 天气动画",
+      "desc": "这是一款用 Rust 编写的终端查看天气工具，可通过 ASCII 动画实时展示当前天气情况，支持下雨、下雪、闪电和昼夜变化等动画效果。",
+      "author": "Veirt",
+      "timestamp": 1772266209000,
+      "hot": 1533,
+      "url": "https://hellogithub.com/repository/99b56746d94c4c9eae09788de133f310",
+      "mobileUrl": "https://hellogithub.com/repository/99b56746d94c4c9eae09788de133f310"
+    },
+    {
+      "id": "a279979de0044ec396d168957a374ba1",
+      "title": "Windows 鼠标特效增强工具",
+      "desc": "这是一款轻量级的 Windows 桌面鼠标/光标特效工具，支持点击波纹、粒子拖尾、悬停发光、漂浮文字等多种鼠标特效。",
+      "author": "sqmw",
+      "timestamp": 1772266209000,
+      "hot": 1080,
+      "url": "https://hellogithub.com/repository/a279979de0044ec396d168957a374ba1",
+      "mobileUrl": "https://hellogithub.com/repository/a279979de0044ec396d168957a374ba1"
+    },
+    {
+      "id": "7a864f9749604b42a7bf8bd8aa735129",
+      "title": "Claude 官方开源的 Skills 教程",
+      "desc": "该项目是 Anthropic 官方开源的 Agent Skills 仓库，介绍如何通过标准化的 SKILL.md 文件结构，将提示词和工具调用封装为插件形式，为",
+      "author": "anthropics",
+      "timestamp": 1772266209000,
+      "hot": 2078,
+      "url": "https://hellogithub.com/repository/7a864f9749604b42a7bf8bd8aa735129",
+      "mobileUrl": "https://hellogithub.com/repository/7a864f9749604b42a7bf8bd8aa735129"
+    },
+    {
+      "id": "3bdde3ad6226495099b02115111cafad",
+      "title": "当个人主页变成 3D 游戏",
+      "desc": "该项目是前端大神 Bruno Simon 的开源新作，他将个人主页打造成一个可以驾车探索的沉浸式 3D 开放世界游戏，融入了物理模拟、天气系统、植被、昼夜交替等",
+      "author": "brunosimon",
+      "timestamp": 1772266209000,
+      "hot": 1155,
+      "url": "https://hellogithub.com/repository/3bdde3ad6226495099b02115111cafad",
+      "mobileUrl": "https://hellogithub.com/repository/3bdde3ad6226495099b02115111cafad"
+    },
+    {
+      "id": "bba08609d7194ebbb01bfc4678e5b5c9",
+      "title": "终端里的高速下载工具",
+      "desc": "这是一款采用 Go 语言开发的终端下载工具，可将下载文件自动切分为多个数据块并行下载，支持从多个镜像源下载、自动故障转移、顺序下载模式等功能。",
+      "author": "surge-downloader",
+      "timestamp": 1772266209000,
+      "hot": 1092,
+      "url": "https://hellogithub.com/repository/bba08609d7194ebbb01bfc4678e5b5c9",
+      "mobileUrl": "https://hellogithub.com/repository/bba08609d7194ebbb01bfc4678e5b5c9"
+    },
+    {
+      "id": "7a1c76f835c34c8a846f81642a09a4af",
+      "title": "本地运行的智能知识库搜索工具",
+      "desc": "这是一款完全本地运行的智能搜索引擎，可用于检索个人文档、知识库、会议记录和 Markdown 文件。它集成了本地运行轻量化模型、BM25 全文检索、向量语义搜索",
+      "author": "tobi",
+      "timestamp": 1772266209000,
+      "hot": 1241,
+      "url": "https://hellogithub.com/repository/7a1c76f835c34c8a846f81642a09a4af",
+      "mobileUrl": "https://hellogithub.com/repository/7a1c76f835c34c8a846f81642a09a4af"
+    },
+    {
+      "id": "9bc7259839c740faa2246ee5f10bc786",
+      "title": "一键将 macOS 应用迁移到外部硬盘",
+      "desc": "该项目通过 Contents 链接的方式，将 macOS 应用迁移到外部存储设备（移动硬盘、SD 卡或 NAS），并在原位置保留应用入口，让用户能够像之前一样启",
+      "author": "wzh4869",
+      "timestamp": 1772266209000,
+      "hot": 310,
+      "url": "https://hellogithub.com/repository/9bc7259839c740faa2246ee5f10bc786",
+      "mobileUrl": "https://hellogithub.com/repository/9bc7259839c740faa2246ee5f10bc786"
+    },
+    {
+      "id": "d0d75240fb95445bba1d7af7574d8420",
+      "title": "AI 驱动的修仙世界模拟器",
+      "desc": "这是一款基于 LLM 的修仙模拟器游戏，不同于传统 RPG，游戏内的 NPC 均是 AI 智能体，有独立的性格、记忆和行为逻辑，而玩家在游戏中扮演“天道”，以上",
+      "author": "4thfever",
+      "timestamp": 1769587857000,
+      "hot": 5650,
+      "url": "https://hellogithub.com/repository/d0d75240fb95445bba1d7af7574d8420",
+      "mobileUrl": "https://hellogithub.com/repository/d0d75240fb95445bba1d7af7574d8420"
+    },
+    {
+      "id": "ef01295189f047afb41dbc8eb01bfd20",
+      "title": "免费开源的动作捕捉系统",
+      "desc": "这是一款基于 Python 开发的动作捕捉系统，无需标记点和 GPU，仅用普通摄像头即可实现全身 3D 动作数据采集，适用于动画制作、游戏开发和教育等场景。",
+      "author": "freemocap",
+      "timestamp": 1772266209000,
+      "hot": 951,
+      "url": "https://hellogithub.com/repository/ef01295189f047afb41dbc8eb01bfd20",
+      "mobileUrl": "https://hellogithub.com/repository/ef01295189f047afb41dbc8eb01bfd20"
+    },
+    {
+      "id": "8c18828b8bcd4895baed282021955eea",
+      "title": "让汉字在网页上动起来",
+      "desc": "这是一款用于展示汉字笔画顺序和交互式书写练习的 JavaScript 库，支持简/繁体字、调节播放速度、循环方式、实时检查笔画正确性等功能。",
+      "author": "chanind",
+      "timestamp": 1772266209000,
+      "hot": 1044,
+      "url": "https://hellogithub.com/repository/8c18828b8bcd4895baed282021955eea",
+      "mobileUrl": "https://hellogithub.com/repository/8c18828b8bcd4895baed282021955eea"
+    },
+    {
+      "id": "152412c3b6be46538fb99ce21058fef4",
+      "title": "专为流式输出而生的 Markdown 渲染组件",
+      "desc": "该项目是专为流式传输场景设计的 React Markdown 组件，可用于解决大语言模型逐字输出 Markdown 内容时出现的闪烁、渲染错误和安全等问题。",
+      "author": "vercel",
+      "timestamp": 1772266209000,
+      "hot": 672,
+      "url": "https://hellogithub.com/repository/152412c3b6be46538fb99ce21058fef4",
+      "mobileUrl": "https://hellogithub.com/repository/152412c3b6be46538fb99ce21058fef4"
+    },
+    {
+      "id": "1b1da1f9ae4c4175baa3d762b4e0ba41",
+      "title": "基于 Cloudflare 的轻量级邮箱服务",
+      "desc": "这是一款基于 Cloudflare 的轻量级、响应式邮箱服务，只需一个域名即可在 Cloudflare Workers 上低成本快速搭建邮件服务平台，支持群发、",
+      "author": "maillab",
+      "timestamp": 1772266209000,
+      "hot": 572,
+      "url": "https://hellogithub.com/repository/1b1da1f9ae4c4175baa3d762b4e0ba41",
+      "mobileUrl": "https://hellogithub.com/repository/1b1da1f9ae4c4175baa3d762b4e0ba41"
+    },
+    {
+      "id": "dd16fb9fba044e039d2bedc76813d801",
+      "title": "极简的 AI Agent 工具箱",
+      "desc": "这是一款基于 TypeScript 开发的 AI Agent 工具箱，爆火的 OpenClaw 就是基于该项目开发出来的。它提供开发 AI Agent 所需的基",
+      "author": "badlogic",
+      "timestamp": 1772266209000,
+      "hot": 1258,
+      "url": "https://hellogithub.com/repository/dd16fb9fba044e039d2bedc76813d801",
+      "mobileUrl": "https://hellogithub.com/repository/dd16fb9fba044e039d2bedc76813d801"
+    },
+    {
+      "id": "8dcce88021b0459f81d0a14007d547ba",
+      "title": "无需上传文件的 PDF 全能工具箱",
+      "desc": "这是一款基于 Next.js 和 WebAssembly 构建的开源 PDF 工具箱，所有文件操作均在本地浏览器内完成，无需上传到外部服务器。它提供节点式编排 ",
+      "author": "PDFCraftTool",
+      "timestamp": 1769587857000,
+      "hot": 3312,
+      "url": "https://hellogithub.com/repository/8dcce88021b0459f81d0a14007d547ba",
+      "mobileUrl": "https://hellogithub.com/repository/8dcce88021b0459f81d0a14007d547ba"
+    },
+    {
+      "id": "2007acc44e0b4b5f80830270e0852ce2",
+      "title": "高颜值多功能的 Android 音乐播放器",
+      "desc": "这是一款本地优先、注重隐私的 Android 音乐播放器，拥有美观的 Material You 动态主题 ，界面可随专辑封面或手机壁纸自动变化，支持歌词显示、自",
+      "author": "theovilardo",
+      "timestamp": 1772266209000,
+      "hot": 709,
+      "url": "https://hellogithub.com/repository/2007acc44e0b4b5f80830270e0852ce2",
+      "mobileUrl": "https://hellogithub.com/repository/2007acc44e0b4b5f80830270e0852ce2"
+    }
+  ]
+}

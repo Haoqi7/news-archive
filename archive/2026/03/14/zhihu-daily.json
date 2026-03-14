@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-14T02:02:22.494306",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788234,
+      "title": "为什么猫老了以后不会变成白猫?",
+      "cover": "https://picx.zhimg.com/v2-a1e8d4841c1956cdf069bd8aed43f2ff.jpg?source=8673f162",
+      "author": "苏澄宇 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788234",
+      "mobileUrl": "https://daily.zhihu.com/story/9788234"
+    },
+    {
+      "id": 9788232,
+      "title": "为什么法国大革命期间发生了旺代叛乱？",
+      "cover": "https://pic1.zhimg.com/v2-1a6a8fd1e23a4bd86f9cfa7149ae4908.jpg?source=8673f162",
+      "author": "姜源 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788232",
+      "mobileUrl": "https://daily.zhihu.com/story/9788232"
+    },
+    {
+      "id": 9788244,
+      "title": "为什么老虎和狮子这两大万兽之王都无法在青藏高原生存？",
+      "cover": "https://picx.zhimg.com/v2-abde5e699ef940601481b2fd7c1c29cf.jpg?source=8673f162",
+      "author": "三眼乌鸦 · 15 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788244",
+      "mobileUrl": "https://daily.zhihu.com/story/9788244"
+    },
+    {
+      "id": 9788285,
+      "title": "慈禧所写的「可怜天下父母心」的出处是什么？",
+      "cover": "https://pica.zhimg.com/v2-bde6485e019f5f734c06b1709e633fc0.jpg?source=8673f162",
+      "author": "赵学浩 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788285",
+      "mobileUrl": "https://daily.zhihu.com/story/9788285"
+    }
+  ]
+}
