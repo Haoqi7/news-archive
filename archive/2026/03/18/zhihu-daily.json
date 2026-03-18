@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-18T02:11:42.314650",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788366,
+      "title": "有哪些原来很贵的食材现在便宜了？",
+      "cover": "https://pic1.zhimg.com/v2-1613498af333b39479c380c8fdaecfbc.jpg?source=8673f162",
+      "author": "秋食爱吃饭 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788366",
+      "mobileUrl": "https://daily.zhihu.com/story/9788366"
+    },
+    {
+      "id": 9788352,
+      "title": "为什么诗人集体学杜甫，而不学李白？",
+      "cover": "https://picx.zhimg.com/v2-cf8bb6e89dea4edfde015ee61a8a730f.jpg?source=8673f162",
+      "author": "鞭临天下 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788352",
+      "mobileUrl": "https://daily.zhihu.com/story/9788352"
+    },
+    {
+      "id": 9788357,
+      "title": "如果要在月球居住，怎么利用月球资源建设月球基地，解决我们衣食住行？",
+      "cover": "https://pic1.zhimg.com/v2-a30ad1fca3da4ff34a45a70984c0b26d.jpg?source=8673f162",
+      "author": "赵泠 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788357",
+      "mobileUrl": "https://daily.zhihu.com/story/9788357"
+    },
+    {
+      "id": 9788361,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-c4de430203f3789dfddb628e7b8d905d.jpg?source=8673f162",
+      "author": "VOL.3864",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788361",
+      "mobileUrl": "https://daily.zhihu.com/story/9788361"
+    }
+  ]
+}
