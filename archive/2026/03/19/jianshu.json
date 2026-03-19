@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2026-03-19T02:12:47.885646",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "7ccf04f15f00",
+      "title": "数据文件智能读取: R语言vroom包",
+      "cover": "https://upload-images.jianshu.io/upload_images/18174126-874b89e628a799a3.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "最近折腾Shiny的时候接触到了一款非常好用的数据读取包。写一下备忘录。 1. 自动识别分隔文件 vroom有自动识别文件格式功能，所以不管是c...",
+      "author": "Jason数据分析生信教室",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/7ccf04f15f00",
+      "mobileUrl": "https://www.jianshu.com/p/7ccf04f15f00"
+    },
+    {
+      "id": "5a4e1ab0928c",
+      "title": "Android-推荐一个仿美团大众点评城市选择库CityPicker",
+      "cover": "https://upload-images.jianshu.io/upload_images/25021128-f0befffa2bf2ada1.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "在最近的需求开发当中，我们产品经理说需要增加一个类似于美团或者大众点评的城市选择界面。我当时就在想有没有办法快速实现，在不搞太多自己公司App的...",
+      "author": "阿博聊编程",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/5a4e1ab0928c",
+      "mobileUrl": "https://www.jianshu.com/p/5a4e1ab0928c"
+    },
+    {
+      "id": "a3fe668f158c",
+      "title": "BigQuery",
+      "cover": "https://upload-images.jianshu.io/upload_images/1791542-269c1227b38f38b9.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "什么是BigQuery BigQuery是一种无服务器的数据仓库，它让开发者可以使用Google的架构来运行SQL语句对超级大的数据库进行操作。...",
+      "author": "追梦人在路上不断追寻",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/a3fe668f158c",
+      "mobileUrl": "https://www.jianshu.com/p/a3fe668f158c"
+    }
+  ]
+}
