@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-22T02:13:36.843020",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788443,
+      "title": "为什么蓝色和绿色会分辨不好？",
+      "cover": "https://pic1.zhimg.com/v2-a08066a9bfe9a44431852dd907861c57.jpg?source=8673f162",
+      "author": "解磊 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788443",
+      "mobileUrl": "https://daily.zhihu.com/story/9788443"
+    },
+    {
+      "id": 9788433,
+      "title": "海豹、海狮、海狗、海象、海牛等海洋哺乳动物会喝海水补水么？",
+      "cover": "https://pic1.zhimg.com/v2-fdb28b97af5139f56834354e23874429.jpg?source=8673f162",
+      "author": "祥昊 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788433",
+      "mobileUrl": "https://daily.zhihu.com/story/9788433"
+    },
+    {
+      "id": 9788434,
+      "title": "有的植物是不是命特别硬，比如牛油果的历任传播者都灭绝了？",
+      "cover": "https://picx.zhimg.com/v2-d2d6790857da8aca56508057aa65dc8f.jpg?source=8673f162",
+      "author": "剁椒鹿 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788434",
+      "mobileUrl": "https://daily.zhihu.com/story/9788434"
+    },
+    {
+      "id": 9788438,
+      "title": "为什么猫咪长了一双适合直立行走的大脚？",
+      "cover": "https://picx.zhimg.com/v2-c1e536e9137fd546469bbd8c5321b238.jpg?source=8673f162",
+      "author": "苏澄宇 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788438",
+      "mobileUrl": "https://daily.zhihu.com/story/9788438"
+    }
+  ]
+}
