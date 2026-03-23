@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-23T02:21:35.807498",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788595,
+      "title": "螃蟹是怎么做到蜕壳后的身体比旧壳更大的？",
+      "cover": "https://picx.zhimg.com/v2-2a3b629ea14379d18325471ddca5a1f6.jpg?source=8673f162",
+      "author": "Rara · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788595",
+      "mobileUrl": "https://daily.zhihu.com/story/9788595"
+    },
+    {
+      "id": 9788598,
+      "title": "唐太宗李世民有哪些「可爱」的一面？",
+      "cover": "https://picx.zhimg.com/v2-123422f2b79f7a111da601414d5ec8e0.jpg?source=8673f162",
+      "author": "HUl · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788598",
+      "mobileUrl": "https://daily.zhihu.com/story/9788598"
+    },
+    {
+      "id": 9788604,
+      "title": "为什么有些鱼类可以既有鳃又有肺，而海洋中的哺乳动物却进化不出来呢?",
+      "cover": "https://pic1.zhimg.com/v2-bb0fab09e96898ed452fb578aa3a7853.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788604",
+      "mobileUrl": "https://daily.zhihu.com/story/9788604"
+    },
+    {
+      "id": 9788605,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-1f8590dc22328f029e3c2eeb73f7d0c9.jpg?source=8673f162",
+      "author": "VOL.3867",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788605",
+      "mobileUrl": "https://daily.zhihu.com/story/9788605"
+    }
+  ]
+}
