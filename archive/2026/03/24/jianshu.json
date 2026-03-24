@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2026-03-24T02:06:32.625665",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": "e63ea29dd946",
+      "title": "用小饼图代替点图里的点",
+      "cover": "https://upload-images.jianshu.io/upload_images/9475888-1a5888d2ad47b104.jpeg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "0.起因 最近在群里看到一个图，棒棒糖图的点用饼图代替了。 然后又看到一个文章里，用饼图代替了富集分析的点图，妙啊~ 这个地球上有什么漂亮的图能...",
+      "author": "小洁忘了怎么分身",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/e63ea29dd946",
+      "mobileUrl": "https://www.jianshu.com/p/e63ea29dd946"
+    },
+    {
+      "id": "0be116dad8ee",
+      "title": "C#：Opencv自带颜色表操作",
+      "desc": "《学习OpenCV(中文版)》 作者：（美）布拉德斯基（Bradski，G.）（美）克勒（Kaehler，A.） 著出版社：清华大学出版社出版时...",
+      "author": "大龙10",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/0be116dad8ee",
+      "mobileUrl": "https://www.jianshu.com/p/0be116dad8ee"
+    },
+    {
+      "id": "4cb5087de149",
+      "title": "iOS 仿小红书的 push pop转场动画",
+      "desc": "iOS 7之后，苹果提供了自定义转场动画的API，我们可以自己去定义任意动画效果。本篇为笔者学习push、pop自定义转场效果的笔记，如何有任何...",
+      "author": "海边的遐想",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/4cb5087de149",
+      "mobileUrl": "https://www.jianshu.com/p/4cb5087de149"
+    },
+    {
+      "id": "63d87f022db3",
+      "title": "20260312",
+      "desc": "23:30今天开始尝试早睡。又一次向早睡早起发起了冲锋。昨天写了这篇文章之后，关于007心动社社群的这篇文章，我发现他的公众号的阅读量并不多。 ...",
+      "author": "一蓑星雨",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/63d87f022db3",
+      "mobileUrl": "https://www.jianshu.com/p/63d87f022db3"
+    }
+  ]
+}

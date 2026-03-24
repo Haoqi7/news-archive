@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-24T02:06:18.198078",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788606,
+      "title": "为什么基础科学很久没有重大突破了？",
+      "cover": "https://picx.zhimg.com/v2-4b4b68bcdc6034da5a0dff23cd0f971b.jpg?source=8673f162",
+      "author": "snowtree · 14 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788606",
+      "mobileUrl": "https://daily.zhihu.com/story/9788606"
+    },
+    {
+      "id": 9788627,
+      "title": "东非为何没有成为伊斯兰世界的「美洲」？",
+      "cover": "https://pica.zhimg.com/v2-1f892b8b657a3efc7892dd606dd35d59.jpg?source=8673f162",
+      "author": "莱茵行宫伯爵 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788627",
+      "mobileUrl": "https://daily.zhihu.com/story/9788627"
+    },
+    {
+      "id": 9788634,
+      "title": "现在的技术条件能不能实现烤全鲸？",
+      "cover": "https://picx.zhimg.com/v2-d664ff491eeeb6ffef8cac75c27f67f2.jpg?source=8673f162",
+      "author": "祥昊 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788634",
+      "mobileUrl": "https://daily.zhihu.com/story/9788634"
+    },
+    {
+      "id": 9788705,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-1f8590dc22328f029e3c2eeb73f7d0c9.jpg?source=8673f162",
+      "author": "VOL.3868",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788705",
+      "mobileUrl": "https://daily.zhihu.com/story/9788705"
+    }
+  ]
+}
