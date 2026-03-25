@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-25T02:11:33.390222",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788608,
+      "title": "人为什么不能像狗那样甩干自己呢？",
+      "cover": "https://pic1.zhimg.com/v2-baacef97294d532c657d6d58ba8c3a07.jpg?source=8673f162",
+      "author": "苏澄宇 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788608",
+      "mobileUrl": "https://daily.zhihu.com/story/9788608"
+    },
+    {
+      "id": 9788641,
+      "title": "为什么说双缝干涉实验很恐怖？",
+      "cover": "https://pica.zhimg.com/v2-a91db9fd03c42af5650f8056d141a9a1.jpg?source=8673f162",
+      "author": "Dunkirk · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788641",
+      "mobileUrl": "https://daily.zhihu.com/story/9788641"
+    },
+    {
+      "id": 9788646,
+      "title": "「法国梧桐」既不来自法国，又不是真的梧桐，为啥还会叫这个名字？",
+      "cover": "https://picx.zhimg.com/v2-d701b62c9e58531b74371bd2b413c1c3.jpg?source=8673f162",
+      "author": "祥昊 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788646",
+      "mobileUrl": "https://daily.zhihu.com/story/9788646"
+    },
+    {
+      "id": 9788710,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-1f8590dc22328f029e3c2eeb73f7d0c9.jpg?source=8673f162",
+      "author": "VOL.3869",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788710",
+      "mobileUrl": "https://daily.zhihu.com/story/9788710"
+    }
+  ]
+}
