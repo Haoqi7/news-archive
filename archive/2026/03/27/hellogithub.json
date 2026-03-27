@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2026-03-27T02:26:50.214207",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "03c038457f164b64bbbafa5f48dda056",
+      "title": "让大模型直接帮你干活的智能体",
+      "desc": "这是一款由 AI 驱动的桌面自动化工具（Computer-use-Agent），用户只需通过自然语言描述任务，即可让 AI 自主规划并在桌面环境中自动执行点击、",
+      "author": "TurixAI",
+      "timestamp": 1773994693000,
+      "hot": 2754,
+      "url": "https://hellogithub.com/repository/03c038457f164b64bbbafa5f48dda056",
+      "mobileUrl": "https://hellogithub.com/repository/03c038457f164b64bbbafa5f48dda056"
+    },
+    {
+      "id": "2af2034bb1e84122aac1d39046be20ec",
+      "title": "即用即走的桌面翻译与 OCR 工具",
+      "desc": "这是一款基于 WPF 开发的 Windows 翻译与 OCR 工具，集成了 Google、DeepL、OpenAI 等翻译服务，支持划词翻译、截图识别、全文翻译",
+      "author": "STranslate",
+      "timestamp": 1774598911000,
+      "hot": 56,
+      "url": "https://hellogithub.com/repository/2af2034bb1e84122aac1d39046be20ec",
+      "mobileUrl": "https://hellogithub.com/repository/2af2034bb1e84122aac1d39046be20ec"
+    },
+    {
+      "id": "c67dbd71e9f146e7b58f102851832d73",
+      "title": "利用 WiFi 信号感知人体姿态的工具",
+      "desc": "这是一款将 WiFi 无线信号转化为实时空间感知能力的工具，通过分析人体活动引起的信道状态信息变化，无需摄像头或穿戴设备，即可实时还原人体姿态，并检测心率和呼吸",
+      "author": "ruvnet",
+      "timestamp": 1774598911000,
+      "hot": 65,
+      "url": "https://hellogithub.com/repository/c67dbd71e9f146e7b58f102851832d73",
+      "mobileUrl": "https://hellogithub.com/repository/c67dbd71e9f146e7b58f102851832d73"
+    },
+    {
+      "id": "ca7af3af9485474795584e5d499ed1d6",
+      "title": "减少 AI 编码幻觉的专属知识库",
+      "desc": "该项目是专为 Claude Code 等 AI 编程工具，提供由社区精心整理、版本化的 API 文档知识库，支持按需检索、本地标注和反馈循环等功能，有效减少 A",
+      "author": "andrewyng",
+      "timestamp": 1774598911000,
+      "hot": 36,
+      "url": "https://hellogithub.com/repository/ca7af3af9485474795584e5d499ed1d6",
+      "mobileUrl": "https://hellogithub.com/repository/ca7af3af9485474795584e5d499ed1d6"
+    },
+    {
+      "id": "99156dde8d64444e9b1ecbe593b74b76",
+      "title": "在 Android 上运行 OpenClaw",
+      "desc": "该项目提供两种在 Android 手机上运行 OpenClaw 智能体平台（非客户端）的方式。可通过 Termux 安装 glibc 动态链接器直接部署 Lin",
+      "author": "AidanPark",
+      "timestamp": 1774598911000,
+      "hot": 32,
+      "url": "https://hellogithub.com/repository/99156dde8d64444e9b1ecbe593b74b76",
+      "mobileUrl": "https://hellogithub.com/repository/99156dde8d64444e9b1ecbe593b74b76"
+    },
+    {
+      "id": "0c0b6d59f0d4411ebd78b57ea5863790",
+      "title": "你网站里的 AI 操作员",
+      "desc": "这是一个页面内嵌式 GUI Agent，专为网站开发者设计。与传统的浏览器自动化工具不同，它需要通过代码集成到网站中，集成后用户即可通过自然语言与页面进行交互。",
+      "author": "alibaba",
+      "timestamp": 1774598911000,
+      "hot": 31,
+      "url": "https://hellogithub.com/repository/0c0b6d59f0d4411ebd78b57ea5863790",
+      "mobileUrl": "https://hellogithub.com/repository/0c0b6d59f0d4411ebd78b57ea5863790"
+    },
+    {
+      "id": "755f86f26aa64d1db8b43ba09afdf0b3",
+      "title": "极简的 3D 建筑编辑器",
+      "desc": "这是一款基于 React 和 WebGPU 构建的 3D 建筑编辑器，可以在浏览器中创建、编辑和分享 3D 建筑模型。",
+      "author": "pascalorg",
+      "timestamp": 1774598911000,
+      "hot": 20,
+      "url": "https://hellogithub.com/repository/755f86f26aa64d1db8b43ba09afdf0b3",
+      "mobileUrl": "https://hellogithub.com/repository/755f86f26aa64d1db8b43ba09afdf0b3"
+    },
+    {
+      "id": "914bc4dd44dc4d38b9591f2146b83199",
+      "title": "连接 AI 与 Chrome 浏览器的桥梁",
+      "desc": "这是一款基于 Go 语言开发的 HTTP 服务器，能够让 AI 代理通过 API 接口或命令行的方式控制 Chrome 浏览器，支持 MCP、DOM 交互、屏幕",
+      "author": "pinchtab",
+      "timestamp": 1774598911000,
+      "hot": 18,
+      "url": "https://hellogithub.com/repository/914bc4dd44dc4d38b9591f2146b83199",
+      "mobileUrl": "https://hellogithub.com/repository/914bc4dd44dc4d38b9591f2146b83199"
+    },
+    {
+      "id": "f6a5bb3e63a14323bf864b00c5b05b9f",
+      "title": "将现实世界场景装进我的世界",
+      "desc": "这是一款能够将现实世界的地理数据转化为 Minecraft 游戏内地图的工具，用户仅需在交互式地图上选择区域，即可自动生成包含地形、街道、建筑和森林的游戏存档，",
+      "author": "louis-e",
+      "timestamp": 1774598911000,
+      "hot": 15,
+      "url": "https://hellogithub.com/repository/f6a5bb3e63a14323bf864b00c5b05b9f",
+      "mobileUrl": "https://hellogithub.com/repository/f6a5bb3e63a14323bf864b00c5b05b9f"
+    },
+    {
+      "id": "5fe7aa33e2df4240bdfed9712ffd26b9",
+      "title": "让 AI 编程助手变身虚拟开发团队",
+      "desc": "这是一组提升 AI 编程助手开发能力的 Skills 集合，能够让 AI 模拟 YC 合伙人的提问方式，以及 CEO、架构师、设计师和测试等角色，将 Claud",
+      "author": "garrytan",
+      "timestamp": 1774598911000,
+      "hot": 13,
+      "url": "https://hellogithub.com/repository/5fe7aa33e2df4240bdfed9712ffd26b9",
+      "mobileUrl": "https://hellogithub.com/repository/5fe7aa33e2df4240bdfed9712ffd26b9"
+    },
+    {
+      "id": "1b796f5e69514057bca025d6ca9874d2",
+      "title": "开箱即用的 AWS 本地模拟器",
+      "desc": "这是一款免费、开源的 AWS 本地模拟器，帮助开发者在本地开发和测试 AWS 应用，它启动快、占用少、无需账号，仅需一条命令就能在本地启动 20 多种 AWS ",
+      "author": "hectorvent",
+      "timestamp": 1774598911000,
+      "hot": 13,
+      "url": "https://hellogithub.com/repository/1b796f5e69514057bca025d6ca9874d2",
+      "mobileUrl": "https://hellogithub.com/repository/1b796f5e69514057bca025d6ca9874d2"
+    },
+    {
+      "id": "309ee95ca5de492199212c9c8aaa4b66",
+      "title": "降低 Token 消耗的命令行工具",
+      "desc": "这是一款用于降低 AI 编程助手 Token 消耗的工具，通过压缩常见开发命令的输出、合并重复日志、删除代码注释和多余空行等方式，可将 Token 消耗减少 6",
+      "author": "rtk-ai",
+      "timestamp": 1774598911000,
+      "hot": 11,
+      "url": "https://hellogithub.com/repository/309ee95ca5de492199212c9c8aaa4b66",
+      "mobileUrl": "https://hellogithub.com/repository/309ee95ca5de492199212c9c8aaa4b66"
+    },
+    {
+      "id": "68d3ff094ed7421f87c3ce2120098858",
+      "title": "开源的高性能通用物理引擎",
+      "desc": "该项目是由 Google DeepMind 开源的通用物理仿真引擎，专注于复杂关节结构与环境交互模拟。它内置可视化交互式界面，支持使用 MJCF 描述场景，适用",
+      "author": "google-deepmind",
+      "timestamp": 1774598911000,
+      "hot": 10,
+      "url": "https://hellogithub.com/repository/68d3ff094ed7421f87c3ce2120098858",
+      "mobileUrl": "https://hellogithub.com/repository/68d3ff094ed7421f87c3ce2120098858"
+    },
+    {
+      "id": "b41cd197a8c84490a42c99d06a5113d6",
+      "title": "一键同步多平台 AI 技能的工具",
+      "desc": "这是一款跨工具、跨平台的 skill 同步工具，可通过一条简单的命令将技能、提示词和配置文件同步到多个 AI 工具中，支持 Claude Code、OpenCl",
+      "author": "runkids",
+      "timestamp": 1774598911000,
+      "hot": 10,
+      "url": "https://hellogithub.com/repository/b41cd197a8c84490a42c99d06a5113d6",
+      "mobileUrl": "https://hellogithub.com/repository/b41cd197a8c84490a42c99d06a5113d6"
+    },
+    {
+      "id": "fb457793a87e4bdab9c4f5ca26451a7f",
+      "title": "AI 驱动的对话式视频创作智能体",
+      "desc": "这是一款基于 LLM/VLM 构建的自动化视频创作智能体。用户可通过自然语言描述意图，系统会自动完成素材收集、剪辑、构建故事线、配音和配乐，支持对话式精修，包括",
+      "author": "FireRedTeam",
+      "timestamp": 1774598911000,
+      "hot": 8,
+      "url": "https://hellogithub.com/repository/fb457793a87e4bdab9c4f5ca26451a7f",
+      "mobileUrl": "https://hellogithub.com/repository/fb457793a87e4bdab9c4f5ca26451a7f"
+    },
+    {
+      "id": "913bfdd16c6f4ba594c5dff690e4c32a",
+      "title": "启动速度极快的无头浏览器",
+      "desc": "这是一款完全用 Zig 语言从零开发的无头浏览器，启动比 Chrome 快 11 倍、内存占用低 9 倍，支持 JavaScript 和 Web API，兼容 ",
+      "author": "lightpanda-io",
+      "timestamp": 1774598911000,
+      "hot": 74,
+      "url": "https://hellogithub.com/repository/913bfdd16c6f4ba594c5dff690e4c32a",
+      "mobileUrl": "https://hellogithub.com/repository/913bfdd16c6f4ba594c5dff690e4c32a"
+    },
+    {
+      "id": "fb893a9bf06f47ad80a7bcb4c4ffff88",
+      "title": "极简的 IT 资产管理工具",
+      "desc": "这是一款轻量级个人 IT 基础设施管理工具，提供 WebUI 与 CLI 使用方式。它通过 YAML 文件存储数据，内置 Git 方便追踪变更历史，支持直观显示",
+      "author": "Timmoth",
+      "timestamp": 1774598911000,
+      "hot": 47,
+      "url": "https://hellogithub.com/repository/fb893a9bf06f47ad80a7bcb4c4ffff88",
+      "mobileUrl": "https://hellogithub.com/repository/fb893a9bf06f47ad80a7bcb4c4ffff88"
+    },
+    {
+      "id": "c40d26a337c04b1fbdfdae353f1aa4e4",
+      "title": "仅 5KB 的交互式地球库",
+      "desc": "这是一款超轻量级的地球 3D 可视化库。仅需几行代码，即可在网页中渲染出精美的 3D 交互式地球视觉效果。",
+      "author": "shuding",
+      "timestamp": 1774598911000,
+      "hot": 45,
+      "url": "https://hellogithub.com/repository/c40d26a337c04b1fbdfdae353f1aa4e4",
+      "mobileUrl": "https://hellogithub.com/repository/c40d26a337c04b1fbdfdae353f1aa4e4"
+    },
+    {
+      "id": "42e5bea92ddc4979a2706988f5839624",
+      "title": "开源的模型火箭模拟器",
+      "desc": "这是一款免费、开源的模型火箭（航模）仿真软件，支持模拟火箭的空气动力学性能和飞行轨迹，提供直观的火箭设计界面，可进行六自由度飞行模拟，在模拟过程中实时展示高度、",
+      "author": "openrocket",
+      "timestamp": 1774598911000,
+      "hot": 30,
+      "url": "https://hellogithub.com/repository/42e5bea92ddc4979a2706988f5839624",
+      "mobileUrl": "https://hellogithub.com/repository/42e5bea92ddc4979a2706988f5839624"
+    },
+    {
+      "id": "0f94739039ab45d68cb0fad112cfd0e4",
+      "title": "在浏览器中运行多种复古游戏的模拟器",
+      "desc": "这是一款基于 JavaScript 和 WebAssembly 开发的复古游戏模拟器，支持 NES、SNES、GBA、PSP、PS1、街机等经典游戏。用户只需在",
+      "author": "EmulatorJS",
+      "timestamp": 1774598911000,
+      "hot": 23,
+      "url": "https://hellogithub.com/repository/0f94739039ab45d68cb0fad112cfd0e4",
+      "mobileUrl": "https://hellogithub.com/repository/0f94739039ab45d68cb0fad112cfd0e4"
+    }
+  ]
+}

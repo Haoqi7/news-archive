@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-27T02:26:23.607040",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788615,
+      "title": "为什么现在的飞机更颠簸了？",
+      "cover": "https://picx.zhimg.com/v2-b9a2942aefb870774dc11c59320c2a83.jpg?source=8673f162",
+      "author": "太空僧 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788615",
+      "mobileUrl": "https://daily.zhihu.com/story/9788615"
+    },
+    {
+      "id": 9788662,
+      "title": "捏住老虎的后颈肉，它会像猫咪一样乖巧顺从吗？",
+      "cover": "https://pic1.zhimg.com/v2-e51f718f9a0fbb62065ab4f35578de3a.jpg?source=8673f162",
+      "author": "苏澄宇 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788662",
+      "mobileUrl": "https://daily.zhihu.com/story/9788662"
+    },
+    {
+      "id": 9788669,
+      "title": "是奴隶主养活了奴隶，还是奴隶养活了奴隶主？",
+      "cover": "https://picx.zhimg.com/v2-b0f58eb68a425733d9281aa7d3e7a615.jpg?source=8673f162",
+      "author": "风雪之屋 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788669",
+      "mobileUrl": "https://daily.zhihu.com/story/9788669"
+    },
+    {
+      "id": 9788717,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-1f8590dc22328f029e3c2eeb73f7d0c9.jpg?source=8673f162",
+      "author": "VOL.3871",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788717",
+      "mobileUrl": "https://daily.zhihu.com/story/9788717"
+    }
+  ]
+}
