@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-03-28T02:09:27.953509",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788616,
+      "title": "马和牛都只吃素，为何它们这么壮？",
+      "cover": "https://pica.zhimg.com/v2-4e74371e555e7d83b18564cb27e36d99.jpg?source=8673f162",
+      "author": "剁椒鹿 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788616",
+      "mobileUrl": "https://daily.zhihu.com/story/9788616"
+    },
+    {
+      "id": 9788674,
+      "title": "人类进化为什么不卵生？",
+      "cover": "https://picx.zhimg.com/v2-f703b0dd5612b2bc507032f186a5ddf0.jpg?source=8673f162",
+      "author": "瞻云 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788674",
+      "mobileUrl": "https://daily.zhihu.com/story/9788674"
+    },
+    {
+      "id": 9788682,
+      "title": "为什么在各种字母文字里，只有西班牙文能做到「读写相符」？",
+      "cover": "https://pic1.zhimg.com/v2-e3feddfd189ad29e1323769e7192ccb1.jpg?source=8673f162",
+      "author": "莱茵行宫伯爵 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788682",
+      "mobileUrl": "https://daily.zhihu.com/story/9788682"
+    },
+    {
+      "id": 9788683,
+      "title": "为什么很少听说有鸟类之间的杂交和爬行类动物之间的混血，它们种族的生殖隔离很严重吗？",
+      "cover": "https://pic1.zhimg.com/v2-2b63cc5ef9d581c73aa78e901f7ccce7.jpg?source=8673f162",
+      "author": "高sir · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788683",
+      "mobileUrl": "https://daily.zhihu.com/story/9788683"
+    }
+  ]
+}
