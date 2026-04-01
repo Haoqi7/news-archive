@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-04-01T02:37:25.002446",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788492,
+      "title": "为什么老虎的头比猫大很多，但并没有比猫聪明多少？",
+      "cover": "https://pic1.zhimg.com/v2-16bcc0d99594f42844254f434f94fcf9.jpg?source=8673f162",
+      "author": "苏澄宇 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788492",
+      "mobileUrl": "https://daily.zhihu.com/story/9788492"
+    },
+    {
+      "id": 9788497,
+      "title": "为什么巴赫被音乐界奉为神明？",
+      "cover": "https://pic1.zhimg.com/v2-8c0f432fee3c283ff5448dcb6b5f2e98.jpg?source=8673f162",
+      "author": "沙漏 · 10 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788497",
+      "mobileUrl": "https://daily.zhihu.com/story/9788497"
+    },
+    {
+      "id": 9788502,
+      "title": "抖音上有个能控制苍蝇的人，那视频看了几遍都不像 ai，难道真的有人可以驯服……类似苍蝇这样的生物吗？",
+      "cover": "https://pic1.zhimg.com/v2-6383d7af3951b2e98dbe97464c710b2a.jpg?source=8673f162",
+      "author": "斜绿天蛾 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788502",
+      "mobileUrl": "https://daily.zhihu.com/story/9788502"
+    },
+    {
+      "id": 9788512,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-8102d7c073e4381ec2843b383b07ffb6.jpg?source=8673f162",
+      "author": "VOL.3874",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788512",
+      "mobileUrl": "https://daily.zhihu.com/story/9788512"
+    }
+  ]
+}
