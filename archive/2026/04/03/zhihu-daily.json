@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-04-03T02:24:38.015386",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788535,
+      "title": "什么东西早就应该发明出来，而现在却没有？",
+      "cover": "https://picx.zhimg.com/v2-f1fdd641fefdb71352feed56a395e102.jpg?source=8673f162",
+      "author": "文森特·凡喵 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788535",
+      "mobileUrl": "https://daily.zhihu.com/story/9788535"
+    },
+    {
+      "id": 9788541,
+      "title": "请问这样的二维码可以修复吗？有没有高手试一下?",
+      "cover": "https://pic1.zhimg.com/v2-46fbca3dbd9c666e336dea086dbbba59.jpg?source=8673f162",
+      "author": "Reimu Hakurei · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788541",
+      "mobileUrl": "https://daily.zhihu.com/story/9788541"
+    },
+    {
+      "id": 9788545,
+      "title": "宋朝的夜市那么繁华，有哪些延续到今天的美食？",
+      "cover": "https://picx.zhimg.com/v2-ecbd20cae9a347ccfb276ecfbf6ff24b.jpg?source=8673f162",
+      "author": "鞭临天下 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788545",
+      "mobileUrl": "https://daily.zhihu.com/story/9788545"
+    },
+    {
+      "id": 9788548,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-8102d7c073e4381ec2843b383b07ffb6.jpg?source=8673f162",
+      "author": "VOL.3876",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788548",
+      "mobileUrl": "https://daily.zhihu.com/story/9788548"
+    }
+  ]
+}
