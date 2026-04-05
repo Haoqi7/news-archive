@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2026-04-05T02:31:46.980246",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "cb9558b78366",
+      "title": "个人死亡去世离世，家人能够领取医保账户医疗保险金钱，忘记就给予别人了",
+      "desc": "关键词：#去世 #保险 #家人 #医保 个人去世之时，工伤和养老住房生活方面补贴，请搜索本人相关文章标题关键词《个人工伤死亡去世离世，家人能够领...",
+      "author": "洋葱心得",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/cb9558b78366",
+      "mobileUrl": "https://www.jianshu.com/p/cb9558b78366"
+    },
+    {
+      "id": "b5911a5add1d",
+      "title": "小程序如何传递数据",
+      "desc": "1、本地缓存 2、全局变量： 在 app.js 中的 this.globalData = { }  中放入要存储的数； 在组件.js 中， 头部...",
+      "author": "萤火驻守心间",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/b5911a5add1d",
+      "mobileUrl": "https://www.jianshu.com/p/b5911a5add1d"
+    },
+    {
+      "id": "bd03d3000492",
+      "title": "iOS开发 APP跳转到设置或系统页面",
+      "desc": "iOS10以前 打开设置应用: UIApplication.openSettingsURLString 打开通用设置: App-Prefs:ro...",
+      "author": "山水域",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/bd03d3000492",
+      "mobileUrl": "https://www.jianshu.com/p/bd03d3000492"
+    }
+  ]
+}

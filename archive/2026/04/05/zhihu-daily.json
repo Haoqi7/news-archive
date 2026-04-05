@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-04-05T02:31:31.834342",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788579,
+      "title": "为什么鸟等动物很少因为肥胖生病，只有人类因为肥胖生病需要减肥。动物都不会太胖？",
+      "cover": "https://picx.zhimg.com/v2-2e9ab1ded01dc8df187b48dd641d6b65.jpg?source=8673f162",
+      "author": "怪罗先生 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788579",
+      "mobileUrl": "https://daily.zhihu.com/story/9788579"
+    },
+    {
+      "id": 9788583,
+      "title": "新疆库木塔格沙漠惊现雪豹，雪豹不是住高山的吗，为什么会出现在沙漠？它靠什么活？",
+      "cover": "https://pic1.zhimg.com/v2-0cac32fbc25398f3930c6c5aaf16ead3.jpg?source=8673f162",
+      "author": "剁椒鹿 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788583",
+      "mobileUrl": "https://daily.zhihu.com/story/9788583"
+    },
+    {
+      "id": 9788585,
+      "title": "为什么日本的鲷鱼烧要做成鱼的形状？",
+      "cover": "https://picx.zhimg.com/v2-482ab33767194e70c37712f1e05ff912.jpg?source=8673f162",
+      "author": "九月听澜 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788585",
+      "mobileUrl": "https://daily.zhihu.com/story/9788585"
+    },
+    {
+      "id": 9788590,
+      "title": "哪些情况可能导致因心源性猝死？第一时间该怎样急救？可以怎样尽早发现？",
+      "cover": "https://picx.zhimg.com/v2-c90870aa8864435a99e927d3498d1d73.jpg?source=8673f162",
+      "author": "极萨学院冷哲 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788590",
+      "mobileUrl": "https://daily.zhihu.com/story/9788590"
+    }
+  ]
+}
