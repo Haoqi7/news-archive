@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-04-11T02:13:31.817407",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788822,
+      "title": "在你的专业领域，大模型目前最难跨越的一道「门坎」是什么？",
+      "cover": "https://picx.zhimg.com/v2-731732347e53e78b784f28c7db3d065d.jpg?source=8673f162",
+      "author": "知乎用户 · 10 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788822",
+      "mobileUrl": "https://daily.zhihu.com/story/9788822"
+    },
+    {
+      "id": 9788832,
+      "title": "吃自助餐能吃回本吗？",
+      "cover": "https://pic1.zhimg.com/v2-a01f5f0714c1c33eaf63468b8e468d3e.jpg?source=8673f162",
+      "author": "知乎用户 · 13 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788832",
+      "mobileUrl": "https://daily.zhihu.com/story/9788832"
+    },
+    {
+      "id": 9788838,
+      "title": "曾经大干快上的垃圾分类为何没人再提了？",
+      "cover": "https://picx.zhimg.com/v2-99f6316bdd366ca593097086d9b892e5.jpg?source=8673f162",
+      "author": "牛顿顿顿 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788838",
+      "mobileUrl": "https://daily.zhihu.com/story/9788838"
+    },
+    {
+      "id": 9788847,
+      "title": "人，可以废物到什么程度？",
+      "cover": "https://pica.zhimg.com/v2-8b8b8d2998025c72fa25a086529ee3b3.jpg?source=8673f162",
+      "author": "小蓝同学 · 38 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788847",
+      "mobileUrl": "https://daily.zhihu.com/story/9788847"
+    }
+  ]
+}
