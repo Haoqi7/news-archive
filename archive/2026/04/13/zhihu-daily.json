@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-04-13T02:41:30.358771",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788963,
+      "title": "有人说猫是地球上最能忍痛的动物之一，这是真的吗？为什么猫咪这么能忍？",
+      "cover": "https://picx.zhimg.com/v2-e89e9b0089fe8285574a4b6d55d28f6c.jpg?source=8673f162",
+      "author": "苏澄宇 · 6 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788963",
+      "mobileUrl": "https://daily.zhihu.com/story/9788963"
+    },
+    {
+      "id": 9788887,
+      "title": "史书上「南方瘴气」是什么？现在还有吗？",
+      "cover": "https://picx.zhimg.com/v2-6a6f8aa28887ac6159a39053f6cccf6c.jpg?source=8673f162",
+      "author": "马前卒 · 12 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788887",
+      "mobileUrl": "https://daily.zhihu.com/story/9788887"
+    },
+    {
+      "id": 9788966,
+      "title": "士兵只携带 150 发子弹，战场上打光了怎么办？",
+      "cover": "https://picx.zhimg.com/v2-979ea3926e695098165dbc8df11411ff.jpg?source=8673f162",
+      "author": "逆水 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788966",
+      "mobileUrl": "https://daily.zhihu.com/story/9788966"
+    },
+    {
+      "id": 9788907,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-b7885a971bcb25d2aca77863115c40c7.jpg?source=8673f162",
+      "author": "VOL.3882",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788907",
+      "mobileUrl": "https://daily.zhihu.com/story/9788907"
+    }
+  ]
+}
