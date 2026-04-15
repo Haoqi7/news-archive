@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2026-04-15T02:33:47.780412",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "03c038457f164b64bbbafa5f48dda056",
+      "title": "让大模型直接帮你干活的智能体",
+      "desc": "这是一款由 AI 驱动的桌面自动化工具（Computer-use-Agent），用户只需通过自然语言描述任务，即可让 AI 自主规划并在桌面环境中自动执行点击、",
+      "author": "TurixAI",
+      "timestamp": 1773994693000,
+      "hot": 8512,
+      "url": "https://hellogithub.com/repository/03c038457f164b64bbbafa5f48dda056",
+      "mobileUrl": "https://hellogithub.com/repository/03c038457f164b64bbbafa5f48dda056"
+    },
+    {
+      "id": "4dd4bd67871b461fa8bd3641d803db05",
+      "title": "让多个 AI 编程助手同时干活的工具",
+      "desc": "这是一款专为多项目并行 VibeCoding 而打造的 AI 编程桌面工具，原生支持 Claude Code 和 Codex。它采用 Tauri+React+T",
+      "author": "hanshuaikang",
+      "timestamp": 1775864961000,
+      "hot": 748,
+      "url": "https://hellogithub.com/repository/4dd4bd67871b461fa8bd3641d803db05",
+      "mobileUrl": "https://hellogithub.com/repository/4dd4bd67871b461fa8bd3641d803db05"
+    },
+    {
+      "id": "cd100d360d8e4e62a16108c9b77a6b80",
+      "title": "从零开始动手实现 AI Agent",
+      "desc": "该项目是讲解如何从零构建类似 Claude Code 的 AI Agent 工具，共计 12 节课，每节课都有一个可运行的 Python 文件。内容从最基础的 ",
+      "author": "shareAI-lab",
+      "timestamp": 1772266209000,
+      "hot": 10379,
+      "url": "https://hellogithub.com/repository/cd100d360d8e4e62a16108c9b77a6b80",
+      "mobileUrl": "https://hellogithub.com/repository/cd100d360d8e4e62a16108c9b77a6b80"
+    },
+    {
+      "id": "fb457793a87e4bdab9c4f5ca26451a7f",
+      "title": "AI 驱动的对话式视频创作智能体",
+      "desc": "这是一款基于 LLM/VLM 构建的自动化视频创作智能体。用户可通过自然语言描述意图，系统会自动完成素材收集、剪辑、构建故事线、配音和配乐，支持对话式精修，包括",
+      "author": "FireRedTeam",
+      "timestamp": 1774598911000,
+      "hot": 2184,
+      "url": "https://hellogithub.com/repository/fb457793a87e4bdab9c4f5ca26451a7f",
+      "mobileUrl": "https://hellogithub.com/repository/fb457793a87e4bdab9c4f5ca26451a7f"
+    },
+    {
+      "id": "2af2034bb1e84122aac1d39046be20ec",
+      "title": "即用即走的桌面翻译与 OCR 工具",
+      "desc": "这是一款基于 WPF 开发的 Windows 翻译与 OCR 工具，集成了 Google、DeepL、OpenAI 等翻译服务，支持划词翻译、截图识别、全文翻译",
+      "author": "STranslate",
+      "timestamp": 1774598911000,
+      "hot": 2344,
+      "url": "https://hellogithub.com/repository/2af2034bb1e84122aac1d39046be20ec",
+      "mobileUrl": "https://hellogithub.com/repository/2af2034bb1e84122aac1d39046be20ec"
+    },
+    {
+      "id": "6a8290c9b53843859b2540e0c64efaa6",
+      "title": "在浏览器中管理你的手机",
+      "desc": "这是一款 Kotlin 开发的 Android 应用，让你可以在同一局域网内通过任意电脑上的浏览器，轻松查看和管理手机中的联系人、短信、通话记录、文件和照片，并",
+      "author": "plainhub",
+      "timestamp": 1774598911000,
+      "hot": 2040,
+      "url": "https://hellogithub.com/repository/6a8290c9b53843859b2540e0c64efaa6",
+      "mobileUrl": "https://hellogithub.com/repository/6a8290c9b53843859b2540e0c64efaa6"
+    },
+    {
+      "id": "fc36441992724e1e8dc51fd7aa350207",
+      "title": "现象级的个人 AI 助手",
+      "desc": "这是一款用 TypeScript 开发的开源个人 AI 助手，可快速部署在 macOS、Windows 和 Linux 系统，并支持通过 WhatsApp、Te",
+      "author": "openclaw",
+      "timestamp": 1772266209000,
+      "hot": 7885,
+      "url": "https://hellogithub.com/repository/fc36441992724e1e8dc51fd7aa350207",
+      "mobileUrl": "https://hellogithub.com/repository/fc36441992724e1e8dc51fd7aa350207"
+    },
+    {
+      "id": "c67dbd71e9f146e7b58f102851832d73",
+      "title": "利用 WiFi 信号感知人体姿态的工具",
+      "desc": "这是一款将 WiFi 无线信号转化为实时空间感知能力的工具，通过分析人体活动引起的信道状态信息变化，无需摄像头或穿戴设备，即可实时还原人体姿态，并检测心率和呼吸",
+      "author": "ruvnet",
+      "timestamp": 1774598911000,
+      "hot": 2154,
+      "url": "https://hellogithub.com/repository/c67dbd71e9f146e7b58f102851832d73",
+      "mobileUrl": "https://hellogithub.com/repository/c67dbd71e9f146e7b58f102851832d73"
+    },
+    {
+      "id": "913bfdd16c6f4ba594c5dff690e4c32a",
+      "title": "启动速度极快的无头浏览器",
+      "desc": "这是一款完全用 Zig 语言从零开发的无头浏览器，启动比 Chrome 快 11 倍、内存占用低 9 倍，支持 JavaScript 和 Web API，兼容 ",
+      "author": "lightpanda-io",
+      "timestamp": 1774598911000,
+      "hot": 2418,
+      "url": "https://hellogithub.com/repository/913bfdd16c6f4ba594c5dff690e4c32a",
+      "mobileUrl": "https://hellogithub.com/repository/913bfdd16c6f4ba594c5dff690e4c32a"
+    },
+    {
+      "id": "6daa16e405ce46ed97b4a57706aeb29f",
+      "title": "基于 LLM 的智能股票分析系统",
+      "desc": "这是一个由 LLM 驱动的智能股票分析工具，支持 A 股、港股和美股的每日自动分析与推送。它通过 AkShare、Tushare、YFinance 等数据源获取",
+      "author": "ZhuLinsen",
+      "timestamp": 1772266209000,
+      "hot": 6750,
+      "url": "https://hellogithub.com/repository/6daa16e405ce46ed97b4a57706aeb29f",
+      "mobileUrl": "https://hellogithub.com/repository/6daa16e405ce46ed97b4a57706aeb29f"
+    },
+    {
+      "id": "309ee95ca5de492199212c9c8aaa4b66",
+      "title": "降低 Token 消耗的命令行工具",
+      "desc": "这是一款用于降低 AI 编程助手 Token 消耗的工具，通过压缩常见开发命令的输出、合并重复日志、删除代码注释和多余空行等方式，可将 Token 消耗减少 6",
+      "author": "rtk-ai",
+      "timestamp": 1774598911000,
+      "hot": 1621,
+      "url": "https://hellogithub.com/repository/309ee95ca5de492199212c9c8aaa4b66",
+      "mobileUrl": "https://hellogithub.com/repository/309ee95ca5de492199212c9c8aaa4b66"
+    },
+    {
+      "id": "755f86f26aa64d1db8b43ba09afdf0b3",
+      "title": "极简的 3D 建筑编辑器",
+      "desc": "这是一款基于 React 和 WebGPU 构建的 3D 建筑编辑器，可以在浏览器中创建、编辑和分享 3D 建筑模型。",
+      "author": "pascalorg",
+      "timestamp": 1774598911000,
+      "hot": 1569,
+      "url": "https://hellogithub.com/repository/755f86f26aa64d1db8b43ba09afdf0b3",
+      "mobileUrl": "https://hellogithub.com/repository/755f86f26aa64d1db8b43ba09afdf0b3"
+    },
+    {
+      "id": "7a864f9749604b42a7bf8bd8aa735129",
+      "title": "Claude 官方开源的 Skills 教程",
+      "desc": "该项目是 Anthropic 官方开源的 Agent Skills 仓库，介绍如何通过标准化的 SKILL.md 文件结构，将提示词和工具调用封装为插件形式，为",
+      "author": "anthropics",
+      "timestamp": 1772266209000,
+      "hot": 4327,
+      "url": "https://hellogithub.com/repository/7a864f9749604b42a7bf8bd8aa735129",
+      "mobileUrl": "https://hellogithub.com/repository/7a864f9749604b42a7bf8bd8aa735129"
+    },
+    {
+      "id": "c40d26a337c04b1fbdfdae353f1aa4e4",
+      "title": "仅 5KB 的交互式地球库",
+      "desc": "这是一款超轻量级的地球 3D 可视化库。仅需几行代码，即可在网页中渲染出精美的 3D 交互式地球视觉效果。",
+      "author": "shuding",
+      "timestamp": 1774598911000,
+      "hot": 1445,
+      "url": "https://hellogithub.com/repository/c40d26a337c04b1fbdfdae353f1aa4e4",
+      "mobileUrl": "https://hellogithub.com/repository/c40d26a337c04b1fbdfdae353f1aa4e4"
+    },
+    {
+      "id": "99b56746d94c4c9eae09788de133f310",
+      "title": "Rust 写的实时 ASCII 天气动画",
+      "desc": "这是一款用 Rust 编写的终端查看天气工具，可通过 ASCII 动画实时展示当前天气情况，支持下雨、下雪、闪电和昼夜变化等动画效果。",
+      "author": "Veirt",
+      "timestamp": 1772266209000,
+      "hot": 2948,
+      "url": "https://hellogithub.com/repository/99b56746d94c4c9eae09788de133f310",
+      "mobileUrl": "https://hellogithub.com/repository/99b56746d94c4c9eae09788de133f310"
+    },
+    {
+      "id": "e89283ed6162421ea152f0d5a22ae796",
+      "title": "开箱即用的 Windows 系统优化工具",
+      "desc": "这是一款基于 C# 开发的 Windows 10/11 一站式系统优化工具，无需重装系统即可定制、精简系统。它集成了软件管理、系统优化、界面定制等功能，支持一键",
+      "author": "memstechtips",
+      "timestamp": 1772266209000,
+      "hot": 4257,
+      "url": "https://hellogithub.com/repository/e89283ed6162421ea152f0d5a22ae796",
+      "mobileUrl": "https://hellogithub.com/repository/e89283ed6162421ea152f0d5a22ae796"
+    },
+    {
+      "id": "0c0b6d59f0d4411ebd78b57ea5863790",
+      "title": "你网站里的 AI 操作员",
+      "desc": "这是一个页面内嵌式 GUI Agent，专为网站开发者设计。与传统的浏览器自动化工具不同，它需要通过代码集成到网站中，集成后用户即可通过自然语言与页面进行交互。",
+      "author": "alibaba",
+      "timestamp": 1774598911000,
+      "hot": 1537,
+      "url": "https://hellogithub.com/repository/0c0b6d59f0d4411ebd78b57ea5863790",
+      "mobileUrl": "https://hellogithub.com/repository/0c0b6d59f0d4411ebd78b57ea5863790"
+    },
+    {
+      "id": "f6a5bb3e63a14323bf864b00c5b05b9f",
+      "title": "将现实世界场景装进我的世界",
+      "desc": "这是一款能够将现实世界的地理数据转化为 Minecraft 游戏内地图的工具，用户仅需在交互式地图上选择区域，即可自动生成包含地形、街道、建筑和森林的游戏存档，",
+      "author": "louis-e",
+      "timestamp": 1774598911000,
+      "hot": 1065,
+      "url": "https://hellogithub.com/repository/f6a5bb3e63a14323bf864b00c5b05b9f",
+      "mobileUrl": "https://hellogithub.com/repository/f6a5bb3e63a14323bf864b00c5b05b9f"
+    },
+    {
+      "id": "b41cd197a8c84490a42c99d06a5113d6",
+      "title": "一键同步多平台 AI 技能的工具",
+      "desc": "这是一款跨工具、跨平台的 skill 同步工具，可通过一条简单的命令将技能、提示词和配置文件同步到多个 AI 工具中，支持 Claude Code、OpenCl",
+      "author": "runkids",
+      "timestamp": 1774598911000,
+      "hot": 862,
+      "url": "https://hellogithub.com/repository/b41cd197a8c84490a42c99d06a5113d6",
+      "mobileUrl": "https://hellogithub.com/repository/b41cd197a8c84490a42c99d06a5113d6"
+    },
+    {
+      "id": "a279979de0044ec396d168957a374ba1",
+      "title": "Windows 鼠标特效增强工具",
+      "desc": "这是一款轻量级的 Windows 桌面鼠标/光标特效工具，支持点击波纹、粒子拖尾、悬停发光、漂浮文字等多种鼠标特效。",
+      "author": "sqmw",
+      "timestamp": 1772266209000,
+      "hot": 2338,
+      "url": "https://hellogithub.com/repository/a279979de0044ec396d168957a374ba1",
+      "mobileUrl": "https://hellogithub.com/repository/a279979de0044ec396d168957a374ba1"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-04-15T02:33:20.677615",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9788987,
+      "title": "如何对于统计专业来说，哪个方向是核心?",
+      "cover": "https://pic1.zhimg.com/v2-63e8ffeb36f222fbaaf1329568d75cd4.jpg?source=8673f162",
+      "author": "BugBuster喵 · 13 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788987",
+      "mobileUrl": "https://daily.zhihu.com/story/9788987"
+    },
+    {
+      "id": 9788990,
+      "title": "为什么《百年孤独》的评价这么高？",
+      "cover": "https://picx.zhimg.com/v2-5d48eaa78566e16d3d6b9e4f9502fc0f.jpg?source=8673f162",
+      "author": "猫头 · 21 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9788990",
+      "mobileUrl": "https://daily.zhihu.com/story/9788990"
+    },
+    {
+      "id": 9789000,
+      "title": "为什么计算机计算从不会出错（即使快要报废的电脑，计算器功能也不会算错数）？",
+      "cover": "https://pic1.zhimg.com/v2-4b2d414c34aef54216a331a815946aaa.jpg?source=8673f162",
+      "author": "pansz · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789000",
+      "mobileUrl": "https://daily.zhihu.com/story/9789000"
+    },
+    {
+      "id": 9789008,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-febcb75813171312565fa60098819c16.jpg?source=8673f162",
+      "author": "VOL.3884",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789008",
+      "mobileUrl": "https://daily.zhihu.com/story/9789008"
+    }
+  ]
+}
