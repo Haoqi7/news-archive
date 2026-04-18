@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-04-18T02:27:01.265346",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789062,
+      "title": "为什么猪没在进化中灭绝？",
+      "cover": "https://pic1.zhimg.com/v2-9d83dc56755fce28b8e5b1a96ef6bd76.jpg?source=8673f162",
+      "author": "特蕾西娅 · 16 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789062",
+      "mobileUrl": "https://daily.zhihu.com/story/9789062"
+    },
+    {
+      "id": 9789066,
+      "title": "为什么公文要用「仿宋_GB2312」字体？",
+      "cover": "https://picx.zhimg.com/v2-8621f9c50f8c61ef38a66443571e39c0.jpg?source=8673f162",
+      "author": "中华校草 · 10 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789066",
+      "mobileUrl": "https://daily.zhihu.com/story/9789066"
+    },
+    {
+      "id": 9789073,
+      "title": "动物史上，存在两个物种没有生殖隔离且生出全新物种的情况吗？",
+      "cover": "https://picx.zhimg.com/v2-115e45824f707a1a1185fbdd2240d227.jpg?source=8673f162",
+      "author": "流浪自然 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789073",
+      "mobileUrl": "https://daily.zhihu.com/story/9789073"
+    },
+    {
+      "id": 9789076,
+      "title": "从生物学或心理学角度，人类讨厌苍蝇的原因是什么？",
+      "cover": "https://picx.zhimg.com/v2-42f5d92502e5a68f9e9ed7f15d18e2df.jpg?source=8673f162",
+      "author": "斜绿天蛾 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789076",
+      "mobileUrl": "https://daily.zhihu.com/story/9789076"
+    }
+  ]
+}
