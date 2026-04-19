@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-04-19T02:41:52.553452",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789082,
+      "title": "为什么历史中记载的女画家几乎没有呢？无论中西方都是如此，其根本原因是什么？",
+      "cover": "https://pic1.zhimg.com/v2-366c337ac8d27ae84e7bef443b738886.jpg?source=8673f162",
+      "author": "蜉蝣 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789082",
+      "mobileUrl": "https://daily.zhihu.com/story/9789082"
+    },
+    {
+      "id": 9789091,
+      "title": "木蜂躺着把花瓣揽在怀里引起热议，有人说这是临死的表现，是这样吗？",
+      "cover": "https://pic1.zhimg.com/v2-944c8dee9cf7eaf7651554b100b438e6.jpg?source=8673f162",
+      "author": "云杉 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789091",
+      "mobileUrl": "https://daily.zhihu.com/story/9789091"
+    },
+    {
+      "id": 9789093,
+      "title": "药品说明书「一粒米盖住 6 个字」，为什么要印这么小？会带来哪些用药风险？该如何改进？",
+      "cover": "https://picx.zhimg.com/v2-f0ec6b61766dcfdb2952de2f08eeac1d.jpg?source=8673f162",
+      "author": "知乎用户 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789093",
+      "mobileUrl": "https://daily.zhihu.com/story/9789093"
+    },
+    {
+      "id": 9789098,
+      "title": "古时候，一座城池究竟有多大?",
+      "cover": "https://pica.zhimg.com/v2-44de3b3826478adbc409d1017b49115a.jpg?source=8673f162",
+      "author": "年幼的刻耳柏洛斯 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789098",
+      "mobileUrl": "https://daily.zhihu.com/story/9789098"
+    }
+  ]
+}
