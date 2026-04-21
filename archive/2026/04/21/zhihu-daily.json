@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-04-21T02:36:47.389047",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789122,
+      "title": "猫咪是不是都受不了人类用手指头指着它的脸？",
+      "cover": "https://pic1.zhimg.com/v2-6a99a03cde6a7b193911e9dea1548314.jpg?source=8673f162",
+      "author": "苏澄宇 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789122",
+      "mobileUrl": "https://daily.zhihu.com/story/9789122"
+    },
+    {
+      "id": 9789123,
+      "title": "如何处理图片才能避免图中文字被 OCR 识别？",
+      "cover": "https://picx.zhimg.com/v2-acb0bcc9584cf630189cc960c4e9bb43.jpg?source=8673f162",
+      "author": "井韶子 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789123",
+      "mobileUrl": "https://daily.zhihu.com/story/9789123"
+    },
+    {
+      "id": 9789133,
+      "title": "孩子问「为什么没有三条腿的动物？」，该怎么回答？",
+      "cover": "https://picx.zhimg.com/v2-7bf26027e78d3dd281765ea8b160ee1f.jpg?source=8673f162",
+      "author": "苏澄宇 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789133",
+      "mobileUrl": "https://daily.zhihu.com/story/9789133"
+    },
+    {
+      "id": 9789139,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-d6bb094d75e8ba28fb1abaa638d06e94.jpg?source=8673f162",
+      "author": "VOL.3888",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789139",
+      "mobileUrl": "https://daily.zhihu.com/story/9789139"
+    }
+  ]
+}
