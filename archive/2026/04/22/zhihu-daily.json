@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-04-22T02:35:20.265159",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789141,
+      "title": "你知道动物捕猎后为什么优先吃内脏吗？",
+      "cover": "https://picx.zhimg.com/v2-0c440becc5d0797e28ce761077a3b394.jpg?source=8673f162",
+      "author": "繁星与辰 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789141",
+      "mobileUrl": "https://daily.zhihu.com/story/9789141"
+    },
+    {
+      "id": 9789151,
+      "title": "有没有哪些克苏鲁图片震撼你的心灵？",
+      "cover": "https://picx.zhimg.com/v2-e4a752f870847a33db291d150eb60adf.jpg?source=8673f162",
+      "author": "龙牙 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789151",
+      "mobileUrl": "https://daily.zhihu.com/story/9789151"
+    },
+    {
+      "id": 9789160,
+      "title": "中国古代上流社会的吃货到底能吃到些什么？",
+      "cover": "https://pic1.zhimg.com/v2-09bc38e01cfd91f5abe9cc71bd7cc79a.jpg?source=8673f162",
+      "author": "知乎用户 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789160",
+      "mobileUrl": "https://daily.zhihu.com/story/9789160"
+    },
+    {
+      "id": 9789166,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-d6bb094d75e8ba28fb1abaa638d06e94.jpg?source=8673f162",
+      "author": "VOL.3889",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789166",
+      "mobileUrl": "https://daily.zhihu.com/story/9789166"
+    }
+  ]
+}
