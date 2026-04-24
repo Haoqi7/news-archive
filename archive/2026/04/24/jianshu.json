@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2026-04-24T02:39:29.079454",
+    "count": 1
+  },
+  "data": [
+    {
+      "id": "890cde2a928d",
+      "title": "Android卡顿优化工具",
+      "cover": "https://upload-images.jianshu.io/upload_images/5258053-0476ac81b7f858a2.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "线上监控的方案 1、BlockCanary 从Choregrapher中可以知道，帧的渲染是通过消息发送到主线程执行的。所以通过在计算msg的处...",
+      "author": "陈祥_",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/890cde2a928d",
+      "mobileUrl": "https://www.jianshu.com/p/890cde2a928d"
+    }
+  ]
+}
