@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "platform": "sspai",
+    "date": "2026-04-25T02:28:59.995788",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 108898,
+      "title": "派评 | 近期值得关注的 App",
+      "desc": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀",
+      "cover": "2026/4/20/article/ae745c48-1f57-1945-636c-a80988c1d583.png",
+      "author": "少数派编辑部",
+      "timestamp": 1776678593000,
+      "hot": 13,
+      "url": "https://sspai.com/post/108898",
+      "mobileUrl": "https://sspai.com/post/108898"
+    },
+    {
+      "id": 108768,
+      "title": "AI 输出中的 ** 是怎么来的：谈中文 Markdown 强调标记的渲染问题",
+      "desc": "在与AI对话的过程中，你一定见过这样不伦不类的输出：换言之，那些本该加粗的部分并没有加粗，周围却多了一堆星号。有一定技术背景的读者都知道，这些星号是Markdown中的强调标记。Markdown是一种 ...",
+      "cover": "4/17/2026/article/eecbd0ef-0cd1-f3c8-bff9-1a9e80613fe7.png",
+      "author": "PlatyHsu",
+      "timestamp": 1776420065000,
+      "hot": 111,
+      "url": "https://sspai.com/post/108768",
+      "mobileUrl": "https://sspai.com/post/108768"
+    },
+    {
+      "id": 108760,
+      "title": "本周看什么 | 最近值得一看的 9 部作品",
+      "desc": "📅本周新预告《哥斯拉-0.0》首支预告4月15日，电影《哥斯拉-0.0》发布了首支预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演 ...",
+      "cover": "2026/4/17/article/c885fddf-88a0-6239-392c-2056bd2cf7e8.png",
+      "author": "少数派编辑部",
+      "timestamp": 1776419457000,
+      "hot": 14,
+      "url": "https://sspai.com/post/108760",
+      "mobileUrl": "https://sspai.com/post/108760"
+    },
+    {
+      "id": 108589,
+      "title": "派评 | 近期值得关注的 App",
+      "desc": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀",
+      "cover": "2026/4/13/article/c107b180-22ae-8098-e9e9-3ee3c68b6db0.png",
+      "author": "少数派编辑部",
+      "timestamp": 1776073971000,
+      "hot": 9,
+      "url": "https://sspai.com/post/108589",
+      "mobileUrl": "https://sspai.com/post/108589"
+    },
+    {
+      "id": 108453,
+      "title": "Claude Code+HA 自动化实战：给宠物龟请个「电子保姆」",
+      "desc": "养龟是个慢节奏的事。但每天翻翻聊天软件的报告，看看谁又霸占了晒背台、谁偷偷换了个位置，比蹲在缸前看半天有意思多了。",
+      "cover": "4/10/2026/article/8aba4fd2-7365-58ba-c377-5bd70f7b5c9f.jpeg",
+      "author": "叶水水",
+      "timestamp": 1775744788000,
+      "hot": 54,
+      "url": "https://sspai.com/post/108453",
+      "mobileUrl": "https://sspai.com/post/108453"
+    },
+    {
+      "id": 108325,
+      "title": "Type-C 接口最大的问题，是看起来已经「统一」了",
+      "desc": "真正的问题在于，Type-C 用一个统一的接口形态，掩盖了背后复杂且分裂的实现与协议。",
+      "cover": "2026/04/07/73465a98e70eeb5926901265055ce651.png",
+      "author": "流歌",
+      "timestamp": 1775576288000,
+      "hot": 54,
+      "url": "https://sspai.com/post/108325",
+      "mobileUrl": "https://sspai.com/post/108325"
+    },
+    {
+      "id": 108300,
+      "title": "AI 时代，我关于教育的思考",
+      "desc": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+      "cover": "2026/04/06/cb064e0ed3732294cd12eb6495049579.jpg",
+      "author": "LOSSES",
+      "timestamp": 1775451929000,
+      "hot": 72,
+      "url": "https://sspai.com/post/108300",
+      "mobileUrl": "https://sspai.com/post/108300"
+    },
+    {
+      "id": 108118,
+      "title": "时隔 5 年的大更新：AirPods Max 2 首发体验",
+      "desc": "时隔五年，Apple的头戴式耳机产品AirPodsMax终于迎来第二代升级。AirPodsMax2拥有与前代产品完全一致的外观：精致的阳极氧化铝金属耳罩、可以无级调节的不锈钢伸缩套杆、具备良好贴合度的 ...",
+      "cover": "2026/3/31/article/bba08e7c-0d0f-02fd-aeb8-ffa527ef2b0e.jpeg",
+      "author": "waychane",
+      "timestamp": 1774962000000,
+      "hot": 29,
+      "url": "https://sspai.com/post/108118",
+      "mobileUrl": "https://sspai.com/post/108118"
+    },
+    {
+      "id": 108103,
+      "title": "买前必看：千问 AI 眼镜 G1 自费长测",
+      "desc": "千问G1确实有其独特的优势，但在软硬件细节体验上也还有很多需要打磨的地方。",
+      "cover": "2026/03/31/a4b0380caa7c6d663e87f81222e08225.jpg",
+      "author": "Barryhimself",
+      "timestamp": 1774943487000,
+      "hot": 17,
+      "url": "https://sspai.com/post/108103",
+      "mobileUrl": "https://sspai.com/post/108103"
+    },
+    {
+      "id": 108047,
+      "title": "浏览器扩展合集：派友近期推荐的 6 款浏览器扩展",
+      "desc": "本期介绍 6 款浏览器扩展插件——如果你也有好的扩展插件，欢迎在评论留言或向 Matrix 社区投稿，我们将不定期收录并在首页推送。",
+      "cover": "2026/3/30/article/68c5385d-d9f1-190d-d4ef-617d119f64d9.jpeg",
+      "author": "克莱德",
+      "timestamp": 1774854000000,
+      "hot": 46,
+      "url": "https://sspai.com/post/108047",
+      "mobileUrl": "https://sspai.com/post/108047"
+    },
+    {
+      "id": 107863,
+      "title": "新玩意 238｜少数派的编辑们最近买了啥？",
+      "desc": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...",
+      "cover": "2026/3/26/article/3141571b-20ad-268d-7e98-088a1e7890c6.png",
+      "author": "少数派编辑部",
+      "timestamp": 1774522850000,
+      "hot": 20,
+      "url": "https://sspai.com/post/107863",
+      "mobileUrl": "https://sspai.com/post/107863"
+    },
+    {
+      "id": 107743,
+      "title": "iOS 26.4 值得关注的新特性",
+      "desc": "在经历了iOS26.3版本的小幅改动之后，Apple在iOS26.4推出了诸多实用、重要的更新内容，包括AppleMusic、播客、CarPlay、提醒事项、家庭共享等在内都得到了显著的优化提升。接下 ...",
+      "cover": "2026/3/25/article/0e3198ab-7d56-7ba4-fe93-fe88509dd3af.jpeg",
+      "author": "Vanilla",
+      "timestamp": 1774409839000,
+      "hot": 25,
+      "url": "https://sspai.com/post/107743",
+      "mobileUrl": "https://sspai.com/post/107743"
+    },
+    {
+      "id": 107600,
+      "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
+      "desc": "AX 专门探讨如何设计产品形态，使 AI Agent 能够可靠地「理解」、自主操作并高效集成，而非仅服务于人类用户。",
+      "cover": "2026/03/21/ed6e8f7a6c94e15b8dc23c904879ee6f.jpg",
+      "author": "LOSSES",
+      "timestamp": 1774028651000,
+      "hot": 93,
+      "url": "https://sspai.com/post/107600",
+      "mobileUrl": "https://sspai.com/post/107600"
+    },
+    {
+      "id": 107582,
+      "title": "本周看什么 | 最近值得一看的 12 部作品",
+      "desc": "📅本周新预告《只狼：永不言败》新预告3月17日，动画电影《只狼：永不言败》发布了新预告，将于2026年在日本上映，并上线Crunchyroll。本作改编自游戏《只狼：影逝二度》，沓名健一执导，佐藤卓哉 ...",
+      "cover": "2026/3/20/article/eaa9dd20-a8d8-75a5-81c2-8cc58cb7982e.png",
+      "author": "少数派编辑部",
+      "timestamp": 1774000406000,
+      "hot": 17,
+      "url": "https://sspai.com/post/107582",
+      "mobileUrl": "https://sspai.com/post/107582"
+    },
+    {
+      "id": 106878,
+      "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
+      "desc": "如果你现在比较迷茫，不知道怎么学习才好，那希望这个学习方法论可以给你提供一些参考。切记：一切都要以自己的需求为主。",
+      "cover": "2026/03/07/d935044fabf9e92f2545fb27d8774ea8.png",
+      "author": "Haoo_7",
+      "timestamp": 1773826200000,
+      "hot": 72,
+      "url": "https://sspai.com/post/106878",
+      "mobileUrl": "https://sspai.com/post/106878"
+    },
+    {
+      "id": 107183,
+      "title": "本周看什么 | 最近值得一看的 9 部作品",
+      "desc": "📅本周新预告《异兽魔都第二季》正式预告3月8日，动画剧集《异兽魔都第二季》发布了正式预告，将于4月1日上线流媒体平台。本作改编自林田球的同名漫画，林祐一郎执导，濑古浩司编剧，MAPPA制作，讲述头部变 ...",
+      "cover": "2026/3/13/article/3e8e0c41-27fa-860a-7614-b7dd8b9cf9c4.png",
+      "author": "少数派编辑部",
+      "timestamp": 1773396346000,
+      "hot": 11,
+      "url": "https://sspai.com/post/107183",
+      "mobileUrl": "https://sspai.com/post/107183"
+    },
+    {
+      "id": 107146,
+      "title": "从一夜无眠到夜夜香甜：睡个好觉并不难",
+      "desc": "我想与你分享AI无法真正共情的人生大事：睡眠。",
+      "cover": "2026/03/12/8f55a6cd9c3affadf3a21be293b82494.jpg",
+      "author": "桌沿奇思",
+      "timestamp": 1773326815000,
+      "hot": 93,
+      "url": "https://sspai.com/post/107146",
+      "mobileUrl": "https://sspai.com/post/107146"
+    },
+    {
+      "id": 107136,
+      "title": "App+1｜给「类原生」用户的来电拦截工具：Pixel Telo",
+      "desc": "如果你也是国内的 Pixel 或类原生系统用户，正被骚扰电话困扰，不妨试试这款向经典致敬、又融入了现代设计的工具。",
+      "cover": "2026/03/12/40ca80ab68a1b2c0fa34341f03537b03.png",
+      "author": "Mystery0",
+      "timestamp": 1773308845000,
+      "hot": 44,
+      "url": "https://sspai.com/post/107136",
+      "mobileUrl": "https://sspai.com/post/107136"
+    },
+    {
+      "id": 106369,
+      "title": "我是如何进行文件管理的",
+      "desc": "在这篇文章里，我想从什么是文件管理、为什么要文件管理、如何进行文件管理三个方面来谈谈自己的想法。",
+      "cover": "2026/03/12/6959a9730e7346e230779616661d1363.png",
+      "author": "秦玉初",
+      "timestamp": 1773280084000,
+      "hot": 68,
+      "url": "https://sspai.com/post/106369",
+      "mobileUrl": "https://sspai.com/post/106369"
+    },
+    {
+      "id": 107031,
+      "title": "最便宜的 Mac 笔记本：MacBook Neo 首发体验",
+      "desc": "配备8GB内存、256GB存储空间、没有指纹解锁1、屏幕也不支持P3广色域，甚至用的还是手机上的芯片，很难想象这是一台在2026年推出的笔记本电脑，但这就是Mac家族备受期待的全新产品：MacBook ...",
+      "cover": "2026/3/10/article/9ee9ba0e-2710-0013-41d2-a1cfb87371c3.jpeg",
+      "author": "waychane",
+      "timestamp": 1773147650000,
+      "hot": 35,
+      "url": "https://sspai.com/post/107031",
+      "mobileUrl": "https://sspai.com/post/107031"
+    }
+  ]
+}

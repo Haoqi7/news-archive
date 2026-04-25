@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-04-25T02:28:51.191989",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789181,
+      "title": "媒体称每天做三顿饭，肺癌风险高 2.1 倍，真的是这样吗？油烟机怎样用能把风险降到最低？",
+      "cover": "https://pica.zhimg.com/v2-ffdc9a94ce54aa0f3e9db63e1245005d.jpg?source=8673f162",
+      "author": "注册营养师刘又姣 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789181",
+      "mobileUrl": "https://daily.zhihu.com/story/9789181"
+    },
+    {
+      "id": 9789188,
+      "title": "一角钱为什么叫一毛钱？",
+      "cover": "https://pic1.zhimg.com/v2-d6d5e84e9287ca3ffef7ba0f32a34798.jpg?source=8673f162",
+      "author": "晴耕雨读的浣熊君 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789188",
+      "mobileUrl": "https://daily.zhihu.com/story/9789188"
+    },
+    {
+      "id": 9789189,
+      "title": "为什么在中国用香水容易被嫌弃？",
+      "cover": "https://pic1.zhimg.com/v2-9d2cbc6938e57d9a4295843803cfb10a.jpg?source=8673f162",
+      "author": "nell nell · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789189",
+      "mobileUrl": "https://daily.zhihu.com/story/9789189"
+    },
+    {
+      "id": 9789192,
+      "title": "人类基因是一套屎山代码吗？",
+      "cover": "https://picx.zhimg.com/v2-ad24f1e784f0000e85f9d5304912dca4.jpg?source=8673f162",
+      "author": "Dunkirk · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789192",
+      "mobileUrl": "https://daily.zhihu.com/story/9789192"
+    }
+  ]
+}
