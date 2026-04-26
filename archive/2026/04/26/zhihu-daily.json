@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-04-26T02:44:43.580876",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789223,
+      "title": "有人把蓝莓当消炎药吃，多吃蓝莓真能减轻身体炎症反应吗？",
+      "cover": "https://pica.zhimg.com/v2-59c29bf95ee2ee973085ef95949bf2bf.jpg?source=8673f162",
+      "author": "阿源老师 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789223",
+      "mobileUrl": "https://daily.zhihu.com/story/9789223"
+    },
+    {
+      "id": 9789235,
+      "title": "专家称花洒中病菌是自来水的百倍，易引发感染，建议每 3 月清洁一次，真有如此严重吗？多久清洗一次合适？",
+      "cover": "https://picx.zhimg.com/v2-6ccae7e30b6bf4ae02c4517b1dc3b471.jpg?source=8673f162",
+      "author": "SUNNY CHAN · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789235",
+      "mobileUrl": "https://daily.zhihu.com/story/9789235"
+    },
+    {
+      "id": 9789241,
+      "title": "为什么以前的自行车容易掉链子，现在的共享单车，基本上不会掉链子？",
+      "cover": "https://pic1.zhimg.com/v2-7bb31983f0edffd69750f7390640918f.jpg?source=8673f162",
+      "author": "铝制铭 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789241",
+      "mobileUrl": "https://daily.zhihu.com/story/9789241"
+    },
+    {
+      "id": 9789243,
+      "title": "14 岁初中生自学微积分半年「手搓」出一台航空发动机，含金量如何？对青少年教育有何启示？",
+      "cover": "https://picx.zhimg.com/v2-1b2d61998f081feaa95ed78cec273c2d.jpg?source=8673f162",
+      "author": "知乎用户 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789243",
+      "mobileUrl": "https://daily.zhihu.com/story/9789243"
+    }
+  ]
+}
