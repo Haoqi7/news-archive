@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2026-04-27T02:47:55.737521",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": "7c88a2543707",
+      "title": "新旧版本SpringSecurity使用对比",
+      "cover": "https://upload-images.jianshu.io/upload_images/16394444-12ba7cc7bedd32fa.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "1 SpringSecurity新旧版本使用 前不久Spring Boot 2.7.0 刚刚发布，Spring Security 也升级到了5....",
+      "author": "上善若泪",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/7c88a2543707",
+      "mobileUrl": "https://www.jianshu.com/p/7c88a2543707"
+    },
+    {
+      "id": "d7888574b0de",
+      "title": "关于近视",
+      "desc": "每年体检的时候，医生都会说:你要配眼镜啊，不然眼睛看不清很影响生活啊。知道医生只是善意的提醒，就总是笑着回答:好的好的，谢谢提醒哈。 心中的答复...",
+      "author": "白水管饱",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/d7888574b0de",
+      "mobileUrl": "https://www.jianshu.com/p/d7888574b0de"
+    },
+    {
+      "id": "267806626020",
+      "title": "《大话灵犀五传》",
+      "desc": "夜溪灵：小灯魂 楔子 忘川之水，终年淌着幽冥寒气，卷着彼岸花的红瓣，向奈何桥方向缓缓流去。河面上浮着一盏盏小小的水灯，灯芯凝着千年寒水，灯焰是散...",
+      "author": "互言乱宇",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/267806626020",
+      "mobileUrl": "https://www.jianshu.com/p/267806626020"
+    },
+    {
+      "id": "af9a268a0ea0",
+      "title": "齐天大圣",
+      "desc": "许盛是衮州府人，跟着哥哥许成到福建做生意，货物没有备齐。有客人说大圣很灵验，准备到祠庙去祈祷。许盛不知道大圣是何方神圣，便和哥哥一同前往。到了祠...",
+      "author": "青风云涌",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/af9a268a0ea0",
+      "mobileUrl": "https://www.jianshu.com/p/af9a268a0ea0"
+    }
+  ]
+}
