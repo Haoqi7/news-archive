@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2026-04-28T02:54:49.236776",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "7a4b606e28e4477998d35851cf4fdddf",
+      "title": "你的专属 AI 新闻雷达工具",
+      "desc": "这是一款 AI 驱动的个人新闻聚合与简报生成工具，支持从 Hacker News、Reddit、RSS、Telegram、GitHub 等多渠道获取内容，经过去",
+      "author": "Thysrael",
+      "timestamp": 1777363557000,
+      "hot": 129,
+      "url": "https://hellogithub.com/repository/7a4b606e28e4477998d35851cf4fdddf",
+      "mobileUrl": "https://hellogithub.com/repository/7a4b606e28e4477998d35851cf4fdddf"
+    },
+    {
+      "id": "d858f4349aeb400b93d47e541d32fd02",
+      "title": "越用越聪明的 AI 智能体",
+      "desc": "这是一款开源的自我进化型 AI Agent，能够与用户共同成长的个人 AI 助手。它内置学习循环机制，可根据过往任务经历自动创建和优化技能（Skills），支持",
+      "author": "NousResearch",
+      "timestamp": 1777363557000,
+      "hot": 61,
+      "url": "https://hellogithub.com/repository/d858f4349aeb400b93d47e541d32fd02",
+      "mobileUrl": "https://hellogithub.com/repository/d858f4349aeb400b93d47e541d32fd02"
+    },
+    {
+      "id": "151b4fd3e8d24b95b54d65cc907955e8",
+      "title": "直接操作 Word、Excel 和 PPT 的命令行工具",
+      "desc": "这是一款无需安装 Office 即可创建、读取和修改 Word、Excel 和 PowerPoint 文件的命令行工具，安装后自动为 Claude Code、C",
+      "author": "iOfficeAI",
+      "timestamp": 1777363557000,
+      "hot": 76,
+      "url": "https://hellogithub.com/repository/151b4fd3e8d24b95b54d65cc907955e8",
+      "mobileUrl": "https://hellogithub.com/repository/151b4fd3e8d24b95b54d65cc907955e8"
+    },
+    {
+      "id": "ed2a1407789746bf91a1999f785f477c",
+      "title": "开源的时间追踪与管理工具",
+      "desc": "这是一款采用 Go+React 开发的自托管时间追踪工具，支持导入 Toggl 的数据，并可与 toggl-cli 配合使用，让 AI 帮助你记录、管理和复盘时",
+      "author": "CorrectRoadH",
+      "timestamp": 1777363557000,
+      "hot": 63,
+      "url": "https://hellogithub.com/repository/ed2a1407789746bf91a1999f785f477c",
+      "mobileUrl": "https://hellogithub.com/repository/ed2a1407789746bf91a1999f785f477c"
+    },
+    {
+      "id": "525dbf2996ba4821874c61a8a41ec2d3",
+      "title": "绕过 DOM 的文字快速排版库",
+      "desc": "这是一款纯 TypeScript 写的文本测量与排版库，可在不依赖 DOM 的情况下，基于浏览器字体引擎精确计算文本的排版尺寸，不触发 DOM 重排。它支持多语",
+      "author": "chenglou",
+      "timestamp": 1777363557000,
+      "hot": 35,
+      "url": "https://hellogithub.com/repository/525dbf2996ba4821874c61a8a41ec2d3",
+      "mobileUrl": "https://hellogithub.com/repository/525dbf2996ba4821874c61a8a41ec2d3"
+    },
+    {
+      "id": "da9c712e4af2422cac7efe0dd7f171ac",
+      "title": "免安装的 Windows 监控工具",
+      "desc": "这是一款免安装的开源 Windows 系统监控与调试工具，可实时查看进程资源占用、网络活动、磁盘读写等信息，支持定位占用文件的进程、查看内核级调用栈和管理系统服",
+      "author": "winsiderss",
+      "timestamp": 1777363557000,
+      "hot": 66,
+      "url": "https://hellogithub.com/repository/da9c712e4af2422cac7efe0dd7f171ac",
+      "mobileUrl": "https://hellogithub.com/repository/da9c712e4af2422cac7efe0dd7f171ac"
+    },
+    {
+      "id": "01b03d75188e45d9ba4db91a83253016",
+      "title": "用 AI 将文档转换为可编辑的 PPT",
+      "desc": "该项目能够根据 PDF、Word、URL 和 Markdown 等格式的文档，生成可编辑的 .pptx 文件，支持调整文字、布局和样式。它内置多种画布格式，支持",
+      "author": "hugohe3",
+      "timestamp": 1777363557000,
+      "hot": 48,
+      "url": "https://hellogithub.com/repository/01b03d75188e45d9ba4db91a83253016",
+      "mobileUrl": "https://hellogithub.com/repository/01b03d75188e45d9ba4db91a83253016"
+    },
+    {
+      "id": "33f86afd357645e6b692b8d8e431bc80",
+      "title": "让 AI 编程助手少犯错的行为规范",
+      "desc": "该项目是受 Andrej Karpathy 对 LLM 编码陷阱观察的启发，提炼出编码前思考、简洁优先、精准修改、目标结果验证四条原则，并封装为一个技能包。支持",
+      "author": "forrestchang",
+      "timestamp": 1777363557000,
+      "hot": 48,
+      "url": "https://hellogithub.com/repository/33f86afd357645e6b692b8d8e431bc80",
+      "mobileUrl": "https://hellogithub.com/repository/33f86afd357645e6b692b8d8e431bc80"
+    },
+    {
+      "id": "07f03ff49bc544c09f56b7b8215ee6d3",
+      "title": "一句话生成能交付的设计稿",
+      "desc": "这是一个面向 Claude Code 等 agent 的设计技能包，基于 HTML 工作流生成高保真原型、演讲幻灯片、信息图和动画内容。它支持多种设计方向推荐、",
+      "author": "alchaincyf",
+      "timestamp": 1777363557000,
+      "hot": 40,
+      "url": "https://hellogithub.com/repository/07f03ff49bc544c09f56b7b8215ee6d3",
+      "mobileUrl": "https://hellogithub.com/repository/07f03ff49bc544c09f56b7b8215ee6d3"
+    },
+    {
+      "id": "acc028cb575847148152d1f144148f87",
+      "title": "像 top 一样监控 AI 编程助手的工具",
+      "desc": "这是一款监控多个 Claude Code、Codex CLI 等 AI 编程 Agent 的命令行工具，支持实时查看每个 Agent 会话的 token 用量、",
+      "author": "graykode",
+      "timestamp": 1777363557000,
+      "hot": 35,
+      "url": "https://hellogithub.com/repository/acc028cb575847148152d1f144148f87",
+      "mobileUrl": "https://hellogithub.com/repository/acc028cb575847148152d1f144148f87"
+    },
+    {
+      "id": "d5194e78753744d698d995350e51b432",
+      "title": "把代码库变成知识图谱的技能包",
+      "desc": "该项目可以扫描代码仓库、Markdown、PDF、截图和音视频等文件，自动提取概念与关系，构建一个可查询的知识图谱。支持 Claude Code、Codex、O",
+      "author": "safishamsi",
+      "timestamp": 1777363557000,
+      "hot": 34,
+      "url": "https://hellogithub.com/repository/d5194e78753744d698d995350e51b432",
+      "mobileUrl": "https://hellogithub.com/repository/d5194e78753744d698d995350e51b432"
+    },
+    {
+      "id": "ded284740c634559a08cc0c44d6964cc",
+      "title": "随时随地管理多个 AI 编程助手的平台",
+      "desc": "这是一款专为 Claude Code、Codex 和 OpenCode 打造的统一管理平台，提供 iOS、Android、桌面端、Web 和 CLI 等客户端，",
+      "author": "getpaseo",
+      "timestamp": 1777363557000,
+      "hot": 32,
+      "url": "https://hellogithub.com/repository/ded284740c634559a08cc0c44d6964cc",
+      "mobileUrl": "https://hellogithub.com/repository/ded284740c634559a08cc0c44d6964cc"
+    },
+    {
+      "id": "c6081cc95e9142a8bb01125a708cb283",
+      "title": "跨平台桌面应用的安装与自动更新框架",
+      "desc": "这是一款面向跨平台桌面应用的安装和自动更新框架，只需一条命令即可快速构建安装包、更新包和增量包，支持 C#、C++、JS、Rust 等多种编程语言。",
+      "author": "velopack",
+      "timestamp": 1777363557000,
+      "hot": 29,
+      "url": "https://hellogithub.com/repository/c6081cc95e9142a8bb01125a708cb283",
+      "mobileUrl": "https://hellogithub.com/repository/c6081cc95e9142a8bb01125a708cb283"
+    },
+    {
+      "id": "b600694276084c76a5c102aef57bbb21",
+      "title": "让 Claude Code 拥有长期记忆",
+      "desc": "这是一款为 Claude Code 打造的持久化记忆插件，能够自动记录编码过程中的关键信息，并在后续会话中自动注入相关上下文。它支持语义压缩、跨会话记忆检索、上",
+      "author": "thedotmack",
+      "timestamp": 1777363557000,
+      "hot": 29,
+      "url": "https://hellogithub.com/repository/b600694276084c76a5c102aef57bbb21",
+      "mobileUrl": "https://hellogithub.com/repository/b600694276084c76a5c102aef57bbb21"
+    },
+    {
+      "id": "14f1a7bc70dc4b3daa2b4668200286e3",
+      "title": "把 Android 手机变成无线麦克风",
+      "desc": "这是一款将 Android 手机变成电脑麦克风的跨平台工具，支持 Wi-Fi、USB 和蓝牙连接，可在 Windows、Linux、macOS 上接收音频。内置",
+      "author": "LanRhyme",
+      "timestamp": 1777363557000,
+      "hot": 26,
+      "url": "https://hellogithub.com/repository/14f1a7bc70dc4b3daa2b4668200286e3",
+      "mobileUrl": "https://hellogithub.com/repository/14f1a7bc70dc4b3daa2b4668200286e3"
+    },
+    {
+      "id": "cb1edc45846e475da1dae615a4b4f71c",
+      "title": "轻量级的 WSL 实例管理面板",
+      "desc": "这是一款基于 Rust 和 Slint 开发的 Windows WSL 实例管理桌面应用，最小化到托盘仅占用约 10MB 内存。支持一键启动、停止、迁移、导出/",
+      "author": "owu",
+      "timestamp": 1777363557000,
+      "hot": 25,
+      "url": "https://hellogithub.com/repository/cb1edc45846e475da1dae615a4b4f71c",
+      "mobileUrl": "https://hellogithub.com/repository/cb1edc45846e475da1dae615a4b4f71c"
+    },
+    {
+      "id": "ee611ceca466432081f68daeb938c119",
+      "title": "轻量级、零依赖的 K8s 发行版",
+      "desc": "该项目是将集群所需的全部组件打包为单个可执行文件的 K8s 发行版，除内核外无宿主机依赖，最低 1 核 1GB 即可运行，支持云端、边缘计算和 IoT 等场景。",
+      "author": "k0sproject",
+      "timestamp": 1777363557000,
+      "hot": 24,
+      "url": "https://hellogithub.com/repository/ee611ceca466432081f68daeb938c119",
+      "mobileUrl": "https://hellogithub.com/repository/ee611ceca466432081f68daeb938c119"
+    },
+    {
+      "id": "166765737b214c63b2592577fc776cae",
+      "title": "让 AI 编程助手少说废话",
+      "desc": "这是一款让 AI 编程助手用原始人风格、极简文字回答用户问题的技能包，在保留技术准确性的前提下，可减少 75% 的输出 token。",
+      "author": "JuliusBrussee",
+      "timestamp": 1777363557000,
+      "hot": 23,
+      "url": "https://hellogithub.com/repository/166765737b214c63b2592577fc776cae",
+      "mobileUrl": "https://hellogithub.com/repository/166765737b214c63b2592577fc776cae"
+    },
+    {
+      "id": "59b3f1f94dc24e0dafc4645d43e10097",
+      "title": "像 pnpm 一样管理 Python 依赖",
+      "desc": "该项目是遵循 PEP 517/582/621 等标准的包与依赖管理工具，拥有灵活的插件系统、自动安装 Python 版本等功能，以及类似 pnpm 的集中式依赖",
+      "author": "pdm-project",
+      "timestamp": 1777363557000,
+      "hot": 20,
+      "url": "https://hellogithub.com/repository/59b3f1f94dc24e0dafc4645d43e10097",
+      "mobileUrl": "https://hellogithub.com/repository/59b3f1f94dc24e0dafc4645d43e10097"
+    },
+    {
+      "id": "1f96f1ac0cec4150a40de6d3ae9b0ff0",
+      "title": "一键切换 AI 渠道配置的工具",
+      "desc": "这是一款跨平台的 AI 编程助手增强工具，支持 Claude Code、Codex 和 Gemini CLI 等。它提供了一键切换 API 节点、自动故障转移、",
+      "author": "farion1231",
+      "timestamp": 1777363557000,
+      "hot": 20,
+      "url": "https://hellogithub.com/repository/1f96f1ac0cec4150a40de6d3ae9b0ff0",
+      "mobileUrl": "https://hellogithub.com/repository/1f96f1ac0cec4150a40de6d3ae9b0ff0"
+    }
+  ]
+}
