@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-02T02:42:21.897863",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789353,
+      "title": "如何理解马孔多在下雨这句话？",
+      "cover": "https://picx.zhimg.com/v2-51d74c0ca22d262aee70037c4e26cc73.jpg?source=8673f162",
+      "author": "鞭临天下 · 8 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789353",
+      "mobileUrl": "https://daily.zhihu.com/story/9789353"
+    },
+    {
+      "id": 9789357,
+      "title": "《石壕吏》中提到了士兵的家书，是否反应了中国古代底层百姓也有一定识字率?",
+      "cover": "https://picx.zhimg.com/v2-624e1a006feda060235b4895efb6ea4e.jpg?source=8673f162",
+      "author": "济东杂谈 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789357",
+      "mobileUrl": "https://daily.zhihu.com/story/9789357"
+    },
+    {
+      "id": 9789364,
+      "title": "我为什么永远难以与祥林嫂共情？",
+      "cover": "https://pic1.zhimg.com/v2-5dde9ff44c1e28fc559a2718a62eedaf.jpg?source=8673f162",
+      "author": "茶花路莫里亚蒂 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789364",
+      "mobileUrl": "https://daily.zhihu.com/story/9789364"
+    },
+    {
+      "id": 9789368,
+      "title": "为什么有人会吹嘘野猪很凶猛，老虎不敢吃它？",
+      "cover": "https://picx.zhimg.com/v2-372d2c67f30e0ece7ee936546f8830e2.jpg?source=8673f162",
+      "author": "犬君拌汪酱 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789368",
+      "mobileUrl": "https://daily.zhihu.com/story/9789368"
+    }
+  ]
+}
