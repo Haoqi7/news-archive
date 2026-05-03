@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-03T02:54:51.402836",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789377,
+      "title": "为什么所有知识点都在书本上却还是要做笔记整理？",
+      "cover": "https://picx.zhimg.com/v2-379aefc77f05305031253e3abf42f71f.jpg?source=8673f162",
+      "author": "知乎用户 · 16 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789377",
+      "mobileUrl": "https://daily.zhihu.com/story/9789377"
+    },
+    {
+      "id": 9789379,
+      "title": "华语乐坛有没有中国风歌曲能比得过《东风破》《青花瓷》《发如雪》这三首?",
+      "cover": "https://pic1.zhimg.com/v2-096dfdb8292ce19c75bb85c0dff7c97d.jpg?source=8673f162",
+      "author": "莫也 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789379",
+      "mobileUrl": "https://daily.zhihu.com/story/9789379"
+    },
+    {
+      "id": 9789386,
+      "title": "餐饮店用来「过油」的油，炸了那么多不同种类的食物，再用来炒菜难道不会串味吗?",
+      "cover": "https://pica.zhimg.com/v2-9472486a816ee72404a166a424c548f6.jpg?source=8673f162",
+      "author": "擒贼先擒王先生 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789386",
+      "mobileUrl": "https://daily.zhihu.com/story/9789386"
+    },
+    {
+      "id": 9789393,
+      "title": "大象喝水会不会吸到鼻涕？",
+      "cover": "https://pica.zhimg.com/v2-5fa270464681e2c3ad49310841d3756f.jpg?source=8673f162",
+      "author": "苏澄宇 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789393",
+      "mobileUrl": "https://daily.zhihu.com/story/9789393"
+    }
+  ]
+}
