@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-04T02:52:25.234437",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789396,
+      "title": "人为什么会随年龄而保守?",
+      "cover": "https://picx.zhimg.com/v2-85504b9407f4fd94ecca7067b29e03c3.jpg?source=8673f162",
+      "author": "Jay哥讲数学 · 8 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789396",
+      "mobileUrl": "https://daily.zhihu.com/story/9789396"
+    },
+    {
+      "id": 9789403,
+      "title": "历史上有哪两件事听起来不在同一个年代，实际上却同时发生的？",
+      "cover": "https://pic1.zhimg.com/v2-f1095dae8b1b0a3beb5ec88d301b3c43.jpg?source=8673f162",
+      "author": "铜锣卫门小叮当 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789403",
+      "mobileUrl": "https://daily.zhihu.com/story/9789403"
+    },
+    {
+      "id": 9789408,
+      "title": "为什么日本海鱼可以做顶级刺身，而中国的海鱼却大多做熟?",
+      "cover": "https://pica.zhimg.com/v2-244f73d5e2efecb7cc80131e8c6b5dd0.jpg?source=8673f162",
+      "author": "biokiwi · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789408",
+      "mobileUrl": "https://daily.zhihu.com/story/9789408"
+    },
+    {
+      "id": 9789418,
+      "title": "一个人从万米高空坠落，落在 100 米厚的棉花上，棉花能起到缓冲作用吗？",
+      "cover": "https://pica.zhimg.com/v2-c043816dc9a17757bedfd96b255749da.jpg?source=8673f162",
+      "author": "pin008 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789418",
+      "mobileUrl": "https://daily.zhihu.com/story/9789418"
+    }
+  ]
+}
