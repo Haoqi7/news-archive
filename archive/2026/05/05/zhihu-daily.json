@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-05T02:44:08.639329",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789428,
+      "title": "为什么很多人能理解陈胜吴广，却很难对黄巢产生同情？",
+      "cover": "https://picx.zhimg.com/v2-a36a6b94be2d42478407c695ffcb1c66.jpg?source=8673f162",
+      "author": "猴子公社 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789428",
+      "mobileUrl": "https://daily.zhihu.com/story/9789428"
+    },
+    {
+      "id": 9789438,
+      "title": "动物交配的过程，都有哪些难以令人置信的事实？",
+      "cover": "https://picx.zhimg.com/v2-0f6a0d6a6691d4a302601f9af1a4e9fa.jpg?source=8673f162",
+      "author": "瞻云 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789438",
+      "mobileUrl": "https://daily.zhihu.com/story/9789438"
+    },
+    {
+      "id": 9789448,
+      "title": "为什么越菜的软件工程师看问题越简单越高级的软件工程师看问题越复杂？",
+      "cover": "https://pic1.zhimg.com/v2-0e2bb28d57cbc51fae0507cfcf28a54d.jpg?source=8673f162",
+      "author": "chouheiwa · 9 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789448",
+      "mobileUrl": "https://daily.zhihu.com/story/9789448"
+    },
+    {
+      "id": 9789455,
+      "title": "为什么以前电视和光盘都没杀死电影，现在电影行业突然就凉了?",
+      "cover": "https://picx.zhimg.com/v2-492208d2262000963961dfd3434a24e5.jpg?source=8673f162",
+      "author": "雪叔 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789455",
+      "mobileUrl": "https://daily.zhihu.com/story/9789455"
+    }
+  ]
+}
