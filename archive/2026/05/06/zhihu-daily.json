@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-06T02:50:42.732348",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789463,
+      "title": "为什么写书法要用繁体字，难道简体字就不能体现书法之美吗？",
+      "cover": "https://picx.zhimg.com/v2-a4072a06ca5a8c41815197c6276f9cb3.jpg?source=8673f162",
+      "author": "黄佳智 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789463",
+      "mobileUrl": "https://daily.zhihu.com/story/9789463"
+    },
+    {
+      "id": 9789469,
+      "title": "汝南那么好听，为什么要改成驻马店？",
+      "cover": "https://pica.zhimg.com/v2-2e054509b66ceb1b11d849247be08da4.jpg?source=8673f162",
+      "author": "邑人电影院 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789469",
+      "mobileUrl": "https://daily.zhihu.com/story/9789469"
+    },
+    {
+      "id": 9789505,
+      "title": "为什么植物没有像动物那样进化出脚？",
+      "cover": "https://pica.zhimg.com/v2-27bdc13119651e85269768dc441ebea8.jpg?source=8673f162",
+      "author": "苏澄宇 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789505",
+      "mobileUrl": "https://daily.zhihu.com/story/9789505"
+    },
+    {
+      "id": 9789480,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-4e0abbfadbf6cba48a872c600441767e.jpg?source=8673f162",
+      "author": "VOL.3896",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789480",
+      "mobileUrl": "https://daily.zhihu.com/story/9789480"
+    }
+  ]
+}
