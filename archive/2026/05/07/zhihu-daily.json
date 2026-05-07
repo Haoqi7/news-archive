@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-07T02:51:44.507254",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789487,
+      "title": "有哪些瓦房店化的典型例子？",
+      "cover": "https://picx.zhimg.com/v2-486d51137cf3d25aa97d16f6c7eaf08d.jpg?source=8673f162",
+      "author": "宁南左侯 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789487",
+      "mobileUrl": "https://daily.zhihu.com/story/9789487"
+    },
+    {
+      "id": 9789500,
+      "title": "有没有哪种化学物质的「反常」性质让你印象深刻？",
+      "cover": "https://picx.zhimg.com/v2-a29cfdee1001aeb39d3ae285834ceea9.jpg?source=8673f162",
+      "author": "ChemX · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789500",
+      "mobileUrl": "https://daily.zhihu.com/story/9789500"
+    },
+    {
+      "id": 9789506,
+      "title": "为什么全球变暖的速度比预期的快，这是否意味着变暖已经失控了？",
+      "cover": "https://picx.zhimg.com/v2-cbb1b705d4302b505802180010cf5fba.jpg?source=8673f162",
+      "author": "气象喵探员 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789506",
+      "mobileUrl": "https://daily.zhihu.com/story/9789506"
+    },
+    {
+      "id": 9789501,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-4e0abbfadbf6cba48a872c600441767e.jpg?source=8673f162",
+      "author": "VOL.3897",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789501",
+      "mobileUrl": "https://daily.zhihu.com/story/9789501"
+    }
+  ]
+}
