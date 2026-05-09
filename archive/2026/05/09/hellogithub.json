@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "platform": "hellogithub",
+    "date": "2026-05-09T02:50:17.630332",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": "4818a60cc1c6463ea84eb60b043a317c",
+      "title": "在终端里跑的 DeepSeek 编程助手",
+      "desc": "这是一款面向 DeepSeek V4 的终端 AI 编程助手，能够在 TUI 界面中直接读写文件、执行 Shell 命令、管理 Git 和网页搜索。它提供 Pl",
+      "author": "Hmbown",
+      "timestamp": 1777984026000,
+      "hot": 1649,
+      "url": "https://hellogithub.com/repository/4818a60cc1c6463ea84eb60b043a317c",
+      "mobileUrl": "https://hellogithub.com/repository/4818a60cc1c6463ea84eb60b043a317c"
+    },
+    {
+      "id": "7a4b606e28e4477998d35851cf4fdddf",
+      "title": "你的专属 AI 新闻雷达工具",
+      "desc": "这是一款 AI 驱动的个人新闻聚合与简报生成工具，支持从 Hacker News、Reddit、RSS、Telegram、GitHub 等多渠道获取内容，经过去",
+      "author": "Thysrael",
+      "timestamp": 1777363557000,
+      "hot": 3730,
+      "url": "https://hellogithub.com/repository/7a4b606e28e4477998d35851cf4fdddf",
+      "mobileUrl": "https://hellogithub.com/repository/7a4b606e28e4477998d35851cf4fdddf"
+    },
+    {
+      "id": "01b03d75188e45d9ba4db91a83253016",
+      "title": "用 AI 将文档转换为可编辑的 PPT",
+      "desc": "该项目能够根据 PDF、Word、URL 和 Markdown 等格式的文档，生成可编辑的 .pptx 文件，支持调整文字、布局和样式。它内置多种画布格式，支持",
+      "author": "hugohe3",
+      "timestamp": 1777363557000,
+      "hot": 1463,
+      "url": "https://hellogithub.com/repository/01b03d75188e45d9ba4db91a83253016",
+      "mobileUrl": "https://hellogithub.com/repository/01b03d75188e45d9ba4db91a83253016"
+    },
+    {
+      "id": "151b4fd3e8d24b95b54d65cc907955e8",
+      "title": "直接操作 Word、Excel 和 PPT 的命令行工具",
+      "desc": "这是一款无需安装 Office 即可创建、读取和修改 Word、Excel 和 PowerPoint 文件的命令行工具，安装后自动为 Claude Code、C",
+      "author": "iOfficeAI",
+      "timestamp": 1777363557000,
+      "hot": 1799,
+      "url": "https://hellogithub.com/repository/151b4fd3e8d24b95b54d65cc907955e8",
+      "mobileUrl": "https://hellogithub.com/repository/151b4fd3e8d24b95b54d65cc907955e8"
+    },
+    {
+      "id": "16d81ad4229740d09381e3333c0ea68d",
+      "title": "快速上手 Claude Code 的教程",
+      "desc": "该项目从输入 claude 命令开始，手把手教你如何将 Claude Code 功能组装起来，成为一套可复用的 Agent 工作流。它提供了清晰的学习路径和使用",
+      "author": "luongnv89",
+      "timestamp": 1777363557000,
+      "hot": 1779,
+      "url": "https://hellogithub.com/repository/16d81ad4229740d09381e3333c0ea68d",
+      "mobileUrl": "https://hellogithub.com/repository/16d81ad4229740d09381e3333c0ea68d"
+    },
+    {
+      "id": "1f96f1ac0cec4150a40de6d3ae9b0ff0",
+      "title": "一键切换 AI 渠道配置的工具",
+      "desc": "这是一款跨平台的 AI 编程助手增强工具，支持 Claude Code、Codex 和 Gemini CLI 等。它提供了一键切换 API 节点、自动故障转移、",
+      "author": "farion1231",
+      "timestamp": 1777363557000,
+      "hot": 1061,
+      "url": "https://hellogithub.com/repository/1f96f1ac0cec4150a40de6d3ae9b0ff0",
+      "mobileUrl": "https://hellogithub.com/repository/1f96f1ac0cec4150a40de6d3ae9b0ff0"
+    },
+    {
+      "id": "14f1a7bc70dc4b3daa2b4668200286e3",
+      "title": "把 Android 手机变成无线麦克风",
+      "desc": "这是一款将 Android 手机变成电脑麦克风的跨平台工具，支持 Wi-Fi、USB 和蓝牙连接，可在 Windows、Linux、macOS 上接收音频。内置",
+      "author": "LanRhyme",
+      "timestamp": 1777363557000,
+      "hot": 872,
+      "url": "https://hellogithub.com/repository/14f1a7bc70dc4b3daa2b4668200286e3",
+      "mobileUrl": "https://hellogithub.com/repository/14f1a7bc70dc4b3daa2b4668200286e3"
+    },
+    {
+      "id": "d858f4349aeb400b93d47e541d32fd02",
+      "title": "越用越聪明的 AI 智能体",
+      "desc": "这是一款开源的自我进化型 AI Agent，能够与用户共同成长的个人 AI 助手。它内置学习循环机制，可根据过往任务经历自动创建和优化技能（Skills），支持",
+      "author": "NousResearch",
+      "timestamp": 1777363557000,
+      "hot": 1559,
+      "url": "https://hellogithub.com/repository/d858f4349aeb400b93d47e541d32fd02",
+      "mobileUrl": "https://hellogithub.com/repository/d858f4349aeb400b93d47e541d32fd02"
+    },
+    {
+      "id": "07f03ff49bc544c09f56b7b8215ee6d3",
+      "title": "一句话生成能交付的设计稿",
+      "desc": "这是一个面向 Claude Code 等 agent 的设计技能包，基于 HTML 工作流生成高保真原型、演讲幻灯片、信息图和动画内容。它支持多种设计方向推荐、",
+      "author": "alchaincyf",
+      "timestamp": 1777363557000,
+      "hot": 811,
+      "url": "https://hellogithub.com/repository/07f03ff49bc544c09f56b7b8215ee6d3",
+      "mobileUrl": "https://hellogithub.com/repository/07f03ff49bc544c09f56b7b8215ee6d3"
+    },
+    {
+      "id": "336903b3e9294c90b3760d7cfbb04273",
+      "title": "免费开源的 PDF 编辑器",
+      "desc": "这是一款仅 6MB 大小的 PDF 编辑工具，支持标注、合并、拆分、编辑文字、手绘、签名和加密等功能，适用于 Windows 10/11 系统。",
+      "author": "SteveTheKiller",
+      "timestamp": 1777363557000,
+      "hot": 1027,
+      "url": "https://hellogithub.com/repository/336903b3e9294c90b3760d7cfbb04273",
+      "mobileUrl": "https://hellogithub.com/repository/336903b3e9294c90b3760d7cfbb04273"
+    },
+    {
+      "id": "b600694276084c76a5c102aef57bbb21",
+      "title": "让 Claude Code 拥有长期记忆",
+      "desc": "这是一款为 Claude Code 打造的持久化记忆插件，能够自动记录编码过程中的关键信息，并在后续会话中自动注入相关上下文。它支持语义压缩、跨会话记忆检索、上",
+      "author": "thedotmack",
+      "timestamp": 1777363557000,
+      "hot": 697,
+      "url": "https://hellogithub.com/repository/b600694276084c76a5c102aef57bbb21",
+      "mobileUrl": "https://hellogithub.com/repository/b600694276084c76a5c102aef57bbb21"
+    },
+    {
+      "id": "d5194e78753744d698d995350e51b432",
+      "title": "把代码库变成知识图谱的技能包",
+      "desc": "该项目可以扫描代码仓库、Markdown、PDF、截图和音视频等文件，自动提取概念与关系，构建一个可查询的知识图谱。支持 Claude Code、Codex、O",
+      "author": "safishamsi",
+      "timestamp": 1777363557000,
+      "hot": 798,
+      "url": "https://hellogithub.com/repository/d5194e78753744d698d995350e51b432",
+      "mobileUrl": "https://hellogithub.com/repository/d5194e78753744d698d995350e51b432"
+    },
+    {
+      "id": "33f86afd357645e6b692b8d8e431bc80",
+      "title": "让 AI 编程助手少犯错的行为规范",
+      "desc": "该项目是受 Andrej Karpathy 对 LLM 编码陷阱观察的启发，提炼出编码前思考、简洁优先、精准修改、目标结果验证四条原则，并封装为一个技能包。支持",
+      "author": "forrestchang",
+      "timestamp": 1777363557000,
+      "hot": 949,
+      "url": "https://hellogithub.com/repository/33f86afd357645e6b692b8d8e431bc80",
+      "mobileUrl": "https://hellogithub.com/repository/33f86afd357645e6b692b8d8e431bc80"
+    },
+    {
+      "id": "da9c712e4af2422cac7efe0dd7f171ac",
+      "title": "免安装的 Windows 监控工具",
+      "desc": "这是一款免安装的开源 Windows 系统监控与调试工具，可实时查看进程资源占用、网络活动、磁盘读写等信息，支持定位占用文件的进程、查看内核级调用栈和管理系统服",
+      "author": "winsiderss",
+      "timestamp": 1777363557000,
+      "hot": 948,
+      "url": "https://hellogithub.com/repository/da9c712e4af2422cac7efe0dd7f171ac",
+      "mobileUrl": "https://hellogithub.com/repository/da9c712e4af2422cac7efe0dd7f171ac"
+    },
+    {
+      "id": "98ecff41d142466d8d72694a6fadf9e9",
+      "title": "动物森友会风格的 React 组件库",
+      "desc": "这是一款以《集合啦！动物森友会》游戏界面为设计灵感的 React UI 组件库，包含 Button、Card、Switch、Time、Phone 等常用组件。",
+      "author": "guokaigdg",
+      "timestamp": 1777363557000,
+      "hot": 621,
+      "url": "https://hellogithub.com/repository/98ecff41d142466d8d72694a6fadf9e9",
+      "mobileUrl": "https://hellogithub.com/repository/98ecff41d142466d8d72694a6fadf9e9"
+    },
+    {
+      "id": "cb1edc45846e475da1dae615a4b4f71c",
+      "title": "轻量级的 WSL 实例管理面板",
+      "desc": "这是一款基于 Rust 和 Slint 开发的 Windows WSL 实例管理桌面应用，最小化到托盘仅占用约 10MB 内存。支持一键启动、停止、迁移、导出/",
+      "author": "owu",
+      "timestamp": 1777363557000,
+      "hot": 600,
+      "url": "https://hellogithub.com/repository/cb1edc45846e475da1dae615a4b4f71c",
+      "mobileUrl": "https://hellogithub.com/repository/cb1edc45846e475da1dae615a4b4f71c"
+    },
+    {
+      "id": "166765737b214c63b2592577fc776cae",
+      "title": "让 AI 编程助手少说废话",
+      "desc": "这是一款让 AI 编程助手用原始人风格、极简文字回答用户问题的技能包，在保留技术准确性的前提下，可减少 75% 的输出 token。",
+      "author": "JuliusBrussee",
+      "timestamp": 1777363557000,
+      "hot": 514,
+      "url": "https://hellogithub.com/repository/166765737b214c63b2592577fc776cae",
+      "mobileUrl": "https://hellogithub.com/repository/166765737b214c63b2592577fc776cae"
+    },
+    {
+      "id": "ed2a1407789746bf91a1999f785f477c",
+      "title": "开源的时间追踪与管理工具",
+      "desc": "这是一款采用 Go+React 开发的自托管时间追踪工具，支持导入 Toggl 的数据，并可与 toggl-cli 配合使用，让 AI 帮助你记录、管理和复盘时",
+      "author": "CorrectRoadH",
+      "timestamp": 1777363557000,
+      "hot": 619,
+      "url": "https://hellogithub.com/repository/ed2a1407789746bf91a1999f785f477c",
+      "mobileUrl": "https://hellogithub.com/repository/ed2a1407789746bf91a1999f785f477c"
+    },
+    {
+      "id": "8fdc316c042940db8c01aba4e528cbe2",
+      "title": "从数学到 AI 的开源自学手册",
+      "desc": "这是一本涵盖数学、计算机科学与人工智能的开源电子书，不堆砌公式，注重实际应用，配有 MCP 可作为 AI 助手的知识库使用。",
+      "author": "HenryNdubuaku",
+      "timestamp": 1777363557000,
+      "hot": 563,
+      "url": "https://hellogithub.com/repository/8fdc316c042940db8c01aba4e528cbe2",
+      "mobileUrl": "https://hellogithub.com/repository/8fdc316c042940db8c01aba4e528cbe2"
+    },
+    {
+      "id": "cbb2dd5d4aa048f6a56edf338fe1291a",
+      "title": "桌面级开源迷你四足机器人",
+      "desc": "这是一个基于 ESP32 的开源四足机器人，硬件成本仅需数百元。内含自制所需的 3D 打印模型、物料清单和固件，支持 WiFi 远程控制、语音控制、动作编排和 ",
+      "author": "dorianborian",
+      "timestamp": 1777363557000,
+      "hot": 545,
+      "url": "https://hellogithub.com/repository/cbb2dd5d4aa048f6a56edf338fe1291a",
+      "mobileUrl": "https://hellogithub.com/repository/cbb2dd5d4aa048f6a56edf338fe1291a"
+    }
+  ]
+}
