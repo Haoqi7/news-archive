@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-10T02:56:26.872297",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789605,
+      "title": "全是预制菜的萨莉亚，为什么不被骂？",
+      "cover": "https://pic1.zhimg.com/v2-9ac6b11ec6b7acfd56428e34ce97225c.jpg?source=8673f162",
+      "author": "小旋风财进 · 7 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789605",
+      "mobileUrl": "https://daily.zhihu.com/story/9789605"
+    },
+    {
+      "id": 9789594,
+      "title": "网友发现汤碗里搅拌完的葱花自动排成了一列，为什么会这样？能用科学来解释吗？",
+      "cover": "https://picx.zhimg.com/v2-5bfb6c6a0779073a444097892d8bc565.jpg?source=8673f162",
+      "author": "知乎用户 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789594",
+      "mobileUrl": "https://daily.zhihu.com/story/9789594"
+    },
+    {
+      "id": 9789596,
+      "title": "研究称午睡时间超过 1 小时死亡风险增加 30%，这是真的吗？午睡怎么睡、睡多久才是最科学的？",
+      "cover": "https://pic1.zhimg.com/v2-0df0c08d6c21131fde56c075f666a584.jpg?source=8673f162",
+      "author": "知乎用户 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789596",
+      "mobileUrl": "https://daily.zhihu.com/story/9789596"
+    },
+    {
+      "id": 9789599,
+      "title": "人类吃的最多的水果是什么？",
+      "cover": "https://pic1.zhimg.com/v2-0232a108ab3dc8efad56e1f4273e23f4.jpg?source=8673f162",
+      "author": "小星有鬼 · 11 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789599",
+      "mobileUrl": "https://daily.zhihu.com/story/9789599"
+    }
+  ]
+}
