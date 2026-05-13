@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2026-05-13T03:27:23.511152",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "5992a0ef6ff6",
+      "title": "从魔术师到演员，陈奕天是如何实现演技上突破的？",
+      "cover": "https://upload-images.jianshu.io/upload_images/29213896-6bf4f2ffafabf32e.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "陈奕天从手握魔棒的幻术大师蜕变为镜头前游刃有余的“剧抛脸”演员，其演技突破的密钥，藏在十年跨界耕耘中对表演本质的深刻领悟与近乎自虐的职业淬炼中。...",
+      "author": "八卦八卦八卦小道消息",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/5992a0ef6ff6",
+      "mobileUrl": "https://www.jianshu.com/p/5992a0ef6ff6"
+    },
+    {
+      "id": "9cf8f9c0b08b",
+      "title": "手写理解Callable,Future,Executor",
+      "desc": "前言 Callable,Future,Executor都是java.util.concurrent包下的工具类，作者李二狗，为了彻底吃透它们的概...",
+      "author": "pq217",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/9cf8f9c0b08b",
+      "mobileUrl": "https://www.jianshu.com/p/9cf8f9c0b08b"
+    },
+    {
+      "id": "a58e777ddf8b",
+      "title": "亲测！家装画图软件实践案例复盘分享",
+      "desc": "关键词：酷家乐画橱柜、橱柜批量建模、橱柜渲染参数、橱柜设计效率 目录 酷家乐画橱柜：3分钟完成基础柜体搭建 橱柜批量建模：如何10分钟生成全屋定...",
+      "author": "小梦薇",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/a58e777ddf8b",
+      "mobileUrl": "https://www.jianshu.com/p/a58e777ddf8b"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "platform": "sspai",
+    "date": "2026-05-13T03:27:18.343784",
+    "count": 20
+  },
+  "data": [
+    {
+      "id": 109525,
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "desc": "📅本周新预告《奥德赛》正式预告5月5日，克里斯托弗·诺兰导演新作《奥德赛》发布了正式预告，将于7月17日在北美上映。马特·达蒙、汤姆·霍兰德、安妮·海瑟薇、赞达亚、露皮塔·尼永奥、罗伯特·帕丁森、查理 ...",
+      "cover": "2026/5/8/article/1a4e50c7-29dc-895d-8440-ad187ae7afea.png",
+      "author": "少数派编辑部",
+      "timestamp": 1778234690000,
+      "hot": 12,
+      "url": "https://sspai.com/post/109525",
+      "mobileUrl": "https://sspai.com/post/109525"
+    },
+    {
+      "id": 109397,
+      "title": "万字复盘我家的装修过程，希望可以帮你避避坑",
+      "desc": "从 0 开始装修新家，这些事项值得你避坑。",
+      "cover": "2026/05/05/d529f26d08e3eb0339f8655814b26c5e.jpg",
+      "author": "江哗啦啦",
+      "timestamp": 1778211057000,
+      "hot": 161,
+      "url": "https://sspai.com/post/109397",
+      "mobileUrl": "https://sspai.com/post/109397"
+    },
+    {
+      "id": 109474,
+      "title": "新玩意 240｜少数派的编辑们最近买了啥？",
+      "desc": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@西鸽：盖世小鸡G7Pro天 ...",
+      "cover": "2026/4/23/article/c2b080ab-cf08-9c5a-70ef-54a7bfa9d530.png",
+      "author": "少数派编辑部",
+      "timestamp": 1778144590000,
+      "hot": 18,
+      "url": "https://sspai.com/post/109474",
+      "mobileUrl": "https://sspai.com/post/109474"
+    },
+    {
+      "id": 109460,
+      "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+      "desc": "安静的 iPhone 才是最好的 iPhone？",
+      "cover": "2026/5/7/article/2e3c86be-310e-0b25-e94a-96c636a6bb61.png",
+      "author": "克莱德",
+      "timestamp": 1778137200000,
+      "hot": 24,
+      "url": "https://sspai.com/post/109460",
+      "mobileUrl": "https://sspai.com/post/109460"
+    },
+    {
+      "id": 109367,
+      "title": "甘南秘境，大白高国：我的甘南自由行记",
+      "desc": "甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。",
+      "cover": "2026/05/03/e61ffd30e1b79eb333fc2b3af09c8b6f.jpg",
+      "author": "PJHubs",
+      "timestamp": 1778122810000,
+      "hot": 18,
+      "url": "https://sspai.com/post/109367",
+      "mobileUrl": "https://sspai.com/post/109367"
+    },
+    {
+      "id": 109266,
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "desc": "📅本周新预告《暗影蜘蛛侠》正式预告4月26日，剧集《暗影蜘蛛侠》发布了黑白和彩色双版本正式预告，将于5月27日上线PrimeVideo。尼古拉斯·凯奇领衔主演，聚焦1930年代纽约的一个上了年纪、倒霉 ...",
+      "cover": "2026/4/30/article/2a978075-fb74-2925-c0ed-f31cc8e7b17b.png",
+      "author": "少数派编辑部",
+      "timestamp": 1777626000000,
+      "hot": 15,
+      "url": "https://sspai.com/post/109266",
+      "mobileUrl": "https://sspai.com/post/109266"
+    },
+    {
+      "id": 109288,
+      "title": "我写了一个 skill，用 AI 给 AI「除味儿」",
+      "desc": "强硬规则约束下的公式化表达，即便去除了现在的 AI 味，会不会产生新的 AI 味呢？",
+      "cover": "2026/04/30/90a6b98ac7f315d68bb1ad14e611688a.jpg",
+      "author": "小胡小胡0009",
+      "timestamp": 1777558938000,
+      "hot": 29,
+      "url": "https://sspai.com/post/109288",
+      "mobileUrl": "https://sspai.com/post/109288"
+    },
+    {
+      "id": 108451,
+      "title": "关于中年和中年危机的一些思考",
+      "desc": "关于「中年」这个极其宏大的话题，虽然可写的方面很多，但我不想把话题铺的太满。我写这篇文章本身的核心目的，不是为了说出些什么道理，而是只是想表达自己当下的一种人生处境，同时抛砖引玉，让更多的朋友去分享自己的中年收获和困境。只要有一瞬间觉得自己并不孤单，这篇文章的目的就达到了。",
+      "cover": "2026/04/09/64d2a26022a1b19c3b148b346715e802.png",
+      "author": "知道分子吴先先",
+      "timestamp": 1777515457000,
+      "hot": 58,
+      "url": "https://sspai.com/post/108451",
+      "mobileUrl": "https://sspai.com/post/108451"
+    },
+    {
+      "id": 109135,
+      "title": "派评 | 近期值得关注的 App",
+      "desc": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀",
+      "cover": "2026/4/27/article/4a4b330f-0f8e-c405-62a9-d4435748f768.png",
+      "author": "少数派编辑部",
+      "timestamp": 1777283720000,
+      "hot": 27,
+      "url": "https://sspai.com/post/109135",
+      "mobileUrl": "https://sspai.com/post/109135"
+    },
+    {
+      "id": 98931,
+      "title": "App+1 | 谈谈网页浏览器中的一个异类：qutebrowser",
+      "desc": "对以键盘操作为优先的用户来说，一旦学会了如何退出Vim，可能不消多久，便想在肉眼可见之处使用Vim的这套模态编辑。多年来，不少软件都内置了Vim风格的按键绑定，来迎合这类用户的肌肉记忆。其中，更有一些 ...",
+      "cover": "2025/05/11/5a9028b863b16273c1a8cbcb26eaa86e.png",
+      "author": "Cheech",
+      "timestamp": 1777186800000,
+      "hot": 28,
+      "url": "https://sspai.com/post/98931",
+      "mobileUrl": "https://sspai.com/post/98931"
+    },
+    {
+      "id": 108977,
+      "title": "掌控专注力，你需要做的和没必要做的",
+      "desc": "Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点，少数派仅对标题和排 ...",
+      "cover": "2026/04/23/f2948a5ba96f317d2662261ed4fe7488.jpg",
+      "author": "知道分子吴先先",
+      "timestamp": 1777039705000,
+      "hot": 126,
+      "url": "https://sspai.com/post/108977",
+      "mobileUrl": "https://sspai.com/post/108977"
+    },
+    {
+      "id": 109050,
+      "title": "本周看什么 | 最近值得一看的 11 部作品",
+      "desc": "📅本周新预告《泥面人》首支预告4月23日，DC新片《泥面人》发布了首支预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯、娜奥米·阿基、麦克思·明格拉等主演，一位B级片演员给自 ...",
+      "cover": "2026/4/24/article/34560159-4fd2-377e-4fe5-904f3aff35d0.png",
+      "author": "少数派编辑部",
+      "timestamp": 1777025853000,
+      "hot": 12,
+      "url": "https://sspai.com/post/109050",
+      "mobileUrl": "https://sspai.com/post/109050"
+    },
+    {
+      "id": 109024,
+      "title": "手机和平板间的新品类：华为 Pura X Max 漫谈",
+      "desc": "折叠屏手机这两年并不太好过。按照IDC的年度报告，2025年中国折叠屏手机市场出货约1001万台，同比增速9.2%，而2024年这个数字还是30.8%——一年之间，增速接近腰斩。而折叠屏手机在全球智能 ...",
+      "cover": "2026/4/23/article/1932fcbf-34fa-e6d8-2bb4-96aa13b85dc8.jpeg",
+      "author": "Microhoo",
+      "timestamp": 1776995668000,
+      "hot": 29,
+      "url": "https://sspai.com/post/109024",
+      "mobileUrl": "https://sspai.com/post/109024"
+    },
+    {
+      "id": 109007,
+      "title": "新玩意 239｜少数派的编辑们最近买了啥？",
+      "desc": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...",
+      "cover": "2026/4/23/article/c2b080ab-cf08-9c5a-70ef-54a7bfa9d530.png",
+      "author": "少数派编辑部",
+      "timestamp": 1776937353000,
+      "hot": 20,
+      "url": "https://sspai.com/post/109007",
+      "mobileUrl": "https://sspai.com/post/109007"
+    },
+    {
+      "id": 108385,
+      "title": " App+1｜秒看视频参数，我做了个免费的 Mac 小工具",
+      "desc": "视频党狂喜！",
+      "cover": "2026/04/08/7f9cb02f041a9c3442fc7496ebb0253f.png",
+      "author": "少数派50348770_pkg",
+      "timestamp": 1776913200000,
+      "hot": 51,
+      "url": "https://sspai.com/post/108385",
+      "mobileUrl": "https://sspai.com/post/108385"
+    },
+    {
+      "id": 108971,
+      "title": "Notion 和 Obsidian 应该怎么选？聊聊我的思考和建议",
+      "desc": "Notion的优缺点Notion的门槛在于，当一个页面被创建，在Notion的整套叙事里，你需要尽快为这个页面找到它在系统中的位置和关系，它是什么、属于哪里、是否和某个具体的任务或项目有关系？尽管你可 ...",
+      "cover": "2026/04/22/419891ace4f54b1918ad4ae488a952b6.png",
+      "author": "二一的笔记",
+      "timestamp": 1776828842000,
+      "hot": 30,
+      "url": "https://sspai.com/post/108971",
+      "mobileUrl": "https://sspai.com/post/108971"
+    },
+    {
+      "id": 108898,
+      "title": "派评 | 近期值得关注的 App",
+      "desc": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀",
+      "cover": "2026/4/20/article/ae745c48-1f57-1945-636c-a80988c1d583.png",
+      "author": "少数派编辑部",
+      "timestamp": 1776678593000,
+      "hot": 14,
+      "url": "https://sspai.com/post/108898",
+      "mobileUrl": "https://sspai.com/post/108898"
+    },
+    {
+      "id": 108768,
+      "title": "AI 输出中的 ** 是怎么来的：谈中文 Markdown 强调标记的渲染问题",
+      "desc": "在与AI对话的过程中，你一定见过这样不伦不类的输出：换言之，那些本该加粗的部分并没有加粗，周围却多了一堆星号。有一定技术背景的读者都知道，这些星号是Markdown中的强调标记。Markdown是一种 ...",
+      "cover": "4/17/2026/article/eecbd0ef-0cd1-f3c8-bff9-1a9e80613fe7.png",
+      "author": "PlatyHsu",
+      "timestamp": 1776420065000,
+      "hot": 127,
+      "url": "https://sspai.com/post/108768",
+      "mobileUrl": "https://sspai.com/post/108768"
+    },
+    {
+      "id": 108760,
+      "title": "本周看什么 | 最近值得一看的 9 部作品",
+      "desc": "📅本周新预告《哥斯拉-0.0》首支预告4月15日，电影《哥斯拉-0.0》发布了首支预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演 ...",
+      "cover": "2026/4/17/article/c885fddf-88a0-6239-392c-2056bd2cf7e8.png",
+      "author": "少数派编辑部",
+      "timestamp": 1776419457000,
+      "hot": 15,
+      "url": "https://sspai.com/post/108760",
+      "mobileUrl": "https://sspai.com/post/108760"
+    },
+    {
+      "id": 108589,
+      "title": "派评 | 近期值得关注的 App",
+      "desc": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀",
+      "cover": "2026/4/13/article/c107b180-22ae-8098-e9e9-3ee3c68b6db0.png",
+      "author": "少数派编辑部",
+      "timestamp": 1776073971000,
+      "hot": 9,
+      "url": "https://sspai.com/post/108589",
+      "mobileUrl": "https://sspai.com/post/108589"
+    }
+  ]
+}
