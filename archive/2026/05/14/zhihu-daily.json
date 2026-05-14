@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-14T03:27:49.730457",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789678,
+      "title": "游戏中有哪些你以为很真实，其实「全是演的」游戏设计？游戏开发层面都有哪些骗过玩家的小把戏？",
+      "cover": "https://pic1.zhimg.com/v2-467298ccd3199568868a7891783b20e6.jpg?source=8673f162",
+      "author": "叶兰舟 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789678",
+      "mobileUrl": "https://daily.zhihu.com/story/9789678"
+    },
+    {
+      "id": 9789686,
+      "title": "既然历史上有气候更温暖、二氧化碳含量更高的时期，这是否意味着不用担心全球变暖？",
+      "cover": "https://picx.zhimg.com/v2-c837230e3f8dbea29c04104c715dcbfb.jpg?source=8673f162",
+      "author": "气象喵探员 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789686",
+      "mobileUrl": "https://daily.zhihu.com/story/9789686"
+    },
+    {
+      "id": 9789689,
+      "title": "为什么动能的公式中有 1/2？",
+      "cover": "https://picx.zhimg.com/v2-0b43e9dedf1127ca9d6bc8812d781a90.jpg?source=8673f162",
+      "author": "酱紫君 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789689",
+      "mobileUrl": "https://daily.zhihu.com/story/9789689"
+    },
+    {
+      "id": 9789695,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pic1.zhimg.com/v2-83ee86ece164262fedff5f2889030d28.jpg?source=8673f162",
+      "author": "VOL.3902",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789695",
+      "mobileUrl": "https://daily.zhihu.com/story/9789695"
+    }
+  ]
+}
