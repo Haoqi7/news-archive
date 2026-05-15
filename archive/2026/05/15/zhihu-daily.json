@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-15T03:31:03.439566",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789711,
+      "title": "研究发现有史以来最大的章鱼，这一发现对海洋生物学有何意义？",
+      "cover": "https://picx.zhimg.com/v2-096ce98a42d57f5f791d079ed0bd9900.jpg?source=8673f162",
+      "author": "广町七深Official · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789711",
+      "mobileUrl": "https://daily.zhihu.com/story/9789711"
+    },
+    {
+      "id": 9789721,
+      "title": "杨振宁先生说海森堡是伟大的物理学家，但不喜欢他的研究方法（taste），海森堡的研究方法是怎样的？",
+      "cover": "https://pic1.zhimg.com/v2-280f50e24084a85e18049eb5af618a0b.jpg?source=8673f162",
+      "author": "momo · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789721",
+      "mobileUrl": "https://daily.zhihu.com/story/9789721"
+    },
+    {
+      "id": 9789728,
+      "title": "如何计算一只鸡的表面积？",
+      "cover": "https://picx.zhimg.com/v2-93d8f4fca043946661d13830a6b7c495.jpg?source=8673f162",
+      "author": "北冥有鱼 · 6 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789728",
+      "mobileUrl": "https://daily.zhihu.com/story/9789728"
+    },
+    {
+      "id": 9789737,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-83ee86ece164262fedff5f2889030d28.jpg?source=8673f162",
+      "author": "VOL.3903",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789737",
+      "mobileUrl": "https://daily.zhihu.com/story/9789737"
+    }
+  ]
+}
