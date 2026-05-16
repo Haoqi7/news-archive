@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2026-05-16T02:54:26.352255",
+    "count": 5
+  },
+  "data": [
+    {
+      "id": "54cb92364a5d",
+      "title": "sqlite体积小巧但功能却很强大的数据库",
+      "cover": "https://upload-images.jianshu.io/upload_images/1791542-417e5b918a536264.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "sqlite 历史 SQLite 是一种轻型的关系型数据库管理系统，它的设计目标是嵌入式的，即它可以作为应用程序的一部分嵌入到应用程序中，而不需...",
+      "author": "追梦人在路上不断追寻",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/54cb92364a5d",
+      "mobileUrl": "https://www.jianshu.com/p/54cb92364a5d"
+    },
+    {
+      "id": "c92e561e1201",
+      "title": "想方设法",
+      "desc": "最近关注了一家做童装的店，觉得质量还不错，用图挺大胆的，配色很鲜明可爱，就买了几件给孩子。结果嘞，买了以后平台就开始总结我喜好了，给我推了这个牌...",
+      "author": "陈阿丽",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/c92e561e1201",
+      "mobileUrl": "https://www.jianshu.com/p/c92e561e1201"
+    },
+    {
+      "id": "1b968fbac18d",
+      "title": "【数据治理】数据元、元数据概述",
+      "cover": "https://upload-images.jianshu.io/upload_images/1190574-84a3857929b66c2d.png?x-oss-process=image/resize,w_360,h_240",
+      "desc": "数据元 什么是数据元： 《GB/T 19488.1 电子政务数据元第1部分：设计和管理规范》 里是这样定义的： 数据元（Data element...",
+      "author": "笔名辉哥",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/1b968fbac18d",
+      "mobileUrl": "https://www.jianshu.com/p/1b968fbac18d"
+    },
+    {
+      "id": "72b999d4cddf",
+      "title": "粒子系统类",
+      "desc": "书名：代码本色：用编程模拟自然系统作者：Daniel Shiffman译者：周晗彬ISBN：978-7-115-36947-5目录[https:...",
+      "author": "大龙10",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/72b999d4cddf",
+      "mobileUrl": "https://www.jianshu.com/p/72b999d4cddf"
+    },
+    {
+      "id": "abe2d4f5ad4b",
+      "title": "9、 Hashcode的作用",
+      "desc": "Hashcode的作用 java的集合有两类，一类是List，还有一类是Set。前者有序可重复，后者无序不重复。当我们在set中插入的时候怎么判...",
+      "author": "RUMyCola",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/abe2d4f5ad4b",
+      "mobileUrl": "https://www.jianshu.com/p/abe2d4f5ad4b"
+    }
+  ]
+}

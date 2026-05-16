@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-16T02:54:11.588777",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789740,
+      "title": "现在的生态葬、海葬、树葬越来越多，还有哪些奇特的丧葬方式？",
+      "cover": "https://picx.zhimg.com/v2-0dce499b91ccb0ea81d88a24123382c5.jpg?source=8673f162",
+      "author": "黄佳智 · 7 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789740",
+      "mobileUrl": "https://daily.zhihu.com/story/9789740"
+    },
+    {
+      "id": 9789759,
+      "title": "为什么 MiniMax 大模型无法识别马嘉祺是谁？",
+      "cover": "https://picx.zhimg.com/v2-324f96d372f55a97d5c7d4ddd96f9eb7.jpg?source=8673f162",
+      "author": "mm叶文洁 · 11 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789759",
+      "mobileUrl": "https://daily.zhihu.com/story/9789759"
+    },
+    {
+      "id": 9789781,
+      "title": "为什么有的男人穿西装像金融才俊，有的却像地产中介？",
+      "cover": "https://picx.zhimg.com/v2-5b47186c3419b48e02a5679ed95c110b.jpg?source=8673f162",
+      "author": "知乎用户 · 10 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789781",
+      "mobileUrl": "https://daily.zhihu.com/story/9789781"
+    },
+    {
+      "id": 9789786,
+      "title": "一个人能做出什么开源项目？",
+      "cover": "https://pica.zhimg.com/v2-2e095d2ba2a2c32b4be7582a3a0d3674.jpg?source=8673f162",
+      "author": "佩奇 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789786",
+      "mobileUrl": "https://daily.zhihu.com/story/9789786"
+    }
+  ]
+}
