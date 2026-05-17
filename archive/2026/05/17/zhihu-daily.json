@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-17T03:27:39.649278",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789794,
+      "title": "博物馆里哪件文物，让你看到了古代「打工人」的辛酸？",
+      "cover": "https://picx.zhimg.com/v2-6c4959a8ce100923c85702a48ac16ff0.jpg?source=8673f162",
+      "author": "我是妖怪 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789794",
+      "mobileUrl": "https://daily.zhihu.com/story/9789794"
+    },
+    {
+      "id": 9789775,
+      "title": "辛追夫人体内里发现 138 颗香瓜子，海昏侯刘贺体内也发现了瓜子，是不是西汉流行吃香瓜不吐籽？",
+      "cover": "https://picx.zhimg.com/v2-db9112310b140a753bf7d78d308195fa.jpg?source=8673f162",
+      "author": "木寸上春树 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789775",
+      "mobileUrl": "https://daily.zhihu.com/story/9789775"
+    },
+    {
+      "id": 9789780,
+      "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
+      "cover": "https://pica.zhimg.com/v2-76c9889bffc1c41ae7ceaa499b440488.jpg?source=8673f162",
+      "author": "程墨Morgan · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789780",
+      "mobileUrl": "https://daily.zhihu.com/story/9789780"
+    },
+    {
+      "id": 9789799,
+      "title": "人类见证过生物的进化吗？",
+      "cover": "https://picx.zhimg.com/v2-93770ea41041513bd2937afc1b27780c.jpg?source=8673f162",
+      "author": "Alfred大老虎 · 4 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789799",
+      "mobileUrl": "https://daily.zhihu.com/story/9789799"
+    }
+  ]
+}
