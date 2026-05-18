@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-18T03:40:49.883885",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789800,
+      "title": "北京的军事博物馆还值得参观吗？",
+      "cover": "https://picx.zhimg.com/v2-dadb781d2865ed784bba3062520870e0.jpg?source=8673f162",
+      "author": "抬头的蜗牛 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789800",
+      "mobileUrl": "https://daily.zhihu.com/story/9789800"
+    },
+    {
+      "id": 9789808,
+      "title": "古希腊雕塑非常精美，但是为什么都是坦胸露乳，不穿衣服？",
+      "cover": "https://pica.zhimg.com/v2-cc37c5313e2ddaa78bcd0bdbed92dc8c.jpg?source=8673f162",
+      "author": "知乎用户 · 1 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789808",
+      "mobileUrl": "https://daily.zhihu.com/story/9789808"
+    },
+    {
+      "id": 9789819,
+      "title": "历史上有哪些珍贵的照片？",
+      "cover": "https://pica.zhimg.com/v2-6ac4a370c556595e71431d328ec1c5c5.jpg?source=8673f162",
+      "author": "知乎用户 · 5 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789819",
+      "mobileUrl": "https://daily.zhihu.com/story/9789819"
+    },
+    {
+      "id": 9789816,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://pica.zhimg.com/v2-83ee86ece164262fedff5f2889030d28.jpg?source=8673f162",
+      "author": "VOL.3904",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789816",
+      "mobileUrl": "https://daily.zhihu.com/story/9789816"
+    }
+  ]
+}
