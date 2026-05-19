@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "platform": "zhihu-daily",
+    "date": "2026-05-19T03:34:14.552889",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": 9789829,
+      "title": "大家知道什么有关文物的趣事吗？",
+      "cover": "https://pica.zhimg.com/v2-4323e19568ad0f9f08ce1a977ef729df.jpg?source=8673f162",
+      "author": "心情 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789829",
+      "mobileUrl": "https://daily.zhihu.com/story/9789829"
+    },
+    {
+      "id": 9789838,
+      "title": "为什么虾皮里总能发现小螃蟹？",
+      "cover": "https://picx.zhimg.com/v2-d7f4d2527a86247f9d4d1a2cf9e4e915.jpg?source=8673f162",
+      "author": "赵学浩 · 3 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789838",
+      "mobileUrl": "https://daily.zhihu.com/story/9789838"
+    },
+    {
+      "id": 9789841,
+      "title": "深圳女子受精卵钻入腹膜后的空间，为什么会出现这种情况？医生是怎么成功找到的？这种宫外孕有什么症状？",
+      "cover": "https://picx.zhimg.com/v2-c0c9cb9ffad76aa865b70248f069e032.jpg?source=8673f162",
+      "author": "极萨学院冷哲 · 2 分钟阅读",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789841",
+      "mobileUrl": "https://daily.zhihu.com/story/9789841"
+    },
+    {
+      "id": 9789843,
+      "title": "瞎扯 · 如何正确地吐槽",
+      "cover": "https://picx.zhimg.com/v2-83ee86ece164262fedff5f2889030d28.jpg?source=8673f162",
+      "author": "VOL.3905",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://daily.zhihu.com/story/9789843",
+      "mobileUrl": "https://daily.zhihu.com/story/9789843"
+    }
+  ]
+}
