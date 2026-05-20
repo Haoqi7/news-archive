@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "platform": "jianshu",
+    "date": "2026-05-20T03:34:51.456842",
+    "count": 4
+  },
+  "data": [
+    {
+      "id": "a784af022fb8",
+      "title": "“一人公司”浪潮下，普通人别急着当韭菜",
+      "desc": "最近，互联网上刮起了一股“一人公司”的妖风。 打开各种社交软件，全是“月入5万”“年入千万”的神话：一个人、一台电脑、加几个AI智能体，就能把生...",
+      "author": "杠杆笔记",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/a784af022fb8",
+      "mobileUrl": "https://www.jianshu.com/p/a784af022fb8"
+    },
+    {
+      "id": "b44cb48ee4b6",
+      "title": "烂柯杯首轮杀出解说员刺客！屠晓宇出局，16位世界冠军半数折戟",
+      "cover": "https://upload-images.jianshu.io/upload_images/30857536-6895b2977506691f.jpg?x-oss-process=image/resize,w_360,h_240",
+      "desc": "2026年5月17日，北京中国棋院，第十一届“衢州烂柯杯”中国围棋冠军赛刚开枰就炸了锅。 这是一场不折不扣的围棋“全明星内战”。能站上这个舞台的...",
+      "author": "国粹围棋王老师",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/b44cb48ee4b6",
+      "mobileUrl": "https://www.jianshu.com/p/b44cb48ee4b6"
+    },
+    {
+      "id": "0b673376a98c",
+      "title": "设计模式大汇总",
+      "desc": "一、概述 设计模式是解决问题的方案，学习现有的设计模式可以做到经验复用。 拥有设计模式词汇，在沟通时就能用更少的词汇来讨论，并且不需要了解底层细...",
+      "author": "码农朱同学",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/0b673376a98c",
+      "mobileUrl": "https://www.jianshu.com/p/0b673376a98c"
+    },
+    {
+      "id": "788a1fb8f1fa",
+      "title": "iOS开发 UIPasteboard粘贴板全解",
+      "desc": "UIPasteboard 是 Swift 中用于存储和检索应用程序中剪贴板中的数据的一个类。剪贴板是应用程序之间共享数据的一种机制，UIPast...",
+      "author": "山水域",
+      "hot": null,
+      "timestamp": null,
+      "url": "https://www.jianshu.com/p/788a1fb8f1fa",
+      "mobileUrl": "https://www.jianshu.com/p/788a1fb8f1fa"
+    }
+  ]
+}
